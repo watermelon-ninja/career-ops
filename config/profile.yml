@@ -1,0 +1,168 @@
+# Career-Ops Profile Configuration
+# User layer: personalize career-ops for Selena Liu.
+
+candidate:
+  full_name: "Selena Liu"
+  email: ""
+  phone: ""
+  location: "Austin, TX"
+  linkedin: ""
+  portfolio_url: ""
+  github: ""
+  twitter: ""
+
+positioning:
+  headline: "Enterprise Supply Chain Systems & Integration"
+  north_star: "Enterprise Supply Chain Systems & Integration"
+  summary: >-
+    Supply Chain Analyst / Product Owner with 5 years of IT and supply chain
+    systems experience in a General Motors CCA / Supply Chain environment,
+    focused on WMS, warehouse automation, systems integration, vendor
+    troubleshooting, SIT/UAT ownership, go-live support, and production support.
+
+target_roles:
+  primary:
+    - "Supply Chain Systems Analyst"
+    - "Business Systems Analyst, Supply Chain"
+    - "IT Systems Analyst"
+    - "Systems Integration Analyst"
+    - "WMS / Warehouse Systems Analyst"
+    - "Supply Chain Technology Analyst"
+    - "Operations Systems Analyst"
+    - "Technical Product Owner"
+    - "Product Owner, Supply Chain Systems"
+    - "Implementation Manager"
+    - "Program Manager, Supply Chain Systems"
+  archetypes:
+    - name: "Supply Chain Systems Analyst"
+      level: "Mid-level"
+      fit: "primary"
+    - name: "Business Systems Analyst, Supply Chain"
+      level: "Mid-level"
+      fit: "primary"
+    - name: "Systems Integration Analyst"
+      level: "Mid-level"
+      fit: "primary"
+    - name: "WMS / Warehouse Systems Analyst"
+      level: "Mid-level"
+      fit: "primary"
+    - name: "Technical Product Owner, Supply Chain Systems"
+      level: "Mid-level"
+      fit: "primary"
+    - name: "Implementation / Program Manager, Supply Chain Systems"
+      level: "Mid-level"
+      fit: "secondary"
+
+keywords:
+  target:
+    - "WMS"
+    - "ASRS"
+    - "warehouse automation"
+    - "supply chain systems"
+    - "systems integration"
+    - "enterprise systems"
+    - "ERP"
+    - "SAP"
+    - "Infor WMS"
+    - "Kinaxis RapidResponse"
+    - "SQL"
+    - "Databricks"
+    - "SIT"
+    - "UAT"
+    - "vendor integration"
+    - "go-live"
+    - "rollout"
+    - "deployment"
+    - "production support"
+    - "operational technology"
+    - "business process optimization"
+    - "logistics systems"
+    - "inventory systems"
+    - "order management"
+    - "fulfillment systems"
+  exclude:
+    - "Warehouse Associate"
+    - "Forklift"
+    - "Picker"
+    - "Packer"
+    - "Driver"
+    - "Retail Associate"
+    - "Sales-only"
+    - "Account Executive"
+    - "Intern"
+    - "New Grad"
+    - "Senior Director"
+    - "VP"
+    - "requires 10+ years"
+
+target_companies:
+  - "Apple"
+  - "Google"
+  - "Microsoft"
+  - "Oracle"
+  - "Amazon"
+  - "Tesla"
+  - "Dell"
+  - "Nvidia"
+  - "Meta"
+  - "Adobe"
+  - "Cisco"
+  - "Samsung"
+  - "SAP"
+  - "ServiceNow"
+  - "Blue Yonder"
+  - "Manhattan Associates"
+  - "Kinaxis"
+  - "Coupa"
+  - "project44"
+  - "FourKites"
+  - "E2open"
+  - "Walmart"
+  - "Target"
+  - "Home Depot"
+  - "Nike"
+  - "DHL"
+  - "UPS"
+  - "FedEx"
+  - "GXO"
+  - "Ryder"
+
+narrative:
+  headline: "Enterprise Supply Chain Systems & Integration"
+  exit_story: >-
+    Selena bridges supply chain operations and IT delivery: she translates
+    warehouse, logistics, inventory, and fulfillment needs into enterprise
+    systems requirements, owns SIT/UAT and go-live readiness, and coordinates
+    vendors and internal teams through rollout and production support.
+  superpowers:
+    - "Business-to-IT translation for warehouse, logistics, inventory, and fulfillment systems"
+    - "SIT/UAT ownership, defect triage, go-live readiness, and production support"
+    - "Vendor integration troubleshooting across WMS, ASRS, ERP, and logistics partners"
+    - "Data-driven process optimization with SQL, Databricks, dashboards, and KPI tracking"
+  proof_points:
+    - name: "Inventory forecasting improvement"
+      url: "data/resume-master.md"
+      hero_metric: "Improved inventory forecasting accuracy by 25–35%"
+    - name: "Supply chain systems savings"
+      url: "data/resume-master.md"
+      hero_metric: "Supported approximately $2.5M in annual savings"
+    - name: "Logistics process optimization"
+      url: "data/resume-master.md"
+      hero_metric: "Reduced manual logistics processing by 20%"
+
+compensation:
+  target_range: ""
+  currency: "USD"
+  minimum: ""
+  location_flexibility: "Austin, TX; open to roles aligned with supply chain systems and enterprise integration needs."
+
+location:
+  country: "United States"
+  city: "Austin"
+  timezone: "Central Time"
+  visa_status: ""
+
+cv:
+  output_format: "html"
+  source_of_truth:
+    - "data/resume-master.md"

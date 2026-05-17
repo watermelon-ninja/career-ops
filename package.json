@@ -15,7 +15,9 @@
     "rollback": "node update-system.mjs rollback",
     "liveness": "node check-liveness.mjs",
     "scan": "node scan.mjs",
-    "gemini:eval": "node gemini-eval.mjs"
+    "gemini:eval": "node gemini-eval.mjs",
+    "sync:sheets": "node sheets-sync.mjs",
+    "scan:sync": "npm run scan && npm run sync:sheets"
   },
   "keywords": [
     "ai",

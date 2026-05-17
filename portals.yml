@@ -1,0 +1,246 @@
+# Portal Scanner Configuration
+# Personalized for Selena Liu: Enterprise Supply Chain Systems & Integration.
+
+location_filter:
+  allow:
+    - "Remote"
+    - "United States"
+    - "USA"
+    - "Austin"
+    - "Texas"
+    - "TX"
+  block: []
+
+title_filter:
+  positive:
+    - "Supply Chain Systems Analyst"
+    - "Business Systems Analyst"
+    - "Business Systems Analyst, Supply Chain"
+    - "IT Systems Analyst"
+    - "Systems Integration Analyst"
+    - "WMS"
+    - "Warehouse Systems Analyst"
+    - "Supply Chain Technology Analyst"
+    - "Operations Systems Analyst"
+    - "Technical Product Owner"
+    - "Product Owner"
+    - "Product Owner, Supply Chain Systems"
+    - "Implementation Manager"
+    - "Program Manager"
+    - "Supply Chain Systems"
+    - "Warehouse Automation"
+    - "Enterprise Systems"
+    - "ERP"
+    - "SAP"
+    - "Infor WMS"
+    - "Kinaxis"
+    - "RapidResponse"
+    - "Logistics Systems"
+    - "Inventory Systems"
+    - "Order Management"
+    - "Fulfillment Systems"
+    - "Systems Integration"
+    - "Vendor Integration"
+    - "Production Support"
+    - "Deployment"
+    - "Rollout"
+    - "Go-live"
+  negative:
+    - "Warehouse Associate"
+    - "Forklift"
+    - "Picker"
+    - "Packer"
+    - "Driver"
+    - "Retail Associate"
+    - "Sales-only"
+    - "Sales Only"
+    - "Account Executive"
+    - "Intern"
+    - "Internship"
+    - "New Grad"
+    - "University Grad"
+    - "Graduate Program"
+    - "Senior Director"
+    - "Director,"
+    - "VP"
+    - "Vice President"
+    - "10+ years"
+    - "10 years"
+  seniority_boost:
+    - "Analyst"
+    - "Product Owner"
+    - "Implementation"
+    - "Program Manager"
+    - "Lead"
+
+search_queries:
+  - name: Supply Chain Systems — Greenhouse/Ashby/Lever
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io OR site:jobs.ashbyhq.com OR site:jobs.lever.co "Supply Chain Systems Analyst" OR "Business Systems Analyst" OR "Systems Integration Analyst"'
+    enabled: true
+  - name: WMS and Warehouse Systems — All portals
+    query: '"WMS" OR "Warehouse Management System" "Analyst" OR "Product Owner" OR "Implementation Manager" "Remote" OR "United States"'
+    enabled: true
+  - name: Supply Chain Product Owner — All portals
+    query: '"Product Owner" "Supply Chain" OR "Warehouse" OR "Fulfillment" OR "Order Management" "Remote" OR "United States"'
+    enabled: true
+  - name: Enterprise Supply Chain Technology — All portals
+    query: '"Supply Chain Technology" OR "Operations Systems" OR "Enterprise Systems" "Analyst" OR "Program Manager" "Remote" OR "United States"'
+    enabled: true
+  - name: Logistics and Inventory Systems — All portals
+    query: '"Logistics Systems" OR "Inventory Systems" OR "Fulfillment Systems" "Analyst" OR "Business Systems" OR "Integration"'
+    enabled: true
+  - name: SAP / Infor / Kinaxis roles — All portals
+    query: '"SAP" OR "Infor WMS" OR "Kinaxis RapidResponse" "Supply Chain" "Analyst" OR "Product Owner" OR "Implementation"'
+    enabled: true
+
+tracked_companies:
+  - name: Apple
+    careers_url: https://jobs.apple.com
+    scan_method: websearch
+    scan_query: 'site:jobs.apple.com "Supply Chain" "Systems" OR "WMS" OR "Product Owner"'
+    enabled: true
+  - name: Google
+    careers_url: https://www.google.com/about/careers/applications/jobs/results
+    scan_method: websearch
+    scan_query: 'site:google.com/about/careers "Supply Chain" "Systems" OR "Operations" "Analyst"'
+    enabled: true
+  - name: Microsoft
+    careers_url: https://jobs.careers.microsoft.com
+    scan_method: websearch
+    scan_query: 'site:jobs.careers.microsoft.com "Supply Chain" "Systems" OR "Business Systems Analyst"'
+    enabled: true
+  - name: Oracle
+    careers_url: https://careers.oracle.com
+    scan_method: websearch
+    scan_query: 'site:careers.oracle.com "Supply Chain" "Systems" OR "ERP" OR "Implementation"'
+    enabled: true
+  - name: Amazon
+    careers_url: https://www.amazon.jobs
+    scan_method: websearch
+    scan_query: 'site:amazon.jobs "Supply Chain" "Systems" OR "WMS" OR "Product Owner"'
+    enabled: true
+  - name: Tesla
+    careers_url: https://www.tesla.com/careers
+    scan_method: websearch
+    scan_query: 'site:tesla.com/careers "Supply Chain" "Systems" OR "Warehouse" OR "ERP"'
+    enabled: true
+  - name: Dell
+    careers_url: https://jobs.dell.com
+    scan_method: websearch
+    scan_query: 'site:jobs.dell.com "Supply Chain" "Systems" OR "Business Systems"'
+    enabled: true
+  - name: Nvidia
+    careers_url: https://www.nvidia.com/en-us/about-nvidia/careers
+    scan_method: websearch
+    scan_query: 'site:nvidia.com/en-us/about-nvidia/careers "Supply Chain" "Systems" OR "Operations"'
+    enabled: true
+  - name: Meta
+    careers_url: https://www.metacareers.com
+    scan_method: websearch
+    scan_query: 'site:metacareers.com "Supply Chain" "Systems" OR "Operations Systems"'
+    enabled: true
+  - name: Adobe
+    careers_url: https://careers.adobe.com
+    scan_method: websearch
+    scan_query: 'site:careers.adobe.com "Supply Chain" "Systems" OR "Business Systems"'
+    enabled: true
+  - name: Cisco
+    careers_url: https://jobs.cisco.com
+    scan_method: websearch
+    scan_query: 'site:jobs.cisco.com "Supply Chain" "Systems" OR "Business Systems"'
+    enabled: true
+  - name: Samsung
+    careers_url: https://www.samsung.com/us/careers
+    scan_method: websearch
+    scan_query: 'site:samsung.com/us/careers "Supply Chain" "Systems" OR "Logistics"'
+    enabled: true
+  - name: SAP
+    careers_url: https://jobs.sap.com
+    scan_method: websearch
+    scan_query: 'site:jobs.sap.com "Supply Chain" "Product Owner" OR "Business Systems" OR "Implementation"'
+    enabled: true
+  - name: ServiceNow
+    careers_url: https://careers.servicenow.com
+    scan_method: websearch
+    scan_query: 'site:careers.servicenow.com "Supply Chain" "Systems" OR "Business Systems"'
+    enabled: true
+  - name: Blue Yonder
+    careers_url: https://careers.blueyonder.com
+    scan_method: websearch
+    scan_query: 'site:careers.blueyonder.com "WMS" OR "Supply Chain" "Implementation" OR "Product Owner"'
+    enabled: true
+  - name: Manhattan Associates
+    careers_url: https://www.manh.com/company/careers
+    scan_method: websearch
+    scan_query: 'site:manh.com/company/careers "WMS" OR "Supply Chain" "Implementation" OR "Systems"'
+    enabled: true
+  - name: Kinaxis
+    careers_url: https://www.kinaxis.com/en/careers
+    scan_method: websearch
+    scan_query: 'site:kinaxis.com/en/careers "RapidResponse" OR "Supply Chain" "Implementation" OR "Product Owner"'
+    enabled: true
+  - name: Coupa
+    careers_url: https://careers.coupa.com
+    scan_method: websearch
+    scan_query: 'site:careers.coupa.com "Supply Chain" "Systems" OR "Implementation"'
+    enabled: true
+  - name: project44
+    careers_url: https://www.project44.com/careers
+    scan_method: websearch
+    scan_query: 'site:project44.com/careers "Supply Chain" OR "Logistics" "Systems" OR "Implementation"'
+    enabled: true
+  - name: FourKites
+    careers_url: https://www.fourkites.com/careers
+    scan_method: websearch
+    scan_query: 'site:fourkites.com/careers "Supply Chain" OR "Logistics" "Implementation" OR "Systems"'
+    enabled: true
+  - name: E2open
+    careers_url: https://www.e2open.com/careers
+    scan_method: websearch
+    scan_query: 'site:e2open.com/careers "Supply Chain" "Implementation" OR "Systems" OR "Product Owner"'
+    enabled: true
+  - name: Walmart
+    careers_url: https://careers.walmart.com
+    scan_method: websearch
+    scan_query: 'site:careers.walmart.com "Supply Chain" "Systems" OR "WMS" OR "Product Owner"'
+    enabled: true
+  - name: Target
+    careers_url: https://corporate.target.com/careers
+    scan_method: websearch
+    scan_query: 'site:corporate.target.com/careers "Supply Chain" "Systems" OR "Warehouse" OR "Product Owner"'
+    enabled: true
+  - name: Home Depot
+    careers_url: https://careers.homedepot.com
+    scan_method: websearch
+    scan_query: 'site:careers.homedepot.com "Supply Chain" "Systems" OR "WMS" OR "Product Owner"'
+    enabled: true
+  - name: Nike
+    careers_url: https://jobs.nike.com
+    scan_method: websearch
+    scan_query: 'site:jobs.nike.com "Supply Chain" "Systems" OR "Logistics" OR "Product Owner"'
+    enabled: true
+  - name: DHL
+    careers_url: https://careers.dhl.com
+    scan_method: websearch
+    scan_query: 'site:careers.dhl.com "Supply Chain" "Systems" OR "WMS" OR "Implementation"'
+    enabled: true
+  - name: UPS
+    careers_url: https://www.jobs-ups.com
+    scan_method: websearch
+    scan_query: 'site:jobs-ups.com "Supply Chain" "Systems" OR "Logistics" OR "Technology Analyst"'
+    enabled: true
+  - name: FedEx
+    careers_url: https://careers.fedex.com
+    scan_method: websearch
+    scan_query: 'site:careers.fedex.com "Supply Chain" "Systems" OR "Logistics" OR "Technology Analyst"'
+    enabled: true
+  - name: GXO
+    careers_url: https://gxo.com/careers
+    scan_method: websearch
+    scan_query: 'site:gxo.com/careers "WMS" OR "Supply Chain Systems" OR "Warehouse Systems"'
+    enabled: true
+  - name: Ryder
+    careers_url: https://ryder.com/careers
+    scan_method: websearch
+    scan_query: 'site:ryder.com/careers "Supply Chain" "Systems" OR "WMS" OR "Implementation"'
+    enabled: true

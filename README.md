@@ -217,6 +217,62 @@ The scanner comes with **45+ companies** ready to scan and **19 search queries**
 
 **Job boards searched:** Ashby, Greenhouse, Lever, Wellfound, Workable, RemoteFront
 
+
+## Google Sheets Sync (Phase 3)
+
+Career-Ops can sync Selena's local pipeline/tracker into a Google Sheet so the sheet becomes the live master tracker.
+
+### Windows PowerShell setup
+
+1. Copy the environment template:
+
+```powershell
+Copy-Item .env.example .env
+```
+
+2. Open `.env` and set the Google Sheet ID:
+
+```powershell
+notepad .env
+```
+
+Add or update:
+
+```dotenv
+GOOGLE_SHEET_ID=1YjjJbRGMgnQ3lVjcTesEltxsTCvRIOMgPZS9H4h_LKI
+```
+
+3. Create a Google Cloud service account, enable the Google Sheets API, and download the service account JSON key.
+
+4. Share the Google Sheet with the service account `client_email` from the JSON file and grant Editor access.
+
+5. Store the service account JSON in `.env` as one line. In PowerShell, from the repo root:
+
+```powershell
+$json = Get-Content .\service-account.json -Raw | ConvertFrom-Json | ConvertTo-Json -Compress -Depth 20
+Add-Content .env "GOOGLE_SERVICE_ACCOUNT_JSON=$json"
+```
+
+6. Preview what would sync without modifying Google Sheets:
+
+```powershell
+npm run sync:sheets -- --dry-run
+```
+
+7. Sync local `data/pipeline.md` and `data/applications.md` rows to Google Sheets:
+
+```powershell
+npm run sync:sheets
+```
+
+8. Scan portals and then sync results to Google Sheets:
+
+```powershell
+npm run scan:sync
+```
+
+The sync uses `Official Link` as the primary dedup key. If a row already exists, only `Last Seen` is updated; user-owned columns such as `Status`, `Selena Feedback`, `Like`, `Apply`, `Skip`, `Applied Date`, `Follow-up Date`, `Interview Stage`, and `Notes` are preserved.
+
 ## Dashboard TUI
 
 The built-in terminal dashboard lets you browse your pipeline visually:
