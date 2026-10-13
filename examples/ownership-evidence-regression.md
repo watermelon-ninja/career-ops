@@ -133,3 +133,36 @@ Before finalizing a match, ask both questions:
    that the candidate has already performed the underlying core work?
 
 A calibrated result must pass **both** checks.
+
+
+## Positive-transfer smoke test: Enterprise Business Analyst
+
+Reference pattern: a government/enterprise Business Analyst role whose core duties include
+business-process and system analysis, translating business requirements into technical
+specifications, requirements workshops, process improvement, test plans/scenarios,
+reviews/training, and acting as the business-to-developer bridge.
+
+Expected classification from confirmed candidate evidence:
+
+| Core function | Expected evidence |
+|---|---|
+| Business process / system analysis | Direct |
+| Requirements gathering and documentation | Direct |
+| Translate business needs into technical specifications | Direct |
+| Business-to-developer translation | Direct |
+| Requirements workshops / stakeholder facilitation | Direct |
+| Test plans, scenarios, SIT/UAT-style validation | Direct |
+| Process-flow documentation / improvement | Direct |
+| Reviews, readiness, and user-facing training/support | Direct to Adjacent depending on JD depth |
+| Government/regulated mission domain | Adjacent or Unknown; do not treat industry difference alone as a core gap |
+
+**Expected fit band from responsibilities alone: Strong to Top.**
+
+This test intentionally does **not** assign an exact numeric score unless the complete
+minimum qualifications, clearance/citizenship requirements, location constraints, and
+other mandatory conditions are available. Missing JD sections reduce confidence; they
+must not be invented.
+
+Regression assertion: this pattern must score materially above planning-operations or
+specialist-platform roles with unsupported core ownership requirements. If it does not,
+the evaluator is over-penalizing domain/title differences and failing the suppression check.
