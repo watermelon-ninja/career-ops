@@ -24,6 +24,8 @@ Table with:
 
 Read `cv.md`. Create a table with each JD requirement mapped to exact lines in the CV.
 
+Before scoring Match con CV, apply the Evidence & Ownership Calibration from `_shared.md` plus any candidate-specific overrides in `_profile.md`. For each **core responsibility and minimum qualification**, include an evidence classification: **Direct / Adjacent / Gap / Unknown**. Do not let a matching title, tool, domain, or keyword substitute for demonstrated ownership.
+
 **Adapted to the archetype:**
 - If FDE → prioritize delivery speed and client-facing proof points
 - If SA → prioritize system design and integrations

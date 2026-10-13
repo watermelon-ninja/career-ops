@@ -43,6 +43,41 @@
 | Forward Deployed Engineer | Fast delivery, client-facing, prototype to prod | cv.md + article-digest.md |
 | AI Transformation Lead | Change management, team enablement, adoption | cv.md + article-digest.md |
 
+## Your Job-Match Evidence Calibration
+
+<!--
+Optional personal override for job-fit scoring.
+
+Use this section to teach career-ops the difference between:
+- work you directly performed or owned,
+- adjacent/domain exposure,
+- and experience that must NOT be inferred.
+
+This is intentionally candidate-specific and belongs in your local
+modes/_profile.md, not in modes/_shared.md.
+
+Suggested structure:
+
+### Strong Direct Evidence
+- [Capability you can support with concrete CV/proof-point evidence]
+
+### Adjacent — Do Not Convert to Direct Ownership
+- [Related area you supported but did not personally own]
+
+### Exposure Only / Do Not Infer
+- [Platform/function you encountered but cannot claim hands-on expertise in]
+
+### Role-Type Interpretation
+- [Role families where your underlying function transfers strongly]
+- [Role families requiring extra ownership checks]
+
+### Personal Top-Match Standard
+Describe what a top match means for you. Example:
+"A top match should mean I have already done most of the core work and can
+support it with concrete interview stories, not merely that the domain or
+keywords are adjacent."
+-->
+
 ## Your Exit Narrative
 
 <!-- Replace with YOUR story. This frames everything. -->
