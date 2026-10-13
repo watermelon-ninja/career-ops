@@ -92,6 +92,12 @@ Before outputting the score, write an internal one-sentence answer to:
 
 > "What job is this company actually hiring this person to do, and which candidate evidence proves they have already done that kind of work?"
 
+Then run a **bidirectional calibration check**:
+- **Inflation:** Did matching titles, tools, keywords, or adjacent domain exposure get mistaken for direct ownership?
+- **Suppression:** Did a different title, industry, or domain hide direct evidence that the candidate has already performed the underlying core work?
+
+The calibration layer must prevent both false positives **and** false negatives.
+
 If the answer relies mainly on phrases such as "transferable," "adjacent," "should be able to," or shared keywords, the role should not be presented as a top/direct match.
 
 Personal candidate-specific interpretation rules belong in `modes/_profile.md` and override these generic defaults.
