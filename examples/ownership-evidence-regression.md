@@ -83,3 +83,53 @@ The smoke test validates the rule behavior, not numerical score reproducibility.
 Before treating an exact numeric score as regression-tested, run the evaluator against
 a complete verified JD and the candidate's private profile/CV. Where a historical JD
 is incomplete or unverified, test the expected band and ownership classification only.
+
+
+## False-negative guardrails
+
+Ownership calibration must prevent inflated matches **without becoming a gap-only
+filter**. A candidate with direct enterprise-systems delivery experience can be a
+strong match even when the employer's industry, business domain, or role title differs.
+
+### Positive-transfer anchors
+
+| Pattern | Expected behavior | Why |
+|---|---|---|
+| Enterprise Business Analyst in a different industry | Strong/top when the core work is requirements, process analysis, technical specifications, workshops, testing, training, and business/developer translation | These are direct BSA/system-delivery functions; industry difference alone is not a core gap |
+| Enterprise transformation / systems implementation PM | Strong when the role centers on requirements, implementation planning, cross-functional technical delivery, testing/readiness, go-live, and issue resolution | The underlying delivery ownership transfers even if the platform or business domain changes |
+| Technical Product Owner for enterprise workflows/integrations | Top/direct when backlog, requirements, prioritization, acceptance criteria, integrations, QA/release coordination are core | Technical PO ownership is direct; do not require supply-chain keywords |
+| BI / analytics systems role | Strong when SQL, reporting, data migration/integration, business-facing analytics, exception monitoring, and stakeholder translation are core | Direct analytics-systems evidence should outweigh an unrelated industry label |
+| Supply-chain systems role | Top/direct when the job owns WMS/planning-system implementation, integrations, requirements, testing, or systems transformation | Supply chain is useful domain context here because the **function** is also direct |
+
+### False-negative assertions
+
+1. Do not require `supply chain` in the title or JD for a high score.
+2. Do not penalize a different industry twice: once in domain fit and again in Match CV
+   when the underlying core function is direct.
+3. A missing employer-specific platform is not automatically a material gap when the JD
+   asks for general enterprise-system delivery and treats that platform as preferred or
+   learnable rather than a hands-on minimum.
+4. Business Analyst roles should be scored on the actual BA work requested. Requirements
+   workshops, process flows, system specifications, testing, training, and developer
+   translation are direct evidence categories, not generic transferable soft skills.
+5. Technical Program/Project Manager roles should receive full credit for direct
+   implementation/delivery ownership when engineering-specialist or operations-specialist
+   ownership is not itself a core requirement.
+6. Product roles centered on technical delivery, workflow, integrations, backlog, and
+   execution should not be downgraded merely because the candidate has less commercial
+   product strategy experience. Only penalize commercial strategy when it is actually
+   core to the JD.
+7. Domain adjacency should become a material penalty only when the JD requires domain
+   ownership, regulated expertise, specialist execution, or a minimum qualification that
+   the candidate does not have.
+
+### Bidirectional sanity check
+
+Before finalizing a match, ask both questions:
+
+1. **Inflation check:** Did matching titles, tools, keywords, or adjacent domain exposure
+   get mistaken for direct ownership?
+2. **Suppression check:** Did a different title, industry, or domain hide direct evidence
+   that the candidate has already performed the underlying core work?
+
+A calibrated result must pass **both** checks.
