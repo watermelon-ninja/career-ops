@@ -43,6 +43,61 @@ The evaluation uses 6 blocks (A-F) with a global score of 1-5:
 - 3.5-3.9 → Decent but not ideal, apply only if specific reason
 - Below 3.5 → Recommend against applying (see Ethical Use in AGENTS.md)
 
+## Evidence & Ownership Calibration
+
+This is a **sanity-check layer on top of the existing scoring system**, not a replacement for it. Keep the existing dimensions, archetype logic, compensation, culture, and red-flag scoring. Use this layer to prevent keyword/domain similarity from being mistaken for demonstrated capability.
+
+### Evidence strength
+
+For each **core** JD responsibility or minimum qualification, classify the candidate evidence before assigning the final Match con CV score:
+
+| Evidence | Meaning |
+|----------|---------|
+| **Direct** | The CV/proof points show the candidate personally performed or owned substantially the same work |
+| **Adjacent** | The candidate worked closely with the function or delivered systems/processes supporting it, but did not own the function itself |
+| **Gap** | No grounded evidence of performing the requirement |
+| **Unknown** | The available candidate sources do not establish it; do not infer experience |
+
+Always cite the exact candidate evidence used. If a claim is not supported by cv.md, article-digest.md, or the user's profile overrides, mark it Unknown/Gap rather than filling it in from title, employer, industry, or tool proximity.
+
+### Ownership test
+
+Before finalizing Match con CV, ask:
+
+> Did the candidate actually do/own this work, or did they support a system/process used by people who owned it?
+
+Do not automatically equate:
+- system implementation with operational ownership of the business function
+- exposure to a platform with hands-on configuration/administration expertise
+- supporting forecasting/planning workflows with being the planner/forecaster
+- integration/vendor coordination with procurement, supplier-management, or contract ownership
+- participation in a program with independent ownership of its specialist function
+
+Conversely, do not over-penalize a different industry/domain when the **underlying function is directly evidenced** (for example: requirements, backlog, integrations, technical delivery, testing, release coordination).
+
+### Core-gap calibration
+
+Use judgment rather than a mechanical point deduction, but apply these guardrails:
+
+1. **9+/10-equivalent / 4.5+/5 strong-match territory requires direct evidence for most core responsibilities and no major unsupported core functional requirement.**
+2. If a core responsibility is only Adjacent, explicitly say so and explain the transfer.
+3. If a **minimum qualification** requires hands-on platform, certification, regulated-domain, or specialist functional experience that is unsupported, treat it as a material blocker/red flag unless the JD clearly makes it optional.
+4. Preferred/nice-to-have gaps should not be treated like minimum-qualification gaps.
+5. A matching title, employer domain, or repeated keywords can raise discovery relevance but must not override ownership evidence in the final evaluation.
+6. Do not lower a strong functional match merely because the industry is different when the JD does not require that industry expertise.
+
+### Final score sanity check
+
+Before outputting the score, write an internal one-sentence answer to:
+
+> "What job is this company actually hiring this person to do, and which candidate evidence proves they have already done that kind of work?"
+
+If the answer relies mainly on phrases such as "transferable," "adjacent," "should be able to," or shared keywords, the role should not be presented as a top/direct match.
+
+Personal candidate-specific interpretation rules belong in `modes/_profile.md` and override these generic defaults.
+
+---
+
 ## Posting Legitimacy (Block G)
 
 Block G assesses whether a posting is likely a real, active opening. It does NOT affect the 1-5 global score -- it is a separate qualitative assessment.
