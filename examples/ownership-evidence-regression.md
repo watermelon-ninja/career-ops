@@ -51,3 +51,35 @@ mapping and the ownership test before finalizing the score.
 
 Do not force every role into one of these examples. They are guardrails for obvious
 miscalibration, not a lookup table or additive point system.
+
+
+## Calibration smoke-test results
+
+These checks validate the intended behavior of the ownership layer against the
+reference anchors above. They are not fresh independent JD reviews.
+
+| Test | Expected behavior | Result |
+|---|---|---|
+| Enterprise integrations PO | Direct systems ownership should remain top/direct | PASS |
+| Workflow/Product BA | Requirements + workflow + QA ownership should remain top/direct | PASS |
+| Spares-planning PM | Shared supply-chain vocabulary must not erase BOM/PO ownership gaps | PASS |
+| Supply-planning PM | Planning-system exposure must not become procurement/material-planning ownership | PASS |
+| SAP supply-chain consultant | SAP exposure must not become hands-on module/configuration expertise | PASS |
+| CRM Technical PO | Generic Technical PO strength must not erase a required specialist-platform gap | PASS |
+| Developer-platform TPM | Matching product/technical title must not substitute for SDK/framework ownership | PASS |
+| Infrastructure/robotics PM | Generic program delivery must not substitute for engineering-deployment ownership | PASS |
+
+### Ordering check
+
+Expected qualitative ordering:
+
+`direct enterprise-systems PO/BSA > adjacent planning/operations roles > specialist roles with unsupported core requirements`
+
+Result: **PASS** under the Evidence & Ownership Calibration rules.
+
+### Remaining validation needed
+
+The smoke test validates the rule behavior, not numerical score reproducibility.
+Before treating an exact numeric score as regression-tested, run the evaluator against
+a complete verified JD and the candidate's private profile/CV. Where a historical JD
+is incomplete or unverified, test the expected band and ownership classification only.
