@@ -25,6 +25,9 @@ const PORTALS_PATH = 'portals.yml';
 const SCAN_HISTORY_PATH = 'data/scan-history.tsv';
 const PIPELINE_PATH = 'data/pipeline.md';
 const APPLICATIONS_PATH = 'data/applications.md';
+const UNIVERSE_URL = 'https://raw.githubusercontent.com/moonie0201/ats-directory/main/companies.jsonl';
+const UNIVERSE_BATCH = 100; // Rotate across the external directory; override with --universe-batch N
+
 
 // Ensure required directories exist (fresh setup)
 mkdirSync('data', { recursive: true });
@@ -70,6 +73,24 @@ function detectApi(company) {
   }
 
   return null;
+}
+
+// ── External ATS directory (rotating batches, never silently claims full coverage) ──
+async function loadUniverse(args) {
+  if (!args.includes('--universe')) return [];
+  const flag = args.indexOf('--universe-batch');
+  const requested = flag >= 0 ? Number(args[flag + 1]) : UNIVERSE_BATCH;
+  if (!Number.isInteger(requested) || requested < 1 || requested > 1000) {
+    throw new Error('--universe-batch must be between 1 and 1000');
+  }
+  const response = await fetch(UNIVERSE_URL, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) });
+  if (!response.ok) throw new Error(`ATS directory HTTP ${response.status}`);
+  const rows = (await response.text()).split('\\n').filter(Boolean).map(line => JSON.parse(line));
+  const valid = rows.filter(r => r.status === 'ok' && ['ashby','greenhouse','lever'].includes(r.provider) && /^[a-z0-9_.-]+$/i.test(r.slug));
+  const start = (Math.floor(Date.now() / 86400000) * requested) % Math.max(valid.length, 1);
+  const batch = Array.from({length: Math.min(requested, valid.length)}, (_, i) => valid[(start + i) % valid.length]);
+  console.log(`ATS universe: ${valid.length} directory boards available; ${batch.length} selected for this run (rotating batch, not all scanned)`);
+  return batch.map(r => ({name: r.name || r.slug, careers_url: r.provider === 'ashby' ? `https://jobs.ashbyhq.com/${r.slug}` : r.provider === 'lever' ? `https://jobs.lever.co/${r.slug}` : `https://job-boards.greenhouse.io/${r.slug}`, scan_method: r.provider, enabled: true}));
 }
 
 // ── API parsers ─────────────────────────────────────────────────────
@@ -287,7 +308,12 @@ async function main() {
   }
 
   const config = parseYaml(readFileSync(PORTALS_PATH, 'utf-8'));
-  const companies = config.tracked_companies || [];
+  const priorityCompanies = config.tracked_companies || [];
+  let extraCompanies = [];
+  try { extraCompanies = await loadUniverse(args); }
+  catch (error) { console.error(`ATS directory unavailable: ${error.message}; continuing with priority companies`); }
+  const priorityKeys = new Set(priorityCompanies.map(c => detectApi(c)?.url).filter(Boolean));
+  const companies = [...priorityCompanies, ...extraCompanies.filter(c => !priorityKeys.has(detectApi(c)?.url))];
   const titleFilter = buildTitleFilter(config.title_filter);
   const locationFilter = buildLocationFilter(config.location_filter);
 
