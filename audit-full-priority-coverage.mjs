@@ -24,8 +24,15 @@ for(const [source,url,parse] of sources){const res=await fetch(url);if(!res.ok)t
 for(const c of configured){all.set('configured:'+canon(c.name),{provider:c.scan_method,slug:c.careers_url,name:c.name,configured:true});}
 const idx=new Map();for(const b of all.values()){for(const key of new Set([canon(b.name),canon(b.slug),canon(b.tenant)])){if(!key)continue;if(!idx.has(key))idx.set(key,[]);idx.get(key).push(b);}}
 mkdirSync('data',{recursive:true});
-const covered=[],needs=[];for(const c of wish){const hits=idx.get(canon(c.name))||[];if(hits.length)covered.push({name:c.name,group:c.group,boards:hits});else needs.push({name:c.name,group:c.group,status:'needs_resolution'});}
+const covered=[],needs=[];for(const c of wish){
+  const key=canon(c.name), hits=idx.get(key)||[];
+  if(hits.length){
+    covered.push({name:c.name,group:c.group,stage:1,status:'directory_matched_unverified',resolved_by:hits.some(x=>x.configured)?'configured_board':'directory_alias',providers:[...new Set(hits.map(x=>x.provider))],full_jd_verified:false,boards:hits});
+  }else{
+    needs.push({name:c.name,group:c.group,stage:2,status:'needs_ats_autodetect',resolved_by:null,provider:null,endpoint:null,full_jd_verified:false,attempts:[],failure_reason:null});
+  }
+}
 // Keep unresolved companies explicit instead of blocking the main scan. This file is the handoff list for alias research, dedicated adapters, or later manual follow-up.
-writeFileSync('data/priority-manual-followup.json',JSON.stringify({generated_at:new Date().toISOString(),companies:needs},null,2)+'\n');
+writeFileSync('data/priority-manual-followup.json',JSON.stringify({generated_at:new Date().toISOString(),funnel_stage:2,note:'Unresolved after Layer 1 only; not yet manual failures.',companies:needs},null,2)+'\n');
 writeFileSync('data/priority-ats-coverage.json',JSON.stringify({generated_at:new Date().toISOString(),universe_boards:all.size,priority_companies:wish.length,covered_count:covered.length,needs_extra_work_count:needs.length,covered,needs_extra_work:needs},null,2)+'\n');
 console.log(JSON.stringify({universe_boards:all.size,priority_companies:wish.length,covered_count:covered.length,needs_extra_work_count:needs.length},null,2));
