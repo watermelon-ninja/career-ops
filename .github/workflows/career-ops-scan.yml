@@ -78,7 +78,7 @@ jobs:
       - name: Commit Career-Ops scan results
         shell: bash
         run: |
-          for file in data/scan-history.tsv data/pipeline.md data/priority-ats-coverage.json data/priority-manual-followup.json data/priority-resolution-funnel.json data/priority-careers-seeds.json data/priority-careers-discovery.json data/priority-layer3-resolution.json; do
+          for file in data/scan-history.tsv data/pipeline.md data/priority-ats-coverage.json data/priority-manual-followup.json data/priority-resolution-funnel.json data/priority-careers-seeds.json data/priority-careers-discovery.json data/priority-layer3-resolution.json data/priority-jd-capability.json; do
             if [ -f "$file" ] && ! git check-ignore -q "$file"; then git add "$file"; fi
           done
           if git diff --cached --quiet; then
