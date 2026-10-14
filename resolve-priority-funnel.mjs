@@ -3,11 +3,12 @@
 // For every Layer-1 unresolved company with a curated careers seed, follow redirects and
 // inspect the returned HTML/links/scripts for reusable ATS fingerprints.
 // Identification is NOT full-JD verification; candidates remain explicitly unverified.
-import {readFileSync,writeFileSync} from 'node:fs';
+import {readFileSync,writeFileSync,existsSync} from 'node:fs';
 import yaml from 'js-yaml';
 
 const follow=JSON.parse(readFileSync('data/priority-manual-followup.json','utf8'));
 const portals=yaml.load(readFileSync('portals.yml','utf8')).tracked_companies||[];
+const seedRegistry=existsSync('data/priority-careers-seeds.json')?JSON.parse(readFileSync('data/priority-careers-seeds.json','utf8')).companies||[]:[];
 const norm=x=>String(x||'').toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]/g,'');
 const aliases=new Map([['thehomedepot','homedepot'],['delltechnologies','dell'],['samsungelectronics','samsung'],['gxo','gxologistics']]);
 const canon=x=>aliases.get(norm(x))||norm(x);
@@ -18,6 +19,12 @@ for(const p of portals){
  const k=canon(p.name);
  if(!portalByName.has(k)) portalByName.set(k,[]);
  portalByName.get(k).push(p);
+}
+
+for(const seed of seedRegistry){
+ const k=canon(seed.name);
+ if(!portalByName.has(k))portalByName.set(k,[]);
+ if(seed.careers_url)portalByName.get(k).push({name:seed.name,careers_url:seed.careers_url});
 }
 
 const fingerprints=[
