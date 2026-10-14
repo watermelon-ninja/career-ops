@@ -26,6 +26,7 @@ const SCAN_HISTORY_PATH = 'data/scan-history.tsv';
 const PIPELINE_PATH = 'data/pipeline.md';
 const APPLICATIONS_PATH = 'data/applications.md';
 const UNIVERSE_CURSOR_PATH = 'data/universe-cursor.json';
+const LATEST_CANDIDATES_PATH = 'data/latest-jd-candidates.jsonl';
 const UNIVERSE_URL = 'https://raw.githubusercontent.com/moonie0201/ats-directory/main/companies.jsonl';
 const UNIVERSE_BATCH = 100; // Rotate across the external directory; override with --universe-batch N
 
@@ -601,8 +602,12 @@ async function main() {
 
   // 5. Write results
   if (!dryRun && newOffers.length > 0) {
+    const batchId = new Date().toISOString().replace(/[:.]/g, '-');
+    const batchRows = newOffers.map(o => ({ ...o, batch_id: batchId, discovered_at: new Date().toISOString(), stage: 'jd_candidate' }));
+    writeFileSync(LATEST_CANDIDATES_PATH, batchRows.map(x => JSON.stringify(x)).join('\n') + '\n', 'utf-8');
     appendToPipeline(newOffers);
     appendToScanHistory(newOffers, date);
+    console.log(`Candidate batch:       ${batchId} (${batchRows.length} jobs) -> ${LATEST_CANDIDATES_PATH}`);
   }
 
   // 6. Print summary
