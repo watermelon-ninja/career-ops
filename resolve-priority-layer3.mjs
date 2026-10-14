@@ -210,6 +210,35 @@ function jsonLdJobPostings(html){
  }
  return out;
 }
+async function verifyEightfold(c){
+ const result={name:c.name,group:c.group,provider:'eightfold',method:'eightfold_public_detail',
+  jd_fetch_status:'failed',full_jd_verified:false,fit_scoring_eligible:false,jd_char_count:0,job_url:null,reason:'no_eightfold_job_detail'};
+ const seeds=[...(c.platform_evidence||[]),c.final_url,c.official_careers_url,...(c.official_careers_urls||[])].filter(x=>/^https?:/i.test(String(x)));
+ const visited=new Set();
+ for(const seed of [...new Set(seeds)].slice(0,4)){
+  const root=await get(seed);if(!root.ok)continue;
+  const candidates=[root.url,...links(root.url,root.body).filter(u=>{
+   const x=String(u).toLowerCase();return x.includes('/job/')||x.includes('/jobs/')||x.includes('/position/');
+  }).slice(0,15)];
+  for(const url of candidates){
+   if(visited.has(url))continue;visited.add(url);
+   const page=url===root.url?root:await get(url);if(!page.ok)continue;
+   for(const j of jsonLdJobPostings(page.body)){
+    const q=jdQuality(j.description||'');
+    if(q.jd_char_count>result.jd_char_count)Object.assign(result,q,{job_url:page.url,job_title:j.title||null,
+     full_jd_verified:q.jd_fetch_status==='full',fit_scoring_eligible:q.jd_fetch_status==='full',
+     reason:q.jd_fetch_status==='full'?null:'incomplete_eightfold_job_description'});
+    if(result.full_jd_verified)return result;
+   }
+   const q=jdQuality(page.body);
+   if(q.jd_char_count>result.jd_char_count)Object.assign(result,q,{job_url:page.url,
+    full_jd_verified:q.jd_fetch_status==='full',fit_scoring_eligible:q.jd_fetch_status==='full',
+    reason:q.jd_fetch_status==='full'?null:'incomplete_eightfold_page'});
+   if(result.full_jd_verified)return result;
+  }
+ }
+ return result;
+}
 async function verifyPublicJobPage(c){
  const seeds=[c.final_url,c.official_careers_url,...(c.official_careers_urls||[])].filter(Boolean);
  const result={name:c.name,group:c.group,provider:c.provider||null,method:'public_jobposting_jsonld',
@@ -239,7 +268,7 @@ async function verifyPublicJobPage(c){
 }
 const sharedCandidates=[...(layer3.identified||[])].filter(c=>
  ['eightfold','oracle_recruiting_cloud','phenom','icims','successfactors'].includes(c.provider));
-const sharedJdProbes=await mapLimit(sharedCandidates,4,verifyPublicJobPage);
+const sharedJdProbes=await mapLimit(sharedCandidates,4,c=>c.provider==='eightfold'?verifyEightfold(c):verifyPublicJobPage(c));
 const sharedVerified=sharedJdProbes.filter(x=>x.full_jd_verified);
 writeFileSync('data/priority-shared-jd-capability.json',JSON.stringify({
  generated_at:new Date().toISOString(),method:'public_jobposting_jsonld',
