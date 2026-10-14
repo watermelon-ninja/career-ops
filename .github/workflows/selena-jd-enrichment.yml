@@ -1,0 +1,42 @@
+name: Selena JD Enrichment
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Maximum new JD candidates to enrich (default 150)"
+        required: false
+        default: "150"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: career-ops-scan-selena
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out Career-Ops working branch
+        uses: actions/checkout@v4
+        with:
+          ref: codex/recreate-phase-1-and-phase-2-files
+          fetch-depth: 0
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Fetch full job descriptions
+        run: node enrich-jd.mjs --limit=${{ inputs.limit }}
+      - name: Save JD enrichment results
+        run: |
+          git add data/jd-enrichment.jsonl
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "career-ops-bot"
+          git config user.email "career-ops-bot@users.noreply.github.com"
+          git commit -m "chore: enrich JD candidates"
+          git push origin HEAD:codex/recreate-phase-1-and-phase-2-files
