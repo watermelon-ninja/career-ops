@@ -600,13 +600,33 @@ async function main() {
 
   await parallelFetch(tasks, CONCURRENCY);
 
+  // 4b. Rank cheap listing candidates before any expensive full-JD fetch.
+  // Fetch Priority decides WHAT TO READ FIRST; it must never affect Selena Fit.
+  function fetchPriority(o) {
+    const title=(o.title||'').toLowerCase(), loc=(o.location||'').toLowerCase(), company=(o.company||'').toLowerCase();
+    let score=0; const reasons=[];
+    const add=(n,r)=>{score+=n;reasons.push(r);};
+    if (/(supply chain|warehouse|wms|logistics|inventory|fulfillment|distribution)/.test(title)) add(35,'supply-chain-title');
+    if (/(product owner|product manager|program manager|project manager|business systems analyst|business analyst|systems analyst|implementation|transformation)/.test(title)) add(30,'target-role-title');
+    if (/(systems|system|technology|technical|platform|integration|erp|tms|planning|analytics|business intelligence)/.test(title)) add(20,'systems-title');
+    if (/(austin|cedar park|round rock|texas|remote|united states|usa|u\.s\.)/.test(loc)) add(15,'preferred-location');
+    if (/(intern|internship|principal|vp|vice president|director|chief|staff engineer)/.test(title)) {score-=25;reasons.push('seniority-risk');}
+    // Configured priority-company listings get read earlier, but this never changes Fit.
+    if (priorityCompanies.some(c=>c.name.toLowerCase()===company)) add(10,'priority-company');
+    return {score:Math.max(0,Math.min(100,score)),reasons};
+  }
+  const rankedOffers=newOffers.map(o=>{const p=fetchPriority(o);return {...o,fetch_priority:p.score,fetch_priority_reasons:p.reasons};})
+    .sort((a,b)=>b.fetch_priority-a.fetch_priority||a.company.localeCompare(b.company)||a.title.localeCompare(b.title));
+  const FETCH_BATCH_SIZE=50;
+  const fetchQueue=rankedOffers.map((o,i)=>({...o,fetch_batch:Math.floor(i/FETCH_BATCH_SIZE)+1,fetch_rank:i+1}));
+
   // 5. Write results
   if (!dryRun && newOffers.length > 0) {
     const batchId = new Date().toISOString().replace(/[:.]/g, '-');
-    const batchRows = newOffers.map(o => ({ ...o, batch_id: batchId, discovered_at: new Date().toISOString(), stage: 'jd_candidate' }));
+    const batchRows = fetchQueue.map(o => ({ ...o, batch_id: batchId, discovered_at: new Date().toISOString(), stage: 'listing_candidate', jd_fetch_status: 'not_fetched', full_jd_verified: false }));
     writeFileSync(LATEST_CANDIDATES_PATH, batchRows.map(x => JSON.stringify(x)).join('\n') + '\n', 'utf-8');
-    appendToPipeline(newOffers);
-    appendToScanHistory(newOffers, date);
+    appendToPipeline(fetchQueue);
+    appendToScanHistory(fetchQueue, date);
     console.log(`Candidate batch:       ${batchId} (${batchRows.length} jobs) -> ${LATEST_CANDIDATES_PATH}`);
   }
 
@@ -621,7 +641,9 @@ async function main() {
   console.log(`Filtered by title:     ${totalFilteredTitle} removed`);
   console.log(`Filtered by location:  ${totalFilteredLocation} removed`);
   console.log(`Duplicates:            ${totalDupes} skipped`);
-  console.log(`New JD candidates:     ${newOffers.length}`);
+  console.log(`Listing candidates:    ${newOffers.length}`);
+  console.log(`Fetch batches (50):     ${Math.ceil(fetchQueue.length / FETCH_BATCH_SIZE)}`);
+  if (fetchQueue.length) console.log(`Top fetch priority:     ${fetchQueue[0].fetch_priority} — ${fetchQueue[0].company} | ${fetchQueue[0].title}`);
   console.log('Provider breakdown (boards / jobs / JD candidates / errors):');
   for (const [provider, stats] of [...providerStats.entries()].sort()) {
     console.log(`  ${provider}: ${stats.boards} / ${stats.jobs} / ${stats.candidates} / ${stats.errors}`);
@@ -635,9 +657,9 @@ async function main() {
   }
 
   if (newOffers.length > 0) {
-    console.log('\nNew JD candidates:');
-    for (const o of newOffers) {
-      console.log(`  + ${o.company} | ${o.title} | ${o.location || 'N/A'}`);
+    console.log('\nTop listing candidates by Fetch Priority:');
+    for (const o of fetchQueue.slice(0,50)) {
+      console.log(`  + P${o.fetch_priority} B${o.fetch_batch} #${o.fetch_rank} | ${o.company} | ${o.title} | ${o.location || 'N/A'}`);
     }
     if (dryRun) {
       console.log('\n(dry run — run without --dry-run to save results)');
