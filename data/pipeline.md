@@ -203,3 +203,33 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://jobs.ashbyhq.com/assured/c3b06f35-8b7d-4b85-b2f7-fefb1bae6e87 | Assured | Technical Program Manager
 - [ ] https://jobs.ashbyhq.com/assured/67e24e65-81d1-4bed-8f73-9fb519d32e56 | Assured | Principal Program Manager
 - [ ] https://jobs.ashbyhq.com/atticus/67f7fa65-55ab-4838-bc9d-f15a9c2ccfea | Atticus | Product Manager
+
+- [ ] https://jobs.ashbyhq.com/avida/0b436257-9455-4e8f-a414-2b2b0425e85a | Avida | Associate Product Manager
+- [ ] https://jobs.ashbyhq.com/axelera/737807b3-651c-4361-b52f-74592e575a0b | Axelera AI | (Senior) Director of Sales - Enterprise AI
+- [ ] https://jobs.ashbyhq.com/avoca/efbc7d18-eced-4824-894e-82884aa731a7 | avoca | Implementation Manager
+- [ ] https://jobs.ashbyhq.com/base-power/a4a691a7-0982-4c58-96b9-b925cb4a1c31 | base-power | Growth Product Manager
+- [ ] https://jobs.ashbyhq.com/base-power/92343085-b0a0-49dd-9005-50817ad8c68d | base-power | Deployment Quality Associate
+- [ ] https://jobs.ashbyhq.com/base-power/80e2524c-e530-4176-8253-7da06083050e | base-power | Deployment Operations Specialist (VMI and Subcontractors)
+- [ ] https://jobs.ashbyhq.com/base-power/2d211740-29ae-4306-a542-dff3d9a24531 | base-power | Deployment Specialist (Field Operations)
+- [ ] https://jobs.ashbyhq.com/base-power/4329a64f-3d9c-46a3-9bf8-4daeb7dce70a | base-power | Deployment Finance & Business Operations 
+- [ ] https://jobs.ashbyhq.com/base-power/90bcb98b-990d-467e-8b36-ee08e1eb1542 | base-power | Deployment Engineer (Utility Partnerships)
+- [ ] https://jobs.ashbyhq.com/base-power/862daba1-c0ec-48f2-8f39-5aafc3932f32 | base-power | Deployment Operations Specialist (Homebuilders)
+- [ ] https://jobs.ashbyhq.com/base-power/1808c00d-7b0e-490c-b102-b9844a8bf4cf | base-power | Deployment Engineer (Product Launch)
+- [ ] https://jobs.ashbyhq.com/base-power/f3318660-62b4-4157-b577-a8d9bcf2e978 | base-power | Hardware Technical Program Manager
+- [ ] https://jobs.ashbyhq.com/base-power/1bca5a4f-47a9-49d9-a06d-09f78a2d7469 | base-power | Technical Product Manager, GTM
+- [ ] https://jobs.ashbyhq.com/bayesianhealth/89b33de0-10a6-49d8-a94b-b033ece6b3c6 | Bayesian Health, Inc. | Enterprise Growth Lead
+- [ ] https://jobs.ashbyhq.com/benepass/24bd08b7-0e9e-4c56-b5b2-7f42396e313f | Benepass | Enterprise Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/bestow/dca2806b-3be5-4890-bf93-0f6f601f61a1 | Bestow | Business Systems Analyst  (1099 Contract)
+- [ ] https://jobs.ashbyhq.com/bland/ea532833-f3d8-4dad-b5b2-f9bbeaa1a1a5 | Bland | Enterprise Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/bland/184b06fb-f1c2-4dbb-8634-8b324410a096 | Bland | Enterprise Sales Director
+- [ ] https://jobs.ashbyhq.com/blackbox-strategies/0d2fe9a4-e31e-47c5-820e-b33e69c6f4af | BlackBox Strategies | HubSpot Implementation Consultant (Contract)
+- [ ] https://jobs.ashbyhq.com/blockstream/910e6c3e-2323-43b2-b67c-1325f54e1a98 | Blockstream | Director of Enterprise Solutions
+- [ ] https://jobs.ashbyhq.com/blockstream/db997f96-5bb3-4597-a841-9273ab664d78 | Blockstream | Senior Product Manager, Enterprise
+- [ ] https://jobs.ashbyhq.com/brellium/1f61a43d-3845-4ad4-aeb2-1e16ca591732 | Brellium | Senior Product Manager, Enterprise (Remote)
+- [ ] https://jobs.ashbyhq.com/camber/ea970537-85ec-4779-9ca7-b117ca77e163 | Camber | Director of Enterprise Revenue
+- [ ] https://jobs.ashbyhq.com/camunda/5652a3f3-e418-4e91-b58b-4be13f36853b | Camunda | Product Manager, Self Managed Service 
+- [ ] https://jobs.ashbyhq.com/camunda/b771e145-a5cf-4867-ad13-b54830e3b744 | Camunda | Senior Product Manager - Distributed Agentic Platform (Remote)
+- [ ] https://jobs.ashbyhq.com/chainalysis-careers/0e7f0f5f-0a3f-4e37-9428-5aa259a22a72 | Chainalysis | Deployment Strategist - Crypto Investigations
+- [ ] https://jobs.ashbyhq.com/check-technologies/ddbb38fb-05a1-432d-919c-adcb210a7696 | Check Technologies | Enterprise Partner Growth Manager
+- [ ] https://jobs.ashbyhq.com/check-technologies/efdb2736-75c7-49e9-b413-5713008e1634 | Check Technologies | Staff Product Manager
+- [ ] https://jobs.ashbyhq.com/check-technologies/f97a7dd6-21f3-480c-a06d-f443fffdda16 | Check Technologies | Senior Product Manager
