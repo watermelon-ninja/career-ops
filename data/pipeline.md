@@ -693,3 +693,93 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://ashland.wd12.myworkdayjobs.com/ashlandcareers1/job/US-Remote/Finance-Project-Manager_2026-0435 | ashland | Finance Project Manager
 - [ ] https://ashland.wd12.myworkdayjobs.com/ashlandcareers1/job/US-Remote/Strategic-Planning-Lead_2026-0316 | ashland | Strategic Planning Lead
 - [ ] https://aritzia.wd3.myworkdayjobs.com/external/job/Southlake-TX-USA-2806---Southlake-Town-Square/Store-Merchandising--Inventory-Manager_R0012130 | aritzia | Retail Stores - Inventory Manager, Store Merchandising
+
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4433693009 | Oura | Technical Revenue Accounting and Policy Manager
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5242937007?gh_jid=5242937007 | Anduril | Orbit Analyst, Space
+- [ ] https://jobs.ashbyhq.com/render/d5f62097-29f5-4078-ad24-3b604380c1c0 | Render | Staff / Principal Product Manager, Platform & Infrastructure
+- [ ] https://jobs.ashbyhq.com/render/f26084f3-992a-4fd3-8065-40cd51a8688f | Render | Engineering Manager, Platform 
+- [ ] https://jobs.ashbyhq.com/render/d0860ea9-fdbd-4a66-82bc-1d75228cf594 | Render | Staff /Principal Product Manager - Data and Storage
+- [ ] https://jobs.ashbyhq.com/render/3ec7433c-efbc-42f2-8f28-b8eca42f384c | Render | Staff Product Manager - Agent & Systems Observability 
+- [ ] https://jobs.ashbyhq.com/render/9d06aad8-dc0b-41a1-a4fa-7952430c0d88 | Render | Talent Operations Manager
+- [ ] https://jobs.ashbyhq.com/renuity/ed5571c6-71aa-4b60-ae31-6cf1b26fbecd | Renuity | Procurement Technician 
+- [ ] https://jobs.ashbyhq.com/rillet/27d6e823-4edb-435d-a0f0-45efabbcad15 | Rillet | Deployment Lead - ERP Solutions
+- [ ] https://jobs.ashbyhq.com/risklabs/08e0c4c0-8e4f-4489-b98b-6b746f1c6546 | Risk Labs | Enterprise Partnerships Lead (Financial Markets)
+- [ ] https://jobs.ashbyhq.com/robco/277dac29-acf0-4b78-bb8e-427a729749ba | RobCo | (Senior) Technical Program Manager 
+- [ ] https://jobs.ashbyhq.com/rula/b61c33f6-a56a-486b-95c9-f7ef27aacd40 | Rula | Sr. Product Data Scientist (Remote)
+- [ ] https://jobs.ashbyhq.com/rula/a6462b97-3547-4c1a-9ae8-22a40f635fde | Rula | Sr. Product Manager/Staff Product Manager - Core Experience (Remote) 
+- [ ] https://jobs.ashbyhq.com/rula/654d1704-b060-4651-b945-8e55bc3b2034 | Rula | Sr. Revenue Strategy & Planning Manager (Remote)
+- [ ] https://jobs.ashbyhq.com/rula/290ead97-6ddb-4f57-b955-a56bf9c08064 | Rula | Sr. Business Operations Manager (Remote)
+- [ ] https://jobs.ashbyhq.com/rula/0410797f-de08-47db-a230-f988ee418c9a | Rula | Strategy & Operations Manager, In-person (Remote)
+- [ ] https://jobs.ashbyhq.com/rula/cf5ce949-20f4-4e27-bd1a-6bd62a15ee93 | Rula | Sr. Provider Operations Specialist (Remote)
+- [ ] https://jobs.ashbyhq.com/runway-ml/fc409275-6797-4504-9be9-3215276d3645 | Runway | Sr/Staff Product Manager, ML Research
+- [ ] https://jobs.ashbyhq.com/runway-ml/f6e8f3fa-0440-484e-92f7-6ae2e67f1d07 | Runway | Creative Support Specialist, Enterprise
+- [ ] https://jobs.ashbyhq.com/runway-ml/e0fec99f-ae6e-4f92-ac1a-7d227179261f | Runway | Sr./Staff Product Designer, Developer Platform
+- [ ] https://jobs.ashbyhq.com/runway-ml/90a95d63-ce92-42c4-a3dc-51f0f7cd281b | Runway | Senior Manager/Director, Product - Developer Platform
+- [ ] https://aspca.wd1.myworkdayjobs.com/aspcawebsite/job/Remote---New-York/Salesforce-Technical-Lead_2026-589 | aspca | Salesforce Technical Lead
+- [ ] https://aspendental.wd1.myworkdayjobs.com/careers_the_aspen_group/job/Remote-Arizona/Manager--Telecom-Automation-Operations_R2026-012147 | aspendental | Manager, Telecom Automation Operations
+- [ ] https://assuranceamerica.wd12.myworkdayjobs.com/assuranceamerica/job/US-TX-Remote/Data-Warehouse-III_JR100401 | assuranceamerica | Data Warehouse Engineer III
+- [ ] https://astound.wd108.myworkdayjobs.com/astound_careers/job/TX--Dallas-TX/Enterprise-Account-Manager_JR-000887 | astound | Enterprise Account Manager
+- [ ] https://astound.wd108.myworkdayjobs.com/astound_careers/job/TX-Remote/Business-Solutions-Technical-Sales-Learning-Partner_JR-000973 | astound | Business Solutions Technical Sales Learning Partner
+- [ ] https://astound.wd108.myworkdayjobs.com/astound_careers/job/TX--Dallas-TX/Warehouse-Technician-I_JR-000768 | astound | Warehouse Technician I
+- [ ] https://asmglobal.wd1.myworkdayjobs.com/careers/job/Houston-TX/Outside-Operations-Manager_R100123004 | asmglobal | Outside Operations Manager
+- [ ] https://asmglobal.wd1.myworkdayjobs.com/careers/job/Houston-TX/Outside-Operations-Lead_R100123297 | asmglobal | Outside Operations Lead
+- [ ] https://asmglobal.wd1.myworkdayjobs.com/careers/job/Lubbock-TX/Operations-Manager_R100126030 | asmglobal | Operations Manager
+- [ ] https://asmglobal.wd1.myworkdayjobs.com/careers/job/San-Antonio-TX/IT-Manager---Boeing-Center-at-Tech-Port_R100125913 | asmglobal | IT Manager - Boeing Center at Tech Port
+- [ ] https://asmglobal.wd1.myworkdayjobs.com/careers/job/Abilene-TX/Operations-Technician_R100125857 | asmglobal | Operations Technician
+- [ ] https://asmglobal.wd1.myworkdayjobs.com/careers/job/San-Antonio-TX/Production-Supervisor---Boeing-Center-at-Tech-Port_R100125566 | asmglobal | Production Supervisor - Boeing Center at Tech Port
+- [ ] https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/TX-Dallas/SVP-Relationship-Manager---Title---Exchange-Services--National-_JR104211 | associatedbank | Commercial Banking Deposit & Payment Solutions
+- [ ] https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Irving-TX/Material-Processor-Lead--Inventory-_R-115828-1 | assurant | Material Processor Lead (Inventory)
+- [ ] https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Irving-TX/Inventory-Material-Processor-Lead--Nights-_R-115663-1 | assurant | Inventory Material Processor Lead (Nights)
+- [ ] https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Irving-TX/Supply-Chain-Manager--Mobile-Reverse-Logistics-_R-115423-1 | assurant | Supply Chain Manager (Mobile Reverse Logistics)
+- [ ] https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Irving-TX/Order-Management-Specialist_R-115205-1 | assurant | Order Management Specialist
+- [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Austin-TX/Data-Center-Operation-Lead_R0017706 | astreya | Data Center Operation Lead
+- [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Project-Manager-IV---Infrastructure---Data-Center---Edge-Network-Services_R0017675 | astreya | Project Manager IV – Infrastructure / Data Center & Edge Network Services
+- [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/Senior-IT-Infrastructure-Project-Manager_R0016238 | astreya | Senior IT Infrastructure Project Manager
+- [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-OK/Program---Project-Management-IV_R0015821 | astreya | Technical Program Manager- Network Migrations
+- [ ] https://atsg.wd108.myworkdayjobs.com/xtiumcareers/job/US-Remote/Support-Specialist--Enterprise-Service-Desk_JR100242 | atsg | Support Specialist, Enterprise Service Desk
+- [ ] https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/One-Texas-Center/Business-Intelligence-Consultant--Talent-Acquisition--Austin-Human-Resources_JR105384 | austintexas | Business Intelligence Consultant, Talent Acquisition, Austin Human Resources
+- [ ] https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Austin-Energy/Power-System-Managing-Engineer--Transmission-Planning-_JR104995 | austintexas | Power System Managing Engineer (Transmission Planning)
+- [ ] https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Austin-Water/Austin-Water---Treatment-Operations---Maintenance-Technician-Associate---Wastewater-Treatment-Plants--NIGHT-SHIFT-_JR105479 | austintexas | Austin Water - Treatment Operations & Maintenance Technician Associate - Wastewater Treatment Plants (NIGHT SHIFT)
+- [ ] https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Austin-Energy-Headquarters/Project-Manager---Customer-Energy-Solutions_JR105426 | austintexas | Project Manager - Customer Energy Solutions
+- [ ] https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Austin-Energy-Headquarters/IT-Solutions-Architect_JR105358 | austintexas | IT Solutions Architect
+- [ ] https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Austin-Human-Resources/Temporary-Program-Manager-I--Employment-Services-Center_JR105370 | austintexas | Temporary Program Manager I -Employment Services Center
+- [ ] https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Austin-Energy-Headquarters/Power-System-Engineer---Project-Management_JR105250 | austintexas | Power System Engineer - Project Management
+- [ ] https://atd.wd1.myworkdayjobs.com/american_tire_distributors/job/Roanoke-TX/Regional-Distribution-Center---Area-Manager_R36391 | atd | Regional Distribution Center - Area Manager
+- [ ] https://atd.wd1.myworkdayjobs.com/american_tire_distributors/job/Roanoke-TX/Regional-Distribution-Center---Warehouse-Lead_R36392 | atd | Regional Distribution Center - Warehouse Lead
+- [ ] https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/CO-Remote/Business-Analyst_JR1406 | automationanywhere | Business Analyst
+- [ ] https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Program-Manager--Remote-_R0008624 | availity | Program Manager (Remote)
+- [ ] https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Product-Manager---Remote-_R0008630 | availity | Product Manager ( Remote)
+- [ ] https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/UM-Nurse-Analyst--Clinical-Informaticist-_R0008511-1 | availity | UM Nurse Analyst (Clinical Informaticist)
+- [ ] https://aviagen.wd1.myworkdayjobs.com/aviagen-careers/job/Remote---Vietnam/Technical-Service-Manager_JR102617 | aviagen | Technical Service Manager
+- [ ] https://autodesk.wd1.myworkdayjobs.com/ext/job/California-USA---Remote/Senior-Principal-Product-Manager-_26WD101495-1 | autodesk | Senior Principal Product Manager 
+- [ ] https://autodesk.wd1.myworkdayjobs.com/ext/job/Colorado-USA---Remote/Flow-Sr-Technical-Sales-Specialist_26WD101539-2 | autodesk | Flow Senior Technical Sales Specialist
+- [ ] https://autodesk.wd1.myworkdayjobs.com/ext/job/Massachusetts-USA---Remote/Technical-Specialist--AECO_26WD101353-2 | autodesk | Technical Specialist, AECO
+- [ ] https://autodesk.wd1.myworkdayjobs.com/ext/job/Michigan-USA---Remote/Enterprise-Asset-Program-Manager_26WD100705-2 | autodesk | Enterprise Asset Program Manager
+- [ ] https://autodesk.wd1.myworkdayjobs.com/ext/job/Colorado-USA---Remote/Principal-Program-Manager--Design-Operations_26WD99349-1 | autodesk | Principal Program Manager, Design Operations
+- [ ] https://autodesk.wd1.myworkdayjobs.com/ext/job/Ontario-CAN---Remote/Learning-Ecosystem-Development-Manager_26WD100710 | autodesk | Learning Ecosystem Development Manager
+- [ ] https://autodesk.wd1.myworkdayjobs.com/ext/job/Colombia---Remote/Technical-Sales-Specialist_26WD100432-2 | autodesk | Technical Sales Specialist
+- [ ] https://att.wd1.myworkdayjobs.com/attgeneral/job/Dallas-Texas/Lead-Marketing-Management----Marketing-Transformation---Operations_R-119236 | att | Lead Marketing Management -– Marketing Transformation & Operations
+- [ ] https://axalta.wd1.myworkdayjobs.com/axalta/job/Remote-USA/Project-Manager---New-Product-Commercialization---Growth_2026-19217 | axalta | Project Manager – New Product Commercialization & Growth
+- [ ] https://axalta.wd1.myworkdayjobs.com/axalta/job/Remote-China/Technical-Service-Specialist_2026-16801 | axalta | Technical Service Specialist
+- [ ] https://axalta.wd1.myworkdayjobs.com/axalta/job/DE-NW-Remote/Technical-Service-Specialist----MB-Dsseldorf---Bremen--m-w-d-_2026-17750 | axalta | Technical Service Specialist  - MB Düsseldorf & Bremen (m/w/d)
+- [ ] https://axalta.wd1.myworkdayjobs.com/axalta/job/Remote-USA/Global-eCommerce-Product-Owner_2026-18344 | axalta | Global eCommerce Product Owner
+- [ ] https://axalta.wd1.myworkdayjobs.com/axalta/job/CN-Wuhan-Remote/Technical-Service-Specialist---CB3---NM_2025-14339 | axalta | Technical Service Specialist - CB3 - NM
+- [ ] https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Dallas-TX/Licensee-Operations-Manager_R0190223-1 | avisbudget | Licensee Operations Manager
+- [ ] https://axos.wd5.myworkdayjobs.com/axos/job/Remote-USA/Commercial-Lending-Operations-Lead_JR5061 | axos | Commercial Lending Operations Lead
+- [ ] https://baldwin.wd1.myworkdayjobs.com/baldwin/job/Remote-US/Data-Architect---MSI_JR110240-1 | baldwin | Data Architect - MSI
+- [ ] https://baldwin.wd1.myworkdayjobs.com/baldwin/job/Remote-US/National-Operations-Manager--Commercial-Risk_JR110243 | baldwin | National Operations Manager, Commercial Risk
+- [ ] https://baldwin.wd1.myworkdayjobs.com/baldwin/job/Remote-US/National-Operations-Manager--Employee-Benefits_JR110196 | baldwin | National Operations Manager, Employee Benefits
+- [ ] https://baldwin.wd1.myworkdayjobs.com/baldwin/job/Remote-US/Product-Manager---MSI_JR110309-1 | baldwin | Product Manager - MSI
+- [ ] https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Finance-Manager---FP-A-Operations_R169528-1 | bakerhughes | Finance Manager - FP&A Operations
+- [ ] https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Senior-Project-Installation-Manager_R166022 | bakerhughes | Power Systems & Industrial Power Generation Operations Leader
+- [ ] https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Technical-Account-Leader---NAM_R170424 | bakerhughes | Technical Account Leader - NAM
+- [ ] https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-TOMBALL-11211-FM-2920/Sourcing-Specialist---Buying-Procurement_R170029 | bakerhughes | Sourcing Specialist - Buying/Procurement
+- [ ] https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Senior-Project-Manager---Power-Systems---Industrial-Power-Generation_R166512 | bakerhughes | Senior Project Manager – Power Systems / Industrial Power Generation
+- [ ] https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Project-Manager---Power-Systems---Industrial-Power-Generation_R166514-1 | bakerhughes | Project Manager – Power Systems / Industrial Power Generation
+- [ ] https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Leucipa-Customer-Success-Manager---Operations_R169402 | bakerhughes | Leucipa Customer Success Manager - Operations
+- [ ] https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-SUGAR-LAND-12645-WEST-AIRPORT-BLVD/Services-Senior-Specialist---Applications-Engineering_R169374 | bakerhughes | Services Senior Specialist - Applications Engineering
+- [ ] https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Senior-SAP-Specialist---Payroll-Solution-Architecture_R168980 | bakerhughes | Senior SAP Specialist - Payroll Solution Architecture
+- [ ] https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-HOUSTON---6760-Concord-Park/Sr-Primera-Project-Manager_R169265 | bakerhughes | Sr. Primera Project Manager
+- [ ] https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-IL-Remote/Subcontractor--DAS---Enterprise-Packaged-Solutions_JR108373 | bakertilly | Subcontractor, DAS - Enterprise Packaged Solutions
+- [ ] https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TX-Frisco/IT-Audit--Cybersecurity---Risk-Manager--SOC-Focus-_JR107733 | bakertilly | IT Audit, Cybersecurity & Risk Manager (SOC Focus)
+- [ ] https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TX-Frisco/IT-Audit--Cybersecurity---Risk-Advisory-Senior-Consultant--SOC-Focus-_JR107212 | bakertilly | IT Audit, Cybersecurity & Risk Advisory Senior Consultant (SOC Focus)
