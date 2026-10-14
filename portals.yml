@@ -10,71 +10,125 @@ location_filter:
   block: []
 
 title_filter:
+  # Stage 1 is intentionally high-recall. Full-JD scoring provides precision later.
   positive:
-    - "Supply Chain Systems Analyst"
+    # Systems / Business Analysis
     - "Business Systems Analyst"
-    - "Business Systems Analyst, Supply Chain"
     - "Business Analyst"
     - "Technical Business Analyst"
+    - "IT Business Analyst"
+    - "Systems Analyst"
     - "IT Systems Analyst"
+    - "Business Technology Analyst"
+    - "Business Process Analyst"
+    - "Functional Analyst"
     - "Systems Integration Analyst"
-    - "WMS"
-    - "Warehouse Systems Analyst"
-    - "Supply Chain Technology Analyst"
     - "Operations Systems Analyst"
-    - "Technical Product Owner"
+    - "Application Analyst"
+    - "Applications Analyst"
+
+    # Product / Product Operations
     - "Product Owner"
-    - "Product Owner, Supply Chain Systems"
+    - "Technical Product Owner"
     - "Product Manager"
+    - "Technical Product Manager"
     - "Product Operations"
-    - "Implementation Manager"
-    - "Implementation Consultant"
+    - "Product Analyst"
+    - "Product Delivery"
+
+    # Program / Project / Delivery
     - "Program Manager"
     - "Technical Program Manager"
+    - "Project Manager"
+    - "Technical Project Manager"
+    - "IT Project Manager"
+    - "Delivery Lead"
+    - "Program Lead"
+
+    # Supply Chain / Operations / Logistics Systems
+    - "Supply Chain Analyst"
     - "Supply Chain Systems"
-    - "Warehouse Automation"
-    - "Enterprise Systems"
-    - "ERP"
-    - "SAP"
-    - "Infor WMS"
-    - "Kinaxis"
-    - "RapidResponse"
+    - "Supply Chain Technology"
+    - "Supply Chain Program Manager"
+    - "Supply Chain Product"
+    - "Logistics Analyst"
+    - "Logistics Manager"
     - "Logistics Systems"
+    - "Warehouse Systems"
+    - "Warehouse Technology"
+    - "WMS"
     - "Inventory Systems"
+    - "Inventory Analyst"
+    - "Planning Systems"
     - "Order Management"
     - "Fulfillment Systems"
+    - "Warehouse Automation"
+
+    # Implementation / Transformation / Consulting
+    - "Implementation Consultant"
+    - "Implementation Manager"
+    - "Implementation Lead"
+    - "Business Transformation Consultant"
+    - "Technology Consultant"
+    - "Solutions Consultant"
+    - "Solution Consultant"
+    - "Transformation Manager"
+
+    # Enterprise applications / platforms
+    - "Enterprise Systems"
+    - "ERP Analyst"
+    - "ERP Manager"
+    - "SAP Analyst"
+    - "SAP Business Analyst"
+    - "Kinaxis"
+    - "Infor"
+    - "RapidResponse"
+    - "Application Product Owner"
     - "Systems Integration"
-    - "Vendor Integration"
-    - "Production Support"
-    - "Deployment"
-    - "Rollout"
-    - "Go-live"
+
+    # BI / analytics: intentionally broad; JD scoring must validate domain fit.
+    - "Business Intelligence Analyst"
+    - "BI Analyst"
+    - "Data Analyst"
+    - "Analytics Analyst"
+    - "Operations Analyst"
+
   negative:
+    # Frontline / clearly unrelated
     - "Warehouse Associate"
+    - "Warehouse Worker"
     - "Forklift"
     - "Picker"
     - "Packer"
-    - "Driver"
+    - "Delivery Driver"
+    - "Truck Driver"
     - "Retail Associate"
-    - "Sales-only"
-    - "Sales Only"
     - "Account Executive"
+    - "Sales Development"
+    - "Business Development Representative"
+
+    # Early-career programs
     - "Intern"
     - "Internship"
     - "New Grad"
     - "University Grad"
     - "Graduate Program"
+
+    # Executive seniority
     - "Senior Director"
-    - "VP"
+    - "Executive Director"
     - "Vice President"
-    - "10+ years"
-    - "10 years"
+    - "VP,"
+
   seniority_boost:
+    - "Senior"
+    - "Lead"
+    - "Principal"
     - "Analyst"
     - "Product Owner"
+    - "Product Manager"
     - "Implementation"
     - "Program Manager"
-    - "Lead"
 
 search_queries:
   - name: Supply Chain Systems — Greenhouse/Ashby/Lever
