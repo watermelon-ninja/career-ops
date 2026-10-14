@@ -287,3 +287,35 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://jobs.ashbyhq.com/delinea/cd3d7af7-4f2e-4e43-8a68-317675da3c12 | delinea | Senior Product Manager - Browser and Mobile Applications
 - [ ] https://jobs.ashbyhq.com/docebo/736bc740-d717-465c-84a5-5750d51f2236 | Docebo | Enterprise Marketing Manager
 - [ ] https://jobs.ashbyhq.com/docebo/efcc1e1c-e74f-49c1-b2df-4c4c3903b472 | Docebo | Enterprise Marketing Manager, Partnerships
+
+- [ ] https://jobs.ashbyhq.com/drata/803bebd0-0c94-4092-a219-a681aef788cc | Drata | Principal Product Operations Manager
+- [ ] https://jobs.ashbyhq.com/drata/e40799af-94d2-49a3-a68d-9c89685fcab0 | Drata | Partner Program Manager - Service Delivery (Central/East)
+- [ ] https://jobs.ashbyhq.com/drata/16c52a4f-2022-4744-b5de-e3d02ac839ac | Drata | Director, Enterprise Sales - East
+- [ ] https://jobs.ashbyhq.com/duvo/2ac82145-9890-4f82-a9cc-3478b9d88099 | Duvo Inc | Founding Product Manager (EU/UK Based - Remote)
+- [ ] https://jobs.ashbyhq.com/duna/8e5d65f5-3487-442a-ba47-3983e0d54b51 | Duna | Product Manager (Senior/Staff) 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db | elevenlabs | Enterprise Product Manager - ElevenCreative
+- [ ] https://jobs.ashbyhq.com/elevenlabs/7209ce9f-3c69-4dbb-adbb-6c6c068ebad0 | elevenlabs | Sales Lead - Enterprise - Financial Services
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c4085864-14ca-4959-a3f8-3a4015c76eb5 | elevenlabs | Sales Lead - Enterprise - Healthcare
+- [ ] https://jobs.ashbyhq.com/ema/089e8993-acf5-4d11-a7d3-f437f058d194 | ema | Product Manager, UK
+- [ ] https://jobs.ashbyhq.com/empirical-security/2fe77378-f8c8-4830-aebf-7c03e03881d9 | Empirical Security | Enterprise Sales Executive
+- [ ] https://jobs.ashbyhq.com/envision-horizons/7cc170dc-d067-4f98-a99c-973d197c37df | envision-horizons | Enterprise Account Manager
+- [ ] https://jobs.ashbyhq.com/fab2/79bf7f3a-3e99-4151-a55b-ef0d196d9a59 | fab2 | Technical Program Manager - Hardware
+- [ ] https://jobs.ashbyhq.com/fieldguide/457735c7-3ea7-4621-b64e-d62de0d774e5 | Fieldguide | Implementation Consultant, EMEA
+- [ ] https://jobs.ashbyhq.com/fieldguide/4c43f78d-3dd0-4779-b872-dff4498345ce | Fieldguide | Implementation Consultant, Audit
+- [ ] https://jobs.ashbyhq.com/fieldguide/5a7e0342-6df8-4455-968a-c07280360921 | Fieldguide | Lead/Principal Product Manager, Tax Agents
+- [ ] https://jobs.ashbyhq.com/flaglerhealth/8f6e4acd-8aa5-4e38-b0ac-9f117b8a60ab | Flagler Health | Product Manager - RCM
+- [ ] https://jobs.ashbyhq.com/fluidstack/872febc6-b254-49a8-b93b-7fb76f6a2a41 | fluidstack | Connectivity Engineer, Deployment
+- [ ] https://jobs.ashbyhq.com/fluidstack/69d5df13-6d83-4542-9aba-93ec1cb1def3 | fluidstack | Global Enterprise Asset & Maintenance Manager
+- [ ] https://jobs.ashbyhq.com/fluidstack/afebea2a-3b06-4f2b-887a-0fc43242c451 | fluidstack | Security Deployment Lead
+- [ ] https://jobs.ashbyhq.com/fluidstack/1c3617df-e4cf-4749-8110-290edf842284 | fluidstack | Technical Program Manager, R&D
+- [ ] https://jobs.ashbyhq.com/fluidstack/f1515b67-6297-4578-83af-e0f983b52121 | fluidstack | Technical Program Manager, NPI
+- [ ] https://jobs.ashbyhq.com/fluidstack/1cd2bfa6-7abd-478e-a5f9-b8b9a9b43e63 | fluidstack | Robotics Deployment Project Manager
+- [ ] https://jobs.ashbyhq.com/fluidstack/a55255e3-e16c-41c8-b49b-552cdb9f3496 | fluidstack | Technical Program Manager, Security
+- [ ] https://jobs.ashbyhq.com/fluidstack/7c7d9092-a1dc-4d24-93fe-7dac57529402 | fluidstack | Deployments Program Lead
+- [ ] https://jobs.ashbyhq.com/fluidstack/0e911acc-756f-4052-883d-16eb4fe79489 | fluidstack | Technical Program Manager Lead, R&D
+- [ ] https://jobs.ashbyhq.com/fluidstack/124dec2b-1d70-40ea-b97b-f755ba023281 | fluidstack | Technical Program Manager, Electrical Equipment
+- [ ] https://jobs.ashbyhq.com/flosports/19d252cc-ebce-4bc2-9a31-d3965341ffb1 | FloSports, Inc. | Program Manager, Business Operations 
+- [ ] https://jobs.ashbyhq.com/foley/66fa0886-aa1e-4e23-b5d3-48135a7cbb8a | Foley | Enterprise Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/foundationhealthcareers/23d570e2-6056-45c9-a79d-6d1f1aafbf12 | foundationhealthcareers | Implementation Manager
+- [ ] https://jobs.ashbyhq.com/foundationhealthcareers/4acb9647-2759-4c24-878f-3b4c5e80c957 | foundationhealthcareers | Product Manager
+- [ ] https://jobs.ashbyhq.com/EliseAI/a868e0d5-c138-4ddb-a1e2-a57c91225fda | EliseAI | Senior Enterprise Sales Manager | Housing
