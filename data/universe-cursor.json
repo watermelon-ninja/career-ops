@@ -1,7 +1,11 @@
 {
-  "next_index": 1750,
+  "general_next_index": 1900,
+  "workday_next_index": 100,
+  "general_universe_size": 15779,
+  "workday_universe_size": 12884,
   "universe_size": 28663,
   "batch_size": 250,
-  "last_start_index": 1500,
-  "updated_at": "2026-10-14T17:18:40.399Z"
+  "last_general_start_index": 1750,
+  "last_workday_start_index": 0,
+  "updated_at": "2026-10-14T17:21:47.230Z"
 }

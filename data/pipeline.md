@@ -426,3 +426,57 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/Enterprise-Technical-Account-Manager_R171928 | Adobe (Workday) | Enterprise Technical Account Manager
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Illinois/Principal-Enterprise-Architect_R171035 | Adobe (Workday) | Principal Enterprise Architect
 - [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Alberta/Senior-Enterprise-Architect_R169774 | Adobe (Workday) | Senior Enterprise Architect
+
+- [ ] https://jobs.ashbyhq.com/nestveterinary/3922e6e8-abf8-4a82-a7e6-9f90297f4abb | Nest Veterinary | Senior Engineer, Production Support
+- [ ] https://jobs.ashbyhq.com/netgear/bfe00d0b-d5a9-4eb4-907a-a926d62c460c | NETGEAR | Territory Account Manager, Enterprise AV - Rocky Mountains
+- [ ] https://jobs.ashbyhq.com/netgear/2c243962-aa1c-41ff-b86b-eb8e70ee71b9 | NETGEAR | Territory Account Manager, Enterprise Sales - US
+- [ ] https://jobs.ashbyhq.com/neurophos/2759c372-ad03-4e4c-acbe-0b7ecc16ebe2 | Neurophos | Staff Technical Program Manager, ASIC
+- [ ] https://jobs.ashbyhq.com/netboxlabs/e3fff69b-ab13-4869-95c5-66d018fc43ae | NetBox Labs | Senior Engineer (Software), Enterprise
+- [ ] https://jobs.ashbyhq.com/netboxlabs/cae258ea-c35f-49f2-8655-0e5291637438 | NetBox Labs | Staff Product Manager, Network Observability
+- [ ] https://jobs.ashbyhq.com/nevoya/b5a1054e-3c99-4ed9-b3d8-777139a9ee27 | Nevoya | Enterprise Sales Executive
+- [ ] https://jobs.ashbyhq.com/nevoya/1eb3446e-d504-437b-be52-cb5a618acef2 | Nevoya | Enterprise Account Manager
+- [ ] https://jobs.ashbyhq.com/noda-ai/e61b08a1-c548-403f-aacc-5dbd84a76512 | NODA AI | Senior Technical Program Manager – Autonomy
+- [ ] https://jobs.ashbyhq.com/noda-ai/f8c567d7-ffde-4a91-b535-f63a3038ff3a | NODA AI | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/noda-ai/6faad3b0-5f99-4378-aa53-05e3bf181e91 | NODA AI | Product Manager
+- [ ] https://jobs.ashbyhq.com/nylas/2ad7ae0b-5c93-4c7d-acad-99c8a76f5a38 | Nylas | Product Manager
+- [ ] https://jobs.ashbyhq.com/odyssey/56b3c749-4bc7-4177-b4f7-6bc3486884a7 | Odyssey | Implementation Manager
+- [ ] https://jobs.ashbyhq.com/omni/6b7e4bde-b661-4bcc-b045-5426317a80e0 | Omni | Regional Sales Director, Enterprise
+- [ ] https://jobs.ashbyhq.com/omni/d42d9a91-6c6a-480a-b1ad-04ee5550c827 | Omni | Product Marketing, Enterprise
+- [ ] https://jobs.ashbyhq.com/oneapp/e2df1dd0-1d16-4cd7-8fb1-3597e9b43695 | OnePay | Issues & Program Manager, Product Operations
+- [ ] https://jobs.ashbyhq.com/oneapp/1dac9106-c6b9-4826-9449-06f051b5da00 | OnePay | Product Manager, Payment Split
+- [ ] https://jobs.ashbyhq.com/oneapp/0ec0993d-bf24-4712-a122-e074f83a1baf | OnePay | Product Manager, Banking/Cash Advance
+- [ ] https://jobs.ashbyhq.com/oneapp/9db02c98-6bfe-4d9c-a23f-52e78c7f4cfb | OnePay | Product Manager, Subscriptions
+- [ ] https://jobs.ashbyhq.com/oneapp/6d8a6510-d688-45ac-ae38-3753b94bd269 | OnePay | Senior Program Manager, Marketing Operations
+- [ ] https://jobs.ashbyhq.com/oneapp/3139d69b-43a2-4dbd-811b-81b300bd8cef | OnePay | Product Manager, Credit Card
+- [ ] https://jobs.ashbyhq.com/onebrief/f700472d-c290-4873-a448-0450694543e1 | onebrief | Senior Product Manager, Atom Engine
+- [ ] https://jobs.ashbyhq.com/Ontic/626d8d15-ab3e-4590-8acf-df798d5f45ac | Ontic | Senior Product Manager, Integrations
+- [ ] https://jobs.ashbyhq.com/Ontic/2f59109d-bc82-42d1-b568-104f1d42af4c | Ontic | Director, Product Operations 
+- [ ] https://jobs.ashbyhq.com/openly/38bc922c-f47c-46a1-8e08-3154369249d1 | Openly | Regional Insurance Product Manager (Remote, US)
+- [ ] https://jobs.ashbyhq.com/openrouter/0c6bbb7f-ea09-45b6-b185-8a17a8de214d | OpenRouter | Software Engineer, Enterprise
+- [ ] https://jobs.ashbyhq.com/openrouter/cbda7683-f4fc-41ac-b71b-81d7ccca5508 | OpenRouter | Program Manager, Provider Partnerships
+- [ ] https://jobs.ashbyhq.com/openrouter/412cfd6b-81a5-4662-bae2-d86ea1ee324c | OpenRouter | Product Manager, Enterprise
+- [ ] https://jobs.ashbyhq.com/openrouter/80e0a73a-4c76-424a-bf45-9150eadd3320 | OpenRouter | Product Marketing Manager, Enterprise 
+- [ ] https://jobs.ashbyhq.com/openrouter/f22843fc-21f4-4410-a072-4909b1ec68b0 | OpenRouter | Product Manager, OpenRouter Connect
+- [ ] https://jobs.ashbyhq.com/openrouter/065de617-4690-4005-b0ef-9654fcc300ac | OpenRouter | Business Development Representative, Enterprise 
+- [ ] https://jobs.ashbyhq.com/opengov/1c75bde3-7c63-494e-9bb1-cfaa9fd8d2c3 | opengov | ERP Solutions Engineer I
+- [ ] https://jobs.ashbyhq.com/oscilar/594f6f3b-c038-4405-aa81-5d89176bb075 | Oscilar | Sr. Growth Manager, ABM & Enterprise
+- [ ] https://jobs.ashbyhq.com/oscilar/24233649-65d0-406d-b915-996ad7b025f7 | Oscilar | Product Manager - AML
+- [ ] https://jobs.ashbyhq.com/oscilar/729a5d3b-9754-4c19-9d75-42e364fe794c | Oscilar | Product Manager - Device & Behavior
+- [ ] https://jobs.ashbyhq.com/openai/c414f15f-60c4-40b5-a896-d2ad6c7f4415 | openai | Senior Technical Program Manager - Security
+- [ ] https://jobs.ashbyhq.com/openai/87989505-81e5-4513-bba0-5f00bb064216 | openai | Partner AI Deployment Engineer - AWS
+- [ ] https://jobs.ashbyhq.com/openai/6fd50ace-941b-4559-992f-e53f9b76c9a0 | openai | Security Program Manager
+- [ ] https://jobs.ashbyhq.com/openai/3ae71c21-60dd-42b2-a913-58df05988976 | openai | Vendor Security Technical Program Manager
+- [ ] https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Austin-Texas/Program-Manager--Credit-Team_R0018685-1 | abglobal | Program Manager, Credit Team
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Washington/Senior-Enterprise-Architect_R170831 | Adobe (Workday) | Senior Enterprise Architect
+- [ ] https://aah.wd5.myworkdayjobs.com/external/job/Remote/IT-Business-Analyst---Apptio-TBM_R266131 | aah | IT Business Analyst – Apptio TBM
+- [ ] https://academy.wd1.myworkdayjobs.com/careers/job/Headquarters---Katy-TX/Sr-Manager-Core-Technologies-Connectivity-Platforms_R338378-1 | academy | Sr Manager Core Technologies Enterprise Networks
+- [ ] https://academy.wd1.myworkdayjobs.com/careers/job/Headquarters---Katy-TX/Product-Manager-Digital_R326525 | academy | Product Manager Digital
+- [ ] https://academy.wd1.myworkdayjobs.com/careers/job/Headquarters---Katy-TX/Sr-Enterprise-Data-Platform-and-Engineering_R336805 | academy | Sr Enterprise Data Platform and Engineering
+- [ ] https://academy.wd1.myworkdayjobs.com/careers/job/Headquarters---Katy-TX/Sr-Product-Manager-Digital_R335946 | academy | Sr Product Manager Digital
+- [ ] https://academy.wd1.myworkdayjobs.com/careers/job/Headquarters---Katy-TX/Associate-Product-Manager-Digital_R335430 | academy | Associate Product Manager Digital
+- [ ] https://academy.wd1.myworkdayjobs.com/careers/job/Headquarters---Katy-TX/Lead-Finance-Enterprise_R331682 | academy | Lead Finance Enterprise
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Austin--8701-Bee-Caves-Rd/Senior-Product-Manager-Leadless---Low-Voltage-Therapies_31154038-1 | abbott | Senior Product Manager–Leadless & Low Voltage Therapies
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Austin--8701-Bee-Caves-Rd/Associate-Product-Manager_31158830 | abbott | Associate Product Manager-CRM Cardiac Rhythm Management
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Austin--8701-Bee-Caves-Rd/Senior-Product-Manager-Leadless-Therapies_31163915 | abbott | Senior Product Manager-Leadless Therapies
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Government-Enterprise-Account-Manager--Molecular-Diagnostics---West-Region_31163531 | abbott | Government Enterprise Account Manager, Molecular Diagnostics - West Region
+- [ ] https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Technology-Talent-and-Capability-Program-Manager_JR202639598 | ace | Technology Talent and Capability Program Manager
