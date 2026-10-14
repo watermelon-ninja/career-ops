@@ -153,6 +153,9 @@ companies:
   - {name: "Rivian", group: industrial, scan_status: unmapped}
   - {name: "Toyota", group: industrial, scan_status: unmapped}
   - {name: "Ford Motor Company", group: industrial, scan_status: unmapped}
+  - {name: "Tesla", group: industrial, scan_status: unmapped}
+  - {name: "Ericsson", group: industrial, scan_status: unmapped}
+  - {name: "Canon", group: industrial, scan_status: unmapped}
   - {name: "SAP", group: supply_chain, scan_status: unmapped}
   - {name: "Kinaxis", group: supply_chain, scan_status: unmapped}
   - {name: "Blue Yonder", group: supply_chain, scan_status: unmapped}
