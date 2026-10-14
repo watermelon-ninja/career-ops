@@ -42,12 +42,13 @@
     },
     {
       "name": "Oracle",
-      "status": "endpoint_research",
+      "status": "official_search_verified_endpoint_unverified",
       "ats_verified": false,
       "full_jd_fetch_verified": false,
       "attempts": 0,
       "last_error": null,
-      "notes": null
+      "notes": "Oracle Recruiting Cloud public search confirmed; API and full-JD fetch not verified.",
+      "official_careers_url": "https://careers.oracle.com/en/sites/jobsearch"
     },
     {
       "name": "IBM",
@@ -60,24 +61,25 @@
     },
     {
       "name": "Tesla",
-      "status": "official_listing_verified_endpoint_unverified",
+      "status": "official_search_verified_endpoint_unverified",
       "ats_verified": false,
       "full_jd_fetch_verified": false,
       "attempts": 0,
       "last_error": null,
-      "notes": "Public job listings confirmed on official site; stable machine-readable endpoint and full JD retrieval not verified",
+      "notes": "Official listing includes Austin roles; machine-readable full JD not verified.",
       "official_careers_url": "https://www.tesla.com/careers/search"
     },
     {
       "name": "Applied Materials",
-      "status": "workday_site_confirmed_cxs_test_blocked",
+      "status": "workday_endpoint_discovered_pending_cxs_validation",
       "ats_verified": false,
       "full_jd_fetch_verified": false,
       "attempts": 1,
       "last_error": "CXS endpoint not validated: web fetch 400; local runtime DNS unavailable",
-      "notes": "Official Workday job pages and full human-readable JD confirmed (e.g. Common Platform PLM R2624413); attempted CXS jobs endpoint, but network/tool returned 400 and cannot verify POST from this environment. Requires GitHub Actions runner probe, not yet covered.",
+      "notes": "Workday tenant/site identified; CXS POST and full JD retrieval require runner probe.",
       "ats_provider": "workday",
-      "ats_url": "https://amat.wd1.myworkdayjobs.com/External"
+      "ats_url": "https://amat.wd1.myworkdayjobs.com/External",
+      "official_careers_url": "https://amat.wd1.myworkdayjobs.com/External"
     },
     {
       "name": "AMD",
@@ -117,12 +119,12 @@
     },
     {
       "name": "Blue Yonder",
-      "status": "official_listing_verified_endpoint_unverified",
+      "status": "official_search_verified_endpoint_unverified",
       "ats_verified": false,
       "full_jd_fetch_verified": false,
       "attempts": 0,
       "last_error": null,
-      "notes": "Official search results expose live listings and job IDs. Underlying machine-readable endpoint and full JD retrieval not yet tested.",
+      "notes": "Official search lists job IDs and location facets; full-JD automated fetch not verified.",
       "official_careers_url": "https://careers.blueyonder.com/us/en/search-results"
     },
     {
@@ -143,5 +145,16 @@
       "last_error": null,
       "notes": null
     }
-  ]
+  ],
+  "process_policy": {
+    "batch_size": "15-30",
+    "statuses": [
+      "directory_matched_unverified",
+      "official_search_verified_endpoint_unverified",
+      "workday_endpoint_discovered_pending_cxs_validation",
+      "full_jd_fetch_verified",
+      "manual_followup"
+    ],
+    "rule": "Never count an official search page as working automated full-JD coverage; move to manual followup only after documented failed attempts."
+  }
 }
