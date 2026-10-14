@@ -280,7 +280,7 @@ async function fetchSmartRecruitersJobs(api, companyName) {
       const loc = j.location || {};
       jobs.push({
         title: j.name || '',
-        url: j.ref || (j.id ? `https://jobs.smartrecruiters.com/${api.slug}/${j.id}` : ''),
+        url: j.id ? `https://jobs.smartrecruiters.com/${api.slug}/${j.id}` : '',
         company: companyName,
         location: [loc.city, loc.region, loc.country].filter(Boolean).join(', ') || (loc.remote ? 'Remote' : ''),
       });
