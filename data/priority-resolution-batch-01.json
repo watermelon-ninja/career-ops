@@ -70,12 +70,14 @@
     },
     {
       "name": "Applied Materials",
-      "status": "endpoint_research",
+      "status": "workday_endpoint_discovered_pending_cxs_validation",
       "ats_verified": false,
       "full_jd_fetch_verified": false,
       "attempts": 0,
       "last_error": null,
-      "notes": null
+      "notes": "Official Applied Materials job posting observed on amat.wd1.myworkdayjobs.com/External. CXS endpoint and scanner output not yet tested.",
+      "ats_provider": "workday",
+      "ats_url": "https://amat.wd1.myworkdayjobs.com/External"
     },
     {
       "name": "AMD",
@@ -115,12 +117,13 @@
     },
     {
       "name": "Blue Yonder",
-      "status": "endpoint_research",
+      "status": "official_listing_verified_endpoint_unverified",
       "ats_verified": false,
       "full_jd_fetch_verified": false,
       "attempts": 0,
       "last_error": null,
-      "notes": null
+      "notes": "Official search results expose live listings and job IDs. Underlying machine-readable endpoint and full JD retrieval not yet tested.",
+      "official_careers_url": "https://careers.blueyonder.com/us/en/search-results"
     },
     {
       "name": "Manhattan Associates",
