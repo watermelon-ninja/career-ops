@@ -233,3 +233,57 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://jobs.ashbyhq.com/check-technologies/ddbb38fb-05a1-432d-919c-adcb210a7696 | Check Technologies | Enterprise Partner Growth Manager
 - [ ] https://jobs.ashbyhq.com/check-technologies/efdb2736-75c7-49e9-b413-5713008e1634 | Check Technologies | Staff Product Manager
 - [ ] https://jobs.ashbyhq.com/check-technologies/f97a7dd6-21f3-480c-a06d-f443fffdda16 | Check Technologies | Senior Product Manager
+
+- [ ] https://jobs.ashbyhq.com/chromatic/641777c4-fb67-48ea-acbc-1202c03596fe | Chromatic | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/clarium/8d948a17-798a-43c4-b45a-ba93eea3e742 | clarium | Staff Product Manager
+- [ ] https://jobs.ashbyhq.com/clasp-group/dcd10131-e130-4734-ac7c-9f4c2e2bd094 | clasp-group | Product Manager, Candidate & Recruiter Platform
+- [ ] https://jobs.ashbyhq.com/clera/25af37e8-1ae4-4f02-924a-f1c983660c15 | clera | Founding Product Manager
+- [ ] https://jobs.ashbyhq.com/clera/f143b60b-2b7b-489a-a35e-24a3df1bfce8 | clera | Principal Product Manager, AI Platform
+- [ ] https://jobs.ashbyhq.com/clera/d986c71d-1f3e-425b-b4c1-13ce1012c43b | clera | Forward Deployment Engineer
+- [ ] https://jobs.ashbyhq.com/clickup/312d217b-dc4a-43b4-8bd3-6d24e342fd90 | ClickUp | Principal Product Manager
+- [ ] https://jobs.ashbyhq.com/code-metal/b110301c-5000-4752-bfc8-5bd7cde3cba1 | Code Metal | Senior Product Manager (Modeling & Simulation)
+- [ ] https://jobs.ashbyhq.com/code-metal/6d0b5b63-9fd0-4656-8b27-5b018913bf33 | Code Metal | Senior Product Manager - Code Translation & Developer Tooling
+- [ ] https://jobs.ashbyhq.com/cobot/8eca602b-829f-4dc3-9c87-72e0dde600ff | cobot | Sr Deployment Program Manager, Robotics 
+- [ ] https://jobs.ashbyhq.com/coderabbit/30211761-b044-4bce-991f-16bf3b5771bd | CodeRabbit | Enterprise Field Engineer - Pre-sales - SouthEast (Atlanta) 
+- [ ] https://jobs.ashbyhq.com/cogent-security/394474c6-d922-4cfd-bd9a-ee86a4ec526c | cogent-security | Enterprise Technical Account Manager
+- [ ] https://jobs.ashbyhq.com/cognition/a12f5aac-c232-4bf2-953a-2b7217412aed | Cognition | Director, Enterprise Sales (Central)
+- [ ] https://jobs.ashbyhq.com/Commure/aeb8851c-87d7-40a3-acaf-14a26d3a34ed | Commure | Enterprise Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/constructor/e8fa6194-ef2e-47d3-ab45-a9112d87da24 | Constructor | Product Manager: Customer Onboarding Experience
+- [ ] https://jobs.ashbyhq.com/constructor/e7426b59-431b-418b-a501-dde7f13b21bf | Constructor | Senior Product Manager - Merchant Intelligence and Analytics 
+- [ ] https://jobs.ashbyhq.com/constructor/7bc86d05-145d-4b7c-aa6e-b0b207d46117 | Constructor | Senior Product Manager: Recall
+- [ ] https://jobs.ashbyhq.com/constructor/4233299e-f003-4745-8fc0-6622abff1749 | Constructor | Staff Product Manager: Product Discovery Engine
+- [ ] https://jobs.ashbyhq.com/curri/7a704c3c-394d-4723-8b57-432eaf0b78a6 | Curri | Enterprise Sales Director, Medical and Healthcare
+- [ ] https://jobs.ashbyhq.com/curri/1095c9a3-00b8-4269-9620-2925db7323d1 | Curri | Enterprise Account Director
+- [ ] https://jobs.ashbyhq.com/cursor/a4fcfac1-8bf1-4804-a0fb-0ea97037772e | cursor | Regional Director, Geo Enterprise
+- [ ] https://jobs.ashbyhq.com/cursor/0130118d-1cce-4eea-8325-2fc95ab6c584 | cursor | AI Deployment Manager, Scale
+- [ ] https://jobs.ashbyhq.com/dandy/c89505dd-1a0d-4fa1-bd8e-60e9f37fcf9a | Dandy | Account Manager, Enterprise
+- [ ] https://jobs.ashbyhq.com/dandy/4e9a10d3-ed95-4a8f-ba4d-14d5c21ac8d4 | Dandy | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/dandy/4d89f836-4604-4df7-8d73-377607bd885d | Dandy | Senior Product Manager, Crown and Bridge
+- [ ] https://jobs.ashbyhq.com/dailypay/da84dba3-5afd-4b1c-864a-e35d0c2160d3 | dailypay | Strategic Implementation Manager
+- [ ] https://jobs.ashbyhq.com/dailypay/ca96790d-3b61-4d14-85fd-c295ec32dadf | dailypay | Enterprise Sales Director
+- [ ] https://jobs.ashbyhq.com/dailypay/1d8307f9-3f44-442a-bd4f-ad7395e19ac9 | dailypay | Implementation Manager
+- [ ] https://jobs.ashbyhq.com/Crusoe/fb59d79e-a3b5-4842-8967-910e89ba82b5 | Crusoe | Staff Instrumentation & Controls Engineer, Deployment
+- [ ] https://jobs.ashbyhq.com/dash0/d7fa3468-1e5c-4109-bdcf-0fa0f2f9c15b | Dash0 | Enterprise Solutions Engineer - EMEA
+- [ ] https://jobs.ashbyhq.com/dash0/e15212a7-42db-4107-a35b-9075c48b5de3 | Dash0 | Enterprise Solutions Engineer - US, Remote
+- [ ] https://jobs.ashbyhq.com/dash0/6526471a-8f48-425c-9329-2a8dcb175783 | Dash0 | Enterprise Solutions Engineer - UK
+- [ ] https://jobs.ashbyhq.com/dash0/eee66924-267e-4731-803f-85a43866bc9c | Dash0 | Enterprise Solutions Engineer - Nordics
+- [ ] https://jobs.ashbyhq.com/dash0/288244ba-0623-47f5-8d7c-de3cb0590a49 | Dash0 | Enterprise Solutions Engineer - East Coast
+- [ ] https://jobs.ashbyhq.com/dash0/13d63357-a0d4-4829-8d06-eef372f62960 | Dash0 | Enterprise Solutions Engineer - West Coast
+- [ ] https://jobs.ashbyhq.com/decagon/498c7574-d666-45f1-b749-5699354044bd | Decagon | Director of Sales, Enterprise
+- [ ] https://jobs.ashbyhq.com/deepjudge/730411db-4539-4753-b47f-99706d183add | DeepJudge | Enterprise Account Director – Corporate Legal
+- [ ] https://jobs.ashbyhq.com/deepjudge/cef118b7-ad0f-4f13-ad8d-7226c0b73134 | DeepJudge | Enterprise Account Director – US Mid-Size Law Firms
+- [ ] https://jobs.ashbyhq.com/deepgram/3a12f539-7734-46fa-9e3b-28e041e56074 | deepgram | Senior Product Manager, Enterprise
+- [ ] https://jobs.ashbyhq.com/deepgram/17f95148-fa1c-4c34-82c8-333589bef789 | deepgram | Staff Product Manager, Agentic Experiences (Former Engineer)
+- [ ] https://jobs.ashbyhq.com/deepgram/d0660127-6c26-4053-943c-c006990b8edc | deepgram | Staff Product Manager (Product-Led Growth)
+- [ ] https://jobs.ashbyhq.com/deepgram/681c5324-1234-4222-b783-a8a7a9440005 | deepgram | Senior Program Manager, Data Operations
+- [ ] https://jobs.ashbyhq.com/deepgram/be9f18f6-8851-40fb-be50-3c13d7457092 | deepgram | Director of Product Operations 
+- [ ] https://jobs.ashbyhq.com/deepgram/9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5 | deepgram | Staff Product Manager, AI Applications
+- [ ] https://jobs.ashbyhq.com/demandbase/97e337ab-a0bd-4ea9-8d83-80f63acfbe7d | Demandbase | Senior Product Manager, AI Adoption & Growth
+- [ ] https://jobs.ashbyhq.com/delinea/b0d82a51-4494-4928-840a-7800abba8af6 | delinea | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/delinea/73fe12a3-d21b-4e3c-ad9b-030ddd4c3846 | delinea | Enterprise Account Manager - Southeast Florida
+- [ ] https://jobs.ashbyhq.com/delinea/bd262e2c-07cd-4ab3-aada-e1529028167a | delinea | Senior Product Manager - Vault & Secrets
+- [ ] https://jobs.ashbyhq.com/delinea/79f6065e-a97f-41fe-9878-721b27ed5a42 | delinea | Senior Product Manager - Identity Inventory, Correlation and Graph
+- [ ] https://jobs.ashbyhq.com/delinea/a15efb2a-6cb6-4598-908d-7d7817507539 | delinea | Senior Product Manager - Remote Access Client Portfolio
+- [ ] https://jobs.ashbyhq.com/delinea/cd3d7af7-4f2e-4e43-8a68-317675da3c12 | delinea | Senior Product Manager - Browser and Mobile Applications
+- [ ] https://jobs.ashbyhq.com/docebo/736bc740-d717-465c-84a5-5750d51f2236 | Docebo | Enterprise Marketing Manager
+- [ ] https://jobs.ashbyhq.com/docebo/efcc1e1c-e74f-49c1-b2df-4c4c3903b472 | Docebo | Enterprise Marketing Manager, Partnerships
