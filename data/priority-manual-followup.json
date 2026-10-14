@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:26:30.154Z",
+  "generated_at": "2026-10-14T20:38:16.814Z",
   "funnel_stage": 3,
   "note": "Unresolved after Layer 2 network autodetect. Includes shared-platform candidates for reusable Layer 3 adapters; these are not manual failures.",
   "companies": [
@@ -48,6 +48,397 @@
       "failure_reason": null,
       "official_careers_url": "https://careers.oracle.com",
       "final_url": "https://careers.oracle.com/en/sites/jobsearch"
+    },
+    {
+      "name": "Splunk",
+      "group": "tech",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "phenom",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.cisco.com/global/en/splunk",
+          "http_status": 200,
+          "final_url": "https://careers.cisco.com/global/en/splunk",
+          "result": "shared_platform_detected",
+          "provider": "phenom"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.cisco.com/global/en/splunk",
+      "final_url": "https://careers.cisco.com/global/en/splunk"
+    },
+    {
+      "name": "DocuSign",
+      "group": "tech",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "icims",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.docusign.com/careers-home",
+          "http_status": 200,
+          "final_url": "https://careers.docusign.com/careers-home",
+          "result": "shared_platform_detected",
+          "provider": "icims"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.docusign.com/careers-home",
+      "final_url": "https://careers.docusign.com/careers-home"
+    },
+    {
+      "name": "NetApp",
+      "group": "tech",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "eightfold",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.netapp.com/",
+          "http_status": 200,
+          "final_url": "https://careers.netapp.com/",
+          "result": "shared_platform_detected",
+          "provider": "eightfold"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.netapp.com/",
+      "final_url": "https://careers.netapp.com/"
+    },
+    {
+      "name": "Uber",
+      "group": "tech",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "oracle_recruiting_cloud",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://jobs.uber.com/en/",
+          "http_status": 200,
+          "final_url": "https://jobs.uber.com/en/",
+          "result": "shared_platform_detected",
+          "provider": "oracle_recruiting_cloud"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://jobs.uber.com/en/",
+      "final_url": "https://jobs.uber.com/en/"
+    },
+    {
+      "name": "AMD",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "icims",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.amd.com/en/corporate/careers.html?utm_campaign=careers&utm_medium=redirect&utm_source=301",
+          "http_status": 200,
+          "final_url": "https://www.amd.com/en/corporate/careers.html?utm_campaign=careers&utm_medium=redirect&utm_source=301",
+          "result": "shared_platform_detected",
+          "provider": "icims"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.amd.com/en/corporate/careers.html?utm_campaign=careers&utm_medium=redirect&utm_source=301",
+      "final_url": "https://www.amd.com/en/corporate/careers.html?utm_campaign=careers&utm_medium=redirect&utm_source=301"
+    },
+    {
+      "name": "Micron Technology",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "eightfold",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.micron.com/about/careers",
+          "http_status": 200,
+          "final_url": "https://www.micron.com/about/careers",
+          "result": "shared_platform_detected",
+          "provider": "eightfold"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.micron.com/about/careers",
+      "final_url": "https://www.micron.com/about/careers"
+    },
+    {
+      "name": "Lam Research",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "eightfold",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
+          "http_status": 200,
+          "final_url": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
+          "result": "shared_platform_detected",
+          "provider": "eightfold"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
+      "final_url": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity"
+    },
+    {
+      "name": "Infineon Technologies",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "eightfold",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.infineon.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.infineon.com/careers",
+          "result": "shared_platform_detected",
+          "provider": "eightfold"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.infineon.com/careers",
+      "final_url": "https://www.infineon.com/careers"
+    },
+    {
+      "name": "Arm",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "icims",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.arm.com/",
+          "http_status": 200,
+          "final_url": "https://careers.arm.com/",
+          "result": "shared_platform_detected",
+          "provider": "icims"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.arm.com/",
+      "final_url": "https://careers.arm.com/"
+    },
+    {
+      "name": "onsemi",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "oracle_recruiting_cloud",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.onsemi.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.onsemi.com/careers",
+          "result": "shared_platform_detected",
+          "provider": "oracle_recruiting_cloud"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.onsemi.com/careers",
+      "final_url": "https://www.onsemi.com/careers"
+    },
+    {
+      "name": "Teradyne",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "successfactors",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://jobs.teradyne.com/teradyne",
+          "http_status": 200,
+          "final_url": "https://jobs.teradyne.com/teradyne",
+          "result": "shared_platform_detected",
+          "provider": "successfactors"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://jobs.teradyne.com/teradyne",
+      "final_url": "https://jobs.teradyne.com/teradyne"
+    },
+    {
+      "name": "Honeywell",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "oracle_recruiting_cloud",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.honeywell.com/us/en/careers",
+          "http_status": 200,
+          "final_url": "https://www.honeywell.com/us/en/careers",
+          "result": "shared_platform_detected",
+          "provider": "oracle_recruiting_cloud"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.honeywell.com/us/en/careers",
+      "final_url": "https://www.honeywell.com/us/en/careers"
+    },
+    {
+      "name": "Eaton",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "eightfold",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.eaton.com/us/en-us/company/careers.html",
+          "http_status": 200,
+          "final_url": "https://www.eaton.com/us/en-us/company/careers.html",
+          "result": "shared_platform_detected",
+          "provider": "eightfold"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.eaton.com/us/en-us/company/careers.html",
+      "final_url": "https://www.eaton.com/us/en-us/company/careers.html"
+    },
+    {
+      "name": "Lockheed Martin",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "eightfold",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.lockheedmartin.com/en-us/careers/index.html",
+          "http_status": 200,
+          "final_url": "https://www.lockheedmartin.com/en-us/careers/index.html",
+          "result": "shared_platform_detected",
+          "provider": "eightfold"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.lockheedmartin.com/en-us/careers/index.html",
+      "final_url": "https://www.lockheedmartin.com/en-us/careers/index.html"
+    },
+    {
+      "name": "Northrop Grumman",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "eightfold",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.northropgrumman.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.northropgrumman.com/careers",
+          "result": "shared_platform_detected",
+          "provider": "eightfold"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.northropgrumman.com/careers",
+      "final_url": "https://www.northropgrumman.com/careers"
+    },
+    {
+      "name": "Trane Technologies",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "phenom",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.tranetechnologies.com/global/en/home",
+          "http_status": 200,
+          "final_url": "https://careers.tranetechnologies.com/global/en/home",
+          "result": "shared_platform_detected",
+          "provider": "phenom"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.tranetechnologies.com/global/en/home",
+      "final_url": "https://careers.tranetechnologies.com/global/en/home"
+    },
+    {
+      "name": "Rivian",
+      "group": "industrial",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "icims",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.rivian.com/careers-home/",
+          "http_status": 200,
+          "final_url": "https://careers.rivian.com/careers-home/",
+          "result": "shared_platform_detected",
+          "provider": "icims"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.rivian.com/careers-home/",
+      "final_url": "https://careers.rivian.com/careers-home/"
     },
     {
       "name": "Blue Yonder",
@@ -117,6 +508,351 @@
       "failure_reason": null,
       "official_careers_url": "https://careers.dhl.com",
       "final_url": "https://careers.dhl.com/amer/en"
+    },
+    {
+      "name": "Wipro",
+      "group": "consulting",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "successfactors",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.wipro.com/",
+          "http_status": 200,
+          "final_url": "https://careers.wipro.com/",
+          "result": "shared_platform_detected",
+          "provider": "successfactors"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.wipro.com/",
+      "final_url": "https://careers.wipro.com/"
+    },
+    {
+      "name": "HCLTech",
+      "group": "consulting",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "successfactors",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.hcltech.com/",
+          "http_status": 200,
+          "final_url": "https://careers.hcltech.com/",
+          "result": "shared_platform_detected",
+          "provider": "successfactors"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.hcltech.com/",
+      "final_url": "https://careers.hcltech.com/"
+    },
+    {
+      "name": "BDO USA",
+      "group": "consulting",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "oracle_recruiting_cloud",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.bdo.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.bdo.com/careers",
+          "result": "shared_platform_detected",
+          "provider": "oracle_recruiting_cloud"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.bdo.com/careers",
+      "final_url": "https://www.bdo.com/careers"
+    },
+    {
+      "name": "Procter & Gamble",
+      "group": "retail",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "phenom",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.pgcareers.com/us/en",
+          "http_status": 200,
+          "final_url": "https://www.pgcareers.com/us/en",
+          "result": "shared_platform_detected",
+          "provider": "phenom"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.pgcareers.com/us/en",
+      "final_url": "https://www.pgcareers.com/us/en"
+    },
+    {
+      "name": "Chewy",
+      "group": "retail",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "phenom",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.chewy.com/us/en/home",
+          "http_status": 200,
+          "final_url": "https://careers.chewy.com/us/en/home",
+          "result": "shared_platform_detected",
+          "provider": "phenom"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.chewy.com/us/en/home",
+      "final_url": "https://careers.chewy.com/us/en/home"
+    },
+    {
+      "name": "Albertsons",
+      "group": "retail",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "oracle_recruiting_cloud",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.albertsons.com/careers.html",
+          "http_status": 200,
+          "final_url": "https://www.albertsons.com/careers.html",
+          "result": "shared_platform_detected",
+          "provider": "oracle_recruiting_cloud"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.albertsons.com/careers.html",
+      "final_url": "https://www.albertsons.com/careers.html"
+    },
+    {
+      "name": "Dollar General",
+      "group": "retail",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "oracle_recruiting_cloud",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.dollargeneral.com/",
+          "http_status": 200,
+          "final_url": "https://careers.dollargeneral.com/",
+          "result": "shared_platform_detected",
+          "provider": "oracle_recruiting_cloud"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.dollargeneral.com/",
+      "final_url": "https://careers.dollargeneral.com/"
+    },
+    {
+      "name": "Macy's",
+      "group": "retail",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "oracle_recruiting_cloud",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.macys.com/customer-service/articles/job-and-career-opportunities",
+          "http_status": 200,
+          "final_url": "https://www.macys.com/customer-service/articles/job-and-career-opportunities",
+          "result": "shared_platform_detected",
+          "provider": "oracle_recruiting_cloud"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.macys.com/customer-service/articles/job-and-career-opportunities",
+      "final_url": "https://www.macys.com/customer-service/articles/job-and-career-opportunities"
+    },
+    {
+      "name": "Tractor Supply",
+      "group": "retail",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "successfactors",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.tractorsupply.careers/",
+          "http_status": 200,
+          "final_url": "https://www.tractorsupply.careers/",
+          "result": "shared_platform_detected",
+          "provider": "successfactors"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.tractorsupply.careers/",
+      "final_url": "https://www.tractorsupply.careers/"
+    },
+    {
+      "name": "Hormel Foods",
+      "group": "retail",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "oracle_recruiting_cloud",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.hormelfoods.com/careers/",
+          "http_status": 200,
+          "final_url": "https://www.hormelfoods.com/careers/",
+          "result": "shared_platform_detected",
+          "provider": "oracle_recruiting_cloud"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.hormelfoods.com/careers/",
+      "final_url": "https://www.hormelfoods.com/careers/"
+    },
+    {
+      "name": "JPMorgan Chase",
+      "group": "finance_health_local",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "oracle_recruiting_cloud",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.jpmorganchase.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.jpmorganchase.com/careers",
+          "result": "shared_platform_detected",
+          "provider": "oracle_recruiting_cloud"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.jpmorganchase.com/careers",
+      "final_url": "https://www.jpmorganchase.com/careers"
+    },
+    {
+      "name": "State Farm",
+      "group": "finance_health_local",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "icims",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.statefarm.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.statefarm.com/careers",
+          "result": "shared_platform_detected",
+          "provider": "icims"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.statefarm.com/careers",
+      "final_url": "https://www.statefarm.com/careers"
+    },
+    {
+      "name": "Cencora",
+      "group": "finance_health_local",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "phenom",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.cencora.com/us/en",
+          "http_status": 200,
+          "final_url": "https://careers.cencora.com/us/en",
+          "result": "shared_platform_detected",
+          "provider": "phenom"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.cencora.com/us/en",
+      "final_url": "https://careers.cencora.com/us/en"
+    },
+    {
+      "name": "Boston Scientific",
+      "group": "finance_health_local",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "eightfold",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.bostonscientific.com/en-US/careers.html",
+          "http_status": 200,
+          "final_url": "https://www.bostonscientific.com/en-US/careers.html",
+          "result": "shared_platform_detected",
+          "provider": "eightfold"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.bostonscientific.com/en-US/careers.html",
+      "final_url": "https://www.bostonscientific.com/en-US/careers.html"
+    },
+    {
+      "name": "Quest Diagnostics",
+      "group": "finance_health_local",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "oracle_recruiting_cloud",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.questdiagnostics.com/",
+          "http_status": 200,
+          "final_url": "https://careers.questdiagnostics.com/",
+          "result": "shared_platform_detected",
+          "provider": "oracle_recruiting_cloud"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.questdiagnostics.com/",
+      "final_url": "https://careers.questdiagnostics.com/"
     },
     {
       "name": "Apple",
@@ -304,58 +1040,7 @@
       "failure_reason": "no_curated_careers_url"
     },
     {
-      "name": "Palo Alto Networks",
-      "group": "tech",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
       "name": "Fortinet",
-      "group": "tech",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Splunk",
-      "group": "tech",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "DocuSign",
       "group": "tech",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -400,10 +1085,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://careers.veeva.com/",
+          "http_status": 200,
+          "final_url": "https://careers.veeva.com/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://careers.veeva.com/"
+      ]
     },
     {
       "name": "Nutanix",
@@ -417,64 +1109,20 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://careers.nutanix.com/en/",
+          "http_status": 200,
+          "final_url": "https://careers.nutanix.com/en/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "NetApp",
-      "group": "tech",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://careers.nutanix.com/en/"
+      ]
     },
     {
       "name": "Lenovo",
-      "group": "tech",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Uber",
-      "group": "tech",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Expedia Group",
       "group": "tech",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -525,23 +1173,6 @@
       "failure_reason": "no_curated_careers_url"
     },
     {
-      "name": "AMD",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
       "name": "Texas Instruments",
       "group": "industrial",
       "stage": 3,
@@ -559,58 +1190,7 @@
       "failure_reason": "no_curated_careers_url"
     },
     {
-      "name": "Micron Technology",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Lam Research",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
       "name": "Tokyo Electron",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Infineon Technologies",
       "group": "industrial",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -672,47 +1252,20 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://careers.synopsys.com/",
+          "http_status": 200,
+          "final_url": "https://careers.synopsys.com/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://careers.synopsys.com/"
+      ]
     },
     {
       "name": "Cadence Design Systems",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Arm",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Marvell Technology",
       "group": "industrial",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -740,10 +1293,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.microchip.com/en-us/about/careers",
+          "http_status": 200,
+          "final_url": "https://www.microchip.com/en-us/about/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.microchip.com/en-us/about/careers"
+      ]
     },
     {
       "name": "Skyworks Solutions",
@@ -757,61 +1317,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.skyworksinc.com/careers",
+          "http_status": 202,
+          "final_url": "https://www.skyworksinc.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "onsemi",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Wolfspeed",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Western Digital",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.skyworksinc.com/careers"
+      ]
     },
     {
       "name": "Seagate Technology",
@@ -825,10 +1341,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.seagate.com/careers/",
+          "http_status": 200,
+          "final_url": "https://www.seagate.com/careers/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.seagate.com/careers/"
+      ]
     },
     {
       "name": "Ultra Clean Holdings",
@@ -849,23 +1372,6 @@
     },
     {
       "name": "Ichor Holdings",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Teradyne",
       "group": "industrial",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -944,10 +1450,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.sanmina.com/careers/",
+          "http_status": 200,
+          "final_url": "https://www.sanmina.com/careers/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.sanmina.com/careers/"
+      ]
     },
     {
       "name": "Benchmark Electronics",
@@ -1046,81 +1559,20 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.siemens.com/en-us/company/jobs/?fbclid=PAZXh0bgNhZW0BMABwZG9mAmFkaWQBqzsLOnB-TXNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp-AYRJ6zXFIv4BKrdqSug0OBo66LQ2gA-Rt-BE3EATxQR7vg8L0G3989yQ7b_aem_TNo84fmqt69VuLdLAxJF6g&spr_cid=120_17380&spr_ppid=6aa0034d4a3765df6ebc2e3c&utm_campaign=120254581508960045&utm_content=120254601094070045&utm_id=120254581508960045&utm_medium=paid&utm_source=ig&utm_term=120254601086800045",
+          "http_status": 200,
+          "final_url": "https://www.siemens.com/en-us/company/jobs/?fbclid=PAZXh0bgNhZW0BMABwZG9mAmFkaWQBqzsLOnB-TXNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp-AYRJ6zXFIv4BKrdqSug0OBo66LQ2gA-Rt-BE3EATxQR7vg8L0G3989yQ7b_aem_TNo84fmqt69VuLdLAxJF6g&spr_cid=120_17380&spr_ppid=6aa0034d4a3765df6ebc2e3c&utm_campaign=120254581508960045&utm_content=120254601094070045&utm_id=120254581508960045&utm_medium=paid&utm_source=ig&utm_term=120254601086800045",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Honeywell",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Eaton",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Lockheed Martin",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.siemens.com/en-us/company/jobs/?fbclid=PAZXh0bgNhZW0BMABwZG9mAmFkaWQBqzsLOnB-TXNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp-AYRJ6zXFIv4BKrdqSug0OBo66LQ2gA-Rt-BE3EATxQR7vg8L0G3989yQ7b_aem_TNo84fmqt69VuLdLAxJF6g&spr_cid=120_17380&spr_ppid=6aa0034d4a3765df6ebc2e3c&utm_campaign=120254581508960045&utm_content=120254601094070045&utm_id=120254581508960045&utm_medium=paid&utm_source=ig&utm_term=120254601086800045"
+      ]
     },
     {
       "name": "RTX",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Northrop Grumman",
       "group": "industrial",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -1171,23 +1623,6 @@
       "failure_reason": "no_curated_careers_url"
     },
     {
-      "name": "Caterpillar",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
       "name": "Deere & Company",
       "group": "industrial",
       "stage": 3,
@@ -1199,47 +1634,20 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.deere.com/en-us/our-company/careers",
+          "http_status": 200,
+          "final_url": "https://www.deere.com/en-us/our-company/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.deere.com/en-us/our-company/careers"
+      ]
     },
     {
       "name": "Cummins",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Trane Technologies",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Johnson Controls",
       "group": "industrial",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -1267,27 +1675,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.carrier.com/us/en/careers/",
+          "http_status": 200,
+          "final_url": "https://www.carrier.com/us/en/careers/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "3M",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.carrier.com/us/en/careers/"
+      ]
     },
     {
       "name": "Corning",
@@ -1301,10 +1699,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.corning.com/worldwide/en/careers.html",
+          "http_status": 200,
+          "final_url": "https://www.corning.com/worldwide/en/careers.html",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.corning.com/worldwide/en/careers.html"
+      ]
     },
     {
       "name": "Parker Hannifin",
@@ -1352,27 +1757,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.bosch.com/careers/",
+          "http_status": 200,
+          "final_url": "https://www.bosch.com/careers/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Rivian",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.bosch.com/careers/"
+      ]
     },
     {
       "name": "Ford Motor Company",
@@ -1386,10 +1781,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.careers.ford.com/",
+          "http_status": 200,
+          "final_url": "https://www.careers.ford.com/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.careers.ford.com/"
+      ]
     },
     {
       "name": "Tesla",
@@ -1533,10 +1935,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.infor.com/about/careers",
+          "http_status": 200,
+          "final_url": "https://www.infor.com/about/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.infor.com/about/careers"
+      ]
     },
     {
       "name": "E2open",
@@ -1592,8 +2001,8 @@
         {
           "stage": 2,
           "url": "https://gxo.com/careers",
-          "http_status": 200,
-          "final_url": "https://gxo.com/careers/",
+          "http_status": 403,
+          "final_url": "https://gxo.com/careers",
           "result": "no_supported_ats_signature",
           "provider": null
         }
@@ -1632,30 +2041,20 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://schneiderjobs.com/",
+          "http_status": 200,
+          "final_url": "https://schneiderjobs.com/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://schneiderjobs.com/"
+      ]
     },
     {
       "name": "Werner Enterprises",
-      "group": "supply_chain",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Old Dominion Freight Line",
       "group": "supply_chain",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -1700,10 +2099,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.dsv.com/en/careers",
+          "http_status": 200,
+          "final_url": "https://www.dsv.com/en/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.dsv.com/en/careers"
+      ]
     },
     {
       "name": "CEVA Logistics",
@@ -1751,30 +2157,20 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.expeditors.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.expeditors.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.expeditors.com/careers"
+      ]
     },
     {
       "name": "ShipBob",
-      "group": "supply_chain",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Dematic",
       "group": "supply_chain",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -1802,10 +2198,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.swisslog.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.swisslog.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.swisslog.com/careers"
+      ]
     },
     {
       "name": "Körber Supply Chain",
@@ -1853,10 +2256,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.tecsys.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.tecsys.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.tecsys.com/careers"
+      ]
     },
     {
       "name": "MuleSoft",
@@ -1870,10 +2280,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.salesforce.com/company/careers/?d=70130000000i80S",
+          "http_status": 200,
+          "final_url": "https://www.salesforce.com/company/careers/?d=70130000000i80S",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.salesforce.com/company/careers/?d=70130000000i80S"
+      ]
     },
     {
       "name": "Informatica",
@@ -1887,31 +2304,21 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.salesforce.com/company/careers/jobs/?search=informatica&pagesize=20",
+          "http_status": 200,
+          "final_url": "https://www.salesforce.com/company/careers/jobs/?search=informatica&pagesize=20",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.salesforce.com/company/careers/jobs/?search=informatica&pagesize=20"
+      ]
     },
     {
       "name": "Qlik",
       "group": "supply_chain",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Deloitte",
-      "group": "consulting",
       "stage": 3,
       "status": "needs_generic_endpoint",
       "resolved_by": null,
@@ -1938,10 +2345,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.capgemini.com/careers/",
+          "http_status": 200,
+          "final_url": "https://www.capgemini.com/careers/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.capgemini.com/careers/"
+      ]
     },
     {
       "name": "EY",
@@ -1955,10 +2369,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.ey.com/en_gl/careers",
+          "http_status": 200,
+          "final_url": "https://www.ey.com/en_gl/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.ey.com/en_gl/careers"
+      ]
     },
     {
       "name": "Cognizant",
@@ -1972,10 +2393,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://careers.cognizant.com/global-en/",
+          "http_status": 200,
+          "final_url": "https://careers.cognizant.com/global-en/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://careers.cognizant.com/global-en/"
+      ]
     },
     {
       "name": "Infosys",
@@ -1989,10 +2417,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.infosys.com/careers/usa/",
+          "http_status": 200,
+          "final_url": "https://www.infosys.com/careers/usa/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.infosys.com/careers/usa/"
+      ]
     },
     {
       "name": "EPAM Systems",
@@ -2023,47 +2458,20 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.slalom.com/us/en/careers",
+          "http_status": 200,
+          "final_url": "https://www.slalom.com/us/en/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Wipro",
-      "group": "consulting",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.slalom.com/us/en/careers"
+      ]
     },
     {
       "name": "Tata Consultancy Services",
-      "group": "consulting",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "HCLTech",
       "group": "consulting",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -2091,10 +2499,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.nttdata.com/en-us/careers",
+          "http_status": 200,
+          "final_url": "https://www.nttdata.com/en-us/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.nttdata.com/en-us/careers"
+      ]
     },
     {
       "name": "CGI",
@@ -2108,10 +2523,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.cgi.com/en/careers",
+          "http_status": 200,
+          "final_url": "https://www.cgi.com/en/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.cgi.com/en/careers"
+      ]
     },
     {
       "name": "Booz Allen Hamilton",
@@ -2159,10 +2581,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.westmonroe.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.westmonroe.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.westmonroe.com/careers"
+      ]
     },
     {
       "name": "Publicis Sapient",
@@ -2176,10 +2605,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://careers.publicissapient.com/",
+          "http_status": 200,
+          "final_url": "https://careers.publicissapient.com/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://careers.publicissapient.com/"
+      ]
     },
     {
       "name": "Perficient",
@@ -2210,10 +2646,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.protiviti.com/gl-en/careers",
+          "http_status": 200,
+          "final_url": "https://www.protiviti.com/gl-en/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.protiviti.com/gl-en/careers"
+      ]
     },
     {
       "name": "RSM US",
@@ -2227,27 +2670,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://rsmus.com/careers.html",
+          "http_status": 200,
+          "final_url": "https://rsmus.com/careers.html",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "BDO USA",
-      "group": "consulting",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://rsmus.com/careers.html"
+      ]
     },
     {
       "name": "Bain & Company",
@@ -2312,27 +2745,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.kearney.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.kearney.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Genpact",
-      "group": "consulting",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.kearney.com/careers"
+      ]
     },
     {
       "name": "Globant",
@@ -2346,10 +2769,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.globant.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.globant.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.globant.com/careers"
+      ]
     },
     {
       "name": "Costco",
@@ -2363,10 +2793,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.costco.com/f/-/careers",
+          "http_status": 200,
+          "final_url": "https://www.costco.com/f/-/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.costco.com/f/-/careers"
+      ]
     },
     {
       "name": "H-E-B",
@@ -2397,30 +2834,20 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://careers.wholefoods.com/",
+          "http_status": 200,
+          "final_url": "https://careers.wholefoods.com/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://careers.wholefoods.com/"
+      ]
     },
     {
       "name": "PepsiCo",
-      "group": "retail",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Procter & Gamble",
       "group": "retail",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -2471,23 +2898,6 @@
       "failure_reason": "no_curated_careers_url"
     },
     {
-      "name": "Chewy",
-      "group": "retail",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
       "name": "Wayfair",
       "group": "retail",
       "stage": 3,
@@ -2499,30 +2909,20 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.aboutwayfair.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.aboutwayfair.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.aboutwayfair.com/careers"
+      ]
     },
     {
       "name": "Kroger",
-      "group": "retail",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Albertsons",
       "group": "retail",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -2550,27 +2950,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://jobs.walgreens.com/en",
+          "http_status": 200,
+          "final_url": "https://jobs.walgreens.com/en",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Dollar General",
-      "group": "retail",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://jobs.walgreens.com/en"
+      ]
     },
     {
       "name": "TJX Companies",
@@ -2584,10 +2974,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.tjx.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.tjx.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.tjx.com/careers"
+      ]
     },
     {
       "name": "Ross Stores",
@@ -2601,64 +2998,20 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://jobs.rossstores.com/",
+          "http_status": 200,
+          "final_url": "https://jobs.rossstores.com/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Macy's",
-      "group": "retail",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://jobs.rossstores.com/"
+      ]
     },
     {
       "name": "Lululemon",
-      "group": "retail",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "YETI",
-      "group": "retail",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Tractor Supply",
       "group": "retail",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -2720,10 +3073,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.shopify.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.shopify.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.shopify.com/careers"
+      ]
     },
     {
       "name": "DoorDash",
@@ -2862,23 +3222,6 @@
       "failure_reason": "no_curated_careers_url"
     },
     {
-      "name": "Hormel Foods",
-      "group": "retail",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
       "name": "Charles Schwab",
       "group": "finance_health_local",
       "stage": 3,
@@ -2930,40 +3273,6 @@
       "failure_reason": "no_curated_careers_url"
     },
     {
-      "name": "JPMorgan Chase",
-      "group": "finance_health_local",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Bank of America",
-      "group": "finance_health_local",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
       "name": "Wells Fargo",
       "group": "finance_health_local",
       "stage": 3,
@@ -2975,10 +3284,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.wellsfargojobs.com/en/",
+          "http_status": 200,
+          "final_url": "https://www.wellsfargojobs.com/en/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.wellsfargojobs.com/en/"
+      ]
     },
     {
       "name": "Goldman Sachs",
@@ -2992,10 +3308,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.goldmansachs.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.goldmansachs.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.goldmansachs.com/careers"
+      ]
     },
     {
       "name": "Morgan Stanley",
@@ -3043,27 +3366,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.libertymutualgroup.com/about-lm/careers/overview",
+          "http_status": 200,
+          "final_url": "https://www.libertymutualgroup.com/about-lm/careers/overview",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "State Farm",
-      "group": "finance_health_local",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.libertymutualgroup.com/about-lm/careers/overview"
+      ]
     },
     {
       "name": "Berkshire Hathaway",
@@ -3111,47 +3424,20 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.optum.com/en/careers.html",
+          "http_status": 200,
+          "final_url": "https://www.optum.com/en/careers.html",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Cencora",
-      "group": "finance_health_local",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.optum.com/en/careers.html"
+      ]
     },
     {
       "name": "Thermo Fisher Scientific",
-      "group": "finance_health_local",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Boston Scientific",
       "group": "finance_health_local",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -3186,23 +3472,6 @@
     },
     {
       "name": "Johnson & Johnson",
-      "group": "finance_health_local",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Merck & Co.",
       "group": "finance_health_local",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -3254,23 +3523,6 @@
     },
     {
       "name": "Moderna",
-      "group": "finance_health_local",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Quest Diagnostics",
       "group": "finance_health_local",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -3366,27 +3618,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.austinregionalclinic.com/about/careers",
+          "http_status": 200,
+          "final_url": "https://www.austinregionalclinic.com/about/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Q2 Holdings",
-      "group": "finance_health_local",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.austinregionalclinic.com/about/careers"
+      ]
     },
     {
       "name": "Texas Mutual Insurance",

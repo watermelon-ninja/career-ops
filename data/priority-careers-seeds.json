@@ -3,10 +3,220 @@
   "note": "Official company careers seeds, not ATS or full-JD verification.",
   "companies": [
     {
+      "name": "3M",
+      "careers_url": "https://www.3m.com/3M/en_WW/careers-select-location/?utm_medium=redirect&utm_source=vanity-url&utm_campaign=www.3m.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Albertsons",
+      "careers_url": "https://www.albertsons.com/careers.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "AMD",
+      "careers_url": "https://www.amd.com/en/corporate/careers.html?utm_campaign=careers&utm_medium=redirect&utm_source=301",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Arm",
+      "careers_url": "https://careers.arm.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
       "name": "Atlassian",
       "careers_url": "https://www.atlassian.com/company/careers",
       "source": "official_site",
       "status": "official_careers_page_verified"
+    },
+    {
+      "name": "Austin Regional Clinic",
+      "careers_url": "https://www.austinregionalclinic.com/about/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Bank of America",
+      "careers_url": "https://careers.bankofamerica.com/en-us",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "BDO USA",
+      "careers_url": "https://www.bdo.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Bosch",
+      "careers_url": "https://www.bosch.com/careers/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Boston Scientific",
+      "careers_url": "https://www.bostonscientific.com/en-US/careers.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Capgemini",
+      "careers_url": "https://www.capgemini.com/careers/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Carrier Global",
+      "careers_url": "https://www.carrier.com/us/en/careers/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Caterpillar",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Cencora",
+      "careers_url": "https://careers.cencora.com/us/en",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "CGI",
+      "careers_url": "https://www.cgi.com/en/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Chewy",
+      "careers_url": "https://careers.chewy.com/us/en/home",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Cognizant",
+      "careers_url": "https://careers.cognizant.com/global-en/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Corning",
+      "careers_url": "https://www.corning.com/worldwide/en/careers.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Costco",
+      "careers_url": "https://www.costco.com/f/-/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Deere & Company",
+      "careers_url": "https://www.deere.com/en-us/our-company/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Deloitte",
+      "careers_url": "https://www.deloitte.com/global/en/careers/job-search.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Dematic",
+      "careers_url": "https://www.dematic.com/en-us/about/careers/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "DocuSign",
+      "careers_url": "https://careers.docusign.com/careers-home",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Dollar General",
+      "careers_url": "https://careers.dollargeneral.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "DSV",
+      "careers_url": "https://www.dsv.com/en/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Eaton",
+      "careers_url": "https://www.eaton.com/us/en-us/company/careers.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Expedia Group",
+      "careers_url": "https://careers.expediagroup.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Expeditors International",
+      "careers_url": "https://www.expeditors.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "EY",
+      "careers_url": "https://www.ey.com/en_gl/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Ford Motor Company",
+      "careers_url": "https://www.careers.ford.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Genpact",
+      "careers_url": "https://www.genpact.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Globant",
+      "careers_url": "https://www.globant.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Goldman Sachs",
+      "careers_url": "https://www.goldmansachs.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "HCLTech",
+      "careers_url": "https://careers.hcltech.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Honeywell",
+      "careers_url": "https://www.honeywell.com/us/en/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Hormel Foods",
+      "careers_url": "https://www.hormelfoods.com/careers/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
     },
     {
       "name": "IBM",
@@ -15,11 +225,365 @@
       "status": "official_careers_page_verified"
     },
     {
+      "name": "Infineon Technologies",
+      "careers_url": "https://www.infineon.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Infor",
+      "careers_url": "https://www.infor.com/about/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Informatica",
+      "careers_url": "https://www.salesforce.com/company/careers/jobs/?search=informatica&pagesize=20",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Infosys",
+      "careers_url": "https://www.infosys.com/careers/usa/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
       "name": "Intuit",
       "careers_url": "https://www.intuit.com/careers/",
       "source": "official_site",
       "status": "official_careers_page_verified"
+    },
+    {
+      "name": "Johnson Controls",
+      "careers_url": "https://jobs.johnsoncontrols.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "JPMorgan Chase",
+      "careers_url": "https://www.jpmorganchase.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Kearney",
+      "careers_url": "https://www.kearney.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Lam Research",
+      "careers_url": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Liberty Mutual",
+      "careers_url": "https://www.libertymutualgroup.com/about-lm/careers/overview",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Lockheed Martin",
+      "careers_url": "https://www.lockheedmartin.com/en-us/careers/index.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Macy's",
+      "careers_url": "https://www.macys.com/customer-service/articles/job-and-career-opportunities",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Marvell Technology",
+      "careers_url": "https://www.marvell.com/company/careers.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Merck & Co.",
+      "careers_url": "https://jobs.merck.com/us/en",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Microchip Technology",
+      "careers_url": "https://www.microchip.com/en-us/about/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Micron Technology",
+      "careers_url": "https://www.micron.com/about/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "MuleSoft",
+      "careers_url": "https://www.salesforce.com/company/careers/?d=70130000000i80S",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "NetApp",
+      "careers_url": "https://careers.netapp.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Northrop Grumman",
+      "careers_url": "https://www.northropgrumman.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "NTT DATA",
+      "careers_url": "https://www.nttdata.com/en-us/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Nutanix",
+      "careers_url": "https://careers.nutanix.com/en/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Old Dominion Freight Line",
+      "careers_url": "https://www.olddominionfreightline.com/us/en/careers.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "onsemi",
+      "careers_url": "https://www.onsemi.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Optum",
+      "careers_url": "https://www.optum.com/en/careers.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "careers_url": "https://jobs.paloaltonetworks.com/en",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Procter & Gamble",
+      "careers_url": "https://www.pgcareers.com/us/en",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Protiviti",
+      "careers_url": "https://www.protiviti.com/gl-en/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Publicis Sapient",
+      "careers_url": "https://careers.publicissapient.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Q2 Holdings",
+      "careers_url": "https://www.q2.com/company/why-work-at-q2/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Quest Diagnostics",
+      "careers_url": "https://careers.questdiagnostics.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Rivian",
+      "careers_url": "https://careers.rivian.com/careers-home/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Ross Stores",
+      "careers_url": "https://jobs.rossstores.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "RSM US",
+      "careers_url": "https://rsmus.com/careers.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Sanmina",
+      "careers_url": "https://www.sanmina.com/careers/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Schneider National",
+      "careers_url": "https://schneiderjobs.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Seagate Technology",
+      "careers_url": "https://www.seagate.com/careers/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Shopify",
+      "careers_url": "https://www.shopify.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Siemens",
+      "careers_url": "https://www.siemens.com/en-us/company/jobs/?fbclid=PAZXh0bgNhZW0BMABwZG9mAmFkaWQBqzsLOnB-TXNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp-AYRJ6zXFIv4BKrdqSug0OBo66LQ2gA-Rt-BE3EATxQR7vg8L0G3989yQ7b_aem_TNo84fmqt69VuLdLAxJF6g&spr_cid=120_17380&spr_ppid=6aa0034d4a3765df6ebc2e3c&utm_campaign=120254581508960045&utm_content=120254601094070045&utm_id=120254581508960045&utm_medium=paid&utm_source=ig&utm_term=120254601086800045",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Skyworks Solutions",
+      "careers_url": "https://www.skyworksinc.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Slalom",
+      "careers_url": "https://www.slalom.com/us/en/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Splunk",
+      "careers_url": "https://careers.cisco.com/global/en/splunk",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "State Farm",
+      "careers_url": "https://www.statefarm.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Swisslog",
+      "careers_url": "https://www.swisslog.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Synopsys",
+      "careers_url": "https://careers.synopsys.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Tecsys",
+      "careers_url": "https://www.tecsys.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Teradyne",
+      "careers_url": "https://jobs.teradyne.com/teradyne",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "TJX Companies",
+      "careers_url": "https://www.tjx.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Tractor Supply",
+      "careers_url": "https://www.tractorsupply.careers/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Trane Technologies",
+      "careers_url": "https://careers.tranetechnologies.com/global/en/home",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Uber",
+      "careers_url": "https://jobs.uber.com/en/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Veeva Systems",
+      "careers_url": "https://careers.veeva.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Walgreens Boots Alliance",
+      "careers_url": "https://jobs.walgreens.com/en",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Wayfair",
+      "careers_url": "https://www.aboutwayfair.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Wells Fargo",
+      "careers_url": "https://www.wellsfargojobs.com/en/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "West Monroe",
+      "careers_url": "https://www.westmonroe.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Western Digital",
+      "careers_url": "https://www.westerndigital.com/careers",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Whole Foods Market",
+      "careers_url": "https://careers.wholefoods.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Wipro",
+      "careers_url": "https://careers.wipro.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Wolfspeed",
+      "careers_url": "https://www.wolfspeed.com/careers/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "YETI",
+      "careers_url": "https://www.yeti.com/yeti-careers.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
     }
   ],
-  "generated_at": "2026-10-14T20:26:26.459Z"
+  "generated_at": "2026-10-14T20:31:42.446Z"
 }

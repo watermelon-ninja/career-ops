@@ -1,7 +1,6224 @@
 {
-  "generated_at": "2026-10-14T20:26:26.459Z",
-  "input_count": 0,
-  "discovered": 0,
-  "unresolved": 0,
-  "results": []
+  "generated_at": "2026-10-14T20:31:42.447Z",
+  "input_count": 181,
+  "discovered": 94,
+  "unresolved": 87,
+  "results": [
+    {
+      "company": "Box",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.box.com/careers",
+          "status": 403,
+          "final_url": "https://www.box.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.box.com/careers/",
+          "status": 403,
+          "final_url": "https://www.box.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.box.com/jobs",
+          "status": 403,
+          "final_url": "https://www.box.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.box.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.box.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.box.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.box.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.box.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.box.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Palo Alto Networks",
+      "status": "discovered",
+      "seed": {
+        "name": "Palo Alto Networks",
+        "careers_url": "https://jobs.paloaltonetworks.com/en",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.paloaltonetworks.com/careers",
+          "status": 200,
+          "final_url": "https://jobs.paloaltonetworks.com/en",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Fortinet",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.fortinet.com/careers",
+          "status": 404,
+          "final_url": "https://www.fortinet.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.fortinet.com/careers/",
+          "status": 404,
+          "final_url": "https://www.fortinet.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.fortinet.com/jobs",
+          "status": 404,
+          "final_url": "https://www.fortinet.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.fortinet.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.fortinet.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.fortinet.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.fortinet.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.fortinet.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.fortinet.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Splunk",
+      "status": "discovered",
+      "seed": {
+        "name": "Splunk",
+        "careers_url": "https://careers.cisco.com/global/en/splunk",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.splunk.com/careers",
+          "status": 200,
+          "final_url": "https://careers.cisco.com/global/en/splunk",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "DocuSign",
+      "status": "discovered",
+      "seed": {
+        "name": "DocuSign",
+        "careers_url": "https://careers.docusign.com/careers-home",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.docusign.com/careers",
+          "status": 200,
+          "final_url": "https://careers.docusign.com/careers-home",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Canva",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.canva.com/careers",
+          "status": 403,
+          "final_url": "https://www.canva.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.canva.com/careers/",
+          "status": 403,
+          "final_url": "https://www.canva.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.canva.com/jobs",
+          "status": 403,
+          "final_url": "https://www.canva.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.canva.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.canva.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.canva.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.canva.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.canva.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.canva.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Veeva Systems",
+      "status": "discovered",
+      "seed": {
+        "name": "Veeva Systems",
+        "careers_url": "https://careers.veeva.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.veeva.com/careers",
+          "status": 200,
+          "final_url": "https://careers.veeva.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Nutanix",
+      "status": "discovered",
+      "seed": {
+        "name": "Nutanix",
+        "careers_url": "https://careers.nutanix.com/en/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.nutanix.com/careers",
+          "status": 200,
+          "final_url": "https://careers.nutanix.com/en/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "NetApp",
+      "status": "discovered",
+      "seed": {
+        "name": "NetApp",
+        "careers_url": "https://careers.netapp.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.netapp.com/careers",
+          "status": 200,
+          "final_url": "https://careers.netapp.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Lenovo",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.lenovo.com/careers",
+          "status": 503,
+          "final_url": "https://www.lenovo.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.lenovo.com/careers/",
+          "status": 503,
+          "final_url": "https://www.lenovo.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.lenovo.com/jobs",
+          "status": 503,
+          "final_url": "https://www.lenovo.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.lenovo.com/jobs/",
+          "status": 503,
+          "final_url": "https://www.lenovo.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.lenovo.com/en/careers",
+          "status": 503,
+          "final_url": "https://www.lenovo.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.lenovo.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.lenovo.com/us/en/careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Uber",
+      "status": "discovered",
+      "seed": {
+        "name": "Uber",
+        "careers_url": "https://jobs.uber.com/en/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.uber.com/careers",
+          "status": 200,
+          "final_url": "https://jobs.uber.com/en/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Expedia Group",
+      "status": "discovered",
+      "seed": {
+        "name": "Expedia Group",
+        "careers_url": "https://careers.expediagroup.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.expedia.com/careers",
+          "status": 429,
+          "final_url": "https://www.expedia.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.expedia.com/careers/",
+          "status": 429,
+          "final_url": "https://www.expedia.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.expedia.com/jobs",
+          "status": 429,
+          "final_url": "https://www.expedia.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.expedia.com/jobs/",
+          "status": 429,
+          "final_url": "https://www.expedia.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.expedia.com/en/careers",
+          "status": 429,
+          "final_url": "https://www.expedia.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.expedia.com/us/en/careers",
+          "status": 429,
+          "final_url": "https://www.expedia.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.expediagroup.com/careers",
+          "status": 200,
+          "final_url": "https://careers.expediagroup.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Electronic Arts",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.electronicarts.com/careers",
+          "status": 200,
+          "final_url": "https://www.ea.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.electronicarts.com/careers/",
+          "status": 200,
+          "final_url": "https://www.ea.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.electronicarts.com/jobs",
+          "status": 200,
+          "final_url": "https://www.ea.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.electronicarts.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.ea.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.electronicarts.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.ea.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.electronicarts.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.ea.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "TikTok",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.tiktok.com/careers",
+          "status": 200,
+          "final_url": "https://www.tiktok.com/404?fromUrl=/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.tiktok.com/careers/",
+          "status": 200,
+          "final_url": "https://www.tiktok.com/404?fromUrl=/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.tiktok.com/jobs",
+          "status": 200,
+          "final_url": "https://www.tiktok.com/404?fromUrl=/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.tiktok.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.tiktok.com/404?fromUrl=/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.tiktok.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.tiktok.com/404?fromUrl=/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.tiktok.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.tiktok.com/404?fromUrl=/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "AMD",
+      "status": "discovered",
+      "seed": {
+        "name": "AMD",
+        "careers_url": "https://www.amd.com/en/corporate/careers.html?utm_campaign=careers&utm_medium=redirect&utm_source=301",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.amd.com/careers",
+          "status": 200,
+          "final_url": "https://www.amd.com/en/corporate/careers.html?utm_campaign=careers&utm_medium=redirect&utm_source=301",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Texas Instruments",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.ti.com/careers",
+          "status": 200,
+          "final_url": "https://careers.ti.com/en/sites/CX",
+          "error": null
+        },
+        {
+          "url": "https://www.ti.com/careers/",
+          "status": 200,
+          "final_url": "https://careers.ti.com/en/sites/CX",
+          "error": null
+        },
+        {
+          "url": "https://www.ti.com/jobs",
+          "status": 200,
+          "final_url": "https://careers.ti.com/en/sites/CX",
+          "error": null
+        },
+        {
+          "url": "https://www.ti.com/jobs/",
+          "status": 200,
+          "final_url": "https://careers.ti.com/en/sites/CX",
+          "error": null
+        },
+        {
+          "url": "https://www.ti.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.ti.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.ti.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.ti.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.texasinstruments.com/careers",
+          "status": null,
+          "final_url": "https://www.texasinstruments.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.texasinstruments.com/careers/",
+          "status": null,
+          "final_url": "https://www.texasinstruments.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.texasinstruments.com/jobs",
+          "status": null,
+          "final_url": "https://www.texasinstruments.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.texasinstruments.com/jobs/",
+          "status": null,
+          "final_url": "https://www.texasinstruments.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.texasinstruments.com/en/careers",
+          "status": null,
+          "final_url": "https://www.texasinstruments.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.texasinstruments.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.texasinstruments.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Micron Technology",
+      "status": "discovered",
+      "seed": {
+        "name": "Micron Technology",
+        "careers_url": "https://www.micron.com/about/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.micron.com/careers",
+          "status": 200,
+          "final_url": "https://www.micron.com/about/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Lam Research",
+      "status": "discovered",
+      "seed": {
+        "name": "Lam Research",
+        "careers_url": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.lamresearch.com/careers",
+          "status": 200,
+          "final_url": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Tokyo Electron",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.tokyoelectron.com/careers",
+          "status": null,
+          "final_url": "https://www.tokyoelectron.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.tokyoelectron.com/careers/",
+          "status": null,
+          "final_url": "https://www.tokyoelectron.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.tokyoelectron.com/jobs",
+          "status": null,
+          "final_url": "https://www.tokyoelectron.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.tokyoelectron.com/jobs/",
+          "status": null,
+          "final_url": "https://www.tokyoelectron.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.tokyoelectron.com/en/careers",
+          "status": null,
+          "final_url": "https://www.tokyoelectron.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.tokyoelectron.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.tokyoelectron.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Infineon Technologies",
+      "status": "discovered",
+      "seed": {
+        "name": "Infineon Technologies",
+        "careers_url": "https://www.infineon.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.infineon.com/careers",
+          "status": 200,
+          "final_url": "https://www.infineon.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Silicon Labs",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.siliconlabs.com/careers",
+          "status": null,
+          "final_url": "https://www.siliconlabs.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.siliconlabs.com/careers/",
+          "status": null,
+          "final_url": "https://www.siliconlabs.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.siliconlabs.com/jobs",
+          "status": null,
+          "final_url": "https://www.siliconlabs.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.siliconlabs.com/jobs/",
+          "status": null,
+          "final_url": "https://www.siliconlabs.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.siliconlabs.com/en/careers",
+          "status": null,
+          "final_url": "https://www.siliconlabs.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.siliconlabs.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.siliconlabs.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Cirrus Logic",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.cirruslogic.com/careers",
+          "status": null,
+          "final_url": "https://www.cirruslogic.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.cirruslogic.com/careers/",
+          "status": null,
+          "final_url": "https://www.cirruslogic.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.cirruslogic.com/jobs",
+          "status": null,
+          "final_url": "https://www.cirruslogic.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.cirruslogic.com/jobs/",
+          "status": null,
+          "final_url": "https://www.cirruslogic.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.cirruslogic.com/en/careers",
+          "status": null,
+          "final_url": "https://www.cirruslogic.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.cirruslogic.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.cirruslogic.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Synopsys",
+      "status": "discovered",
+      "seed": {
+        "name": "Synopsys",
+        "careers_url": "https://careers.synopsys.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.synopsys.com/careers",
+          "status": 200,
+          "final_url": "https://careers.synopsys.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Cadence Design Systems",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.cadencedesign.com/careers",
+          "status": 404,
+          "final_url": "https://www.cadencedesign.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.cadencedesign.com/careers/",
+          "status": 404,
+          "final_url": "https://www.cadencedesign.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.cadencedesign.com/jobs",
+          "status": 404,
+          "final_url": "https://www.cadencedesign.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.cadencedesign.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.cadencedesign.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.cadencedesign.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.cadencedesign.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.cadencedesign.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.cadencedesign.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.cadencedesignsystems.com/careers",
+          "status": null,
+          "final_url": "https://www.cadencedesignsystems.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.cadencedesignsystems.com/careers/",
+          "status": null,
+          "final_url": "https://www.cadencedesignsystems.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.cadencedesignsystems.com/jobs",
+          "status": null,
+          "final_url": "https://www.cadencedesignsystems.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.cadencedesignsystems.com/jobs/",
+          "status": null,
+          "final_url": "https://www.cadencedesignsystems.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.cadencedesignsystems.com/en/careers",
+          "status": null,
+          "final_url": "https://www.cadencedesignsystems.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.cadencedesignsystems.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.cadencedesignsystems.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Arm",
+      "status": "discovered",
+      "seed": {
+        "name": "Arm",
+        "careers_url": "https://careers.arm.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.arm.com/careers",
+          "status": 200,
+          "final_url": "https://careers.arm.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Marvell Technology",
+      "status": "discovered",
+      "seed": {
+        "name": "Marvell Technology",
+        "careers_url": "https://www.marvell.com/company/careers.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.marvell.com/careers",
+          "status": 200,
+          "final_url": "https://www.marvell.com/company/careers.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Microchip Technology",
+      "status": "discovered",
+      "seed": {
+        "name": "Microchip Technology",
+        "careers_url": "https://www.microchip.com/en-us/about/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.microchip.com/careers",
+          "status": 200,
+          "final_url": "https://www.microchip.com/en-us/about/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Skyworks Solutions",
+      "status": "discovered",
+      "seed": {
+        "name": "Skyworks Solutions",
+        "careers_url": "https://www.skyworksinc.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.skyworks.com/careers",
+          "status": 200,
+          "final_url": "https://www.skyworksinc.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "onsemi",
+      "status": "discovered",
+      "seed": {
+        "name": "onsemi",
+        "careers_url": "https://www.onsemi.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.onsemi.com/careers",
+          "status": 200,
+          "final_url": "https://www.onsemi.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Wolfspeed",
+      "status": "discovered",
+      "seed": {
+        "name": "Wolfspeed",
+        "careers_url": "https://www.wolfspeed.com/careers/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.wolfspeed.com/careers",
+          "status": 200,
+          "final_url": "https://www.wolfspeed.com/careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Western Digital",
+      "status": "discovered",
+      "seed": {
+        "name": "Western Digital",
+        "careers_url": "https://www.westerndigital.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.westerndigital.com/careers",
+          "status": 200,
+          "final_url": "https://www.westerndigital.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Seagate Technology",
+      "status": "discovered",
+      "seed": {
+        "name": "Seagate Technology",
+        "careers_url": "https://www.seagate.com/careers/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.seagate.com/careers",
+          "status": 200,
+          "final_url": "https://www.seagate.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.seagate.com/careers/",
+          "status": 200,
+          "final_url": "https://www.seagate.com/careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Ultra Clean Holdings",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.ultraclean.com/careers",
+          "status": 200,
+          "final_url": "https://www.ultraclean.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.ultraclean.com/careers/",
+          "status": 200,
+          "final_url": "https://www.ultraclean.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.ultraclean.com/jobs",
+          "status": 200,
+          "final_url": "https://www.ultraclean.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.ultraclean.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.ultraclean.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.ultraclean.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.ultraclean.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.ultraclean.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.ultraclean.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.ultracleanholdings.com/careers",
+          "status": null,
+          "final_url": "https://www.ultracleanholdings.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.ultracleanholdings.com/careers/",
+          "status": null,
+          "final_url": "https://www.ultracleanholdings.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.ultracleanholdings.com/jobs",
+          "status": null,
+          "final_url": "https://www.ultracleanholdings.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.ultracleanholdings.com/jobs/",
+          "status": null,
+          "final_url": "https://www.ultracleanholdings.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.ultracleanholdings.com/en/careers",
+          "status": null,
+          "final_url": "https://www.ultracleanholdings.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.ultracleanholdings.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.ultracleanholdings.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Ichor Holdings",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.ichor.com/careers",
+          "status": 403,
+          "final_url": "http://www.telepathy.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.ichor.com/careers/",
+          "status": 403,
+          "final_url": "http://www.telepathy.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.ichor.com/jobs",
+          "status": 403,
+          "final_url": "http://www.telepathy.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.ichor.com/jobs/",
+          "status": 403,
+          "final_url": "http://www.telepathy.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.ichor.com/en/careers",
+          "status": 403,
+          "final_url": "http://www.telepathy.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.ichor.com/us/en/careers",
+          "status": 403,
+          "final_url": "http://www.telepathy.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.ichorholdings.com/careers",
+          "status": null,
+          "final_url": "https://www.ichorholdings.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.ichorholdings.com/careers/",
+          "status": null,
+          "final_url": "https://www.ichorholdings.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.ichorholdings.com/jobs",
+          "status": null,
+          "final_url": "https://www.ichorholdings.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.ichorholdings.com/jobs/",
+          "status": null,
+          "final_url": "https://www.ichorholdings.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.ichorholdings.com/en/careers",
+          "status": null,
+          "final_url": "https://www.ichorholdings.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.ichorholdings.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.ichorholdings.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Teradyne",
+      "status": "discovered",
+      "seed": {
+        "name": "Teradyne",
+        "careers_url": "https://jobs.teradyne.com/teradyne",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.teradyne.com/careers",
+          "status": 200,
+          "final_url": "https://jobs.teradyne.com/teradyne",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Keysight Technologies",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.keysight.com/careers",
+          "status": 403,
+          "final_url": "https://www.keysight.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.keysight.com/careers/",
+          "status": 403,
+          "final_url": "https://www.keysight.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.keysight.com/jobs",
+          "status": 403,
+          "final_url": "https://www.keysight.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.keysight.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.keysight.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.keysight.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.keysight.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.keysight.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.keysight.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.keysighttechnologies.com/careers",
+          "status": null,
+          "final_url": "https://www.keysighttechnologies.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.keysighttechnologies.com/careers/",
+          "status": null,
+          "final_url": "https://www.keysighttechnologies.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.keysighttechnologies.com/jobs",
+          "status": null,
+          "final_url": "https://www.keysighttechnologies.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.keysighttechnologies.com/jobs/",
+          "status": null,
+          "final_url": "https://www.keysighttechnologies.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.keysighttechnologies.com/en/careers",
+          "status": null,
+          "final_url": "https://www.keysighttechnologies.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.keysighttechnologies.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.keysighttechnologies.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "National Instruments",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.nationalinstruments.com/careers",
+          "status": 200,
+          "final_url": "https://www.ni.com/en.html",
+          "error": null
+        },
+        {
+          "url": "https://www.nationalinstruments.com/careers/",
+          "status": 200,
+          "final_url": "https://www.ni.com/en.html",
+          "error": null
+        },
+        {
+          "url": "https://www.nationalinstruments.com/jobs",
+          "status": 200,
+          "final_url": "https://www.ni.com/en.html",
+          "error": null
+        },
+        {
+          "url": "https://www.nationalinstruments.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.ni.com/en.html",
+          "error": null
+        },
+        {
+          "url": "https://www.nationalinstruments.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.ni.com/en.html",
+          "error": null
+        },
+        {
+          "url": "https://www.nationalinstruments.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.ni.com/en.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Celestica",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.celestica.com/careers",
+          "status": 200,
+          "final_url": "https://www.celestica.com/careers/working-at-celestica",
+          "error": null
+        },
+        {
+          "url": "https://www.celestica.com/careers/",
+          "status": 200,
+          "final_url": "https://www.celestica.com/careers/working-at-celestica",
+          "error": null
+        },
+        {
+          "url": "https://www.celestica.com/jobs",
+          "status": 404,
+          "final_url": "https://www.celestica.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.celestica.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.celestica.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.celestica.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.celestica.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.celestica.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.celestica.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Sanmina",
+      "status": "discovered",
+      "seed": {
+        "name": "Sanmina",
+        "careers_url": "https://www.sanmina.com/careers/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.sanmina.com/careers",
+          "status": 200,
+          "final_url": "https://www.sanmina.com/careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Benchmark Electronics",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.benchmarkelectronics.com/careers",
+          "status": null,
+          "final_url": "https://www.benchmarkelectronics.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.benchmarkelectronics.com/careers/",
+          "status": null,
+          "final_url": "https://www.benchmarkelectronics.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.benchmarkelectronics.com/jobs",
+          "status": null,
+          "final_url": "https://www.benchmarkelectronics.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.benchmarkelectronics.com/jobs/",
+          "status": null,
+          "final_url": "https://www.benchmarkelectronics.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.benchmarkelectronics.com/en/careers",
+          "status": null,
+          "final_url": "https://www.benchmarkelectronics.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.benchmarkelectronics.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.benchmarkelectronics.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Foxconn",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.foxconn.com/careers",
+          "status": 200,
+          "final_url": "https://www.foxconn.com/zh-tw",
+          "error": null
+        },
+        {
+          "url": "https://www.foxconn.com/careers/",
+          "status": 200,
+          "final_url": "https://www.foxconn.com/zh-tw",
+          "error": null
+        },
+        {
+          "url": "https://www.foxconn.com/jobs",
+          "status": 200,
+          "final_url": "https://www.foxconn.com/zh-tw",
+          "error": null
+        },
+        {
+          "url": "https://www.foxconn.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.foxconn.com/zh-tw",
+          "error": null
+        },
+        {
+          "url": "https://www.foxconn.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.foxconn.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.foxconn.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.foxconn.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Pegatron",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.pegatron.com/careers",
+          "status": 200,
+          "final_url": "https://www.merck.com/product/usa/pi_circulars/p/pegintron/pegintron_5ml_pi.pdf",
+          "error": null
+        },
+        {
+          "url": "https://www.pegatron.com/careers/",
+          "status": 200,
+          "final_url": "https://www.merck.com/product/usa/pi_circulars/p/pegintron/pegintron_5ml_pi.pdf",
+          "error": null
+        },
+        {
+          "url": "https://www.pegatron.com/jobs",
+          "status": 200,
+          "final_url": "https://www.merck.com/product/usa/pi_circulars/p/pegintron/pegintron_5ml_pi.pdf",
+          "error": null
+        },
+        {
+          "url": "https://www.pegatron.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.merck.com/product/usa/pi_circulars/p/pegintron/pegintron_5ml_pi.pdf",
+          "error": null
+        },
+        {
+          "url": "https://www.pegatron.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.merck.com/product/usa/pi_circulars/p/pegintron/pegintron_5ml_pi.pdf",
+          "error": null
+        },
+        {
+          "url": "https://www.pegatron.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.merck.com/product/usa/pi_circulars/p/pegintron/pegintron_5ml_pi.pdf",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Compal Electronics",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.compalelectronics.com/careers",
+          "status": null,
+          "final_url": "https://www.compalelectronics.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.compalelectronics.com/careers/",
+          "status": null,
+          "final_url": "https://www.compalelectronics.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.compalelectronics.com/jobs",
+          "status": null,
+          "final_url": "https://www.compalelectronics.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.compalelectronics.com/jobs/",
+          "status": null,
+          "final_url": "https://www.compalelectronics.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.compalelectronics.com/en/careers",
+          "status": null,
+          "final_url": "https://www.compalelectronics.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.compalelectronics.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.compalelectronics.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Schneider Electric",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.schneiderelectric.com/careers",
+          "status": 200,
+          "final_url": "https://www.se.com/ww/en/",
+          "error": null
+        },
+        {
+          "url": "https://www.schneiderelectric.com/careers/",
+          "status": 200,
+          "final_url": "https://www.se.com/ww/en/",
+          "error": null
+        },
+        {
+          "url": "https://www.schneiderelectric.com/jobs",
+          "status": 200,
+          "final_url": "https://www.se.com/ww/en/",
+          "error": null
+        },
+        {
+          "url": "https://www.schneiderelectric.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.se.com/ww/en/",
+          "error": null
+        },
+        {
+          "url": "https://www.schneiderelectric.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.se.com/ww/en/",
+          "error": null
+        },
+        {
+          "url": "https://www.schneiderelectric.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.se.com/ww/en/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Siemens",
+      "status": "discovered",
+      "seed": {
+        "name": "Siemens",
+        "careers_url": "https://www.siemens.com/en-us/company/jobs/?fbclid=PAZXh0bgNhZW0BMABwZG9mAmFkaWQBqzsLOnB-TXNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp-AYRJ6zXFIv4BKrdqSug0OBo66LQ2gA-Rt-BE3EATxQR7vg8L0G3989yQ7b_aem_TNo84fmqt69VuLdLAxJF6g&spr_cid=120_17380&spr_ppid=6aa0034d4a3765df6ebc2e3c&utm_campaign=120254581508960045&utm_content=120254601094070045&utm_id=120254581508960045&utm_medium=paid&utm_source=ig&utm_term=120254601086800045",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.siemens.com/careers",
+          "status": 200,
+          "final_url": "https://www.siemens.com/en-us/company/jobs/?fbclid=PAZXh0bgNhZW0BMABwZG9mAmFkaWQBqzsLOnB-TXNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp-AYRJ6zXFIv4BKrdqSug0OBo66LQ2gA-Rt-BE3EATxQR7vg8L0G3989yQ7b_aem_TNo84fmqt69VuLdLAxJF6g&spr_cid=120_17380&spr_ppid=6aa0034d4a3765df6ebc2e3c&utm_campaign=120254581508960045&utm_content=120254601094070045&utm_id=120254581508960045&utm_medium=paid&utm_source=ig&utm_term=120254601086800045",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Honeywell",
+      "status": "discovered",
+      "seed": {
+        "name": "Honeywell",
+        "careers_url": "https://www.honeywell.com/us/en/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.honeywell.com/careers",
+          "status": 200,
+          "final_url": "https://www.honeywell.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Eaton",
+      "status": "discovered",
+      "seed": {
+        "name": "Eaton",
+        "careers_url": "https://www.eaton.com/us/en-us/company/careers.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.eaton.com/careers",
+          "status": 200,
+          "final_url": "https://www.eaton.com/us/en-us/company/careers.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Lockheed Martin",
+      "status": "discovered",
+      "seed": {
+        "name": "Lockheed Martin",
+        "careers_url": "https://www.lockheedmartin.com/en-us/careers/index.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.lockheedmartin.com/careers",
+          "status": 200,
+          "final_url": "https://www.lockheedmartin.com/en-us/careers/index.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "RTX",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.rtx.com/careers",
+          "status": 403,
+          "final_url": "https://www.rtx.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.rtx.com/careers/",
+          "status": 403,
+          "final_url": "https://www.rtx.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.rtx.com/jobs",
+          "status": 403,
+          "final_url": "https://www.rtx.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.rtx.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.rtx.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.rtx.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.rtx.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.rtx.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.rtx.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Northrop Grumman",
+      "status": "discovered",
+      "seed": {
+        "name": "Northrop Grumman",
+        "careers_url": "https://www.northropgrumman.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.northropgrumman.com/careers",
+          "status": 200,
+          "final_url": "https://www.northropgrumman.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "General Dynamics",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.generaldynamics.com/careers",
+          "status": null,
+          "final_url": "https://www.generaldynamics.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.generaldynamics.com/careers/",
+          "status": 403,
+          "final_url": "https://www.generaldynamics.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.generaldynamics.com/jobs",
+          "status": 403,
+          "final_url": "https://www.generaldynamics.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.generaldynamics.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.generaldynamics.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.generaldynamics.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.generaldynamics.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.generaldynamics.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.generaldynamics.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Firefly Aerospace",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.fireflyaerospace.com/careers",
+          "status": 521,
+          "final_url": "https://www.fireflyaerospace.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.fireflyaerospace.com/careers/",
+          "status": 521,
+          "final_url": "https://www.fireflyaerospace.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.fireflyaerospace.com/jobs",
+          "status": 521,
+          "final_url": "https://www.fireflyaerospace.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.fireflyaerospace.com/jobs/",
+          "status": 521,
+          "final_url": "https://www.fireflyaerospace.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.fireflyaerospace.com/en/careers",
+          "status": 521,
+          "final_url": "https://www.fireflyaerospace.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.fireflyaerospace.com/us/en/careers",
+          "status": 521,
+          "final_url": "https://www.fireflyaerospace.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Caterpillar",
+      "status": "discovered",
+      "seed": {
+        "name": "Caterpillar",
+        "careers_url": "https://www.caterpillar.com/en/careers.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.caterpillar.com/careers",
+          "status": 200,
+          "final_url": "https://www.caterpillar.com/en/careers.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Deere & Company",
+      "status": "discovered",
+      "seed": {
+        "name": "Deere & Company",
+        "careers_url": "https://www.deere.com/en-us/our-company/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.deere.com/careers",
+          "status": 200,
+          "final_url": "https://www.deere.com/en-us/our-company/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Cummins",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.cummins.com/careers",
+          "status": 403,
+          "final_url": "https://www.cummins.com/en-na/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.cummins.com/careers/",
+          "status": 403,
+          "final_url": "https://www.cummins.com/en-na/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.cummins.com/jobs",
+          "status": 403,
+          "final_url": "https://www.cummins.com/en-na/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.cummins.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.cummins.com/en-na/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.cummins.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.cummins.com/en-na/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.cummins.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.cummins.com/en-na/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Trane Technologies",
+      "status": "discovered",
+      "seed": {
+        "name": "Trane Technologies",
+        "careers_url": "https://careers.tranetechnologies.com/global/en/home",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.trane.com/careers",
+          "status": 200,
+          "final_url": "https://careers.tranetechnologies.com/global/en/home",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Johnson Controls",
+      "status": "discovered",
+      "seed": {
+        "name": "Johnson Controls",
+        "careers_url": "https://jobs.johnsoncontrols.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.johnsoncontrols.com/careers",
+          "status": 200,
+          "final_url": "https://jobs.johnsoncontrols.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Carrier Global",
+      "status": "discovered",
+      "seed": {
+        "name": "Carrier Global",
+        "careers_url": "https://www.carrier.com/us/en/careers/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.carrier.com/careers",
+          "status": 200,
+          "final_url": "https://www.carrier.com/carrier/en/worldwide/error-404.html",
+          "error": null
+        },
+        {
+          "url": "https://www.carrier.com/careers/",
+          "status": 200,
+          "final_url": "https://www.carrier.com/carrier/en/worldwide/error-404.html",
+          "error": null
+        },
+        {
+          "url": "https://www.carrier.com/jobs",
+          "status": 200,
+          "final_url": "https://www.carrier.com/carrier/en/worldwide/error-404.html",
+          "error": null
+        },
+        {
+          "url": "https://www.carrier.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.carrier.com/carrier/en/worldwide/error-404.html",
+          "error": null
+        },
+        {
+          "url": "https://www.carrier.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.carrier.com/carrier/en/worldwide/error-404.html",
+          "error": null
+        },
+        {
+          "url": "https://www.carrier.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.carrier.com/us/en/careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "3M",
+      "status": "discovered",
+      "seed": {
+        "name": "3M",
+        "careers_url": "https://www.3m.com/3M/en_WW/careers-select-location/?utm_medium=redirect&utm_source=vanity-url&utm_campaign=www.3m.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.3m.com/careers",
+          "status": 200,
+          "final_url": "https://www.3m.com/3M/en_WW/careers-select-location/?utm_medium=redirect&utm_source=vanity-url&utm_campaign=www.3m.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Corning",
+      "status": "discovered",
+      "seed": {
+        "name": "Corning",
+        "careers_url": "https://www.corning.com/worldwide/en/careers.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.corning.com/careers",
+          "status": 200,
+          "final_url": "https://www.corning.com/worldwide/en/careers.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Parker Hannifin",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.parkerhannifin.com/careers",
+          "status": null,
+          "final_url": "https://www.parkerhannifin.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.parkerhannifin.com/careers/",
+          "status": null,
+          "final_url": "https://www.parkerhannifin.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.parkerhannifin.com/jobs",
+          "status": null,
+          "final_url": "https://www.parkerhannifin.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.parkerhannifin.com/jobs/",
+          "status": null,
+          "final_url": "https://www.parkerhannifin.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.parkerhannifin.com/en/careers",
+          "status": null,
+          "final_url": "https://www.parkerhannifin.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.parkerhannifin.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.parkerhannifin.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "TE Connectivity",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.teconnectivity.com/careers",
+          "status": null,
+          "final_url": "https://www.teconnectivity.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.teconnectivity.com/careers/",
+          "status": null,
+          "final_url": "https://www.teconnectivity.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.teconnectivity.com/jobs",
+          "status": null,
+          "final_url": "https://www.teconnectivity.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.teconnectivity.com/jobs/",
+          "status": null,
+          "final_url": "https://www.teconnectivity.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.teconnectivity.com/en/careers",
+          "status": null,
+          "final_url": "https://www.teconnectivity.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.teconnectivity.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.teconnectivity.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Bosch",
+      "status": "discovered",
+      "seed": {
+        "name": "Bosch",
+        "careers_url": "https://www.bosch.com/careers/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.bosch.com/careers",
+          "status": 200,
+          "final_url": "https://www.bosch.com/careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Rivian",
+      "status": "discovered",
+      "seed": {
+        "name": "Rivian",
+        "careers_url": "https://careers.rivian.com/careers-home/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.rivian.com/careers",
+          "status": 200,
+          "final_url": "https://careers.rivian.com/careers-home/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Ford Motor Company",
+      "status": "discovered",
+      "seed": {
+        "name": "Ford Motor Company",
+        "careers_url": "https://www.careers.ford.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.ford.com/careers",
+          "status": 200,
+          "final_url": "https://www.careers.ford.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Ericsson",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.ericsson.com/careers",
+          "status": 403,
+          "final_url": "https://www.ericsson.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.ericsson.com/careers/",
+          "status": 403,
+          "final_url": "https://www.ericsson.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.ericsson.com/jobs",
+          "status": 403,
+          "final_url": "https://www.ericsson.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.ericsson.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.ericsson.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.ericsson.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.ericsson.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.ericsson.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.ericsson.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Canon",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.canon.com/careers",
+          "status": 404,
+          "final_url": "https://www.canon.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.canon.com/careers/",
+          "status": 404,
+          "final_url": "https://www.canon.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.canon.com/jobs",
+          "status": 404,
+          "final_url": "https://www.canon.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.canon.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.canon.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.canon.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.canon.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.canon.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.canon.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Infor",
+      "status": "discovered",
+      "seed": {
+        "name": "Infor",
+        "careers_url": "https://www.infor.com/about/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.infor.com/careers",
+          "status": 200,
+          "final_url": "https://www.infor.com/about/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Descartes Systems Group",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.descartes.com/careers",
+          "status": 404,
+          "final_url": "https://www.descartes.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.descartes.com/careers/",
+          "status": 404,
+          "final_url": "https://www.descartes.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.descartes.com/jobs",
+          "status": 404,
+          "final_url": "https://www.descartes.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.descartes.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.descartes.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.descartes.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.descartes.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.descartes.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.descartes.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.descartessystemsgroup.com/careers",
+          "status": null,
+          "final_url": "https://www.descartessystemsgroup.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.descartessystemsgroup.com/careers/",
+          "status": null,
+          "final_url": "https://www.descartessystemsgroup.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.descartessystemsgroup.com/jobs",
+          "status": null,
+          "final_url": "https://www.descartessystemsgroup.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.descartessystemsgroup.com/jobs/",
+          "status": null,
+          "final_url": "https://www.descartessystemsgroup.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.descartessystemsgroup.com/en/careers",
+          "status": null,
+          "final_url": "https://www.descartessystemsgroup.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.descartessystemsgroup.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.descartessystemsgroup.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "XPO",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.xpo.com/careers",
+          "status": 200,
+          "final_url": "https://www.xpo.com/work-with-us/",
+          "error": null
+        },
+        {
+          "url": "https://www.xpo.com/careers/",
+          "status": 200,
+          "final_url": "https://www.xpo.com/work-with-us/",
+          "error": null
+        },
+        {
+          "url": "https://www.xpo.com/jobs",
+          "status": 200,
+          "final_url": "https://www.xpo.com/work-with-us/",
+          "error": null
+        },
+        {
+          "url": "https://www.xpo.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.xpo.com/work-with-us/",
+          "error": null
+        },
+        {
+          "url": "https://www.xpo.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.xpo.com/en/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.xpo.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.xpo.com/us/en/careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Schneider National",
+      "status": "discovered",
+      "seed": {
+        "name": "Schneider National",
+        "careers_url": "https://schneiderjobs.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.schneidernational.com/careers",
+          "status": 200,
+          "final_url": "https://schneiderjobs.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Werner Enterprises",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.wernerenterprises.com/careers",
+          "status": null,
+          "final_url": "https://www.wernerenterprises.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.wernerenterprises.com/careers/",
+          "status": null,
+          "final_url": "https://www.wernerenterprises.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.wernerenterprises.com/jobs",
+          "status": null,
+          "final_url": "https://www.wernerenterprises.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.wernerenterprises.com/jobs/",
+          "status": null,
+          "final_url": "https://www.wernerenterprises.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.wernerenterprises.com/en/careers",
+          "status": null,
+          "final_url": "https://www.wernerenterprises.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.wernerenterprises.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.wernerenterprises.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Old Dominion Freight Line",
+      "status": "discovered",
+      "seed": {
+        "name": "Old Dominion Freight Line",
+        "careers_url": "https://www.olddominionfreightline.com/us/en/careers.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.olddominionfreightline.com/careers",
+          "status": 200,
+          "final_url": "https://www.olddominionfreightline.com/us/en/careers.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Kuehne+Nagel",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.kuehnenagel.com/careers",
+          "status": null,
+          "final_url": "https://www.kuehnenagel.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.kuehnenagel.com/careers/",
+          "status": null,
+          "final_url": "https://www.kuehnenagel.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.kuehnenagel.com/jobs",
+          "status": null,
+          "final_url": "https://www.kuehnenagel.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.kuehnenagel.com/jobs/",
+          "status": null,
+          "final_url": "https://www.kuehnenagel.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.kuehnenagel.com/en/careers",
+          "status": null,
+          "final_url": "https://www.kuehnenagel.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.kuehnenagel.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.kuehnenagel.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "DSV",
+      "status": "discovered",
+      "seed": {
+        "name": "DSV",
+        "careers_url": "https://www.dsv.com/en/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.dsv.com/careers",
+          "status": 200,
+          "final_url": "https://www.dsv.com/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "CEVA Logistics",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.cevalogistics.com/careers",
+          "status": 403,
+          "final_url": "https://www.cevalogistics.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.cevalogistics.com/careers/",
+          "status": 403,
+          "final_url": "https://www.cevalogistics.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.cevalogistics.com/jobs",
+          "status": 403,
+          "final_url": "https://www.cevalogistics.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.cevalogistics.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.cevalogistics.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.cevalogistics.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.cevalogistics.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.cevalogistics.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.cevalogistics.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "GEODIS",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.geodis.com/careers",
+          "status": 404,
+          "final_url": "https://geodis.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.geodis.com/careers/",
+          "status": 404,
+          "final_url": "https://geodis.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.geodis.com/jobs",
+          "status": 404,
+          "final_url": "https://geodis.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.geodis.com/jobs/",
+          "status": 404,
+          "final_url": "https://geodis.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.geodis.com/en/careers",
+          "status": 404,
+          "final_url": "https://geodis.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.geodis.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://geodis.com/us-en",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Expeditors International",
+      "status": "discovered",
+      "seed": {
+        "name": "Expeditors International",
+        "careers_url": "https://www.expeditors.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.expeditors.com/careers",
+          "status": 200,
+          "final_url": "https://www.expeditors.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "ShipBob",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.shipbob.com/careers",
+          "status": 200,
+          "final_url": "https://www.shipbob.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.shipbob.com/careers/",
+          "status": 200,
+          "final_url": "https://www.shipbob.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.shipbob.com/jobs",
+          "status": 200,
+          "final_url": "https://www.shipbob.com/careers/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.shipbob.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.shipbob.com/careers/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.shipbob.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.shipbob.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.shipbob.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.shipbob.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Dematic",
+      "status": "discovered",
+      "seed": {
+        "name": "Dematic",
+        "careers_url": "https://www.dematic.com/en-us/about/careers/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.dematic.com/careers",
+          "status": 200,
+          "final_url": "https://www.dematic.com/en-us/errors/404/",
+          "error": null
+        },
+        {
+          "url": "https://www.dematic.com/careers/",
+          "status": 200,
+          "final_url": "https://www.dematic.com/en-us/about/careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Swisslog",
+      "status": "discovered",
+      "seed": {
+        "name": "Swisslog",
+        "careers_url": "https://www.swisslog.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.swisslog.com/careers",
+          "status": 200,
+          "final_url": "https://www.swisslog.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Körber Supply Chain",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.krbersupplychain.com/careers",
+          "status": null,
+          "final_url": "https://www.krbersupplychain.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.krbersupplychain.com/careers/",
+          "status": null,
+          "final_url": "https://www.krbersupplychain.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.krbersupplychain.com/jobs",
+          "status": null,
+          "final_url": "https://www.krbersupplychain.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.krbersupplychain.com/jobs/",
+          "status": null,
+          "final_url": "https://www.krbersupplychain.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.krbersupplychain.com/en/careers",
+          "status": null,
+          "final_url": "https://www.krbersupplychain.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.krbersupplychain.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.krbersupplychain.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Zebra Technologies",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.zebra.com/careers",
+          "status": 406,
+          "final_url": "https://www.zebra.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.zebra.com/careers/",
+          "status": 406,
+          "final_url": "https://www.zebra.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.zebra.com/jobs",
+          "status": 406,
+          "final_url": "https://www.zebra.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.zebra.com/jobs/",
+          "status": 406,
+          "final_url": "https://www.zebra.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.zebra.com/en/careers",
+          "status": 406,
+          "final_url": "https://www.zebra.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.zebra.com/us/en/careers",
+          "status": 406,
+          "final_url": "https://www.zebra.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.zebratechnologies.com/careers",
+          "status": null,
+          "final_url": "https://www.zebratechnologies.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.zebratechnologies.com/careers/",
+          "status": null,
+          "final_url": "https://www.zebratechnologies.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.zebratechnologies.com/jobs",
+          "status": null,
+          "final_url": "https://www.zebratechnologies.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.zebratechnologies.com/jobs/",
+          "status": null,
+          "final_url": "https://www.zebratechnologies.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.zebratechnologies.com/en/careers",
+          "status": null,
+          "final_url": "https://www.zebratechnologies.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.zebratechnologies.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.zebratechnologies.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Tecsys",
+      "status": "discovered",
+      "seed": {
+        "name": "Tecsys",
+        "careers_url": "https://www.tecsys.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.tecsys.com/careers",
+          "status": 200,
+          "final_url": "https://www.tecsys.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "MuleSoft",
+      "status": "discovered",
+      "seed": {
+        "name": "MuleSoft",
+        "careers_url": "https://www.salesforce.com/company/careers/?d=70130000000i80S",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.mulesoft.com/careers",
+          "status": 200,
+          "final_url": "https://www.salesforce.com/company/careers/?d=70130000000i80S",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Informatica",
+      "status": "discovered",
+      "seed": {
+        "name": "Informatica",
+        "careers_url": "https://www.salesforce.com/company/careers/jobs/?search=informatica&pagesize=20",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.informatica.com/careers",
+          "status": 200,
+          "final_url": "https://www.salesforce.com/company/careers/jobs/?search=informatica&pagesize=20",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Qlik",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.qlik.com/careers",
+          "status": 200,
+          "final_url": "https://www.qlik.com/us/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.qlik.com/careers/",
+          "status": 200,
+          "final_url": "https://www.qlik.com/us/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.qlik.com/jobs",
+          "status": 404,
+          "final_url": "https://www.qlik.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.qlik.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.qlik.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.qlik.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.qlik.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.qlik.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.qlik.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "status": "discovered",
+      "seed": {
+        "name": "Deloitte",
+        "careers_url": "https://www.deloitte.com/global/en/careers/job-search.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.deloitte.com/careers",
+          "status": 404,
+          "final_url": "https://www.deloitte.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.deloitte.com/careers/",
+          "status": 404,
+          "final_url": "https://www.deloitte.com/new/careers.html",
+          "error": null
+        },
+        {
+          "url": "https://www.deloitte.com/jobs",
+          "status": 200,
+          "final_url": "https://www.deloitte.com/global/en/careers/job-search.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Capgemini",
+      "status": "discovered",
+      "seed": {
+        "name": "Capgemini",
+        "careers_url": "https://www.capgemini.com/careers/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.capgemini.com/careers",
+          "status": 200,
+          "final_url": "https://www.capgemini.com/careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "EY",
+      "status": "discovered",
+      "seed": {
+        "name": "EY",
+        "careers_url": "https://www.ey.com/en_gl/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.ey.com/careers",
+          "status": 200,
+          "final_url": "https://www.ey.com/en_gl/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Cognizant",
+      "status": "discovered",
+      "seed": {
+        "name": "Cognizant",
+        "careers_url": "https://careers.cognizant.com/global-en/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.cognizant.com/careers",
+          "status": 200,
+          "final_url": "https://careers.cognizant.com/global-en/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Infosys",
+      "status": "discovered",
+      "seed": {
+        "name": "Infosys",
+        "careers_url": "https://www.infosys.com/careers/usa/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.infosys.com/careers",
+          "status": 200,
+          "final_url": "https://www.infosys.com/careers/usa/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "EPAM Systems",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.epam.com/careers",
+          "status": 403,
+          "final_url": "https://www.epam.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.epam.com/careers/",
+          "status": 403,
+          "final_url": "https://www.epam.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.epam.com/jobs",
+          "status": 403,
+          "final_url": "https://www.epam.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.epam.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.epam.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.epam.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.epam.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.epam.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.epam.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.epamsystems.com/careers",
+          "status": null,
+          "final_url": "https://www.epamsystems.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.epamsystems.com/careers/",
+          "status": null,
+          "final_url": "https://www.epamsystems.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.epamsystems.com/jobs",
+          "status": null,
+          "final_url": "https://www.epamsystems.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.epamsystems.com/jobs/",
+          "status": null,
+          "final_url": "https://www.epamsystems.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.epamsystems.com/en/careers",
+          "status": null,
+          "final_url": "https://www.epamsystems.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.epamsystems.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.epamsystems.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Slalom",
+      "status": "discovered",
+      "seed": {
+        "name": "Slalom",
+        "careers_url": "https://www.slalom.com/us/en/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.slalom.com/careers",
+          "status": 200,
+          "final_url": "https://www.slalom.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Wipro",
+      "status": "discovered",
+      "seed": {
+        "name": "Wipro",
+        "careers_url": "https://careers.wipro.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.wipro.com/careers",
+          "status": 200,
+          "final_url": "https://careers.wipro.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.tataconsultancyservices.com/careers",
+          "status": null,
+          "final_url": "https://www.tataconsultancyservices.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.tataconsultancyservices.com/careers/",
+          "status": null,
+          "final_url": "https://www.tataconsultancyservices.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.tataconsultancyservices.com/jobs",
+          "status": null,
+          "final_url": "https://www.tataconsultancyservices.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.tataconsultancyservices.com/jobs/",
+          "status": null,
+          "final_url": "https://www.tataconsultancyservices.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.tataconsultancyservices.com/en/careers",
+          "status": null,
+          "final_url": "https://www.tataconsultancyservices.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.tataconsultancyservices.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.tataconsultancyservices.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "HCLTech",
+      "status": "discovered",
+      "seed": {
+        "name": "HCLTech",
+        "careers_url": "https://careers.hcltech.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.hcltech.com/careers",
+          "status": 200,
+          "final_url": "https://careers.hcltech.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "NTT DATA",
+      "status": "discovered",
+      "seed": {
+        "name": "NTT DATA",
+        "careers_url": "https://www.nttdata.com/en-us/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.nttdata.com/careers",
+          "status": 200,
+          "final_url": "https://www.nttdata.com/en-us/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "CGI",
+      "status": "discovered",
+      "seed": {
+        "name": "CGI",
+        "careers_url": "https://www.cgi.com/en/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.cgi.com/careers",
+          "status": 200,
+          "final_url": "https://www.cgi.com/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.boozallenhamilton.com/careers",
+          "status": null,
+          "final_url": "https://www.boozallenhamilton.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.boozallenhamilton.com/careers/",
+          "status": null,
+          "final_url": "https://www.boozallenhamilton.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.boozallenhamilton.com/jobs",
+          "status": null,
+          "final_url": "https://www.boozallenhamilton.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.boozallenhamilton.com/jobs/",
+          "status": null,
+          "final_url": "https://www.boozallenhamilton.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.boozallenhamilton.com/en/careers",
+          "status": null,
+          "final_url": "https://www.boozallenhamilton.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.boozallenhamilton.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.boozallenhamilton.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "SAIC",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.saic.com/careers",
+          "status": 403,
+          "final_url": "https://jobs.saic.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.saic.com/careers/",
+          "status": 403,
+          "final_url": "https://jobs.saic.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.saic.com/jobs",
+          "status": 403,
+          "final_url": "https://jobs.saic.com/RadioHSVABQ",
+          "error": null
+        },
+        {
+          "url": "https://www.saic.com/jobs/",
+          "status": 403,
+          "final_url": "https://jobs.saic.com/RadioHSVABQ",
+          "error": null
+        },
+        {
+          "url": "https://www.saic.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.saic.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.saic.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.saic.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "West Monroe",
+      "status": "discovered",
+      "seed": {
+        "name": "West Monroe",
+        "careers_url": "https://www.westmonroe.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.westmonroe.com/careers",
+          "status": 200,
+          "final_url": "https://www.westmonroe.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Publicis Sapient",
+      "status": "discovered",
+      "seed": {
+        "name": "Publicis Sapient",
+        "careers_url": "https://careers.publicissapient.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.publicissapient.com/careers",
+          "status": 200,
+          "final_url": "https://careers.publicissapient.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Perficient",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.perficient.com/careers",
+          "status": 429,
+          "final_url": "https://www.perficient.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.perficient.com/careers/",
+          "status": 429,
+          "final_url": "https://www.perficient.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.perficient.com/jobs",
+          "status": 429,
+          "final_url": "https://www.perficient.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.perficient.com/jobs/",
+          "status": 429,
+          "final_url": "https://www.perficient.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.perficient.com/en/careers",
+          "status": 429,
+          "final_url": "https://www.perficient.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.perficient.com/us/en/careers",
+          "status": 429,
+          "final_url": "https://www.perficient.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Protiviti",
+      "status": "discovered",
+      "seed": {
+        "name": "Protiviti",
+        "careers_url": "https://www.protiviti.com/gl-en/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.protiviti.com/careers",
+          "status": 200,
+          "final_url": "https://www.protiviti.com/gl-en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "RSM US",
+      "status": "discovered",
+      "seed": {
+        "name": "RSM US",
+        "careers_url": "https://rsmus.com/careers.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.rsm.com/careers",
+          "status": 404,
+          "final_url": "https://www.rsm.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.rsm.com/careers/",
+          "status": 404,
+          "final_url": "https://www.rsm.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.rsm.com/jobs",
+          "status": 404,
+          "final_url": "https://www.rsm.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.rsm.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.rsm.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.rsm.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.rsm.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.rsm.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.rsm.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.rsmus.com/careers",
+          "status": 200,
+          "final_url": "https://rsmus.com/careers.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "BDO USA",
+      "status": "discovered",
+      "seed": {
+        "name": "BDO USA",
+        "careers_url": "https://www.bdo.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.bdo.com/careers",
+          "status": 200,
+          "final_url": "https://www.bdo.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Bain & Company",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.bainand.com/careers",
+          "status": null,
+          "final_url": "https://www.bainand.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.bainand.com/careers/",
+          "status": null,
+          "final_url": "https://www.bainand.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.bainand.com/jobs",
+          "status": null,
+          "final_url": "https://www.bainand.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.bainand.com/jobs/",
+          "status": null,
+          "final_url": "https://www.bainand.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.bainand.com/en/careers",
+          "status": null,
+          "final_url": "https://www.bainand.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.bainand.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.bainand.com/us/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.baincompany.com/careers",
+          "status": null,
+          "final_url": "https://www.baincompany.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.baincompany.com/careers/",
+          "status": null,
+          "final_url": "https://www.baincompany.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.baincompany.com/jobs",
+          "status": null,
+          "final_url": "https://www.baincompany.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.baincompany.com/jobs/",
+          "status": null,
+          "final_url": "https://www.baincompany.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.baincompany.com/en/careers",
+          "status": null,
+          "final_url": "https://www.baincompany.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.baincompany.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.baincompany.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Boston Consulting Group",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.bostonconsulting.com/careers",
+          "status": null,
+          "final_url": "https://www.bostonconsulting.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.bostonconsulting.com/careers/",
+          "status": null,
+          "final_url": "https://www.bostonconsulting.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.bostonconsulting.com/jobs",
+          "status": null,
+          "final_url": "https://www.bostonconsulting.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.bostonconsulting.com/jobs/",
+          "status": null,
+          "final_url": "https://www.bostonconsulting.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.bostonconsulting.com/en/careers",
+          "status": null,
+          "final_url": "https://www.bostonconsulting.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.bostonconsulting.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.bostonconsulting.com/us/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.bostonconsultinggroup.com/careers",
+          "status": null,
+          "final_url": "https://www.bostonconsultinggroup.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bostonconsultinggroup.com/careers/",
+          "status": null,
+          "final_url": "https://www.bostonconsultinggroup.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bostonconsultinggroup.com/jobs",
+          "status": null,
+          "final_url": "https://www.bostonconsultinggroup.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bostonconsultinggroup.com/jobs/",
+          "status": null,
+          "final_url": "https://www.bostonconsultinggroup.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bostonconsultinggroup.com/en/careers",
+          "status": null,
+          "final_url": "https://www.bostonconsultinggroup.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bostonconsultinggroup.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.bostonconsultinggroup.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "McKinsey & Company",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.mckinseyand.com/careers",
+          "status": null,
+          "final_url": "https://www.mckinseyand.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.mckinseyand.com/careers/",
+          "status": null,
+          "final_url": "https://www.mckinseyand.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.mckinseyand.com/jobs",
+          "status": null,
+          "final_url": "https://www.mckinseyand.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.mckinseyand.com/jobs/",
+          "status": null,
+          "final_url": "https://www.mckinseyand.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.mckinseyand.com/en/careers",
+          "status": null,
+          "final_url": "https://www.mckinseyand.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.mckinseyand.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.mckinseyand.com/us/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.mckinseycompany.com/careers",
+          "status": null,
+          "final_url": "https://www.mckinseycompany.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.mckinseycompany.com/careers/",
+          "status": null,
+          "final_url": "https://www.mckinseycompany.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.mckinseycompany.com/jobs",
+          "status": null,
+          "final_url": "https://www.mckinseycompany.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.mckinseycompany.com/jobs/",
+          "status": null,
+          "final_url": "https://www.mckinseycompany.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.mckinseycompany.com/en/careers",
+          "status": null,
+          "final_url": "https://www.mckinseycompany.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.mckinseycompany.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.mckinseycompany.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Kearney",
+      "status": "discovered",
+      "seed": {
+        "name": "Kearney",
+        "careers_url": "https://www.kearney.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.kearney.com/careers",
+          "status": 200,
+          "final_url": "https://www.kearney.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Genpact",
+      "status": "discovered",
+      "seed": {
+        "name": "Genpact",
+        "careers_url": "https://www.genpact.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.genpact.com/careers",
+          "status": 200,
+          "final_url": "https://www.genpact.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Globant",
+      "status": "discovered",
+      "seed": {
+        "name": "Globant",
+        "careers_url": "https://www.globant.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.globant.com/careers",
+          "status": 200,
+          "final_url": "https://www.globant.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Costco",
+      "status": "discovered",
+      "seed": {
+        "name": "Costco",
+        "careers_url": "https://www.costco.com/f/-/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.costco.com/careers",
+          "status": 200,
+          "final_url": "https://www.costco.com/f/-/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "H-E-B",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.heb.com/careers",
+          "status": 200,
+          "final_url": "https://www.heb.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.heb.com/careers/",
+          "status": 200,
+          "final_url": "https://www.heb.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.heb.com/jobs",
+          "status": 200,
+          "final_url": "https://www.heb.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.heb.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.heb.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.heb.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.heb.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.heb.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.heb.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Whole Foods Market",
+      "status": "discovered",
+      "seed": {
+        "name": "Whole Foods Market",
+        "careers_url": "https://careers.wholefoods.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.wholefoodsmarket.com/careers",
+          "status": 200,
+          "final_url": "https://careers.wholefoods.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "PepsiCo",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.pepsico.com/careers",
+          "status": 403,
+          "final_url": "https://www.pepsico.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.pepsico.com/careers/",
+          "status": 403,
+          "final_url": "https://www.pepsico.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.pepsico.com/jobs",
+          "status": 403,
+          "final_url": "https://www.pepsico.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.pepsico.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.pepsico.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.pepsico.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.pepsico.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.pepsico.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.pepsico.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Procter & Gamble",
+      "status": "discovered",
+      "seed": {
+        "name": "Procter & Gamble",
+        "careers_url": "https://www.pgcareers.com/us/en",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.pg.com/careers",
+          "status": 200,
+          "final_url": "https://www.pgcareers.com/us/en",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Colgate-Palmolive",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.colgatepalmolive.com/careers",
+          "status": 503,
+          "final_url": "https://www.colgatepalmolive.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.colgatepalmolive.com/careers/",
+          "status": 503,
+          "final_url": "https://www.colgatepalmolive.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.colgatepalmolive.com/jobs",
+          "status": 503,
+          "final_url": "https://www.colgatepalmolive.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.colgatepalmolive.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.perfectname.com/domain/Dummy.com",
+          "error": null
+        },
+        {
+          "url": "https://www.colgatepalmolive.com/en/careers",
+          "status": 503,
+          "final_url": "https://www.colgatepalmolive.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.colgatepalmolive.com/us/en/careers",
+          "status": 503,
+          "final_url": "https://www.colgatepalmolive.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Best Buy",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.bestbuy.com/careers",
+          "status": null,
+          "final_url": "https://www.bestbuy.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bestbuy.com/careers/",
+          "status": null,
+          "final_url": "https://www.bestbuy.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bestbuy.com/jobs",
+          "status": null,
+          "final_url": "https://www.bestbuy.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bestbuy.com/jobs/",
+          "status": null,
+          "final_url": "https://www.bestbuy.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bestbuy.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.bestbuy.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.bestbuy.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.bestbuy.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Chewy",
+      "status": "discovered",
+      "seed": {
+        "name": "Chewy",
+        "careers_url": "https://careers.chewy.com/us/en/home",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.chewy.com/careers",
+          "status": 200,
+          "final_url": "https://careers.chewy.com/us/en/home",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Wayfair",
+      "status": "discovered",
+      "seed": {
+        "name": "Wayfair",
+        "careers_url": "https://www.aboutwayfair.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.wayfair.com/careers",
+          "status": 200,
+          "final_url": "https://www.aboutwayfair.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Kroger",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.kroger.com/careers",
+          "status": 200,
+          "final_url": "https://www.krogerfamilycareers.com/en/sites/CX_2001",
+          "error": null
+        },
+        {
+          "url": "https://www.kroger.com/careers/",
+          "status": 404,
+          "final_url": "https://www.kroger.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.kroger.com/jobs",
+          "status": 404,
+          "final_url": "https://www.kroger.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.kroger.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.kroger.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.kroger.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.kroger.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.kroger.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.kroger.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Albertsons",
+      "status": "discovered",
+      "seed": {
+        "name": "Albertsons",
+        "careers_url": "https://www.albertsons.com/careers.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.albertsons.com/careers",
+          "status": 403,
+          "final_url": "https://www.albertsonscompanies.com/careers/albertsons-careers.html",
+          "error": null
+        },
+        {
+          "url": "https://www.albertsons.com/careers/",
+          "status": 200,
+          "final_url": "https://situshscbet.com/desktop/home",
+          "error": null
+        },
+        {
+          "url": "https://www.albertsons.com/jobs",
+          "status": 200,
+          "final_url": "https://www.albertsons.com/careers.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Walgreens Boots Alliance",
+      "status": "discovered",
+      "seed": {
+        "name": "Walgreens Boots Alliance",
+        "careers_url": "https://jobs.walgreens.com/en",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.walgreensbootsalliance.com/careers",
+          "status": 200,
+          "final_url": "https://jobs.walgreens.com/en",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Dollar General",
+      "status": "discovered",
+      "seed": {
+        "name": "Dollar General",
+        "careers_url": "https://careers.dollargeneral.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.dollargeneral.com/careers",
+          "status": 200,
+          "final_url": "https://careers.dollargeneral.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "TJX Companies",
+      "status": "discovered",
+      "seed": {
+        "name": "TJX Companies",
+        "careers_url": "https://www.tjx.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.tjx.com/careers",
+          "status": 200,
+          "final_url": "https://www.tjx.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Ross Stores",
+      "status": "discovered",
+      "seed": {
+        "name": "Ross Stores",
+        "careers_url": "https://jobs.rossstores.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.rossstores.com/careers",
+          "status": 200,
+          "final_url": "https://jobs.rossstores.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Macy's",
+      "status": "discovered",
+      "seed": {
+        "name": "Macy's",
+        "careers_url": "https://www.macys.com/customer-service/articles/job-and-career-opportunities",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.macys.com/careers",
+          "status": 404,
+          "final_url": "https://www.macys.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.macys.com/careers/",
+          "status": 404,
+          "final_url": "https://www.macys.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.macys.com/jobs",
+          "status": 200,
+          "final_url": "https://www.macys.com/customer-service/articles/job-and-career-opportunities",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Lululemon",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.lululemon.com/careers",
+          "status": 400,
+          "final_url": "https://shop.lululemon.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.lululemon.com/careers/",
+          "status": 400,
+          "final_url": "https://shop.lululemon.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.lululemon.com/jobs",
+          "status": 400,
+          "final_url": "https://shop.lululemon.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.lululemon.com/jobs/",
+          "status": 400,
+          "final_url": "https://shop.lululemon.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.lululemon.com/en/careers",
+          "status": 400,
+          "final_url": "https://shop.lululemon.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.lululemon.com/us/en/careers",
+          "status": 400,
+          "final_url": "https://shop.lululemon.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "YETI",
+      "status": "discovered",
+      "seed": {
+        "name": "YETI",
+        "careers_url": "https://www.yeti.com/yeti-careers.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.yeti.com/careers",
+          "status": 200,
+          "final_url": "https://www.yeti.com/yeti-careers.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Tractor Supply",
+      "status": "discovered",
+      "seed": {
+        "name": "Tractor Supply",
+        "careers_url": "https://www.tractorsupply.careers/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.tractorsupply.com/careers",
+          "status": 200,
+          "final_url": "https://www.tractorsupply.careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "AutoZone",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.autozone.com/careers",
+          "status": 403,
+          "final_url": "https://www.autozone.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.autozone.com/careers/",
+          "status": 403,
+          "final_url": "https://www.autozone.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.autozone.com/jobs",
+          "status": 403,
+          "final_url": "https://www.autozone.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.autozone.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.autozone.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.autozone.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.autozone.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.autozone.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.autozone.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "O'Reilly Automotive",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.oreillyautomotive.com/careers",
+          "status": 404,
+          "final_url": "https://www.oreillyautomotive.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.oreillyautomotive.com/careers/",
+          "status": 404,
+          "final_url": "https://www.oreillyautomotive.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.oreillyautomotive.com/jobs",
+          "status": 404,
+          "final_url": "https://www.oreillyautomotive.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.oreillyautomotive.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.oreillyautomotive.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.oreillyautomotive.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.oreillyautomotive.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.oreillyautomotive.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.oreillyautomotive.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Shopify",
+      "status": "discovered",
+      "seed": {
+        "name": "Shopify",
+        "careers_url": "https://www.shopify.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.shopify.com/careers",
+          "status": 200,
+          "final_url": "https://www.shopify.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.doordash.com/careers",
+          "status": 403,
+          "final_url": "https://careersatdoordash.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.doordash.com/careers/",
+          "status": 403,
+          "final_url": "https://careersatdoordash.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.doordash.com/jobs",
+          "status": 404,
+          "final_url": "https://www.doordash.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.doordash.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.doordash.com/en-US/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.doordash.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.doordash.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.doordash.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.doordash.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Coca-Cola",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.cocacola.com/careers",
+          "status": 200,
+          "final_url": "https://www.coca-cola.com/us/en",
+          "error": null
+        },
+        {
+          "url": "https://www.cocacola.com/careers/",
+          "status": 200,
+          "final_url": "https://www.coca-cola.com/us/en",
+          "error": null
+        },
+        {
+          "url": "https://www.cocacola.com/jobs",
+          "status": 200,
+          "final_url": "https://www.coca-cola.com/us/en",
+          "error": null
+        },
+        {
+          "url": "https://www.cocacola.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.coca-cola.com/us/en",
+          "error": null
+        },
+        {
+          "url": "https://www.cocacola.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.coca-cola.com/us/en",
+          "error": null
+        },
+        {
+          "url": "https://www.cocacola.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.coca-cola.com/us/en",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Keurig Dr Pepper",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.keurigdrpepper.com/careers",
+          "status": 404,
+          "final_url": "https://www.keurigdrpepper.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.keurigdrpepper.com/careers/",
+          "status": 404,
+          "final_url": "https://www.keurigdrpepper.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.keurigdrpepper.com/jobs",
+          "status": 404,
+          "final_url": "https://www.keurigdrpepper.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.keurigdrpepper.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.keurigdrpepper.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.keurigdrpepper.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.keurigdrpepper.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.keurigdrpepper.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.keurigdrpepper.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Kraft Heinz",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.kraftheinz.com/careers",
+          "status": 404,
+          "final_url": "https://www.kraftheinz.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.kraftheinz.com/careers/",
+          "status": 404,
+          "final_url": "https://www.kraftheinz.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.kraftheinz.com/jobs",
+          "status": 404,
+          "final_url": "https://www.kraftheinz.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.kraftheinz.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.kraftheinz.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.kraftheinz.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.kraftheinz.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.kraftheinz.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.kraftheinz.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "General Mills",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.generalmills.com/careers",
+          "status": 404,
+          "final_url": "https://www.generalmills.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.generalmills.com/careers/",
+          "status": 404,
+          "final_url": "https://www.generalmills.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.generalmills.com/jobs",
+          "status": 404,
+          "final_url": "https://www.generalmills.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.generalmills.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.generalmills.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.generalmills.com/en/careers",
+          "status": null,
+          "final_url": "https://www.generalmills.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.generalmills.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.generalmills.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Mondelez International",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.mondelez.com/careers",
+          "status": 200,
+          "final_url": "https://www.mondelezinternational.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.mondelez.com/careers/",
+          "status": 200,
+          "final_url": "https://www.mondelezinternational.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.mondelez.com/jobs",
+          "status": 200,
+          "final_url": "https://www.mondelezinternational.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.mondelez.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.mondelezinternational.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.mondelez.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.mondelezinternational.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.mondelez.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.mondelezinternational.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.mondelezinternational.com/careers",
+          "status": 200,
+          "final_url": "https://www.mondelezinternational.com/careers/index.html",
+          "error": null
+        },
+        {
+          "url": "https://www.mondelezinternational.com/careers/",
+          "status": 200,
+          "final_url": "https://www.mondelezinternational.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.mondelezinternational.com/jobs",
+          "status": 404,
+          "final_url": "https://www.mondelezinternational.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.mondelezinternational.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.mondelezinternational.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.mondelezinternational.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.mondelezinternational.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.mondelezinternational.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.mondelezinternational.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Nestlé USA",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.nestl.com/careers",
+          "status": 404,
+          "final_url": "https://nestl.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.nestl.com/careers/",
+          "status": 404,
+          "final_url": "https://nestl.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.nestl.com/jobs",
+          "status": 404,
+          "final_url": "https://nestl.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.nestl.com/jobs/",
+          "status": 404,
+          "final_url": "https://nestl.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.nestl.com/en/careers",
+          "status": 404,
+          "final_url": "https://nestl.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.nestl.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://nestl.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.nestlusa.com/careers",
+          "status": null,
+          "final_url": "https://www.nestlusa.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.nestlusa.com/careers/",
+          "status": null,
+          "final_url": "https://www.nestlusa.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.nestlusa.com/jobs",
+          "status": null,
+          "final_url": "https://www.nestlusa.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.nestlusa.com/jobs/",
+          "status": null,
+          "final_url": "https://www.nestlusa.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.nestlusa.com/en/careers",
+          "status": null,
+          "final_url": "https://www.nestlusa.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.nestlusa.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.nestlusa.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Hershey",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.hershey.com/careers",
+          "status": 200,
+          "final_url": "https://www.hersheyland.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.hershey.com/careers/",
+          "status": 200,
+          "final_url": "https://www.hersheyland.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.hershey.com/jobs",
+          "status": 200,
+          "final_url": "https://www.hersheyland.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.hershey.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.hersheyland.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.hershey.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.hersheyland.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.hershey.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.hersheyland.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Hormel Foods",
+      "status": "discovered",
+      "seed": {
+        "name": "Hormel Foods",
+        "careers_url": "https://www.hormelfoods.com/careers/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.hormelfoods.com/careers",
+          "status": 200,
+          "final_url": "https://www.hormelfoods.com/careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Charles Schwab",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.charlesschwab.com/careers",
+          "status": null,
+          "final_url": "https://www.charlesschwab.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.charlesschwab.com/careers/",
+          "status": null,
+          "final_url": "https://www.charlesschwab.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.charlesschwab.com/jobs",
+          "status": null,
+          "final_url": "https://www.charlesschwab.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.charlesschwab.com/jobs/",
+          "status": null,
+          "final_url": "https://www.charlesschwab.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.charlesschwab.com/en/careers",
+          "status": null,
+          "final_url": "https://www.charlesschwab.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.charlesschwab.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.charlesschwab.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Global Payments",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.payments.com/careers",
+          "status": null,
+          "final_url": "https://www.payments.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.payments.com/careers/",
+          "status": null,
+          "final_url": "https://www.payments.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.payments.com/jobs",
+          "status": null,
+          "final_url": "https://www.payments.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.payments.com/jobs/",
+          "status": null,
+          "final_url": "https://www.payments.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.payments.com/en/careers",
+          "status": null,
+          "final_url": "https://www.payments.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.payments.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.payments.com/us/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.globalpayments.com/careers",
+          "status": null,
+          "final_url": "https://www.globalpayments.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.globalpayments.com/careers/",
+          "status": null,
+          "final_url": "https://www.globalpayments.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.globalpayments.com/jobs",
+          "status": 403,
+          "final_url": "https://www.globalpayments.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.globalpayments.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.globalpayments.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.globalpayments.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.globalpayments.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.globalpayments.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.globalpayments.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "American Express",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.americanexpress.com/careers",
+          "status": null,
+          "final_url": "https://www.americanexpress.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.americanexpress.com/careers/",
+          "status": null,
+          "final_url": "https://www.americanexpress.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.americanexpress.com/jobs",
+          "status": 200,
+          "final_url": "https://careers.americanexpress.com/en/sites/CX_1?vanity=americanexpress.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.americanexpress.com/jobs/",
+          "status": null,
+          "final_url": "https://www.americanexpress.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.americanexpress.com/en/careers",
+          "status": null,
+          "final_url": "https://www.americanexpress.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.americanexpress.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.americanexpress.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "JPMorgan Chase",
+      "status": "discovered",
+      "seed": {
+        "name": "JPMorgan Chase",
+        "careers_url": "https://www.jpmorganchase.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.jpmorganchase.com/careers",
+          "status": 200,
+          "final_url": "https://www.jpmorganchase.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Bank of America",
+      "status": "discovered",
+      "seed": {
+        "name": "Bank of America",
+        "careers_url": "https://careers.bankofamerica.com/en-us",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.bankofamerica.com/careers",
+          "status": 200,
+          "final_url": "https://careers.bankofamerica.com/en-us",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Wells Fargo",
+      "status": "discovered",
+      "seed": {
+        "name": "Wells Fargo",
+        "careers_url": "https://www.wellsfargojobs.com/en/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.wellsfargo.com/careers",
+          "status": 200,
+          "final_url": "https://www.wellsfargojobs.com/en/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Goldman Sachs",
+      "status": "discovered",
+      "seed": {
+        "name": "Goldman Sachs",
+        "careers_url": "https://www.goldmansachs.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.goldmansachs.com/careers",
+          "status": 200,
+          "final_url": "https://www.goldmansachs.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Morgan Stanley",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.morganstanley.com/careers",
+          "status": 200,
+          "final_url": "https://www.morganstanley.com/people",
+          "error": null
+        },
+        {
+          "url": "https://www.morganstanley.com/careers/",
+          "status": 404,
+          "final_url": "https://www.morganstanley.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.morganstanley.com/jobs",
+          "status": 404,
+          "final_url": "https://www.morganstanley.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.morganstanley.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.morganstanley.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.morganstanley.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.morganstanley.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.morganstanley.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.morganstanley.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Progressive",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.progressive.com/careers",
+          "status": 403,
+          "final_url": "https://careers.progressive.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.progressive.com/careers/",
+          "status": 403,
+          "final_url": "https://careers.progressive.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.progressive.com/jobs",
+          "status": 403,
+          "final_url": "https://careers.progressive.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.progressive.com/jobs/",
+          "status": 403,
+          "final_url": "https://careers.progressive.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.progressive.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.progressive.com/en/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.progressive.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.progressive.com/us/en/careers/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Liberty Mutual",
+      "status": "discovered",
+      "seed": {
+        "name": "Liberty Mutual",
+        "careers_url": "https://www.libertymutualgroup.com/about-lm/careers/overview",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.libertymutual.com/careers",
+          "status": 200,
+          "final_url": "https://www.libertymutualgroup.com/about-lm/careers/overview",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "State Farm",
+      "status": "discovered",
+      "seed": {
+        "name": "State Farm",
+        "careers_url": "https://www.statefarm.com/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.statefarm.com/careers",
+          "status": 200,
+          "final_url": "https://www.statefarm.com/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Berkshire Hathaway",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.berkshirehathaway.com/careers",
+          "status": 404,
+          "final_url": "https://www.berkshirehathaway.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.berkshirehathaway.com/careers/",
+          "status": 404,
+          "final_url": "https://www.berkshirehathaway.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.berkshirehathaway.com/jobs",
+          "status": 404,
+          "final_url": "https://www.berkshirehathaway.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.berkshirehathaway.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.berkshirehathaway.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.berkshirehathaway.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.berkshirehathaway.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.berkshirehathaway.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.berkshirehathaway.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "UnitedHealth Group",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.unitedhealthgroup.com/careers",
+          "status": 200,
+          "final_url": "https://www.unitedhealthgroup.com/careers/en/work.html",
+          "error": null
+        },
+        {
+          "url": "https://www.unitedhealthgroup.com/careers/",
+          "status": 200,
+          "final_url": "https://www.unitedhealthgroup.com/careers/en/work.html",
+          "error": null
+        },
+        {
+          "url": "https://www.unitedhealthgroup.com/jobs",
+          "status": 200,
+          "final_url": "https://www.unitedhealthgroup.com/page-not-found.html",
+          "error": null
+        },
+        {
+          "url": "https://www.unitedhealthgroup.com/jobs/",
+          "status": 200,
+          "final_url": "https://www.unitedhealthgroup.com/page-not-found.html",
+          "error": null
+        },
+        {
+          "url": "https://www.unitedhealthgroup.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.unitedhealthgroup.com/page-not-found.html",
+          "error": null
+        },
+        {
+          "url": "https://www.unitedhealthgroup.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.unitedhealthgroup.com/page-not-found.html",
+          "error": null
+        },
+        {
+          "url": "https://www.unitedhealth.com/careers",
+          "status": null,
+          "final_url": "https://www.unitedhealth.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.unitedhealth.com/careers/",
+          "status": null,
+          "final_url": "https://www.unitedhealth.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.unitedhealth.com/jobs",
+          "status": null,
+          "final_url": "https://www.unitedhealth.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.unitedhealth.com/jobs/",
+          "status": null,
+          "final_url": "https://www.unitedhealth.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.unitedhealth.com/en/careers",
+          "status": null,
+          "final_url": "https://www.unitedhealth.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.unitedhealth.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.unitedhealth.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Optum",
+      "status": "discovered",
+      "seed": {
+        "name": "Optum",
+        "careers_url": "https://www.optum.com/en/careers.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.optum.com/careers",
+          "status": 200,
+          "final_url": "https://www.optum.com/en/careers.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Cencora",
+      "status": "discovered",
+      "seed": {
+        "name": "Cencora",
+        "careers_url": "https://careers.cencora.com/us/en",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.cencora.com/careers",
+          "status": 200,
+          "final_url": "https://careers.cencora.com/us/en",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Thermo Fisher Scientific",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.thermofisherscientific.com/careers",
+          "status": null,
+          "final_url": "https://www.thermofisherscientific.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.thermofisherscientific.com/careers/",
+          "status": null,
+          "final_url": "https://www.thermofisherscientific.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.thermofisherscientific.com/jobs",
+          "status": null,
+          "final_url": "https://www.thermofisherscientific.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.thermofisherscientific.com/jobs/",
+          "status": null,
+          "final_url": "https://www.thermofisherscientific.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.thermofisherscientific.com/en/careers",
+          "status": null,
+          "final_url": "https://www.thermofisherscientific.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.thermofisherscientific.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.thermofisherscientific.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Boston Scientific",
+      "status": "discovered",
+      "seed": {
+        "name": "Boston Scientific",
+        "careers_url": "https://www.bostonscientific.com/en-US/careers.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.bostonscientific.com/careers",
+          "status": 200,
+          "final_url": "https://www.bostonscientific.com/en-US/careers.html",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Becton Dickinson",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.bectondickinson.com/careers",
+          "status": null,
+          "final_url": "https://www.bectondickinson.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bectondickinson.com/careers/",
+          "status": null,
+          "final_url": "https://www.bectondickinson.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bectondickinson.com/jobs",
+          "status": null,
+          "final_url": "https://www.bectondickinson.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bectondickinson.com/jobs/",
+          "status": null,
+          "final_url": "https://www.bectondickinson.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bectondickinson.com/en/careers",
+          "status": null,
+          "final_url": "https://www.bectondickinson.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.bectondickinson.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.bectondickinson.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Johnson & Johnson",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.jnj.com/careers",
+          "status": 404,
+          "final_url": "https://www.jnj.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.jnj.com/careers/",
+          "status": 404,
+          "final_url": "https://www.jnj.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.jnj.com/jobs",
+          "status": 404,
+          "final_url": "https://www.jnj.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.jnj.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.jnj.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.jnj.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.jnj.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.jnj.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.jnj.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.johnsonandjohnson.com/careers",
+          "status": null,
+          "final_url": "https://www.johnsonandjohnson.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.johnsonandjohnson.com/careers/",
+          "status": null,
+          "final_url": "https://www.johnsonandjohnson.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.johnsonandjohnson.com/jobs",
+          "status": null,
+          "final_url": "https://www.johnsonandjohnson.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.johnsonandjohnson.com/jobs/",
+          "status": null,
+          "final_url": "https://www.johnsonandjohnson.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.johnsonandjohnson.com/en/careers",
+          "status": null,
+          "final_url": "https://www.johnsonandjohnson.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.johnsonandjohnson.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.johnsonandjohnson.com/us/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.johnsonjohnson.com/careers",
+          "status": null,
+          "final_url": "https://www.johnsonjohnson.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.johnsonjohnson.com/careers/",
+          "status": null,
+          "final_url": "https://www.johnsonjohnson.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.johnsonjohnson.com/jobs",
+          "status": null,
+          "final_url": "https://www.johnsonjohnson.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.johnsonjohnson.com/jobs/",
+          "status": null,
+          "final_url": "https://www.johnsonjohnson.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.johnsonjohnson.com/en/careers",
+          "status": null,
+          "final_url": "https://www.johnsonjohnson.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.johnsonjohnson.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.johnsonjohnson.com/us/en/careers",
+          "error": "fetch failed"
+        }
+      ]
+    },
+    {
+      "company": "Merck & Co.",
+      "status": "discovered",
+      "seed": {
+        "name": "Merck & Co.",
+        "careers_url": "https://jobs.merck.com/us/en",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.merck.com/careers",
+          "status": 200,
+          "final_url": "https://jobs.merck.com/us/en",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Eli Lilly",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.lilly.com/careers",
+          "status": 403,
+          "final_url": "https://careers.lilly.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.lilly.com/careers/",
+          "status": 403,
+          "final_url": "https://careers.lilly.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.lilly.com/jobs",
+          "status": 403,
+          "final_url": "https://careers.lilly.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.lilly.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.lilly.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.lilly.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.lilly.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.lilly.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.lilly.com/us/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.elililly.com/careers",
+          "status": null,
+          "final_url": "https://www.elililly.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.elililly.com/careers/",
+          "status": null,
+          "final_url": "https://www.elililly.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.elililly.com/jobs",
+          "status": null,
+          "final_url": "https://www.elililly.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.elililly.com/jobs/",
+          "status": null,
+          "final_url": "https://www.elililly.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.elililly.com/en/careers",
+          "status": null,
+          "final_url": "https://www.elililly.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.elililly.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.elililly.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.gileadsciences.com/careers",
+          "status": null,
+          "final_url": "https://www.gileadsciences.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.gileadsciences.com/careers/",
+          "status": null,
+          "final_url": "https://www.gileadsciences.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.gileadsciences.com/jobs",
+          "status": null,
+          "final_url": "https://www.gileadsciences.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.gileadsciences.com/jobs/",
+          "status": null,
+          "final_url": "https://www.gileadsciences.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.gileadsciences.com/en/careers",
+          "status": null,
+          "final_url": "https://www.gileadsciences.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.gileadsciences.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.gileadsciences.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Moderna",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.moderna.com/careers",
+          "status": 404,
+          "final_url": "https://www.moderna.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.moderna.com/careers/",
+          "status": 404,
+          "final_url": "https://www.moderna.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.moderna.com/jobs",
+          "status": 404,
+          "final_url": "https://www.moderna.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.moderna.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.moderna.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.moderna.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.moderna.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.moderna.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.moderna.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Quest Diagnostics",
+      "status": "discovered",
+      "seed": {
+        "name": "Quest Diagnostics",
+        "careers_url": "https://careers.questdiagnostics.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.questdiagnostics.com/careers",
+          "status": 200,
+          "final_url": "https://careers.questdiagnostics.com/",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "HCA Healthcare",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.hcahealthcare.com/careers",
+          "status": 403,
+          "final_url": "https://www.hcahealthcare.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.hcahealthcare.com/careers/",
+          "status": 403,
+          "final_url": "https://www.hcahealthcare.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.hcahealthcare.com/jobs",
+          "status": 403,
+          "final_url": "https://www.hcahealthcare.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.hcahealthcare.com/jobs/",
+          "status": 403,
+          "final_url": "https://www.hcahealthcare.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.hcahealthcare.com/en/careers",
+          "status": 403,
+          "final_url": "https://www.hcahealthcare.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.hcahealthcare.com/us/en/careers",
+          "status": 403,
+          "final_url": "https://www.hcahealthcare.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Ascension",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.ascension.com/careers",
+          "status": 404,
+          "final_url": "https://www.ascension.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.ascension.com/careers/",
+          "status": 404,
+          "final_url": "https://www.ascension.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.ascension.com/jobs",
+          "status": 404,
+          "final_url": "https://www.ascension.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.ascension.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.ascension.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.ascension.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.ascension.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.ascension.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.ascension.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Baylor Scott & White Health",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.baylorscottandwhitehealth.com/careers",
+          "status": null,
+          "final_url": "https://www.baylorscottandwhitehealth.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.baylorscottandwhitehealth.com/careers/",
+          "status": null,
+          "final_url": "https://www.baylorscottandwhitehealth.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.baylorscottandwhitehealth.com/jobs",
+          "status": null,
+          "final_url": "https://www.baylorscottandwhitehealth.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.baylorscottandwhitehealth.com/jobs/",
+          "status": null,
+          "final_url": "https://www.baylorscottandwhitehealth.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.baylorscottandwhitehealth.com/en/careers",
+          "status": null,
+          "final_url": "https://www.baylorscottandwhitehealth.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.baylorscottandwhitehealth.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.baylorscottandwhitehealth.com/us/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.baylorscottwhitehealth.com/careers",
+          "status": null,
+          "final_url": "https://www.baylorscottwhitehealth.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.baylorscottwhitehealth.com/careers/",
+          "status": null,
+          "final_url": "https://www.baylorscottwhitehealth.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.baylorscottwhitehealth.com/jobs",
+          "status": 200,
+          "final_url": "https://www.baylorscottwhitehealth.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.baylorscottwhitehealth.com/jobs/",
+          "status": null,
+          "final_url": "https://www.baylorscottwhitehealth.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.baylorscottwhitehealth.com/en/careers",
+          "status": 200,
+          "final_url": "https://www.baylorscottwhitehealth.com/en/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.baylorscottwhitehealth.com/us/en/careers",
+          "status": 200,
+          "final_url": "https://www.baylorscottwhitehealth.com/us/en/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "St. David's HealthCare",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.stdavidshealthcare.com/careers",
+          "status": null,
+          "final_url": "https://www.stdavidshealthcare.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.stdavidshealthcare.com/careers/",
+          "status": null,
+          "final_url": "https://www.stdavidshealthcare.com/careers/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.stdavidshealthcare.com/jobs",
+          "status": null,
+          "final_url": "https://www.stdavidshealthcare.com/jobs",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.stdavidshealthcare.com/jobs/",
+          "status": null,
+          "final_url": "https://www.stdavidshealthcare.com/jobs/",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.stdavidshealthcare.com/en/careers",
+          "status": null,
+          "final_url": "https://www.stdavidshealthcare.com/en/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.stdavidshealthcare.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.stdavidshealthcare.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Austin Regional Clinic",
+      "status": "discovered",
+      "seed": {
+        "name": "Austin Regional Clinic",
+        "careers_url": "https://www.austinregionalclinic.com/about/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.austinregionalclinic.com/careers",
+          "status": 200,
+          "final_url": "https://www.austinregionalclinic.com/about/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Q2 Holdings",
+      "status": "discovered",
+      "seed": {
+        "name": "Q2 Holdings",
+        "careers_url": "https://www.q2.com/company/why-work-at-q2/careers",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
+      "attempts": [
+        {
+          "url": "https://www.q2.com/careers",
+          "status": 200,
+          "final_url": "https://www.q2.com/company/why-work-at-q2/careers",
+          "error": null
+        }
+      ]
+    },
+    {
+      "company": "Texas Mutual Insurance",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.texasmutualinsurance.com/careers",
+          "status": null,
+          "final_url": "https://www.texasmutualinsurance.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.texasmutualinsurance.com/careers/",
+          "status": null,
+          "final_url": "https://www.texasmutualinsurance.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.texasmutualinsurance.com/jobs",
+          "status": null,
+          "final_url": "https://www.texasmutualinsurance.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.texasmutualinsurance.com/jobs/",
+          "status": null,
+          "final_url": "https://www.texasmutualinsurance.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.texasmutualinsurance.com/en/careers",
+          "status": null,
+          "final_url": "https://www.texasmutualinsurance.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.texasmutualinsurance.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.texasmutualinsurance.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "TransPak",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.transpak.com/careers",
+          "status": 404,
+          "final_url": "https://www.transpak.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.transpak.com/careers/",
+          "status": 404,
+          "final_url": "https://www.transpak.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://www.transpak.com/jobs",
+          "status": 404,
+          "final_url": "https://www.transpak.com/jobs",
+          "error": null
+        },
+        {
+          "url": "https://www.transpak.com/jobs/",
+          "status": 404,
+          "final_url": "https://www.transpak.com/jobs/",
+          "error": null
+        },
+        {
+          "url": "https://www.transpak.com/en/careers",
+          "status": 404,
+          "final_url": "https://www.transpak.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.transpak.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.transpak.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Lower Colorado River Authority",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.lowercoloradoriverauthority.com/careers",
+          "status": null,
+          "final_url": "https://www.lowercoloradoriverauthority.com/careers",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.lowercoloradoriverauthority.com/careers/",
+          "status": null,
+          "final_url": "https://www.lowercoloradoriverauthority.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.lowercoloradoriverauthority.com/jobs",
+          "status": null,
+          "final_url": "https://www.lowercoloradoriverauthority.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.lowercoloradoriverauthority.com/jobs/",
+          "status": null,
+          "final_url": "https://www.lowercoloradoriverauthority.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.lowercoloradoriverauthority.com/en/careers",
+          "status": null,
+          "final_url": "https://www.lowercoloradoriverauthority.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.lowercoloradoriverauthority.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.lowercoloradoriverauthority.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Austin Energy",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.austinenergy.com/careers",
+          "status": null,
+          "final_url": "https://www.austinenergy.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.austinenergy.com/careers/",
+          "status": null,
+          "final_url": "https://www.austinenergy.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.austinenergy.com/jobs",
+          "status": null,
+          "final_url": "https://www.austinenergy.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.austinenergy.com/jobs/",
+          "status": null,
+          "final_url": "https://www.austinenergy.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.austinenergy.com/en/careers",
+          "status": null,
+          "final_url": "https://www.austinenergy.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.austinenergy.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.austinenergy.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "SHI International",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.shi.com/careers",
+          "status": 403,
+          "final_url": "https://www.shi.com/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.shi.com/careers/",
+          "status": null,
+          "final_url": "https://www.shi.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.shi.com/jobs",
+          "status": null,
+          "final_url": "https://www.shi.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.shi.com/jobs/",
+          "status": null,
+          "final_url": "https://www.shi.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.shi.com/en/careers",
+          "status": null,
+          "final_url": "https://www.shi.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.shi.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.shi.com/us/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.shiinternational.com/careers",
+          "status": null,
+          "final_url": "https://www.shiinternational.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.shiinternational.com/careers/",
+          "status": null,
+          "final_url": "https://www.shiinternational.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.shiinternational.com/jobs",
+          "status": null,
+          "final_url": "https://www.shiinternational.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.shiinternational.com/jobs/",
+          "status": null,
+          "final_url": "https://www.shiinternational.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.shiinternational.com/en/careers",
+          "status": null,
+          "final_url": "https://www.shiinternational.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.shiinternational.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.shiinternational.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "NinjaOne",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.ninjaone.com/careers",
+          "status": null,
+          "final_url": "https://www.ninjaone.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.ninjaone.com/careers/",
+          "status": null,
+          "final_url": "https://www.ninjaone.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.ninjaone.com/jobs",
+          "status": null,
+          "final_url": "https://www.ninjaone.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.ninjaone.com/jobs/",
+          "status": null,
+          "final_url": "https://www.ninjaone.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.ninjaone.com/en/careers",
+          "status": null,
+          "final_url": "https://www.ninjaone.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.ninjaone.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.ninjaone.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    },
+    {
+      "company": "Planview",
+      "status": "unresolved",
+      "attempts": [
+        {
+          "url": "https://www.planview.com/careers",
+          "status": null,
+          "final_url": "https://www.planview.com/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.planview.com/careers/",
+          "status": null,
+          "final_url": "https://www.planview.com/careers/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.planview.com/jobs",
+          "status": null,
+          "final_url": "https://www.planview.com/jobs",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.planview.com/jobs/",
+          "status": null,
+          "final_url": "https://www.planview.com/jobs/",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.planview.com/en/careers",
+          "status": null,
+          "final_url": "https://www.planview.com/en/careers",
+          "error": "timeout"
+        },
+        {
+          "url": "https://www.planview.com/us/en/careers",
+          "status": null,
+          "final_url": "https://www.planview.com/us/en/careers",
+          "error": "timeout"
+        }
+      ]
+    }
+  ]
 }
