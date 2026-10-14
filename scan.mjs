@@ -298,9 +298,11 @@ async function main() {
     .map(c => ({ ...c, _api: detectApi(c) }))
     .filter(c => c._api !== null);
 
-  const skippedCount = companies.filter(c => c.enabled !== false).length - targets.length;
+  const selected = companies.filter(c => c.enabled !== false).filter(c => !filterCompany || c.name.toLowerCase().includes(filterCompany));
+  const websearchPending = selected.filter(c => c.scan_method === 'websearch' && !detectApi(c));
+  const unsupported = selected.filter(c => c.scan_method !== 'websearch' && !detectApi(c));
 
-  console.log(`Scanning ${targets.length} companies via API (${skippedCount} skipped — no API detected)`);
+  console.log(`Scanning ${targets.length} companies via API; ${websearchPending.length} websearch-only companies require a separate runner; ${unsupported.length} companies have no supported API configuration`);
   if (dryRun) console.log('(dry run — no files will be written)\n');
 
   // 3. Load dedup sets
@@ -363,7 +365,9 @@ async function main() {
   console.log(`\n${'━'.repeat(45)}`);
   console.log(`Portal Scan — ${date}`);
   console.log(`${'━'.repeat(45)}`);
-  console.log(`Companies scanned:     ${targets.length}`);
+  console.log(`API boards attempted:   ${targets.length}`);
+  console.log(`Websearch pending:      ${websearchPending.length} (not scanned)`);
+  console.log(`Unconfigured boards:    ${unsupported.length}`);
   console.log(`Total jobs found:      ${totalFound}`);
   console.log(`Filtered by title:     ${totalFilteredTitle} removed`);
   console.log(`Filtered by location:  ${totalFilteredLocation} removed`);
