@@ -173,6 +173,11 @@ tracked_companies:
     careers_url: https://adobe.wd5.myworkdayjobs.com/external_experienced
     scan_method: workday
     enabled: true
+  # Direct Workday candidate: endpoint discovery confirmed; scan success pending Actions validation.
+  - name: Applied Materials
+    careers_url: https://amat.wd1.myworkdayjobs.com/External
+    scan_method: workday
+    enabled: true
   - name: Apple
     careers_url: https://jobs.apple.com
     scan_method: websearch
