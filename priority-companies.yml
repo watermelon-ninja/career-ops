@@ -1,0 +1,73 @@
+# Priority Company Universe — Selena Career-Ops
+# Separate from the broad ATS universe. Priority-company capture should be high recall:
+# capture broadly by company/location first, then retrieve full JD and apply Selena Fit Score.
+
+version: 1
+scoring:
+  full_jd_required: true
+  strong_apply_threshold: 9.0
+  title_filter_mode: high_recall
+  supply_chain_affinity: semantic_boost_not_gate
+
+tiers:
+  tier_1:
+    description: Highest-priority employers; scan every priority run
+    companies:
+      - { name: Google, careers_url: "https://www.google.com/about/careers/applications/jobs/results", capture: dedicated_adapter }
+      - { name: Microsoft, careers_url: "https://jobs.careers.microsoft.com", capture: dedicated_adapter }
+      - { name: Apple, careers_url: "https://jobs.apple.com", capture: dedicated_adapter }
+      - { name: Amazon, careers_url: "https://www.amazon.jobs", capture: dedicated_adapter }
+      - { name: Tesla, careers_url: "https://www.tesla.com/careers", capture: dedicated_adapter }
+      - { name: IBM, careers_url: "https://www.ibm.com/careers/search", capture: dedicated_adapter }
+      - { name: Cisco, careers_url: "https://jobs.cisco.com", capture: dedicated_adapter }
+      - { name: Dell, careers_url: "https://jobs.dell.com", capture: dedicated_adapter }
+      - { name: NVIDIA, careers_url: "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite", capture: workday }
+      - { name: Oracle, careers_url: "https://careers.oracle.com", capture: dedicated_adapter }
+
+  tier_2:
+    description: Strong domain or enterprise-systems adjacency
+    companies:
+      - { name: Meta, careers_url: "https://www.metacareers.com", capture: dedicated_adapter }
+      - { name: Adobe, careers_url: "https://adobe.wd5.myworkdayjobs.com/external_experienced", capture: workday }
+      - { name: Intel, careers_url: "https://intel.wd1.myworkdayjobs.com/External", capture: workday }
+      - { name: SAP, careers_url: "https://jobs.sap.com", capture: dedicated_adapter }
+      - { name: ServiceNow, careers_url: "https://careers.servicenow.com", capture: dedicated_adapter }
+      - { name: Walmart, careers_url: "https://careers.walmart.com", capture: dedicated_adapter }
+      - { name: Target, careers_url: "https://corporate.target.com/careers", capture: dedicated_adapter }
+      - { name: Home Depot, careers_url: "https://careers.homedepot.com", capture: dedicated_adapter }
+      - { name: Blue Yonder, careers_url: "https://careers.blueyonder.com", capture: dedicated_adapter }
+      - { name: Manhattan Associates, careers_url: "https://www.manh.com/company/careers", capture: dedicated_adapter }
+      - { name: Kinaxis, careers_url: "https://www.kinaxis.com/en/careers", capture: dedicated_adapter }
+      - { name: Coupa, careers_url: "https://careers.coupa.com", capture: dedicated_adapter }
+      - { name: project44, careers_url: "https://www.project44.com/careers", capture: dedicated_adapter }
+      - { name: FourKites, careers_url: "https://www.fourkites.com/careers", capture: dedicated_adapter }
+      - { name: E2open, careers_url: "https://www.e2open.com/careers", capture: dedicated_adapter }
+      - { name: GXO, careers_url: "https://gxo.com/careers", capture: dedicated_adapter }
+
+location_policy:
+  preferred:
+    - Austin
+    - Texas
+    - US Remote
+  note: Do not reject a priority-company role solely because location text is missing; verify from full JD.
+
+capture_policy:
+  # Deliberately broader than broad ATS lane. Priority employers justify reading more JDs.
+  role_families:
+    - product
+    - program
+    - project
+    - business_analysis
+    - business_systems
+    - implementation
+    - transformation
+    - operations_technology
+    - supply_chain
+    - logistics
+    - planning
+    - data_analytics
+  exclude_obvious:
+    - internship
+    - new_grad
+    - executive
+    - frontline_hourly
