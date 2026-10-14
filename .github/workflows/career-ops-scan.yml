@@ -1,0 +1,74 @@
+name: Career-Ops Scan
+
+on:
+  workflow_dispatch:
+    inputs:
+      company:
+        description: "Optional company name to scan (leave blank for all configured portals)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: career-ops-scan-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out selected branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: package.json
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Run Career-Ops scanner
+        shell: bash
+        run: |
+          if [ -n "${{ inputs.company }}" ]; then
+            node scan.mjs --company "${{ inputs.company }}"
+          else
+            npm run scan
+          fi
+
+      - name: Show scanner output summary
+        shell: bash
+        run: |
+          echo "=== git diff ==="
+          git status --short
+          echo "=== scan history rows ==="
+          if [ -f data/scan-history.tsv ]; then
+            wc -l data/scan-history.tsv
+          else
+            echo "No scan-history.tsv produced"
+          fi
+          echo "=== pipeline ==="
+          sed -n '1,220p' data/pipeline.md
+
+      - name: Commit Career-Ops scan results
+        shell: bash
+        run: |
+          git add data/scan-history.tsv data/pipeline.md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No Career-Ops scan changes to commit."
+            exit 0
+          fi
+          git config user.name "career-ops-bot"
+          git config user.email "career-ops-bot@users.noreply.github.com"
+          git commit -m "chore: update Career-Ops scan results"
+          git push origin "HEAD:${{ github.ref_name }}"
