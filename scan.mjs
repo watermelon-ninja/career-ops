@@ -85,7 +85,7 @@ async function loadUniverse(args) {
   }
   const response = await fetch(UNIVERSE_URL, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) });
   if (!response.ok) throw new Error(`ATS directory HTTP ${response.status}`);
-  const rows = (await response.text()).split('\\n').filter(Boolean).map(line => JSON.parse(line));
+  const rows = (await response.text()).split(String.fromCharCode(10)).filter(Boolean).map(line => JSON.parse(line));
   const valid = rows.filter(r => r.status === 'ok' && ['ashby','greenhouse','lever'].includes(r.provider) && /^[a-z0-9_.-]+$/i.test(r.slug));
   const start = (Math.floor(Date.now() / 86400000) * requested) % Math.max(valid.length, 1);
   const batch = Array.from({length: Math.min(requested, valid.length)}, (_, i) => valid[(start + i) % valid.length]);
