@@ -21,19 +21,19 @@ for(const p of portals){
 }
 
 const fingerprints=[
- ['workday',/https?:\/\/[a-z0-9-]+\\.wd\\d+\\.myworkdayjobs\\.com\/[^"'<>\\s]+/ig],
- ['greenhouse',/https?:\/\/(?:boards|job-boards)(?:\\.eu)?\\.greenhouse\\.io\/[^"'<>\\s]+/ig],
- ['ashby',/https?:\/\/jobs\\.ashbyhq\\.com\/[^"'<>\\s]+/ig],
- ['lever',/https?:\/\/jobs\\.lever\\.co\/[^"'<>\\s]+/ig],
- ['smartrecruiters',/https?:\/\/(?:careers\\.)?smartrecruiters\\.com\/[^"'<>\\s]+/ig],
- ['teamtailor',/https?:\/\/[a-z0-9.-]+\\.teamtailor\\.com\/?[^"'<>\\s]*/ig]
+ ['workday',new RegExp('https?:\\/\\/[a-z0-9-]+\\.wd\\d+\\.myworkdayjobs\\.com\\/[^"\\'<>\\s]+','ig')],
+ ['greenhouse',new RegExp('https?:\\/\\/(?:boards|job-boards)(?:\\.eu)?\\.greenhouse\\.io\\/[^"\\'<>\\s]+','ig')],
+ ['ashby',new RegExp('https?:\\/\\/jobs\\.ashbyhq\\.com\\/[^"\\'<>\\s]+','ig')],
+ ['lever',new RegExp('https?:\\/\\/jobs\\.lever\\.co\\/[^"\\'<>\\s]+','ig')],
+ ['smartrecruiters',new RegExp('https?:\\/\\/(?:careers\\.)?smartrecruiters\\.com\\/[^"\\'<>\\s]+','ig')],
+ ['teamtailor',new RegExp('https?:\\/\\/[a-z0-9.-]+\\.teamtailor\\.com\\/?[^"\\'<>\\s]*','ig')]
 ];
 const platformMarkers=[
- ['oracle_recruiting_cloud',/(?:oraclecloud\\.com\\/hcmUI\\/CandidateExperience|CandidateExperience|sites\\/jobsearch)/i],
- ['phenom',/(?:phenompeople\\.com|phenom-page|phn-)/i],
- ['eightfold',/(?:eightfold\\.ai|eightfold)/i],
- ['successfactors',/(?:successfactors\\.(?:com|eu)|sfcareer|careerSiteBuilder)/i],
- ['icims',/(?:icims\\.com\\/jobs|iCIMS)/i]
+ ['oracle_recruiting_cloud',new RegExp('(?:oraclecloud\\.com\\/hcmUI\\/CandidateExperience|CandidateExperience|sites\\/jobsearch)','i')],
+ ['phenom',new RegExp('(?:phenompeople\\.com|phenom-page|phn-)','i')],
+ ['eightfold',new RegExp('(?:eightfold\\.ai|eightfold)','i')],
+ ['successfactors',new RegExp('(?:successfactors\\.(?:com|eu)|sfcareer|careerSiteBuilder)','i')],
+ ['icims',new RegExp('(?:icims\\.com\\/jobs|iCIMS)','i')]
 ];
 
 function supported(text=''){
