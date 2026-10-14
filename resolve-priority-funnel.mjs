@@ -89,6 +89,6 @@ const next=[...platformCandidates,...remaining];
 const providerCounts=identified.reduce((a,x)=>(a[x.provider]=(a[x.provider]||0)+1,a),{});
 const platformCounts=platformCandidates.reduce((a,x)=>(a[x.provider]=(a[x.provider]||0)+1,a),{});
 const out={generated_at:new Date().toISOString(),layer:2,input_count:input.length,identified_at_layer_2:identified.length,full_jd_verified_at_layer_2:0,shared_platform_candidates:platformCandidates.length,remaining_for_layer_3:next.length,provider_counts:providerCounts,platform_candidate_counts:platformCounts,identified,platform_candidates:platformCandidates,remaining};
-writeFileSync('data/priority-resolution-funnel.json',JSON.stringify(out,null,2)+'\\n');
-writeFileSync('data/priority-manual-followup.json',JSON.stringify({generated_at:out.generated_at,funnel_stage:3,note:'Unresolved after Layer 2 network autodetect. Includes shared-platform candidates for reusable Layer 3 adapters; these are not manual failures.',companies:next},null,2)+'\\n');
+writeFileSync('data/priority-resolution-funnel.json',JSON.stringify(out,null,2)+'\n');
+writeFileSync('data/priority-manual-followup.json',JSON.stringify({generated_at:out.generated_at,funnel_stage:3,note:'Unresolved after Layer 2 network autodetect. Includes shared-platform candidates for reusable Layer 3 adapters; these are not manual failures.',companies:next},null,2)+'\n');
 console.log(JSON.stringify({layer:2,input:out.input_count,identified:identified.length,full_jd_verified:0,shared_platform_candidates:platformCandidates.length,remaining_for_layer_3:next.length,providers:providerCounts,platforms:platformCounts},null,2));
