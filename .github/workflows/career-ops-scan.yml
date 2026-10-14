@@ -1,0 +1,66 @@
+name: Career-Ops Scan
+
+on:
+  workflow_dispatch:
+    inputs:
+      company:
+        description: "Optional company name; leave blank to scan all configured portals"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: career-ops-scan-selena
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out Selena Career-Ops branch
+        uses: actions/checkout@v4
+        with:
+          ref: codex/recreate-phase-1-and-phase-2-files
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Run Career-Ops scanner
+        shell: bash
+        run: |
+          if [ -n "${{ inputs.company }}" ]; then
+            node scan.mjs --company "${{ inputs.company }}"
+          else
+            npm run scan
+          fi
+
+      - name: Show scan summary
+        shell: bash
+        run: |
+          git status --short
+          if [ -f data/scan-history.tsv ]; then
+            echo "scan-history rows:"
+            wc -l data/scan-history.tsv
+          fi
+
+      - name: Commit scan results to Selena branch
+        shell: bash
+        run: |
+          git add data/scan-history.tsv data/pipeline.md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No scan changes to commit."
+            exit 0
+          fi
+          git config user.name "career-ops-bot"
+          git config user.email "career-ops-bot@users.noreply.github.com"
+          git commit -m "chore: update Career-Ops scan results"
+          git push origin HEAD:codex/recreate-phase-1-and-phase-2-files
