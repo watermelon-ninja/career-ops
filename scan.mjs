@@ -166,26 +166,42 @@ async function loadUniverse(args) {
     ...(sourceBuckets.get('workday-commoncrawl') || []).sort(compareBoards),
   ];
   if (!valid.length) throw new Error('No ATS directory sources loaded successfully');
-  let cursor = 0;
+  const general = valid.filter(r => r.provider !== 'workday');
+  const workday = valid.filter(r => r.provider === 'workday');
+  let generalCursor = 0, workdayCursor = 0;
   if (existsSync(UNIVERSE_CURSOR_PATH)) {
     try {
       const saved = JSON.parse(readFileSync(UNIVERSE_CURSOR_PATH, 'utf-8'));
-      if (Number.isInteger(saved.next_index) && saved.next_index >= 0) cursor = saved.next_index % valid.length;
+      // Migrate the old single cursor into the general lane; Workday starts fresh.
+      if (Number.isInteger(saved.general_next_index)) generalCursor = saved.general_next_index % Math.max(1, general.length);
+      else if (Number.isInteger(saved.next_index)) generalCursor = saved.next_index % Math.max(1, general.length);
+      if (Number.isInteger(saved.workday_next_index)) workdayCursor = saved.workday_next_index % Math.max(1, workday.length);
     } catch (error) {
-      console.error(`ATS cursor unreadable: ${error.message}; restarting at index 0`);
+      console.error(`ATS cursor unreadable: ${error.message}; restarting lane cursors at 0`);
     }
   }
-  const batchSize = Math.min(requested, valid.length);
-  const batch = Array.from({length: batchSize}, (_, i) => valid[(cursor + i) % valid.length]);
-  const nextIndex = (cursor + batchSize) % valid.length;
+  // Enterprise-heavy allocation: 40% Workday, 60% discovery across other ATSs.
+  const workdaySize = Math.min(workday.length, Math.max(1, Math.round(requested * 0.40)));
+  const generalSize = Math.min(general.length, Math.max(1, requested - workdaySize));
+  const generalBatch = Array.from({length: generalSize}, (_, i) => general[(generalCursor + i) % general.length]);
+  const workdayBatch = Array.from({length: workdaySize}, (_, i) => workday[(workdayCursor + i) % workday.length]);
+  const batch = [...generalBatch, ...workdayBatch];
+  const nextGeneral = (generalCursor + generalSize) % general.length;
+  const nextWorkday = (workdayCursor + workdaySize) % workday.length;
   writeFileSync(UNIVERSE_CURSOR_PATH, JSON.stringify({
-    next_index: nextIndex,
+    general_next_index: nextGeneral,
+    workday_next_index: nextWorkday,
+    general_universe_size: general.length,
+    workday_universe_size: workday.length,
     universe_size: valid.length,
-    batch_size: batchSize,
-    last_start_index: cursor,
+    batch_size: batch.length,
+    last_general_start_index: generalCursor,
+    last_workday_start_index: workdayCursor,
     updated_at: new Date().toISOString()
   }, null, 2) + '\n', 'utf-8');
-  console.log(`ATS universe: ${valid.length} unique directory boards; scanning indices ${cursor}..${(cursor + batchSize - 1) % valid.length}; next cursor ${nextIndex}`);
+  console.log(`ATS universe: ${valid.length} boards = ${general.length} general + ${workday.length} Workday`);
+  console.log(`General lane: ${generalCursor}..${(generalCursor + generalSize - 1) % general.length} (${generalSize}); next ${nextGeneral}`);
+  console.log(`Workday lane: ${workdayCursor}..${(workdayCursor + workdaySize - 1) % workday.length} (${workdaySize}); next ${nextWorkday}`);
   return batch.map(r => ({name: r.name || r.slug, careers_url: r.provider === 'ashby' ? `https://jobs.ashbyhq.com/${r.slug}` : r.provider === 'lever' ? `https://jobs.lever.co/${r.slug}` : r.provider === 'teamtailor' ? `https://${r.slug}.teamtailor.com` : r.provider === 'workday' ? `https://${r.tenant}.${r.shard}.myworkdayjobs.com/${r.site}` : `https://job-boards.greenhouse.io/${r.slug}`, scan_method: r.provider, enabled: true}));
 }
 
