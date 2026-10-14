@@ -32,7 +32,11 @@ target_roles:
     - "Technical Product Owner"
     - "Product Owner, Supply Chain Systems"
     - "Implementation Manager"
+    - "Enterprise Implementation Consultant"
+    - "Product Manager, Supply Chain / Operations Systems"
+    - "Product Operations Manager"
     - "Program Manager, Supply Chain Systems"
+    - "Technical Program Manager, Supply Chain / Operations"
   archetypes:
     - name: "Supply Chain Systems Analyst"
       level: "Mid-level"
@@ -140,27 +144,27 @@ narrative:
     - "Vendor integration troubleshooting across WMS, ASRS, ERP, and logistics partners"
     - "Data-driven process optimization with SQL, Databricks, dashboards, and KPI tracking"
   proof_points:
-    - name: "Inventory forecasting improvement"
+    - name: "WMS inventory-control scope prioritization"
       url: "data/resume-master.md"
-      hero_metric: "Improved inventory forecasting accuracy by 25–35%"
-    - name: "Supply chain systems savings"
+      hero_metric: "Reprioritized 20+ cycle-count workflows to 5–6 high-use processes for the initial release, balancing timeline and resources while reducing implementation and training complexity"
+    - name: "WMS integration clarity"
       url: "data/resume-master.md"
-      hero_metric: "Supported approximately $2.5M in annual savings"
-    - name: "Logistics process optimization"
+      hero_metric: "Mapped 4 integrations and 50+ jobs to reduce false defects and save 20%+ development/QA time"
+    - name: "Logistics automation"
       url: "data/resume-master.md"
-      hero_metric: "Reduced manual logistics processing by 20%"
+      hero_metric: "Reduced manual logistics processing by approximately 20% through automated data exchange with Amazon, CEVA, and XPO"
 
 compensation:
-  target_range: ""
+  target_range: "Target total compensation >= $150,000 when market/level supports it; evaluate ability fit separately from compensation"
   currency: "USD"
-  minimum: ""
-  location_flexibility: "Austin, TX; open to roles aligned with supply chain systems and enterprise integration needs."
+  minimum: "Do not reject high ability-fit roles solely on compensation; flag compensation separately"
+  location_flexibility: "Austin preferred; U.S. remote/hybrid acceptable; relocation may be considered selectively for exceptional fit. No sponsorship required."
 
 location:
   country: "United States"
   city: "Austin"
   timezone: "Central Time"
-  visa_status: ""
+  visa_status: "No sponsorship required"
 
 cv:
   output_format: "html"
