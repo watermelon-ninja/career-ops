@@ -1,6 +1,6 @@
 // Full-JD enrichment, separate from discovery. No fit scores are assigned here.
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
-const historyInput='data/scan-history.tsv', pipelineInput='data/pipeline.md', output='data/jd-enrichment.jsonl';
+const batchInput='data/latest-jd-candidates.jsonl', historyInput='data/scan-history.tsv', pipelineInput='data/pipeline.md', output='data/jd-enrichment.jsonl';
 const limit=Math.max(1,Math.min(500,Number(process.argv.find(x=>x.startsWith('--limit='))?.split('=')[1]||150)));
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 function clean(s){return String(s||'').replace(/<[^>]*>/g,' ').replace(/&nbsp;|&#160;/gi,' ').replace(/&amp;/gi,'&').replace(/&lt;/gi,'<').replace(/&gt;/gi,'>').replace(/&quot;/gi,'"').replace(/&#39;/gi,"'").replace(/\s+/g,' ').trim();}
@@ -51,6 +51,9 @@ async function retrieve(row){
  return {status:'full_jd_ready',jd:description,jd_length:description.length,provider:e.provider};
 }
 function loadCandidates(){
+ if(existsSync(batchInput)){
+  return readFileSync(batchInput,'utf8').split('\\n').filter(Boolean).map(JSON.parse);
+ }
  if(existsSync(historyInput)){
   const lines=readFileSync(historyInput,'utf8').trim().split('\n');const header=lines.shift().split('\t');
   return lines.map(l=>Object.fromEntries(l.split('\t').map((v,i)=>[header[i],v]))).filter(x=>x.url);
@@ -72,7 +75,7 @@ const rows=loadCandidates();
 mkdirSync('data',{recursive:true});
 const prior=existsSync(output)?readFileSync(output,'utf8').split('\n').filter(Boolean).map(x=>{try{return JSON.parse(x)}catch{return null}}).filter(Boolean):[];
 const known=new Map(prior.map(x=>[x.url,x]));
-const pending=rows.filter(x=>!known.has(x.url)).slice(-limit);
+const pending=rows.filter(x=>!known.has(x.url)).slice(0,limit);
 const results=[];
 for(let i=0;i<pending.length;i++){
  const row=pending[i];let result;
