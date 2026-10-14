@@ -1,0 +1,3882 @@
+{
+  "generated_at": "2026-10-14T19:10:16.167Z",
+  "universe_boards": 29031,
+  "priority_companies": 351,
+  "covered_count": 151,
+  "needs_extra_work_count": 200,
+  "covered": [
+    {
+      "name": "Google",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "google|wd5|gocjobs",
+          "name": "google",
+          "tenant": "google",
+          "shard": "wd5",
+          "site": "gocjobs"
+        }
+      ]
+    },
+    {
+      "name": "Cisco",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "cisco|wd5|cisco_careers",
+          "name": "cisco",
+          "tenant": "cisco",
+          "shard": "wd5",
+          "site": "cisco_careers"
+        }
+      ]
+    },
+    {
+      "name": "Dell Technologies",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "dell|wd1|external",
+          "name": "dell",
+          "tenant": "dell",
+          "shard": "wd1",
+          "site": "external"
+        },
+        {
+          "provider": "workday",
+          "slug": "dell|wd1|externalnonpublic",
+          "name": "dell",
+          "tenant": "dell",
+          "shard": "wd1",
+          "site": "externalnonpublic"
+        },
+        {
+          "provider": "workday",
+          "slug": "dell|wd1|rsa",
+          "name": "dell",
+          "tenant": "dell",
+          "shard": "wd1",
+          "site": "rsa"
+        }
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "nvidia|wd5|nvidiaexternalcareersite",
+          "name": "nvidia",
+          "tenant": "nvidia",
+          "shard": "wd5",
+          "site": "nvidiaexternalcareersite"
+        },
+        {
+          "provider": "workday",
+          "slug": "nvidia|wd5|nvidiaexternalcareersitehardware",
+          "name": "nvidia",
+          "tenant": "nvidia",
+          "shard": "wd5",
+          "site": "nvidiaexternalcareersitehardware"
+        }
+      ]
+    },
+    {
+      "name": "Salesforce",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd12|external_career_site",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd12",
+          "site": "external_career_site"
+        },
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd12|futureforce_internships",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd12",
+          "site": "futureforce_internships"
+        },
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd12|futureforce_newgradroles",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd12",
+          "site": "futureforce_newgradroles"
+        },
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd12|mulesoft_careersite",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd12",
+          "site": "mulesoft_careersite"
+        },
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd12|salesforce_research",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd12",
+          "site": "salesforce_research"
+        },
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd12|slack",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd12",
+          "site": "slack"
+        },
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd12|tableau",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd12",
+          "site": "tableau"
+        },
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd1|datorama",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd1",
+          "site": "datorama"
+        },
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd1|external_career_site",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd1",
+          "site": "external_career_site"
+        },
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd1|futureforce_internships",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd1",
+          "site": "futureforce_internships"
+        },
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd1|futureforce_newgradroles",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd1",
+          "site": "futureforce_newgradroles"
+        },
+        {
+          "provider": "workday",
+          "slug": "salesforce|wd1|slack",
+          "name": "salesforce",
+          "tenant": "salesforce",
+          "shard": "wd1",
+          "site": "slack"
+        }
+      ]
+    },
+    {
+      "name": "Adobe",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "adobe|wd5|adobe_careers",
+          "name": "adobe",
+          "tenant": "adobe",
+          "shard": "wd5",
+          "site": "adobe_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "adobe|wd5|external_experienced",
+          "name": "adobe",
+          "tenant": "adobe",
+          "shard": "wd5",
+          "site": "external_experienced"
+        },
+        {
+          "provider": "workday",
+          "slug": "adobe|wd5|external_university",
+          "name": "adobe",
+          "tenant": "adobe",
+          "shard": "wd5",
+          "site": "external_university"
+        }
+      ]
+    },
+    {
+      "name": "Workday",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "workday|wd5|workday",
+          "name": "workday",
+          "tenant": "workday",
+          "shard": "wd5",
+          "site": "workday"
+        },
+        {
+          "provider": "workday",
+          "slug": "workday|wd5|workday_early_career",
+          "name": "workday",
+          "tenant": "workday",
+          "shard": "wd5",
+          "site": "workday_early_career"
+        },
+        {
+          "provider": "workday",
+          "slug": "workday|wd5|workday_executive_site",
+          "name": "workday",
+          "tenant": "workday",
+          "shard": "wd5",
+          "site": "workday_executive_site"
+        }
+      ]
+    },
+    {
+      "name": "Databricks",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "databricks",
+          "name": "databricks"
+        }
+      ]
+    },
+    {
+      "name": "Snowflake",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "ashby",
+          "slug": "snowflake",
+          "name": "snowflake"
+        }
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "cloudflare",
+          "name": "cloudflare"
+        }
+      ]
+    },
+    {
+      "name": "Palantir",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "lever",
+          "slug": "palantir",
+          "name": "palantir"
+        }
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "ashby",
+          "slug": "openai",
+          "name": "openai"
+        }
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "anthropic",
+          "name": "anthropic"
+        }
+      ]
+    },
+    {
+      "name": "Scale AI",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "scaleai",
+          "name": "scaleai"
+        }
+      ]
+    },
+    {
+      "name": "Datadog",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "datadog",
+          "name": "datadog"
+        }
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "mongodb",
+          "name": "mongodb"
+        }
+      ]
+    },
+    {
+      "name": "Elastic",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "elastic",
+          "name": "elastic"
+        }
+      ]
+    },
+    {
+      "name": "Confluent",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "ashby",
+          "slug": "confluent",
+          "name": "confluent"
+        }
+      ]
+    },
+    {
+      "name": "Red Hat",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "redhat|wd5|jobs",
+          "name": "redhat",
+          "tenant": "redhat",
+          "shard": "wd5",
+          "site": "jobs"
+        }
+      ]
+    },
+    {
+      "name": "GitLab",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "gitlab",
+          "name": "gitlab"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "hubspot",
+          "name": "HubSpot Product"
+        }
+      ]
+    },
+    {
+      "name": "Autodesk",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "autodesk|wd1|ext",
+          "name": "autodesk",
+          "tenant": "autodesk",
+          "shard": "wd1",
+          "site": "ext"
+        },
+        {
+          "provider": "workday",
+          "slug": "autodesk|wd1|uni",
+          "name": "autodesk",
+          "tenant": "autodesk",
+          "shard": "wd1",
+          "site": "uni"
+        }
+      ]
+    },
+    {
+      "name": "Zoom",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "zoom|wd5|zoom",
+          "name": "zoom",
+          "tenant": "zoom",
+          "shard": "wd5",
+          "site": "zoom"
+        }
+      ]
+    },
+    {
+      "name": "Dropbox",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "dropbox",
+          "name": "dropbox"
+        }
+      ]
+    },
+    {
+      "name": "Okta",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "okta",
+          "name": "okta"
+        }
+      ]
+    },
+    {
+      "name": "Zscaler",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "zscaler",
+          "name": "zscaler"
+        }
+      ]
+    },
+    {
+      "name": "CrowdStrike",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "crowdstrike|wd5|crowdstrikecareers",
+          "name": "crowdstrike",
+          "tenant": "crowdstrike",
+          "shard": "wd5",
+          "site": "crowdstrikecareers"
+        }
+      ]
+    },
+    {
+      "name": "Twilio",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "twilio",
+          "name": "twilio"
+        }
+      ]
+    },
+    {
+      "name": "Asana",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "asana",
+          "name": "asana"
+        }
+      ]
+    },
+    {
+      "name": "Notion",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "ashby",
+          "slug": "notion",
+          "name": "notion"
+        }
+      ]
+    },
+    {
+      "name": "Figma",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "figma",
+          "name": "figma"
+        }
+      ]
+    },
+    {
+      "name": "Samsara",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "samsara",
+          "name": "samsara"
+        }
+      ]
+    },
+    {
+      "name": "Toast",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "toast",
+          "name": "toast"
+        }
+      ]
+    },
+    {
+      "name": "Procore",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "procore|wd12|procore_external_careers",
+          "name": "procore",
+          "tenant": "procore",
+          "shard": "wd12",
+          "site": "procore_external_careers"
+        }
+      ]
+    },
+    {
+      "name": "UiPath",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "ashby",
+          "slug": "uipath",
+          "name": "uipath"
+        }
+      ]
+    },
+    {
+      "name": "Pure Storage",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "ashby",
+          "slug": "purestorage",
+          "name": "PureStorage"
+        },
+        {
+          "provider": "greenhouse",
+          "slug": "purestorage",
+          "name": "purestorage"
+        }
+      ]
+    },
+    {
+      "name": "HPE",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "hpe|wd5|acjobsite",
+          "name": "hpe",
+          "tenant": "hpe",
+          "shard": "wd5",
+          "site": "acjobsite"
+        },
+        {
+          "provider": "workday",
+          "slug": "hpe|wd5|jobsathpe",
+          "name": "hpe",
+          "tenant": "hpe",
+          "shard": "wd5",
+          "site": "jobsathpe"
+        },
+        {
+          "provider": "workday",
+          "slug": "hpe|wd5|wfmathpe",
+          "name": "hpe",
+          "tenant": "hpe",
+          "shard": "wd5",
+          "site": "wfmathpe"
+        }
+      ]
+    },
+    {
+      "name": "HP Inc.",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "hpinc|wd5|hpinc",
+          "name": "hpinc",
+          "tenant": "hpinc",
+          "shard": "wd5",
+          "site": "hpinc"
+        }
+      ]
+    },
+    {
+      "name": "Indeed",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "indeed",
+          "name": "Indeed"
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "linkedin",
+          "name": "linkedin"
+        },
+        {
+          "provider": "lever",
+          "slug": "linkedin",
+          "name": "linkedin"
+        }
+      ]
+    },
+    {
+      "name": "Airbnb",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "airbnb",
+          "name": "airbnb"
+        }
+      ]
+    },
+    {
+      "name": "Netflix",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "netflix|wd1|netflix",
+          "name": "netflix",
+          "tenant": "netflix",
+          "shard": "wd1",
+          "site": "netflix"
+        }
+      ]
+    },
+    {
+      "name": "Disney",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "disney",
+          "name": "disney"
+        },
+        {
+          "provider": "workday",
+          "slug": "disney|wd5|disneycareer",
+          "name": "disney",
+          "tenant": "disney",
+          "shard": "wd5",
+          "site": "disneycareer"
+        }
+      ]
+    },
+    {
+      "name": "Roku",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "roku",
+          "name": "roku"
+        }
+      ]
+    },
+    {
+      "name": "Reddit",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "ashby",
+          "slug": "reddit",
+          "name": "Reddit"
+        },
+        {
+          "provider": "greenhouse",
+          "slug": "reddit",
+          "name": "reddit"
+        }
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "group": "tech",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "pinterest",
+          "name": "pinterest"
+        }
+      ]
+    },
+    {
+      "name": "NXP Semiconductors",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "nxp|wd3|careers",
+          "name": "nxp",
+          "tenant": "nxp",
+          "shard": "wd3",
+          "site": "careers"
+        }
+      ]
+    },
+    {
+      "name": "Intel",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "intel|wd1|external",
+          "name": "intel",
+          "tenant": "intel",
+          "shard": "wd1",
+          "site": "external"
+        }
+      ]
+    },
+    {
+      "name": "Qualcomm",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "qualcomm|wd5|external",
+          "name": "qualcomm",
+          "tenant": "qualcomm",
+          "shard": "wd5",
+          "site": "external"
+        }
+      ]
+    },
+    {
+      "name": "KLA",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "kla|wd1|annarbor",
+          "name": "kla",
+          "tenant": "kla",
+          "shard": "wd1",
+          "site": "annarbor"
+        },
+        {
+          "provider": "workday",
+          "slug": "kla|wd1|israel",
+          "name": "kla",
+          "tenant": "kla",
+          "shard": "wd1",
+          "site": "israel"
+        }
+      ]
+    },
+    {
+      "name": "ASML",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "asml|wd3|asmlext1",
+          "name": "asml",
+          "tenant": "asml",
+          "shard": "wd3",
+          "site": "asmlext1"
+        }
+      ]
+    },
+    {
+      "name": "GlobalFoundries",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "globalfoundries|wd1|external",
+          "name": "globalfoundries",
+          "tenant": "globalfoundries",
+          "shard": "wd1",
+          "site": "external"
+        }
+      ]
+    },
+    {
+      "name": "Broadcom",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "broadcom|wd1|external_career",
+          "name": "broadcom",
+          "tenant": "broadcom",
+          "shard": "wd1",
+          "site": "external_career"
+        }
+      ]
+    },
+    {
+      "name": "Analog Devices",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "analogdevices|wd1|external",
+          "name": "analogdevices",
+          "tenant": "analogdevices",
+          "shard": "wd1",
+          "site": "external"
+        }
+      ]
+    },
+    {
+      "name": "Entegris",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "entegris|wd1|entegriscareers",
+          "name": "entegris",
+          "tenant": "entegris",
+          "shard": "wd1",
+          "site": "entegriscareers"
+        }
+      ]
+    },
+    {
+      "name": "Flex",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "flex",
+          "name": "flex"
+        },
+        {
+          "provider": "ashby",
+          "slug": "withflex",
+          "name": "Flex"
+        },
+        {
+          "provider": "lever",
+          "slug": "Flex",
+          "name": "Flex"
+        }
+      ]
+    },
+    {
+      "name": "Jabil",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "jabil|wd5|jabil_careers",
+          "name": "jabil",
+          "tenant": "jabil",
+          "shard": "wd5",
+          "site": "jabil_careers"
+        }
+      ]
+    },
+    {
+      "name": "Plexus",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "lever",
+          "slug": "plexus",
+          "name": "plexus"
+        },
+        {
+          "provider": "workday",
+          "slug": "plexus|wd5|plexus_careers",
+          "name": "plexus",
+          "tenant": "plexus",
+          "shard": "wd5",
+          "site": "plexus_careers"
+        }
+      ]
+    },
+    {
+      "name": "Emerson",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "emerson|wd5|emerson_college_ft_faculty",
+          "name": "emerson",
+          "tenant": "emerson",
+          "shard": "wd5",
+          "site": "emerson_college_ft_faculty"
+        },
+        {
+          "provider": "workday",
+          "slug": "emerson|wd5|emerson_college_staff",
+          "name": "emerson",
+          "tenant": "emerson",
+          "shard": "wd5",
+          "site": "emerson_college_staff"
+        }
+      ]
+    },
+    {
+      "name": "Rockwell Automation",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "rockwellautomation|wd1|external-kalypso",
+          "name": "rockwellautomation",
+          "tenant": "rockwellautomation",
+          "shard": "wd1",
+          "site": "external-kalypso"
+        },
+        {
+          "provider": "workday",
+          "slug": "rockwellautomation|wd1|external-rockwell-automation-early-careers",
+          "name": "rockwellautomation",
+          "tenant": "rockwellautomation",
+          "shard": "wd1",
+          "site": "external-rockwell-automation-early-careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "rockwellautomation|wd1|external-sensia",
+          "name": "rockwellautomation",
+          "tenant": "rockwellautomation",
+          "shard": "wd1",
+          "site": "external-sensia"
+        },
+        {
+          "provider": "workday",
+          "slug": "rockwellautomation|wd1|external_rockwell_automation",
+          "name": "rockwellautomation",
+          "tenant": "rockwellautomation",
+          "shard": "wd1",
+          "site": "external_rockwell_automation"
+        }
+      ]
+    },
+    {
+      "name": "ABB",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "abb|wd3|external_career_page",
+          "name": "abb",
+          "tenant": "abb",
+          "shard": "wd3",
+          "site": "external_career_page"
+        }
+      ]
+    },
+    {
+      "name": "GE Vernova",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "gevernova|wd5|only_confidential_executive_recruiting",
+          "name": "gevernova",
+          "tenant": "gevernova",
+          "shard": "wd5",
+          "site": "only_confidential_executive_recruiting"
+        },
+        {
+          "provider": "workday",
+          "slug": "gevernova|wd5|vernova_externalsite",
+          "name": "gevernova",
+          "tenant": "gevernova",
+          "shard": "wd5",
+          "site": "vernova_externalsite"
+        }
+      ]
+    },
+    {
+      "name": "GE Aerospace",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "geaerospace|wd5|ge_externalsite",
+          "name": "geaerospace",
+          "tenant": "geaerospace",
+          "shard": "wd5",
+          "site": "ge_externalsite"
+        }
+      ]
+    },
+    {
+      "name": "Boeing",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|aaeoy",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "aaeoy"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|alpfa",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "alpfa"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|clear",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "clear"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|external_careers",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "external_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|external_recall",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "external_recall"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|external_subsidiary",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "external_subsidiary"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|external_ukcontingentworker",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "external_ukcontingentworker"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|incl",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "incl"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|intern",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "intern"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|mfg",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "mfg"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|naba",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "naba"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|nsbe",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "nsbe"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|pride",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "pride"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|sase",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "sase"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|shpe",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "shpe"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|tap2",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "tap2"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|usbln",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "usbln"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|wmb",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "wmb"
+        },
+        {
+          "provider": "workday",
+          "slug": "boeing|wd1|woct",
+          "name": "boeing",
+          "tenant": "boeing",
+          "shard": "wd1",
+          "site": "woct"
+        }
+      ]
+    },
+    {
+      "name": "SpaceX",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "spacex",
+          "name": "spacex"
+        }
+      ]
+    },
+    {
+      "name": "Blue Origin",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "lever",
+          "slug": "blueorigin",
+          "name": "Blue Origin"
+        },
+        {
+          "provider": "workday",
+          "slug": "blueorigin|wd5|blueorigin",
+          "name": "blueorigin",
+          "tenant": "blueorigin",
+          "shard": "wd5",
+          "site": "blueorigin"
+        }
+      ]
+    },
+    {
+      "name": "Saronic",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "ashby",
+          "slug": "saronic",
+          "name": "saronic"
+        },
+        {
+          "provider": "lever",
+          "slug": "saronic",
+          "name": "Saronic"
+        }
+      ]
+    },
+    {
+      "name": "DuPont",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "dupont|wd5|jobs",
+          "name": "dupont",
+          "tenant": "dupont",
+          "shard": "wd5",
+          "site": "jobs"
+        }
+      ]
+    },
+    {
+      "name": "Aptiv",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "aptiv|wd5|aptiv_careers",
+          "name": "aptiv",
+          "tenant": "aptiv",
+          "shard": "wd5",
+          "site": "aptiv_careers"
+        }
+      ]
+    },
+    {
+      "name": "Toyota",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "toyota|wd503|tmna",
+          "name": "toyota",
+          "tenant": "toyota",
+          "shard": "wd503",
+          "site": "tmna"
+        },
+        {
+          "provider": "workday",
+          "slug": "toyota|wd503|toyota_ca",
+          "name": "toyota",
+          "tenant": "toyota",
+          "shard": "wd503",
+          "site": "toyota_ca"
+        },
+        {
+          "provider": "workday",
+          "slug": "toyota|wd5|tmna",
+          "name": "toyota",
+          "tenant": "toyota",
+          "shard": "wd5",
+          "site": "tmna"
+        },
+        {
+          "provider": "workday",
+          "slug": "toyota|wd5|toyota_ca",
+          "name": "toyota",
+          "tenant": "toyota",
+          "shard": "wd5",
+          "site": "toyota_ca"
+        },
+        {
+          "provider": "workday",
+          "slug": "toyota|wd5|toyota_ca_co-op_site",
+          "name": "toyota",
+          "tenant": "toyota",
+          "shard": "wd5",
+          "site": "toyota_ca_co-op_site"
+        }
+      ]
+    },
+    {
+      "name": "Coupa",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "lever",
+          "slug": "coupa",
+          "name": "coupa"
+        }
+      ]
+    },
+    {
+      "name": "project44",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "ashby",
+          "slug": "project44",
+          "name": "Project44"
+        },
+        {
+          "provider": "greenhouse",
+          "slug": "project44",
+          "name": "project44"
+        }
+      ]
+    },
+    {
+      "name": "FourKites",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "fourkites",
+          "name": "fourkites"
+        }
+      ]
+    },
+    {
+      "name": "C.H. Robinson",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "chrobinson|wd5|chrobinson",
+          "name": "chrobinson",
+          "tenant": "chrobinson",
+          "shard": "wd5",
+          "site": "chrobinson"
+        }
+      ]
+    },
+    {
+      "name": "Ryder",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "ryder|wd5|rydercareers",
+          "name": "ryder",
+          "tenant": "ryder",
+          "shard": "wd5",
+          "site": "rydercareers"
+        }
+      ]
+    },
+    {
+      "name": "RXO",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "rxo|wd501|rxojobs",
+          "name": "rxo",
+          "tenant": "rxo",
+          "shard": "wd501",
+          "site": "rxojobs"
+        }
+      ]
+    },
+    {
+      "name": "J.B. Hunt",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "jbhunt|wd501|careers",
+          "name": "jbhunt",
+          "tenant": "jbhunt",
+          "shard": "wd501",
+          "site": "careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "jbhunt|wd5|careers",
+          "name": "jbhunt",
+          "tenant": "jbhunt",
+          "shard": "wd5",
+          "site": "careers"
+        }
+      ]
+    },
+    {
+      "name": "FedEx",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fcc_external",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fcc_external"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fdw_eu_external_career_site",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fdw_eu_external_career_site"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fdw_external_career_site",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fdw_external_career_site"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|ftn_apac_external",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "ftn_apac_external"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|ftn_can_external",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "ftn_can_external"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|ftn_emeia_external",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "ftn_emeia_external"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|ftn_external_career_site",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "ftn_external_career_site"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fxe-eu_external",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fxe-eu_external"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fxe-lac_external_career_site",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fxe-lac_external_career_site"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fxe-meisa-external",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fxe-meisa-external"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fxe-us_external_career_site",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fxe-us_external_career_site"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fxe_apac_external",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fxe_apac_external"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fxf-mex-external",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fxf-mex-external"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fxf_external_career_site",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fxf_external_career_site"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fxo_external",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fxo_external"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fxs-fxc_external_career_site",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fxs-fxc_external_career_site"
+        },
+        {
+          "provider": "workday",
+          "slug": "fedex|wd1|fxs_external_targeted_career_site",
+          "name": "fedex",
+          "tenant": "fedex",
+          "shard": "wd1",
+          "site": "fxs_external_targeted_career_site"
+        }
+      ]
+    },
+    {
+      "name": "Maersk",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "teamtailor",
+          "slug": "maersk",
+          "name": "maersk"
+        },
+        {
+          "provider": "workday",
+          "slug": "maersk|wd3|apmt_careers",
+          "name": "maersk",
+          "tenant": "maersk",
+          "shard": "wd3",
+          "site": "apmt_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "maersk|wd3|maersk_careers",
+          "name": "maersk",
+          "tenant": "maersk",
+          "shard": "wd3",
+          "site": "maersk_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "maersk|wd3|maersk_manual",
+          "name": "maersk",
+          "tenant": "maersk",
+          "shard": "wd3",
+          "site": "maersk_manual"
+        },
+        {
+          "provider": "workday",
+          "slug": "maersk|wd3|mci_careers",
+          "name": "maersk",
+          "tenant": "maersk",
+          "shard": "wd3",
+          "site": "mci_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "maersk|wd3|pt_careers",
+          "name": "maersk",
+          "tenant": "maersk",
+          "shard": "wd3",
+          "site": "pt_careers"
+        }
+      ]
+    },
+    {
+      "name": "Flexport",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "flexport",
+          "name": "flexport"
+        }
+      ]
+    },
+    {
+      "name": "Arrive Logistics",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "lever",
+          "slug": "arrivelogistics",
+          "name": "arrivelogistics"
+        }
+      ]
+    },
+    {
+      "name": "Uber Freight",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "uberfreight",
+          "name": "uberfreight"
+        }
+      ]
+    },
+    {
+      "name": "Stord",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "stord|wd503|stord_external_career",
+          "name": "stord",
+          "tenant": "stord",
+          "shard": "wd503",
+          "site": "stord_external_career"
+        },
+        {
+          "provider": "workday",
+          "slug": "stord|wd5|stord_external_career",
+          "name": "stord",
+          "tenant": "stord",
+          "shard": "wd5",
+          "site": "stord_external_career"
+        }
+      ]
+    },
+    {
+      "name": "Symbotic",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "symbotic|wd1|symbotic",
+          "name": "symbotic",
+          "tenant": "symbotic",
+          "shard": "wd1",
+          "site": "symbotic"
+        }
+      ]
+    },
+    {
+      "name": "AutoStore",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "autostore|wd3|autostore",
+          "name": "autostore",
+          "tenant": "autostore",
+          "shard": "wd3",
+          "site": "autostore"
+        }
+      ]
+    },
+    {
+      "name": "KION Group",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "kiongroup|wd3|kion_its_americas",
+          "name": "kiongroup",
+          "tenant": "kiongroup",
+          "shard": "wd3",
+          "site": "kion_its_americas"
+        },
+        {
+          "provider": "workday",
+          "slug": "kiongroup|wd3|kion_its_apac",
+          "name": "kiongroup",
+          "tenant": "kiongroup",
+          "shard": "wd3",
+          "site": "kion_its_apac"
+        },
+        {
+          "provider": "workday",
+          "slug": "kiongroup|wd3|kion_its_emea",
+          "name": "kiongroup",
+          "tenant": "kiongroup",
+          "shard": "wd3",
+          "site": "kion_its_emea"
+        },
+        {
+          "provider": "workday",
+          "slug": "kiongroup|wd3|kion_scs",
+          "name": "kiongroup",
+          "tenant": "kiongroup",
+          "shard": "wd3",
+          "site": "kion_scs"
+        },
+        {
+          "provider": "workday",
+          "slug": "kiongroup|wd3|kiongroup",
+          "name": "kiongroup",
+          "tenant": "kiongroup",
+          "shard": "wd3",
+          "site": "kiongroup"
+        }
+      ]
+    },
+    {
+      "name": "RF-SMART",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "rfsmart",
+          "name": "rfsmart"
+        }
+      ]
+    },
+    {
+      "name": "SPS Commerce",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "spscommerce|wd108|sps",
+          "name": "spscommerce",
+          "tenant": "spscommerce",
+          "shard": "wd108",
+          "site": "sps"
+        }
+      ]
+    },
+    {
+      "name": "Boomi",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "ashby",
+          "slug": "boomi",
+          "name": "Boomi"
+        }
+      ]
+    },
+    {
+      "name": "Fivetran",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "fivetran",
+          "name": "fivetran"
+        }
+      ]
+    },
+    {
+      "name": "Alteryx",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "alteryx|wd108|alteryxcareers",
+          "name": "alteryx",
+          "tenant": "alteryx",
+          "shard": "wd108",
+          "site": "alteryxcareers"
+        },
+        {
+          "provider": "workday",
+          "slug": "alteryx|wd5|alteryxcareers",
+          "name": "alteryx",
+          "tenant": "alteryx",
+          "shard": "wd5",
+          "site": "alteryxcareers"
+        }
+      ]
+    },
+    {
+      "name": "Celonis",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "celonis",
+          "name": "celonis"
+        }
+      ]
+    },
+    {
+      "name": "Accenture",
+      "group": "consulting",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "accenture|wd103|accenturecareers",
+          "name": "accenture",
+          "tenant": "accenture",
+          "shard": "wd103",
+          "site": "accenturecareers"
+        },
+        {
+          "provider": "workday",
+          "slug": "accenture|wd103|avanadecareers",
+          "name": "accenture",
+          "tenant": "accenture",
+          "shard": "wd103",
+          "site": "avanadecareers"
+        },
+        {
+          "provider": "workday",
+          "slug": "accenture|wd3|accenturecareers",
+          "name": "accenture",
+          "tenant": "accenture",
+          "shard": "wd3",
+          "site": "accenturecareers"
+        }
+      ]
+    },
+    {
+      "name": "KPMG",
+      "group": "consulting",
+      "boards": [
+        {
+          "provider": "lever",
+          "slug": "kpmg",
+          "name": "KPMG LLP"
+        }
+      ]
+    },
+    {
+      "name": "PwC",
+      "group": "consulting",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "pwc|wd3|catalyst",
+          "name": "pwc",
+          "tenant": "pwc",
+          "shard": "wd3",
+          "site": "catalyst"
+        },
+        {
+          "provider": "workday",
+          "slug": "pwc|wd3|crm_experienced_careers_site",
+          "name": "pwc",
+          "tenant": "pwc",
+          "shard": "wd3",
+          "site": "crm_experienced_careers_site"
+        },
+        {
+          "provider": "workday",
+          "slug": "pwc|wd3|global_campus_careers",
+          "name": "pwc",
+          "tenant": "pwc",
+          "shard": "wd3",
+          "site": "global_campus_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "pwc|wd3|global_experienced_careers",
+          "name": "pwc",
+          "tenant": "pwc",
+          "shard": "wd3",
+          "site": "global_experienced_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "pwc|wd3|global_strategyand_careers",
+          "name": "pwc",
+          "tenant": "pwc",
+          "shard": "wd3",
+          "site": "global_strategyand_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "pwc|wd3|nonpublic_postings",
+          "name": "pwc",
+          "tenant": "pwc",
+          "shard": "wd3",
+          "site": "nonpublic_postings"
+        },
+        {
+          "provider": "workday",
+          "slug": "pwc|wd3|us_entry_level_careers",
+          "name": "pwc",
+          "tenant": "pwc",
+          "shard": "wd3",
+          "site": "us_entry_level_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "pwc|wd3|us_experienced_careers",
+          "name": "pwc",
+          "tenant": "pwc",
+          "shard": "wd3",
+          "site": "us_experienced_careers"
+        }
+      ]
+    },
+    {
+      "name": "Leidos",
+      "group": "consulting",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "leidos|wd5|external",
+          "name": "leidos",
+          "tenant": "leidos",
+          "shard": "wd5",
+          "site": "external"
+        }
+      ]
+    },
+    {
+      "name": "Guidehouse",
+      "group": "consulting",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "guidehouse|wd1|external",
+          "name": "guidehouse",
+          "tenant": "guidehouse",
+          "shard": "wd1",
+          "site": "external"
+        }
+      ]
+    },
+    {
+      "name": "Thoughtworks",
+      "group": "consulting",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "thoughtworks",
+          "name": "thoughtworks"
+        }
+      ]
+    },
+    {
+      "name": "Oliver Wyman",
+      "group": "consulting",
+      "boards": [
+        {
+          "provider": "lever",
+          "slug": "oliverwyman",
+          "name": "oliverwyman"
+        }
+      ]
+    },
+    {
+      "name": "Gartner",
+      "group": "consulting",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "gartner|wd5|ext",
+          "name": "gartner",
+          "tenant": "gartner",
+          "shard": "wd5",
+          "site": "ext"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "walmart|wd5|non-workdayinternal",
+          "name": "walmart",
+          "tenant": "walmart",
+          "shard": "wd5",
+          "site": "non-workdayinternal"
+        },
+        {
+          "provider": "workday",
+          "slug": "walmart|wd5|walmartcanadaexternal",
+          "name": "walmart",
+          "tenant": "walmart",
+          "shard": "wd5",
+          "site": "walmartcanadaexternal"
+        },
+        {
+          "provider": "workday",
+          "slug": "walmart|wd5|walmartexternal",
+          "name": "walmart",
+          "tenant": "walmart",
+          "shard": "wd5",
+          "site": "walmartexternal"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "target|wd5|targetcareers",
+          "name": "target",
+          "tenant": "target",
+          "shard": "wd5",
+          "site": "targetcareers"
+        }
+      ]
+    },
+    {
+      "name": "The Home Depot",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "homedepot|wd5|careerdepot",
+          "name": "homedepot",
+          "tenant": "homedepot",
+          "shard": "wd5",
+          "site": "careerdepot"
+        }
+      ]
+    },
+    {
+      "name": "Nike",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "nike|wd1|nke",
+          "name": "nike",
+          "tenant": "nike",
+          "shard": "wd1",
+          "site": "nke"
+        }
+      ]
+    },
+    {
+      "name": "Unilever",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "unilever",
+          "name": "unilever"
+        },
+        {
+          "provider": "workday",
+          "slug": "unilever|wd3|external",
+          "name": "unilever",
+          "tenant": "unilever",
+          "shard": "wd3",
+          "site": "external"
+        },
+        {
+          "provider": "workday",
+          "slug": "unilever|wd3|tmicc",
+          "name": "unilever",
+          "tenant": "unilever",
+          "shard": "wd3",
+          "site": "tmicc"
+        },
+        {
+          "provider": "workday",
+          "slug": "unilever|wd3|uk_temporaryworkersite",
+          "name": "unilever",
+          "tenant": "unilever",
+          "shard": "wd3",
+          "site": "uk_temporaryworkersite"
+        },
+        {
+          "provider": "workday",
+          "slug": "unilever|wd3|unilever_early_careers",
+          "name": "unilever",
+          "tenant": "unilever",
+          "shard": "wd3",
+          "site": "unilever_early_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "unilever|wd3|unilever_experienced_professionals",
+          "name": "unilever",
+          "tenant": "unilever",
+          "shard": "wd3",
+          "site": "unilever_experienced_professionals"
+        }
+      ]
+    },
+    {
+      "name": "Lowe's",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "lowes|wd5|lws_external_cs",
+          "name": "lowes",
+          "tenant": "lowes",
+          "shard": "wd5",
+          "site": "lws_external_cs"
+        }
+      ]
+    },
+    {
+      "name": "CVS Health",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "cvshealth|wd1|cvs_health_careers",
+          "name": "cvshealth",
+          "tenant": "cvshealth",
+          "shard": "wd1",
+          "site": "cvs_health_careers"
+        }
+      ]
+    },
+    {
+      "name": "Dollar Tree",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "dollartree|wd5|dollartreeca",
+          "name": "dollartree",
+          "tenant": "dollartree",
+          "shard": "wd5",
+          "site": "dollartreeca"
+        },
+        {
+          "provider": "workday",
+          "slug": "dollartree|wd5|dollartreeus",
+          "name": "dollartree",
+          "tenant": "dollartree",
+          "shard": "wd5",
+          "site": "dollartreeus"
+        }
+      ]
+    },
+    {
+      "name": "Nordstrom",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "nordstrom|wd501|nordstrom_careers",
+          "name": "nordstrom",
+          "tenant": "nordstrom",
+          "shard": "wd501",
+          "site": "nordstrom_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "nordstrom|wd5|nordstrom_careers",
+          "name": "nordstrom",
+          "tenant": "nordstrom",
+          "shard": "wd5",
+          "site": "nordstrom_careers"
+        }
+      ]
+    },
+    {
+      "name": "Gap Inc.",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "gapinc|wd1|gapconfidential",
+          "name": "gapinc",
+          "tenant": "gapinc",
+          "shard": "wd1",
+          "site": "gapconfidential"
+        },
+        {
+          "provider": "workday",
+          "slug": "gapinc|wd1|gapinc",
+          "name": "gapinc",
+          "tenant": "gapinc",
+          "shard": "wd1",
+          "site": "gapinc"
+        }
+      ]
+    },
+    {
+      "name": "CarMax",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "carmax|wd1|external",
+          "name": "carmax",
+          "tenant": "carmax",
+          "shard": "wd1",
+          "site": "external"
+        }
+      ]
+    },
+    {
+      "name": "Carvana",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "carvana",
+          "name": "carvana"
+        }
+      ]
+    },
+    {
+      "name": "eBay",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "ebay|wd5|tcgplayer_external_career",
+          "name": "ebay",
+          "tenant": "ebay",
+          "shard": "wd5",
+          "site": "tcgplayer_external_career"
+        }
+      ]
+    },
+    {
+      "name": "Etsy",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "etsy|wd5|depop_careers",
+          "name": "etsy",
+          "tenant": "etsy",
+          "shard": "wd5",
+          "site": "depop_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "etsy|wd5|etsy_careers",
+          "name": "etsy",
+          "tenant": "etsy",
+          "shard": "wd5",
+          "site": "etsy_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "etsy|wd5|reverb_careers",
+          "name": "etsy",
+          "tenant": "etsy",
+          "shard": "wd5",
+          "site": "reverb_careers"
+        }
+      ]
+    },
+    {
+      "name": "Instacart",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "instacart",
+          "name": "instacart"
+        }
+      ]
+    },
+    {
+      "name": "Mars",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "mars|wd3|external",
+          "name": "mars",
+          "tenant": "mars",
+          "shard": "wd3",
+          "site": "external"
+        }
+      ]
+    },
+    {
+      "name": "Tyson Foods",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "tysonfoods|wd5|cvt",
+          "name": "tysonfoods",
+          "tenant": "tysonfoods",
+          "shard": "wd5",
+          "site": "cvt"
+        },
+        {
+          "provider": "workday",
+          "slug": "tysonfoods|wd5|tepi",
+          "name": "tysonfoods",
+          "tenant": "tysonfoods",
+          "shard": "wd5",
+          "site": "tepi"
+        },
+        {
+          "provider": "workday",
+          "slug": "tysonfoods|wd5|tsn",
+          "name": "tysonfoods",
+          "tenant": "tysonfoods",
+          "shard": "wd5",
+          "site": "tsn"
+        },
+        {
+          "provider": "workday",
+          "slug": "tysonfoods|wd5|tsn1",
+          "name": "tysonfoods",
+          "tenant": "tysonfoods",
+          "shard": "wd5",
+          "site": "tsn1"
+        },
+        {
+          "provider": "workday",
+          "slug": "tysonfoods|wd5|tsn2",
+          "name": "tysonfoods",
+          "tenant": "tysonfoods",
+          "shard": "wd5",
+          "site": "tsn2"
+        },
+        {
+          "provider": "workday",
+          "slug": "tysonfoods|wd5|tsn5",
+          "name": "tysonfoods",
+          "tenant": "tysonfoods",
+          "shard": "wd5",
+          "site": "tsn5"
+        },
+        {
+          "provider": "workday",
+          "slug": "tysonfoods|wd5|tyit",
+          "name": "tysonfoods",
+          "tenant": "tysonfoods",
+          "shard": "wd5",
+          "site": "tyit"
+        }
+      ]
+    },
+    {
+      "name": "Sysco",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "sysco|wd5|syscocareers",
+          "name": "sysco",
+          "tenant": "sysco",
+          "shard": "wd5",
+          "site": "syscocareers"
+        }
+      ]
+    },
+    {
+      "name": "US Foods",
+      "group": "retail",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "usfoods|wd1|usfoodscareersexternal",
+          "name": "usfoods",
+          "tenant": "usfoods",
+          "shard": "wd1",
+          "site": "usfoodscareersexternal"
+        }
+      ]
+    },
+    {
+      "name": "Visa",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "visa|wd5|visa",
+          "name": "visa",
+          "tenant": "visa",
+          "shard": "wd5",
+          "site": "visa"
+        },
+        {
+          "provider": "workday",
+          "slug": "visa|wd5|visa_early_careers",
+          "name": "visa",
+          "tenant": "visa",
+          "shard": "wd5",
+          "site": "visa_early_careers"
+        }
+      ]
+    },
+    {
+      "name": "PayPal",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "paypal|wd1|jobs",
+          "name": "paypal",
+          "tenant": "paypal",
+          "shard": "wd1",
+          "site": "jobs"
+        }
+      ]
+    },
+    {
+      "name": "Block",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "block",
+          "name": "block"
+        }
+      ]
+    },
+    {
+      "name": "Stripe",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "stripe",
+          "name": "stripe"
+        }
+      ]
+    },
+    {
+      "name": "Fiserv",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "fiserv|wd5|ext",
+          "name": "fiserv",
+          "tenant": "fiserv",
+          "shard": "wd5",
+          "site": "ext"
+        }
+      ]
+    },
+    {
+      "name": "FIS",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "fis|wd5|searchjobs",
+          "name": "fis",
+          "tenant": "fis",
+          "shard": "wd5",
+          "site": "searchjobs"
+        }
+      ]
+    },
+    {
+      "name": "Mastercard",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "mastercard|wd1|campus",
+          "name": "mastercard",
+          "tenant": "mastercard",
+          "shard": "wd1",
+          "site": "campus"
+        },
+        {
+          "provider": "workday",
+          "slug": "mastercard|wd1|campusapplyonly",
+          "name": "mastercard",
+          "tenant": "mastercard",
+          "shard": "wd1",
+          "site": "campusapplyonly"
+        },
+        {
+          "provider": "workday",
+          "slug": "mastercard|wd1|contractorconversion",
+          "name": "mastercard",
+          "tenant": "mastercard",
+          "shard": "wd1",
+          "site": "contractorconversion"
+        },
+        {
+          "provider": "workday",
+          "slug": "mastercard|wd1|corporatecareers",
+          "name": "mastercard",
+          "tenant": "mastercard",
+          "shard": "wd1",
+          "site": "corporatecareers"
+        }
+      ]
+    },
+    {
+      "name": "Citi",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "citi|wd5|citi_early_careers_events_site",
+          "name": "citi",
+          "tenant": "citi",
+          "shard": "wd5",
+          "site": "citi_early_careers_events_site"
+        }
+      ]
+    },
+    {
+      "name": "Capital One",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "capitalone|wd12|capital_one",
+          "name": "capitalone",
+          "tenant": "capitalone",
+          "shard": "wd12",
+          "site": "capital_one"
+        },
+        {
+          "provider": "workday",
+          "slug": "capitalone|wd12|discover_capitalone",
+          "name": "capitalone",
+          "tenant": "capitalone",
+          "shard": "wd12",
+          "site": "discover_capitalone"
+        },
+        {
+          "provider": "workday",
+          "slug": "capitalone|wd1|capital_one",
+          "name": "capitalone",
+          "tenant": "capitalone",
+          "shard": "wd1",
+          "site": "capital_one"
+        }
+      ]
+    },
+    {
+      "name": "USAA",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "usaa|wd1|usaajobswd",
+          "name": "usaa",
+          "tenant": "usaa",
+          "shard": "wd1",
+          "site": "usaajobswd"
+        }
+      ]
+    },
+    {
+      "name": "Travelers",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "travelers|wd5|external",
+          "name": "travelers",
+          "tenant": "travelers",
+          "shard": "wd5",
+          "site": "external"
+        },
+        {
+          "provider": "workday",
+          "slug": "travelers|wd5|simplybusinesssexternal",
+          "name": "travelers",
+          "tenant": "travelers",
+          "shard": "wd5",
+          "site": "simplybusinesssexternal"
+        }
+      ]
+    },
+    {
+      "name": "The Hartford",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "thehartford|wd5|careers_external",
+          "name": "thehartford",
+          "tenant": "thehartford",
+          "shard": "wd5",
+          "site": "careers_external"
+        },
+        {
+          "provider": "workday",
+          "slug": "thehartford|wd5|careers_restricted",
+          "name": "thehartford",
+          "tenant": "thehartford",
+          "shard": "wd5",
+          "site": "careers_restricted"
+        }
+      ]
+    },
+    {
+      "name": "Allstate",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "allstate|wd5|agent",
+          "name": "allstate",
+          "tenant": "allstate",
+          "shard": "wd5",
+          "site": "agent"
+        },
+        {
+          "provider": "workday",
+          "slug": "allstate|wd5|allstate_careers",
+          "name": "allstate",
+          "tenant": "allstate",
+          "shard": "wd5",
+          "site": "allstate_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "allstate|wd5|sourcing_event",
+          "name": "allstate",
+          "tenant": "allstate",
+          "shard": "wd5",
+          "site": "sourcing_event"
+        }
+      ]
+    },
+    {
+      "name": "Cigna",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "cigna|wd5|cignacareers",
+          "name": "cigna",
+          "tenant": "cigna",
+          "shard": "wd5",
+          "site": "cignacareers"
+        }
+      ]
+    },
+    {
+      "name": "Elevance Health",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "elevancehealth|wd1|ant",
+          "name": "elevancehealth",
+          "tenant": "elevancehealth",
+          "shard": "wd1",
+          "site": "ant"
+        },
+        {
+          "provider": "workday",
+          "slug": "elevancehealth|wd1|carelonglobal_in",
+          "name": "elevancehealth",
+          "tenant": "elevancehealth",
+          "shard": "wd1",
+          "site": "carelonglobal_in"
+        },
+        {
+          "provider": "workday",
+          "slug": "elevancehealth|wd1|carelonglobal_ph",
+          "name": "elevancehealth",
+          "tenant": "elevancehealth",
+          "shard": "wd1",
+          "site": "carelonglobal_ph"
+        }
+      ]
+    },
+    {
+      "name": "Humana",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "humana|wd5|centerwell_external_career_site",
+          "name": "humana",
+          "tenant": "humana",
+          "shard": "wd5",
+          "site": "centerwell_external_career_site"
+        },
+        {
+          "provider": "workday",
+          "slug": "humana|wd5|humana_external_career_site",
+          "name": "humana",
+          "tenant": "humana",
+          "shard": "wd5",
+          "site": "humana_external_career_site"
+        }
+      ]
+    },
+    {
+      "name": "Centene",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "centene|wd5|centene_external",
+          "name": "centene",
+          "tenant": "centene",
+          "shard": "wd5",
+          "site": "centene_external"
+        }
+      ]
+    },
+    {
+      "name": "McKesson",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "mckesson|wd3|acquisition_campus",
+          "name": "mckesson",
+          "tenant": "mckesson",
+          "shard": "wd3",
+          "site": "acquisition_campus"
+        },
+        {
+          "provider": "workday",
+          "slug": "mckesson|wd3|covermymeds_external_careers",
+          "name": "mckesson",
+          "tenant": "mckesson",
+          "shard": "wd3",
+          "site": "covermymeds_external_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "mckesson|wd3|external_careers",
+          "name": "mckesson",
+          "tenant": "mckesson",
+          "shard": "wd3",
+          "site": "external_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "mckesson|wd3|ontada_careers",
+          "name": "mckesson",
+          "tenant": "mckesson",
+          "shard": "wd3",
+          "site": "ontada_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "mckesson|wd3|rxsscareers",
+          "name": "mckesson",
+          "tenant": "mckesson",
+          "shard": "wd3",
+          "site": "rxsscareers"
+        },
+        {
+          "provider": "workday",
+          "slug": "mckesson|wd3|scri_careers",
+          "name": "mckesson",
+          "tenant": "mckesson",
+          "shard": "wd3",
+          "site": "scri_careers"
+        },
+        {
+          "provider": "workday",
+          "slug": "mckesson|wd3|sourcer_on_req",
+          "name": "mckesson",
+          "tenant": "mckesson",
+          "shard": "wd3",
+          "site": "sourcer_on_req"
+        }
+      ]
+    },
+    {
+      "name": "Cardinal Health",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "cardinalhealth|wd1|contractor",
+          "name": "cardinalhealth",
+          "tenant": "cardinalhealth",
+          "shard": "wd1",
+          "site": "contractor"
+        },
+        {
+          "provider": "workday",
+          "slug": "cardinalhealth|wd1|ext",
+          "name": "cardinalhealth",
+          "tenant": "cardinalhealth",
+          "shard": "wd1",
+          "site": "ext"
+        },
+        {
+          "provider": "workday",
+          "slug": "cardinalhealth|wd1|navista",
+          "name": "cardinalhealth",
+          "tenant": "cardinalhealth",
+          "shard": "wd1",
+          "site": "navista"
+        }
+      ]
+    },
+    {
+      "name": "Medtronic",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "medtronic|wd1|medtroniccareers",
+          "name": "medtronic",
+          "tenant": "medtronic",
+          "shard": "wd1",
+          "site": "medtroniccareers"
+        },
+        {
+          "provider": "workday",
+          "slug": "medtronic|wd1|redeploymentmedtroniccareers",
+          "name": "medtronic",
+          "tenant": "medtronic",
+          "shard": "wd1",
+          "site": "redeploymentmedtroniccareers"
+        }
+      ]
+    },
+    {
+      "name": "Abbott",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "abbott|wd5|abbottcareers",
+          "name": "abbott",
+          "tenant": "abbott",
+          "shard": "wd5",
+          "site": "abbottcareers"
+        },
+        {
+          "provider": "workday",
+          "slug": "abbott|wd5|abbottcareers2",
+          "name": "abbott",
+          "tenant": "abbott",
+          "shard": "wd5",
+          "site": "abbottcareers2"
+        },
+        {
+          "provider": "workday",
+          "slug": "abbott|wd5|agency",
+          "name": "abbott",
+          "tenant": "abbott",
+          "shard": "wd5",
+          "site": "agency"
+        },
+        {
+          "provider": "workday",
+          "slug": "abbott|wd5|equest",
+          "name": "abbott",
+          "tenant": "abbott",
+          "shard": "wd5",
+          "site": "equest"
+        }
+      ]
+    },
+    {
+      "name": "Stryker",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "stryker|wd1|strykercareers",
+          "name": "stryker",
+          "tenant": "stryker",
+          "shard": "wd1",
+          "site": "strykercareers"
+        }
+      ]
+    },
+    {
+      "name": "Pfizer",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "pfizer|wd1|broadbean_external",
+          "name": "pfizer",
+          "tenant": "pfizer",
+          "shard": "wd1",
+          "site": "broadbean_external"
+        },
+        {
+          "provider": "workday",
+          "slug": "pfizer|wd1|internaljobs",
+          "name": "pfizer",
+          "tenant": "pfizer",
+          "shard": "wd1",
+          "site": "internaljobs"
+        },
+        {
+          "provider": "workday",
+          "slug": "pfizer|wd1|pfizercareers",
+          "name": "pfizer",
+          "tenant": "pfizer",
+          "shard": "wd1",
+          "site": "pfizercareers"
+        }
+      ]
+    },
+    {
+      "name": "Amgen",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "amgen|wd1|agency",
+          "name": "amgen",
+          "tenant": "amgen",
+          "shard": "wd1",
+          "site": "agency"
+        },
+        {
+          "provider": "workday",
+          "slug": "amgen|wd1|careers",
+          "name": "amgen",
+          "tenant": "amgen",
+          "shard": "wd1",
+          "site": "careers"
+        }
+      ]
+    },
+    {
+      "name": "Labcorp",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "labcorp|wd1|external",
+          "name": "labcorp",
+          "tenant": "labcorp",
+          "shard": "wd1",
+          "site": "external"
+        },
+        {
+          "provider": "workday",
+          "slug": "labcorp|wd1|fortrea",
+          "name": "labcorp",
+          "tenant": "labcorp",
+          "shard": "wd1",
+          "site": "fortrea"
+        }
+      ]
+    },
+    {
+      "name": "SolarWinds",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "solarwinds",
+          "name": "solarwinds"
+        }
+      ]
+    },
+    {
+      "name": "SailPoint",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "sailpoint|wd1|sailpoint",
+          "name": "sailpoint",
+          "tenant": "sailpoint",
+          "shard": "wd1",
+          "site": "sailpoint"
+        }
+      ]
+    },
+    {
+      "name": "ERCOT",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "ercot|wd1|ercot_careers",
+          "name": "ercot",
+          "tenant": "ercot",
+          "shard": "wd1",
+          "site": "ercot_careers"
+        }
+      ]
+    },
+    {
+      "name": "Bazaarvoice",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "lever",
+          "slug": "bazaarvoice",
+          "name": "bazaarvoice"
+        }
+      ]
+    },
+    {
+      "name": "BigCommerce",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "bigcommerce|wd12|bigcommerce",
+          "name": "bigcommerce",
+          "tenant": "bigcommerce",
+          "shard": "wd12",
+          "site": "bigcommerce"
+        },
+        {
+          "provider": "workday",
+          "slug": "bigcommerce|wd12|commerce",
+          "name": "bigcommerce",
+          "tenant": "bigcommerce",
+          "shard": "wd12",
+          "site": "commerce"
+        }
+      ]
+    },
+    {
+      "name": "WP Engine",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "wpengine|wd1|wp_engine",
+          "name": "wpengine",
+          "tenant": "wpengine",
+          "shard": "wd1",
+          "site": "wp_engine"
+        }
+      ]
+    },
+    {
+      "name": "AlertMedia",
+      "group": "finance_health_local",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "alertmedia",
+          "name": "alertmedia"
+        }
+      ]
+    }
+  ],
+  "needs_extra_work": [
+    {
+      "name": "Microsoft",
+      "group": "tech"
+    },
+    {
+      "name": "Apple",
+      "group": "tech"
+    },
+    {
+      "name": "Amazon",
+      "group": "tech"
+    },
+    {
+      "name": "Meta",
+      "group": "tech"
+    },
+    {
+      "name": "Oracle",
+      "group": "tech"
+    },
+    {
+      "name": "IBM",
+      "group": "tech"
+    },
+    {
+      "name": "ServiceNow",
+      "group": "tech"
+    },
+    {
+      "name": "Atlassian",
+      "group": "tech"
+    },
+    {
+      "name": "Intuit",
+      "group": "tech"
+    },
+    {
+      "name": "Box",
+      "group": "tech"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "group": "tech"
+    },
+    {
+      "name": "Fortinet",
+      "group": "tech"
+    },
+    {
+      "name": "Splunk",
+      "group": "tech"
+    },
+    {
+      "name": "DocuSign",
+      "group": "tech"
+    },
+    {
+      "name": "Canva",
+      "group": "tech"
+    },
+    {
+      "name": "Veeva Systems",
+      "group": "tech"
+    },
+    {
+      "name": "Nutanix",
+      "group": "tech"
+    },
+    {
+      "name": "NetApp",
+      "group": "tech"
+    },
+    {
+      "name": "Lenovo",
+      "group": "tech"
+    },
+    {
+      "name": "Uber",
+      "group": "tech"
+    },
+    {
+      "name": "Expedia Group",
+      "group": "tech"
+    },
+    {
+      "name": "Electronic Arts",
+      "group": "tech"
+    },
+    {
+      "name": "TikTok",
+      "group": "tech"
+    },
+    {
+      "name": "Applied Materials",
+      "group": "industrial"
+    },
+    {
+      "name": "AMD",
+      "group": "industrial"
+    },
+    {
+      "name": "Samsung Electronics",
+      "group": "industrial"
+    },
+    {
+      "name": "Texas Instruments",
+      "group": "industrial"
+    },
+    {
+      "name": "Micron Technology",
+      "group": "industrial"
+    },
+    {
+      "name": "Lam Research",
+      "group": "industrial"
+    },
+    {
+      "name": "Tokyo Electron",
+      "group": "industrial"
+    },
+    {
+      "name": "Infineon Technologies",
+      "group": "industrial"
+    },
+    {
+      "name": "Silicon Labs",
+      "group": "industrial"
+    },
+    {
+      "name": "Cirrus Logic",
+      "group": "industrial"
+    },
+    {
+      "name": "Synopsys",
+      "group": "industrial"
+    },
+    {
+      "name": "Cadence Design Systems",
+      "group": "industrial"
+    },
+    {
+      "name": "Arm",
+      "group": "industrial"
+    },
+    {
+      "name": "Marvell Technology",
+      "group": "industrial"
+    },
+    {
+      "name": "Microchip Technology",
+      "group": "industrial"
+    },
+    {
+      "name": "Skyworks Solutions",
+      "group": "industrial"
+    },
+    {
+      "name": "onsemi",
+      "group": "industrial"
+    },
+    {
+      "name": "Wolfspeed",
+      "group": "industrial"
+    },
+    {
+      "name": "Western Digital",
+      "group": "industrial"
+    },
+    {
+      "name": "Seagate Technology",
+      "group": "industrial"
+    },
+    {
+      "name": "Ultra Clean Holdings",
+      "group": "industrial"
+    },
+    {
+      "name": "Ichor Holdings",
+      "group": "industrial"
+    },
+    {
+      "name": "Teradyne",
+      "group": "industrial"
+    },
+    {
+      "name": "Keysight Technologies",
+      "group": "industrial"
+    },
+    {
+      "name": "National Instruments",
+      "group": "industrial"
+    },
+    {
+      "name": "Celestica",
+      "group": "industrial"
+    },
+    {
+      "name": "Sanmina",
+      "group": "industrial"
+    },
+    {
+      "name": "Benchmark Electronics",
+      "group": "industrial"
+    },
+    {
+      "name": "Foxconn",
+      "group": "industrial"
+    },
+    {
+      "name": "Pegatron",
+      "group": "industrial"
+    },
+    {
+      "name": "Compal Electronics",
+      "group": "industrial"
+    },
+    {
+      "name": "Schneider Electric",
+      "group": "industrial"
+    },
+    {
+      "name": "Siemens",
+      "group": "industrial"
+    },
+    {
+      "name": "Honeywell",
+      "group": "industrial"
+    },
+    {
+      "name": "Eaton",
+      "group": "industrial"
+    },
+    {
+      "name": "Lockheed Martin",
+      "group": "industrial"
+    },
+    {
+      "name": "RTX",
+      "group": "industrial"
+    },
+    {
+      "name": "Northrop Grumman",
+      "group": "industrial"
+    },
+    {
+      "name": "General Dynamics",
+      "group": "industrial"
+    },
+    {
+      "name": "Anduril",
+      "group": "industrial"
+    },
+    {
+      "name": "Firefly Aerospace",
+      "group": "industrial"
+    },
+    {
+      "name": "Caterpillar",
+      "group": "industrial"
+    },
+    {
+      "name": "Deere & Company",
+      "group": "industrial"
+    },
+    {
+      "name": "Cummins",
+      "group": "industrial"
+    },
+    {
+      "name": "Trane Technologies",
+      "group": "industrial"
+    },
+    {
+      "name": "Johnson Controls",
+      "group": "industrial"
+    },
+    {
+      "name": "Carrier Global",
+      "group": "industrial"
+    },
+    {
+      "name": "3M",
+      "group": "industrial"
+    },
+    {
+      "name": "Corning",
+      "group": "industrial"
+    },
+    {
+      "name": "Parker Hannifin",
+      "group": "industrial"
+    },
+    {
+      "name": "TE Connectivity",
+      "group": "industrial"
+    },
+    {
+      "name": "Bosch",
+      "group": "industrial"
+    },
+    {
+      "name": "Rivian",
+      "group": "industrial"
+    },
+    {
+      "name": "Ford Motor Company",
+      "group": "industrial"
+    },
+    {
+      "name": "SAP",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Kinaxis",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Blue Yonder",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Manhattan Associates",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Infor",
+      "group": "supply_chain"
+    },
+    {
+      "name": "E2open",
+      "group": "supply_chain"
+    },
+    {
+      "name": "OMP",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Descartes Systems Group",
+      "group": "supply_chain"
+    },
+    {
+      "name": "GXO Logistics",
+      "group": "supply_chain"
+    },
+    {
+      "name": "XPO",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Schneider National",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Werner Enterprises",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Old Dominion Freight Line",
+      "group": "supply_chain"
+    },
+    {
+      "name": "UPS",
+      "group": "supply_chain"
+    },
+    {
+      "name": "DHL",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Kuehne+Nagel",
+      "group": "supply_chain"
+    },
+    {
+      "name": "DSV",
+      "group": "supply_chain"
+    },
+    {
+      "name": "CEVA Logistics",
+      "group": "supply_chain"
+    },
+    {
+      "name": "GEODIS",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Expeditors International",
+      "group": "supply_chain"
+    },
+    {
+      "name": "ShipBob",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Dematic",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Swisslog",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Körber Supply Chain",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Zebra Technologies",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Tecsys",
+      "group": "supply_chain"
+    },
+    {
+      "name": "MuleSoft",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Informatica",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Qlik",
+      "group": "supply_chain"
+    },
+    {
+      "name": "Deloitte",
+      "group": "consulting"
+    },
+    {
+      "name": "Capgemini",
+      "group": "consulting"
+    },
+    {
+      "name": "EY",
+      "group": "consulting"
+    },
+    {
+      "name": "Cognizant",
+      "group": "consulting"
+    },
+    {
+      "name": "Infosys",
+      "group": "consulting"
+    },
+    {
+      "name": "EPAM Systems",
+      "group": "consulting"
+    },
+    {
+      "name": "Slalom",
+      "group": "consulting"
+    },
+    {
+      "name": "Wipro",
+      "group": "consulting"
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "group": "consulting"
+    },
+    {
+      "name": "HCLTech",
+      "group": "consulting"
+    },
+    {
+      "name": "NTT DATA",
+      "group": "consulting"
+    },
+    {
+      "name": "CGI",
+      "group": "consulting"
+    },
+    {
+      "name": "Booz Allen Hamilton",
+      "group": "consulting"
+    },
+    {
+      "name": "SAIC",
+      "group": "consulting"
+    },
+    {
+      "name": "West Monroe",
+      "group": "consulting"
+    },
+    {
+      "name": "Publicis Sapient",
+      "group": "consulting"
+    },
+    {
+      "name": "Perficient",
+      "group": "consulting"
+    },
+    {
+      "name": "Protiviti",
+      "group": "consulting"
+    },
+    {
+      "name": "RSM US",
+      "group": "consulting"
+    },
+    {
+      "name": "BDO USA",
+      "group": "consulting"
+    },
+    {
+      "name": "Bain & Company",
+      "group": "consulting"
+    },
+    {
+      "name": "Boston Consulting Group",
+      "group": "consulting"
+    },
+    {
+      "name": "McKinsey & Company",
+      "group": "consulting"
+    },
+    {
+      "name": "Kearney",
+      "group": "consulting"
+    },
+    {
+      "name": "Genpact",
+      "group": "consulting"
+    },
+    {
+      "name": "Globant",
+      "group": "consulting"
+    },
+    {
+      "name": "Costco",
+      "group": "retail"
+    },
+    {
+      "name": "H-E-B",
+      "group": "retail"
+    },
+    {
+      "name": "Whole Foods Market",
+      "group": "retail"
+    },
+    {
+      "name": "PepsiCo",
+      "group": "retail"
+    },
+    {
+      "name": "Procter & Gamble",
+      "group": "retail"
+    },
+    {
+      "name": "Colgate-Palmolive",
+      "group": "retail"
+    },
+    {
+      "name": "Best Buy",
+      "group": "retail"
+    },
+    {
+      "name": "Chewy",
+      "group": "retail"
+    },
+    {
+      "name": "Wayfair",
+      "group": "retail"
+    },
+    {
+      "name": "Kroger",
+      "group": "retail"
+    },
+    {
+      "name": "Albertsons",
+      "group": "retail"
+    },
+    {
+      "name": "Walgreens Boots Alliance",
+      "group": "retail"
+    },
+    {
+      "name": "Dollar General",
+      "group": "retail"
+    },
+    {
+      "name": "TJX Companies",
+      "group": "retail"
+    },
+    {
+      "name": "Ross Stores",
+      "group": "retail"
+    },
+    {
+      "name": "Macy's",
+      "group": "retail"
+    },
+    {
+      "name": "Lululemon",
+      "group": "retail"
+    },
+    {
+      "name": "YETI",
+      "group": "retail"
+    },
+    {
+      "name": "Tractor Supply",
+      "group": "retail"
+    },
+    {
+      "name": "AutoZone",
+      "group": "retail"
+    },
+    {
+      "name": "O'Reilly Automotive",
+      "group": "retail"
+    },
+    {
+      "name": "Shopify",
+      "group": "retail"
+    },
+    {
+      "name": "DoorDash",
+      "group": "retail"
+    },
+    {
+      "name": "Coca-Cola",
+      "group": "retail"
+    },
+    {
+      "name": "Keurig Dr Pepper",
+      "group": "retail"
+    },
+    {
+      "name": "Kraft Heinz",
+      "group": "retail"
+    },
+    {
+      "name": "General Mills",
+      "group": "retail"
+    },
+    {
+      "name": "Mondelez International",
+      "group": "retail"
+    },
+    {
+      "name": "Nestlé USA",
+      "group": "retail"
+    },
+    {
+      "name": "Hershey",
+      "group": "retail"
+    },
+    {
+      "name": "Hormel Foods",
+      "group": "retail"
+    },
+    {
+      "name": "Charles Schwab",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Global Payments",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "American Express",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "JPMorgan Chase",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Bank of America",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Wells Fargo",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Goldman Sachs",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Morgan Stanley",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Progressive",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Liberty Mutual",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "State Farm",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "UnitedHealth Group",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Optum",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Cencora",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Thermo Fisher Scientific",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Boston Scientific",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Becton Dickinson",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Johnson & Johnson",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Merck & Co.",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Eli Lilly",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Gilead Sciences",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Moderna",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Quest Diagnostics",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "HCA Healthcare",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Ascension",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Baylor Scott & White Health",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "St. David's HealthCare",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Austin Regional Clinic",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Q2 Holdings",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Texas Mutual Insurance",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "TransPak",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Lower Colorado River Authority",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Austin Energy",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "SHI International",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "NinjaOne",
+      "group": "finance_health_local"
+    },
+    {
+      "name": "Planview",
+      "group": "finance_health_local"
+    }
+  ]
+}
