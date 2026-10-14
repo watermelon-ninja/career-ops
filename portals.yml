@@ -97,6 +97,19 @@ search_queries:
     enabled: true
 
 tracked_companies:
+  # Workday pilot: known public career-site URLs; scanner reads CXS with bounded pagination.
+  - name: Intel (Workday)
+    careers_url: https://intel.wd1.myworkdayjobs.com/External
+    scan_method: workday
+    enabled: true
+  - name: NVIDIA (Workday)
+    careers_url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+    scan_method: workday
+    enabled: true
+  - name: Adobe (Workday)
+    careers_url: https://adobe.wd5.myworkdayjobs.com/external_experienced
+    scan_method: workday
+    enabled: true
   - name: Apple
     careers_url: https://jobs.apple.com
     scan_method: websearch
