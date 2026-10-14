@@ -26,6 +26,6 @@ const idx=new Map();for(const b of all.values()){for(const key of new Set([canon
 mkdirSync('data',{recursive:true});
 const covered=[],needs=[];for(const c of wish){const hits=idx.get(canon(c.name))||[];if(hits.length)covered.push({name:c.name,group:c.group,boards:hits});else needs.push({name:c.name,group:c.group,status:'needs_resolution'});}
 // Keep unresolved companies explicit instead of blocking the main scan. This file is the handoff list for alias research, dedicated adapters, or later manual follow-up.
-writeFileSync('data/priority-manual-followup.json',JSON.stringify({generated_at:new Date().toISOString(),companies:needs},null,2)+'\\n');
+writeFileSync('data/priority-manual-followup.json',JSON.stringify({generated_at:new Date().toISOString(),companies:needs},null,2)+'\n');
 writeFileSync('data/priority-ats-coverage.json',JSON.stringify({generated_at:new Date().toISOString(),universe_boards:all.size,priority_companies:wish.length,covered_count:covered.length,needs_extra_work_count:needs.length,covered,needs_extra_work:needs},null,2)+'\n');
 console.log(JSON.stringify({universe_boards:all.size,priority_companies:wish.length,covered_count:covered.length,needs_extra_work_count:needs.length},null,2));
