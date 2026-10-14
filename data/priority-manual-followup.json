@@ -1006,5 +1006,6 @@
       "group": "finance_health_local",
       "status": "needs_resolution"
     }
-  ]
-}\n
+  ],
+  "description": "Unmatched directory/verified ATS companies; not confirmed scraper failures. Requires resolution."
+}
