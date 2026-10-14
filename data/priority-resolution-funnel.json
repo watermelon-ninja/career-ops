@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:16:46.143Z",
+  "generated_at": "2026-10-14T20:26:30.154Z",
   "layer": 2,
   "input_count": 200,
   "identified_at_layer_2": 1,
@@ -171,9 +171,9 @@
         {
           "stage": 2,
           "url": "https://jobs.apple.com",
-          "http_status": null,
-          "final_url": "https://jobs.apple.com",
-          "result": "timeout",
+          "http_status": 200,
+          "final_url": "https://www.apple.com/careers/us/",
+          "result": "no_supported_ats_signature",
           "provider": null
         }
       ],
@@ -242,10 +242,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.ibm.com/careers/search",
+          "http_status": 200,
+          "final_url": "https://www.ibm.com/careers/search",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.ibm.com/careers/search"
+      ]
     },
     {
       "name": "ServiceNow",
@@ -283,10 +290,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.atlassian.com/company/careers",
+          "http_status": 200,
+          "final_url": "https://www.atlassian.com/company/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.atlassian.com/company/careers"
+      ]
     },
     {
       "name": "Intuit",
@@ -300,10 +314,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.intuit.com/careers/",
+          "http_status": 200,
+          "final_url": "https://www.intuit.com/careers/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.intuit.com/careers/"
+      ]
     },
     {
       "name": "Box",
@@ -1611,8 +1632,8 @@
         {
           "stage": 2,
           "url": "https://gxo.com/careers",
-          "http_status": 403,
-          "final_url": "https://gxo.com/careers",
+          "http_status": 200,
+          "final_url": "https://gxo.com/careers/",
           "result": "no_supported_ats_signature",
           "provider": null
         }
@@ -3527,4 +3548,4 @@
       "failure_reason": "no_curated_careers_url"
     }
   ]
-}\n
+}

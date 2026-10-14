@@ -3,14 +3,14 @@
   "note": "Official company careers seeds, not ATS or full-JD verification.",
   "companies": [
     {
-      "name": "IBM",
-      "careers_url": "https://www.ibm.com/careers/search",
+      "name": "Atlassian",
+      "careers_url": "https://www.atlassian.com/company/careers",
       "source": "official_site",
       "status": "official_careers_page_verified"
     },
     {
-      "name": "Atlassian",
-      "careers_url": "https://www.atlassian.com/company/careers",
+      "name": "IBM",
+      "careers_url": "https://www.ibm.com/careers/search",
       "source": "official_site",
       "status": "official_careers_page_verified"
     },
@@ -20,5 +20,6 @@
       "source": "official_site",
       "status": "official_careers_page_verified"
     }
-  ]
+  ],
+  "generated_at": "2026-10-14T20:26:26.459Z"
 }
