@@ -160,14 +160,25 @@ console.log('Workday JD verification:',JSON.stringify({tested:jdProbes.length,fu
 // Shared-platform fallback: verify publicly accessible job-detail pages via
 // schema.org JobPosting JSON-LD. No private/vendor API credentials assumed.
 function jsonLdJobPostings(html){
- const out=[],re=/<script\\b[^>]*type=["']application\\/ld\\+json["'][^>]*>([\\s\\S]*?)<\\/script>/gi;
- let m;while((m=re.exec(html))){try{
-  const root=JSON.parse(m[1]);const nodes=Array.isArray(root)?root:[root];
-  for(const node of nodes){const list=node?.['@graph']||[node];for(const j of list){
-   const types=Array.isArray(j?.['@type'])?j['@type']:[j?.['@type']];
-   if(types.includes('JobPosting'))out.push(j);
-  }}
- }catch{}}
+ const out=[];
+ const openNeedle='<script', closeNeedle='</script>';
+ let pos=0;
+ while(true){
+  const open=html.toLowerCase().indexOf(openNeedle,pos); if(open<0)break;
+  const tagEnd=html.indexOf('>',open); if(tagEnd<0)break;
+  const tag=html.slice(open,tagEnd+1);
+  const close=html.toLowerCase().indexOf(closeNeedle,tagEnd+1); if(close<0)break;
+  pos=close+closeNeedle.length;
+  if(!/type\\s*=\\s*["']application\\/ld\\+json["']/i.test(tag))continue;
+  const payload=html.slice(tagEnd+1,close).trim();
+  try{
+   const root=JSON.parse(payload);const nodes=Array.isArray(root)?root:[root];
+   for(const node of nodes){const list=node?.['@graph']||[node];for(const j of list){
+    const types=Array.isArray(j?.['@type'])?j['@type']:[j?.['@type']];
+    if(types.includes('JobPosting'))out.push(j);
+   }}
+  }catch{}
+ }
  return out;
 }
 async function verifyPublicJobPage(c){
