@@ -78,6 +78,7 @@ function detectApi(company) {
 
 // ── External ATS directory (rotating batches, never silently claims full coverage) ──
 const SECOND_UNIVERSE_URL = 'https://raw.githubusercontent.com/fyrosofttech/lastroundai-hiring-data/main/ats-directory/lastroundai-ats-company-directory-2026-08.csv';
+const THIRD_UNIVERSE_URL = 'https://raw.githubusercontent.com/veresk06/open-ats-feed/main/actor/data/companies.json';
 
 function parseCsvRows(csv) {
   const rows = [];
@@ -109,8 +110,15 @@ async function loadUniverse(args) {
   const sources = [
     { name: 'moonie0201', url: UNIVERSE_URL, parse: body => body.split(/\r?\n/).filter(Boolean).map(line => JSON.parse(line)).filter(r => r.status === 'ok').map(r => ({ provider: r.provider, slug: r.slug, name: r.name })) },
     { name: 'lastroundai', url: SECOND_UNIVERSE_URL, parse: body => parseCsvRows(body).map(r => ({ provider: r.ats_vendor, slug: r.board_slug, name: r.company_name })) },
+    { name: 'open-ats-feed', url: THIRD_UNIVERSE_URL, parse: body => {
+      const data = JSON.parse(body);
+      return ['greenhouse', 'lever', 'ashby'].flatMap(provider =>
+        (data.providers?.[provider]?.live || []).map(([slug]) => ({ provider, slug, name: slug }))
+      );
+    } },
   ];
   const combined = new Map();
+  let baselineCount = 0;
   for (const source of sources) {
     try {
       const response = await fetch(source.url, { signal: AbortSignal.timeout(20_000) });
@@ -123,11 +131,19 @@ async function loadUniverse(args) {
         if (!combined.has(key)) { combined.set(key, r); added++; }
       }
       console.log(`ATS source ${source.name}: ${rows.length} entries; ${added} new unique boards`);
+      if (source.name === 'lastroundai') baselineCount = combined.size;
     } catch (error) {
       console.error(`ATS source ${source.name} unavailable: ${error.message}`);
     }
   }
-  const valid = [...combined.values()].sort((a,b) => (a.provider + ':' + a.slug).localeCompare(b.provider + ':' + b.slug));
+  // Keep the original two-source ordering intact so an existing cursor never skips
+  // or repeats baseline boards when a new directory source is added.
+  const compareBoards = (a,b) => (a.provider + ':' + a.slug).localeCompare(b.provider + ':' + b.slug);
+  const allBoards = [...combined.values()];
+  const valid = [
+    ...allBoards.slice(0, baselineCount).sort(compareBoards),
+    ...allBoards.slice(baselineCount).sort(compareBoards),
+  ];
   if (!valid.length) throw new Error('No ATS directory sources loaded successfully');
   let cursor = 0;
   if (existsSync(UNIVERSE_CURSOR_PATH)) {
