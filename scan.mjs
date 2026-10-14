@@ -25,6 +25,7 @@ const PORTALS_PATH = 'portals.yml';
 const SCAN_HISTORY_PATH = 'data/scan-history.tsv';
 const PIPELINE_PATH = 'data/pipeline.md';
 const APPLICATIONS_PATH = 'data/applications.md';
+const UNIVERSE_CURSOR_PATH = 'data/universe-cursor.json';
 const UNIVERSE_URL = 'https://raw.githubusercontent.com/moonie0201/ats-directory/main/companies.jsonl';
 const UNIVERSE_BATCH = 100; // Rotate across the external directory; override with --universe-batch N
 
@@ -128,9 +129,26 @@ async function loadUniverse(args) {
   }
   const valid = [...combined.values()].sort((a,b) => (a.provider + ':' + a.slug).localeCompare(b.provider + ':' + b.slug));
   if (!valid.length) throw new Error('No ATS directory sources loaded successfully');
-  const start = (Math.floor(Date.now() / 86400000) * requested) % valid.length;
-  const batch = Array.from({length: Math.min(requested, valid.length)}, (_, i) => valid[(start + i) % valid.length]);
-  console.log(`ATS universe: ${valid.length} unique directory boards; ${batch.length} selected for this run (rotating batch, not all scanned)`);
+  let cursor = 0;
+  if (existsSync(UNIVERSE_CURSOR_PATH)) {
+    try {
+      const saved = JSON.parse(readFileSync(UNIVERSE_CURSOR_PATH, 'utf-8'));
+      if (Number.isInteger(saved.next_index) && saved.next_index >= 0) cursor = saved.next_index % valid.length;
+    } catch (error) {
+      console.error(`ATS cursor unreadable: ${error.message}; restarting at index 0`);
+    }
+  }
+  const batchSize = Math.min(requested, valid.length);
+  const batch = Array.from({length: batchSize}, (_, i) => valid[(cursor + i) % valid.length]);
+  const nextIndex = (cursor + batchSize) % valid.length;
+  writeFileSync(UNIVERSE_CURSOR_PATH, JSON.stringify({
+    next_index: nextIndex,
+    universe_size: valid.length,
+    batch_size: batchSize,
+    last_start_index: cursor,
+    updated_at: new Date().toISOString()
+  }, null, 2) + '\n', 'utf-8');
+  console.log(`ATS universe: ${valid.length} unique directory boards; scanning indices ${cursor}..${(cursor + batchSize - 1) % valid.length}; next cursor ${nextIndex}`);
   return batch.map(r => ({name: r.name || r.slug, careers_url: r.provider === 'ashby' ? `https://jobs.ashbyhq.com/${r.slug}` : r.provider === 'lever' ? `https://jobs.lever.co/${r.slug}` : `https://job-boards.greenhouse.io/${r.slug}`, scan_method: r.provider, enabled: true}));
 }
 
