@@ -49,7 +49,15 @@ jobs:
       - name: Resolve Priority Companies — Layer 2 ATS autodetect
         run: node resolve-priority-funnel.mjs
 
-      - name: Resolve Priority Companies — Layer 3 deep platform discovery
+      - name: Syntax-check priority resolution scripts
+        run: |
+          node --check audit-full-priority-coverage.mjs
+          node --check discover-careers-seeds.mjs
+          node --check resolve-priority-funnel.mjs
+          node --check resolve-priority-layer3.mjs
+          node --check scan.mjs
+
+      - name: Resolve Priority Companies — Layer 3 + JD verification
         run: node resolve-priority-layer3.mjs
 
       - name: Run Career-Ops scanner
