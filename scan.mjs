@@ -180,8 +180,8 @@ async function loadUniverse(args) {
       console.error(`ATS cursor unreadable: ${error.message}; restarting lane cursors at 0`);
     }
   }
-  // Enterprise-heavy allocation: 40% Workday, 60% discovery across other ATSs.
-  const workdaySize = Math.min(workday.length, Math.max(1, Math.round(requested * 0.40)));
+  // Enterprise-heavy allocation: 60% Workday, 40% discovery across other ATSs.
+  const workdaySize = Math.min(workday.length, Math.max(1, Math.round(requested * 0.60)));
   const generalSize = Math.min(general.length, Math.max(1, requested - workdaySize));
   const generalBatch = Array.from({length: generalSize}, (_, i) => general[(generalCursor + i) % general.length]);
   const workdayBatch = Array.from({length: workdaySize}, (_, i) => workday[(workdayCursor + i) % workday.length]);
@@ -528,7 +528,7 @@ async function main() {
   const providerStats = new Map();
   for (const c of targets) {
     const type = c._api.type;
-    if (!providerStats.has(type)) providerStats.set(type, { boards: 0, jobs: 0, errors: 0 });
+    if (!providerStats.has(type)) providerStats.set(type, { boards: 0, jobs: 0, errors: 0, relevant: 0 });
     providerStats.get(type).boards++;
   }
 
@@ -566,6 +566,7 @@ async function main() {
         seenUrls.add(job.url);
         seenCompanyRoles.add(key);
         newOffers.push({ ...job, source: `${type}-api` });
+        providerStats.get(type).relevant++;
       }
     } catch (err) {
       providerStats.get(type).errors++;
@@ -593,9 +594,9 @@ async function main() {
   console.log(`Filtered by location:  ${totalFilteredLocation} removed`);
   console.log(`Duplicates:            ${totalDupes} skipped`);
   console.log(`New offers added:      ${newOffers.length}`);
-  console.log('Provider breakdown (boards / jobs / errors):');
+  console.log('Provider breakdown (boards / jobs / relevant offers / errors):');
   for (const [provider, stats] of [...providerStats.entries()].sort()) {
-    console.log(`  ${provider}: ${stats.boards} / ${stats.jobs} / ${stats.errors}`);
+    console.log(`  ${provider}: ${stats.boards} / ${stats.jobs} / ${stats.relevant} / ${stats.errors}`);
   }
 
   if (errors.length > 0) {
