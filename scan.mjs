@@ -326,14 +326,24 @@ async function fetchJson(url) {
 // ── Title filter ────────────────────────────────────────────────────
 
 function buildTitleFilter(titleFilter) {
-  const positive = (titleFilter?.positive || []).map(k => k.toLowerCase());
   const negative = (titleFilter?.negative || []).map(k => k.toLowerCase());
+  // High-recall stage-1 signals. Precision belongs to full-JD scoring.
+  const domain = ['supply chain','logistics','warehouse','inventory','fulfillment','planning','procurement','operations','distribution','order management'];
+  const tech = ['system','systems','technology','tech','digital','it ','information technology','platform','application','applications','integration','erp','wms','sap','kinaxis','infor','data','analytics','business intelligence','bi '];
+  const role = ['analyst','product','program','project','manager','owner','consultant','implementation','solution','solutions','lead','specialist','architect'];
+  const standalone = ['business analyst','systems analyst','system analyst','product owner','product manager','program manager','project manager','technical program manager','business systems','implementation consultant'];
 
   return (title) => {
-    const lower = title.toLowerCase();
-    const hasPositive = positive.length === 0 || positive.some(k => lower.includes(k));
-    const hasNegative = negative.some(k => lower.includes(k));
-    return hasPositive && !hasNegative;
+    const lower = String(title || '').toLowerCase();
+    if (!lower) return false;
+    if (negative.some(k => lower.includes(k))) return false;
+    const hasDomain = domain.some(k => lower.includes(k));
+    const hasTech = tech.some(k => lower.includes(k));
+    const hasRole = role.some(k => lower.includes(k));
+    const hasStandalone = standalone.some(k => lower.includes(k));
+    // Domain roles are broadly eligible; otherwise require a tech/system signal
+    // plus a role signal. Known target role families always pass.
+    return hasStandalone || (hasDomain && (hasRole || hasTech)) || (hasTech && hasRole);
   };
 }
 
