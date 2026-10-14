@@ -162,3 +162,23 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5174499007?gh_jid=5174499007 | Anduril | Technical Program Manager, Space Battle Management
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5146970007?gh_jid=5146970007 | Anduril | Technical Program Manager, Space Systems
 
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5204368007?gh_jid=5204368007 | Anduril | Deployment Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5170593007?gh_jid=5170593007 | Anduril | Hazard Zone Deployment Lead
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5151840007?gh_jid=5151840007 | Anduril | Logistics Program Manager
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5247776007?gh_jid=5247776007 | Anduril | Mission Operations Product Manager, Group 5 Mission Autonomy
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5240064007?gh_jid=5240064007 | Anduril | People Program Manager
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5232535007?gh_jid=5232535007 | Anduril | Product Manager, Connected Warfare
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252409007?gh_jid=5252409007 | Anduril | Product Manager, Electromagnetic Warfare
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5140621007?gh_jid=5140621007 | Anduril | Product Operations Technical Specialist, Counter Intrusion
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5262722007?gh_jid=5262722007 | Anduril | Senior People Program Manager
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5216711007?gh_jid=5216711007 | Anduril | Senior RF Systems Integration & Test Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5246050007?gh_jid=5246050007 | Anduril | Senior Technical Program Manager
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5237964007?gh_jid=5237964007 | Anduril | Senior Technical Program Manager, Connected Warfare (Active Clearance)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5215557007?gh_jid=5215557007 | Anduril | Senior Technical Program Manager, Release, Mission Autonomy
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5055668007?gh_jid=5055668007 | Anduril | Senior Technical Program Manager, RMS
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5211453007?gh_jid=5211453007 | Anduril | Senior Technical Program Manager, Space Battle Management
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5236486007?gh_jid=5236486007 | Anduril | Sr Technical Program Manager, Battlespace Awareness
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5251972007?gh_jid=5251972007 | Anduril | Staff T&E Technical Program Manager, Strategic Defense
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193780007?gh_jid=5193780007 | Anduril | Supply Chain Systems Analyst, WMS
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5197347007?gh_jid=5197347007 | Anduril | Technical Program Manager, Mission Systems - Active Clearance
