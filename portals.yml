@@ -4,8 +4,6 @@
 location_filter:
   allow:
     - "Remote"
-    - "United States"
-    - "USA"
     - "Austin"
     - "Texas"
     - "TX"
