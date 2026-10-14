@@ -146,9 +146,27 @@ async function verifyStandardAts(c){
  }catch(e){base.reason=String(e.message||e);return base;}
 }
 const layer3=JSON.parse(readFileSync('data/priority-layer3-resolution.json','utf8'));
+function normalizeStandardEvidence(c){
+ if(c.endpoint)return c;
+ const ev=(c.platform_evidence||[]).find(Boolean); if(!ev)return c;
+ try{
+  const u=new URL(ev);
+  if(c.provider==='workday'){
+   const parts=u.pathname.split('/').filter(Boolean);
+   const site=parts.find(x=>!['en-US','en','jobs','job','login'].includes(x));
+   if(site){const tenant=u.hostname.split('.')[0];return {...c,endpoint:u.origin+'/wday/cxs/'+tenant+'/'+site+'/jobs',normalized_from_evidence:ev};}
+  }
+  if(c.provider==='greenhouse'){
+   const slug=u.searchParams.get('for')||u.pathname.split('/').filter(Boolean).pop();
+   if(slug)return {...c,endpoint:'https://boards-api.greenhouse.io/v1/boards/'+slug+'/jobs?content=true',normalized_from_evidence:ev};
+  }
+ }catch{}
+ return c;
+}
 const standardProviders=new Set(['workday','greenhouse','ashby','lever']);
 const standardByCompany=new Map();
-for(const c of [...(funnel.identified||[]),...(layer3.identified||[])]){
+for(const raw of [...(funnel.identified||[]),...(layer3.identified||[])]){
+ const c=normalizeStandardEvidence(raw);
  if(!standardProviders.has(c.provider))continue;
  const key=String(c.name||'').trim().toLowerCase();
  if(!key)continue;
