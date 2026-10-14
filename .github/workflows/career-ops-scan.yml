@@ -40,6 +40,9 @@ jobs:
       - name: Audit Priority Company ATS coverage
         run: node audit-full-priority-coverage.mjs
 
+      - name: Resolve Priority Companies — Layer 2 ATS autodetect
+        run: node resolve-priority-funnel.mjs
+
       - name: Run Career-Ops scanner
         shell: bash
         run: |
@@ -66,7 +69,7 @@ jobs:
       - name: Commit Career-Ops scan results
         shell: bash
         run: |
-          for file in data/scan-history.tsv data/pipeline.md data/priority-ats-coverage.json data/priority-manual-followup.json; do
+          for file in data/scan-history.tsv data/pipeline.md data/priority-ats-coverage.json data/priority-manual-followup.json data/priority-resolution-funnel.json; do
             if [ -f "$file" ]; then git add "$file"; fi
           done
           if git diff --cached --quiet; then
