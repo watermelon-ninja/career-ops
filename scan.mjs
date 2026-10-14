@@ -551,7 +551,7 @@ async function main() {
   const providerStats = new Map();
   for (const c of targets) {
     const type = c._api.type;
-    if (!providerStats.has(type)) providerStats.set(type, { boards: 0, jobs: 0, errors: 0, relevant: 0 });
+    if (!providerStats.has(type)) providerStats.set(type, { boards: 0, jobs: 0, errors: 0, candidates: 0 });
     providerStats.get(type).boards++;
   }
 
@@ -589,7 +589,7 @@ async function main() {
         seenUrls.add(job.url);
         seenCompanyRoles.add(key);
         newOffers.push({ ...job, source: `${type}-api` });
-        providerStats.get(type).relevant++;
+        providerStats.get(type).candidates++;
       }
     } catch (err) {
       providerStats.get(type).errors++;
@@ -616,10 +616,10 @@ async function main() {
   console.log(`Filtered by title:     ${totalFilteredTitle} removed`);
   console.log(`Filtered by location:  ${totalFilteredLocation} removed`);
   console.log(`Duplicates:            ${totalDupes} skipped`);
-  console.log(`New offers added:      ${newOffers.length}`);
-  console.log('Provider breakdown (boards / jobs / relevant offers / errors):');
+  console.log(`New JD candidates:     ${newOffers.length}`);
+  console.log('Provider breakdown (boards / jobs / JD candidates / errors):');
   for (const [provider, stats] of [...providerStats.entries()].sort()) {
-    console.log(`  ${provider}: ${stats.boards} / ${stats.jobs} / ${stats.relevant} / ${stats.errors}`);
+    console.log(`  ${provider}: ${stats.boards} / ${stats.jobs} / ${stats.candidates} / ${stats.errors}`);
   }
 
   if (errors.length > 0) {
@@ -630,7 +630,7 @@ async function main() {
   }
 
   if (newOffers.length > 0) {
-    console.log('\nNew offers:');
+    console.log('\nNew JD candidates:');
     for (const o of newOffers) {
       console.log(`  + ${o.company} | ${o.title} | ${o.location || 'N/A'}`);
     }
