@@ -126,22 +126,27 @@ async function loadUniverse(args) {
         (data.providers?.[provider]?.live || []).map(([slug]) => ({ provider, slug, name: slug }))
       );
     } },
+    { name: 'workday-commoncrawl', url: 'https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/workday_companies.json', parse: body => JSON.parse(body).map(value => {
+      const [tenant, shard, site] = String(value).split('|');
+      return { provider: 'workday', slug: value, name: tenant, tenant, shard, site };
+    }).filter(r => /^[a-z0-9-]+$/i.test(r.tenant || '') && /^wd[0-9]+$/i.test(r.shard || '') && /^[a-z0-9_.-]+$/i.test(r.site || '')) },
   ];
   const combined = new Map();
-  let baselineCount = 0;
+  const sourceBuckets = new Map();
   for (const source of sources) {
     try {
       const response = await fetch(source.url, { signal: AbortSignal.timeout(20_000) });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const rows = source.parse(await response.text());
       let added = 0;
+      const bucket = [];
       for (const r of rows) {
-        if (!['ashby','greenhouse','lever','teamtailor'].includes(r.provider) || !/^[a-z0-9_.-]+$/i.test(r.slug || '')) continue;
+        if (!['ashby','greenhouse','lever','teamtailor','workday'].includes(r.provider) || (r.provider !== 'workday' && !/^[a-z0-9_.-]+$/i.test(r.slug || ''))) continue;
         const key = `${r.provider}:${r.slug.toLowerCase()}`;
-        if (!combined.has(key)) { combined.set(key, r); added++; }
+        if (!combined.has(key)) { combined.set(key, r); bucket.push(r); added++; }
       }
       console.log(`ATS source ${source.name}: ${rows.length} entries; ${added} new unique boards`);
-      if (source.name === 'lastroundai') baselineCount = combined.size;
+      sourceBuckets.set(source.name, bucket);
     } catch (error) {
       console.error(`ATS source ${source.name} unavailable: ${error.message}`);
     }
@@ -149,10 +154,12 @@ async function loadUniverse(args) {
   // Keep the original two-source ordering intact so an existing cursor never skips
   // or repeats baseline boards when a new directory source is added.
   const compareBoards = (a,b) => (a.provider + ':' + a.slug).localeCompare(b.provider + ':' + b.slug);
-  const allBoards = [...combined.values()];
+  // Freeze existing 15,779-board ordering: first two sources form the
+  // original sorted prefix, then open-ats-feed, then Workday additions.
   const valid = [
-    ...allBoards.slice(0, baselineCount).sort(compareBoards),
-    ...allBoards.slice(baselineCount).sort(compareBoards),
+    ...[...(sourceBuckets.get('moonie0201') || []), ...(sourceBuckets.get('lastroundai') || [])].sort(compareBoards),
+    ...(sourceBuckets.get('open-ats-feed') || []).sort(compareBoards),
+    ...(sourceBuckets.get('workday-commoncrawl') || []).sort(compareBoards),
   ];
   if (!valid.length) throw new Error('No ATS directory sources loaded successfully');
   let cursor = 0;
@@ -175,7 +182,7 @@ async function loadUniverse(args) {
     updated_at: new Date().toISOString()
   }, null, 2) + '\n', 'utf-8');
   console.log(`ATS universe: ${valid.length} unique directory boards; scanning indices ${cursor}..${(cursor + batchSize - 1) % valid.length}; next cursor ${nextIndex}`);
-  return batch.map(r => ({name: r.name || r.slug, careers_url: r.provider === 'ashby' ? `https://jobs.ashbyhq.com/${r.slug}` : r.provider === 'lever' ? `https://jobs.lever.co/${r.slug}` : r.provider === 'teamtailor' ? `https://${r.slug}.teamtailor.com` : `https://job-boards.greenhouse.io/${r.slug}`, scan_method: r.provider, enabled: true}));
+  return batch.map(r => ({name: r.name || r.slug, careers_url: r.provider === 'ashby' ? `https://jobs.ashbyhq.com/${r.slug}` : r.provider === 'lever' ? `https://jobs.lever.co/${r.slug}` : r.provider === 'teamtailor' ? `https://${r.slug}.teamtailor.com` : r.provider === 'workday' ? `https://${r.tenant}.${r.shard}.myworkdayjobs.com/${r.site}` : `https://job-boards.greenhouse.io/${r.slug}`, scan_method: r.provider, enabled: true}));
 }
 
 // ── API parsers ─────────────────────────────────────────────────────
