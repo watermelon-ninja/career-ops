@@ -52,7 +52,11 @@ async function retrieve(row){
 }
 function loadCandidates(){
  if(existsSync(batchInput)){
-  return readFileSync(batchInput,'utf8').split('\\n').filter(Boolean).map(JSON.parse);
+  const rows=[];
+  for(const line of readFileSync(batchInput,'utf8').split('\n').filter(Boolean)){
+   try{rows.push(JSON.parse(line))}catch(e){console.warn('Skipping malformed candidate JSONL row:',e.message)}
+  }
+  return rows;
  }
  if(existsSync(historyInput)){
   const lines=readFileSync(historyInput,'utf8').trim().split('\n');const header=lines.shift().split('\t');
