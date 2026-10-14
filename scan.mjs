@@ -73,6 +73,9 @@ function detectApi(company) {
     };
   }
 
+  const teamtailorMatch = url.match(/https?:\/\/([a-z0-9-]+)\.teamtailor\.com(?:\/|$)/i);
+  if (teamtailorMatch) return { type: 'teamtailor', url: `https://${teamtailorMatch[1]}.teamtailor.com/jobs.json` };
+
   return null;
 }
 
@@ -112,7 +115,7 @@ async function loadUniverse(args) {
     { name: 'lastroundai', url: SECOND_UNIVERSE_URL, parse: body => parseCsvRows(body).map(r => ({ provider: r.ats_vendor, slug: r.board_slug, name: r.company_name })) },
     { name: 'open-ats-feed', url: THIRD_UNIVERSE_URL, parse: body => {
       const data = JSON.parse(body);
-      return ['greenhouse', 'lever', 'ashby'].flatMap(provider =>
+      return ['greenhouse', 'lever', 'ashby', 'teamtailor'].flatMap(provider =>
         (data.providers?.[provider]?.live || []).map(([slug]) => ({ provider, slug, name: slug }))
       );
     } },
@@ -126,7 +129,7 @@ async function loadUniverse(args) {
       const rows = source.parse(await response.text());
       let added = 0;
       for (const r of rows) {
-        if (!['ashby','greenhouse','lever'].includes(r.provider) || !/^[a-z0-9_.-]+$/i.test(r.slug || '')) continue;
+        if (!['ashby','greenhouse','lever','teamtailor'].includes(r.provider) || !/^[a-z0-9_.-]+$/i.test(r.slug || '')) continue;
         const key = `${r.provider}:${r.slug.toLowerCase()}`;
         if (!combined.has(key)) { combined.set(key, r); added++; }
       }
@@ -165,7 +168,7 @@ async function loadUniverse(args) {
     updated_at: new Date().toISOString()
   }, null, 2) + '\n', 'utf-8');
   console.log(`ATS universe: ${valid.length} unique directory boards; scanning indices ${cursor}..${(cursor + batchSize - 1) % valid.length}; next cursor ${nextIndex}`);
-  return batch.map(r => ({name: r.name || r.slug, careers_url: r.provider === 'ashby' ? `https://jobs.ashbyhq.com/${r.slug}` : r.provider === 'lever' ? `https://jobs.lever.co/${r.slug}` : `https://job-boards.greenhouse.io/${r.slug}`, scan_method: r.provider, enabled: true}));
+  return batch.map(r => ({name: r.name || r.slug, careers_url: r.provider === 'ashby' ? `https://jobs.ashbyhq.com/${r.slug}` : r.provider === 'lever' ? `https://jobs.lever.co/${r.slug}` : r.provider === 'teamtailor' ? `https://${r.slug}.teamtailor.com` : `https://job-boards.greenhouse.io/${r.slug}`, scan_method: r.provider, enabled: true}));
 }
 
 // ── API parsers ─────────────────────────────────────────────────────
@@ -200,7 +203,19 @@ function parseLever(json, companyName) {
   }));
 }
 
-const PARSERS = { greenhouse: parseGreenhouse, ashby: parseAshby, lever: parseLever };
+function parseTeamtailor(json, companyName) {
+  return (json.items || []).map(j => ({
+    title: j.title || '',
+    url: j.url || '',
+    company: companyName,
+    location: (j._jobposting?.jobLocation || []).map(loc => {
+      const a = loc.address || {};
+      return [a.addressLocality, a.addressRegion, a.addressCountry].filter(Boolean).join(', ');
+    }).filter(Boolean).join(' / ') || (j._jobposting?.jobLocationType === 'TELECOMMUTE' ? 'Remote' : ''),
+  }));
+}
+
+const PARSERS = { greenhouse: parseGreenhouse, ashby: parseAshby, lever: parseLever, teamtailor: parseTeamtailor };
 
 // ── Fetch with timeout ──────────────────────────────────────────────
 
