@@ -16,35 +16,23 @@ import { basename } from 'path';
 
 const PIPELINE_PATH = 'data/pipeline.md';
 const APPLICATIONS_PATH = 'data/applications.md';
+const SCAN_HISTORY_PATH = 'data/scan-history.tsv';
+const SCAN_LOG_SHEET = 'Career-Ops Scan Log';
 const SHEETS_SCOPE = 'https://www.googleapis.com/auth/spreadsheets';
 const TOKEN_URL = 'https://oauth2.googleapis.com/token';
 const SHEETS_API = 'https://sheets.googleapis.com/v4/spreadsheets';
 
-const USER_OWNED_COLUMNS = [
-  'Status',
-  'Selena Feedback',
-  'Like',
-  'Apply',
-  'Skip',
-  'Applied Date',
-  'Follow-up Date',
-  'Interview Stage',
-  'Notes',
-];
-
-const SYSTEM_COLUMNS = [
+const SCAN_LOG_HEADERS = [
   'Official Link',
-  'Last Seen',
   'First Seen',
+  'Last Seen',
   'Source',
   'Company',
   'Role',
-  'Score',
-  'PDF',
-  'Report',
+  'Location',
+  'Scan Status',
+  'JD Review Status',
 ];
-
-const REQUIRED_HEADERS = [...SYSTEM_COLUMNS, ...USER_OWNED_COLUMNS];
 
 function today() {
   return new Date().toISOString().slice(0, 10);
@@ -78,6 +66,18 @@ function readReportUrl(reportCell) {
   const text = readFileSync(reportPath, 'utf8');
   const urlLine = text.split('\n').find((line) => /^\*\*URL:\*\*/i.test(line.trim()));
   return extractFirstUrl(urlLine || '');
+}
+
+function parseScanHistory() {
+  if (!existsSync(SCAN_HISTORY_PATH)) return [];
+  const lines = readFileSync(SCAN_HISTORY_PATH, 'utf8').split('\n').filter(Boolean);
+  const jobs = [];
+  for (const line of lines.slice(1)) {
+    const [url, firstSeen, source, role, company, status, location] = line.split('\t');
+    if (!url) continue;
+    jobs.push({ officialLink: normalizeUrl(url), firstSeen, source, company, role, location, scanStatus: status || 'added' });
+  }
+  return jobs;
 }
 
 function parsePipelineJobs() {
@@ -278,20 +278,19 @@ function columnName(index) {
   return name;
 }
 
-function makeNewRow(headers, job, date) {
+function makeScanLogRow(job, date) {
   const values = {
     'Official Link': job.officialLink,
+    'First Seen': job.firstSeen || date,
     'Last Seen': date,
-    'First Seen': date,
-    Source: job.source,
-    Company: job.company,
+    Source: job.source || '',
+    Company: job.company || '',
     Role: job.role || basename(job.officialLink),
-    Score: job.score,
-    PDF: job.pdf,
-    Report: job.report,
+    Location: job.location || '',
+    'Scan Status': job.scanStatus || 'discovered',
+    'JD Review Status': '',
   };
-
-  return headers.map((header) => values[header] || '');
+  return SCAN_LOG_HEADERS.map((header) => values[header] || '');
 }
 
 async function main() {
@@ -302,108 +301,61 @@ async function main() {
 
   if (!spreadsheetId && !dryRun) throw new Error('Missing GOOGLE_SHEET_ID in .env');
 
-  const jobs = dedupeJobs([...parsePipelineJobs(), ...parseApplicationJobs()]);
-  console.log(`Found ${jobs.length} unique job(s) with official links.`);
+  const jobs = dedupeJobs([...parseScanHistory(), ...parsePipelineJobs(), ...parseApplicationJobs()]);
+  console.log(`Found ${jobs.length} unique discovered job(s).`);
 
   if (dryRun) {
-    for (const job of jobs) {
-      console.log(`- ${job.officialLink} | ${job.company || '(unknown company)'} | ${job.role || '(unknown role)'}`);
-    }
+    for (const job of jobs) console.log(`- ${job.officialLink} | ${job.company || '(unknown company)'} | ${job.role || '(unknown role)'}`);
     console.log('Dry run complete; Google Sheets was not modified.');
     return;
   }
 
   const serviceAccount = parseServiceAccount();
   const accessToken = await getAccessToken(serviceAccount);
-
   const spreadsheet = await sheetsRequest(accessToken, `${spreadsheetId}?fields=sheets(properties(sheetId,title))`);
-  const sheet = spreadsheet.sheets?.[0]?.properties;
-  if (!sheet) throw new Error('No sheets found in the spreadsheet.');
+  const sheet = spreadsheet.sheets?.map(s => s.properties).find(s => s.title === SCAN_LOG_SHEET);
+  if (!sheet) throw new Error(`Missing dedicated sheet tab: ${SCAN_LOG_SHEET}. Existing tracker tabs are intentionally not modified.`);
 
-  const sheetName = sheet.title;
-  const escapedSheetName = escapeSheetName(sheetName);
-  const values = await sheetsRequest(
-    accessToken,
-    `${spreadsheetId}/values/${encodeURIComponent(`${escapedSheetName}!1:10000`)}`,
-  );
-
-  let rows = values.values || [];
-  let headers = rows[0] || [];
-
-  if (headers.length === 0) {
-    headers = REQUIRED_HEADERS;
-    await sheetsRequest(
-      accessToken,
-      `${spreadsheetId}/values/${encodeURIComponent(`${escapedSheetName}!1:1`)}?valueInputOption=RAW`,
-      { method: 'PUT', body: JSON.stringify({ values: [headers] }) },
-    );
-    rows = [headers];
-  } else {
-    const missingHeaders = REQUIRED_HEADERS.filter((header) => headerIndex(headers, header) === -1);
-    if (missingHeaders.length > 0) {
-      headers = [...headers, ...missingHeaders];
-      await sheetsRequest(
-        accessToken,
-        `${spreadsheetId}/values/${encodeURIComponent(`${escapedSheetName}!1:1`)}?valueInputOption=RAW`,
-        { method: 'PUT', body: JSON.stringify({ values: [headers] }) },
-      );
-    }
-  }
-
-  const officialLinkIndex = linkColumnIndex(headers);
-  const lastSeenIndex = headerIndex(headers, 'Last Seen');
-  if (officialLinkIndex === -1 || lastSeenIndex === -1) {
-    throw new Error('Sheet must have Official Link and Last Seen columns.');
+  const escapedSheetName = escapeSheetName(SCAN_LOG_SHEET);
+  const values = await sheetsRequest(accessToken, `${spreadsheetId}/values/${encodeURIComponent(`${escapedSheetName}!A1:I10000`)}`);
+  const rows = values.values || [];
+  const headers = rows[0] || [];
+  if (SCAN_LOG_HEADERS.some((h, i) => headers[i] !== h)) {
+    throw new Error(`${SCAN_LOG_SHEET} headers do not match expected schema; refusing to modify tracker layout.`);
   }
 
   const existingByLink = new Map();
   rows.slice(1).forEach((row, index) => {
-    const link = normalizeUrl(row[officialLinkIndex]).toLowerCase();
+    const link = normalizeUrl(row[0]).toLowerCase();
     if (link) existingByLink.set(link, { rowNumber: index + 2, row });
   });
 
-  const updates = [];
-  const appends = [];
-
+  const updates = [], appends = [];
   for (const job of jobs) {
     const key = normalizeUrl(job.officialLink).toLowerCase();
     const existing = existingByLink.get(key);
-
-    if (existing) {
-      updates.push({ rowNumber: existing.rowNumber });
-    } else {
-      appends.push(makeNewRow(headers, job, date));
-    }
+    if (existing) updates.push({ rowNumber: existing.rowNumber });
+    else appends.push(makeScanLogRow(job, date));
   }
 
-  if (updates.length > 0) {
-    await sheetsRequest(
-      accessToken,
-      `${spreadsheetId}/values:batchUpdate`,
-      {
-        method: 'POST',
-        body: JSON.stringify({
-          valueInputOption: 'RAW',
-          data: updates.map(({ rowNumber }) => ({
-            range: `${escapedSheetName}!${columnName(lastSeenIndex)}${rowNumber}`,
-            values: [[date]],
-          })),
-        }),
-      },
-    );
+  if (updates.length) {
+    await sheetsRequest(accessToken, `${spreadsheetId}/values:batchUpdate`, {
+      method: 'POST',
+      body: JSON.stringify({ valueInputOption: 'RAW', data: updates.map(({rowNumber}) => ({
+        range: `${escapedSheetName}!C${rowNumber}`, values: [[date]]
+      })) }),
+    });
+  }
+  if (appends.length) {
+    await sheetsRequest(accessToken, `${spreadsheetId}/values/${encodeURIComponent(`${escapedSheetName}!A:I`)}:append?valueInputOption=RAW&insertDataOption=INSERT_ROWS`, {
+      method: 'POST', body: JSON.stringify({ values: appends }),
+    });
   }
 
-  if (appends.length > 0) {
-    await sheetsRequest(
-      accessToken,
-      `${spreadsheetId}/values/${encodeURIComponent(`${escapedSheetName}!A:${columnName(headers.length - 1)}`)}:append?valueInputOption=RAW&insertDataOption=INSERT_ROWS`,
-      { method: 'POST', body: JSON.stringify({ values: appends }) },
-    );
-  }
-
-  console.log(`Synced ${jobs.length} job(s) to ${sheetName}.`);
+  console.log(`Synced discovery audit log only to ${SCAN_LOG_SHEET}.`);
   console.log(`Updated Last Seen: ${updates.length}`);
   console.log(`Appended new rows: ${appends.length}`);
+  console.log('Existing tabs 岗位候选 / 20个能力高契合候选 / 已投递或关闭 / 排除与暂停 / Resume Pool were not modified.');
 }
 
 main().catch((error) => {
