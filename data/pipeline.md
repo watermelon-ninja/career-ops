@@ -319,3 +319,54 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://jobs.ashbyhq.com/foundationhealthcareers/23d570e2-6056-45c9-a79d-6d1f1aafbf12 | foundationhealthcareers | Implementation Manager
 - [ ] https://jobs.ashbyhq.com/foundationhealthcareers/4acb9647-2759-4c24-878f-3b4c5e80c957 | foundationhealthcareers | Product Manager
 - [ ] https://jobs.ashbyhq.com/EliseAI/a868e0d5-c138-4ddb-a1e2-a57c91225fda | EliseAI | Senior Enterprise Sales Manager | Housing
+
+- [ ] https://jobs.ashbyhq.com/freshpaint/87e72e22-195c-4b38-8133-a8c805552b50 | Freshpaint | Senior Enterprise Account Manager
+- [ ] https://jobs.ashbyhq.com/freshpaint/d4de2596-a3aa-43d6-a4f3-963c0cd9d9bd | Freshpaint | Enterprise Account Manager
+- [ ] https://jobs.ashbyhq.com/freshpaint/7560ce21-df4d-41e3-b2cf-81e8dfa8c6ae | Freshpaint | Enterprise Implementation Engineer
+- [ ] https://jobs.ashbyhq.com/fresnosummit/31d97a83-f378-4bf6-abd1-bc4153b0254c | Fresno Summit Advisors | Senior Product Manager, Payments
+- [ ] https://jobs.ashbyhq.com/fundamental/7473af06-d443-4a57-b1df-5f60cc25423a | Fundamental | AI Deployment Strategist - Houston 
+- [ ] https://jobs.ashbyhq.com/gainsight/b93d429b-fb79-4005-bbaf-422e274d401f | Gainsight | Strategic Technical Project Manager, AI Deployments
+- [ ] https://jobs.ashbyhq.com/gainsight/c575ed9d-9fa8-4ccd-b948-3f12925bfe38 | Gainsight | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/G2/bb7fd347-751c-4f8f-b69c-b922a8ee8518 | G2 | Principal Product Manager - Content
+- [ ] https://jobs.ashbyhq.com/G2/905afa56-7fb0-441d-abf9-76d52f5a24b0 | G2 | Principal Product Manager - UGC
+- [ ] https://jobs.ashbyhq.com/G2/078cc02f-28b9-451c-a61e-581fbf0310b7 | G2 | Principal Product Manager, Data Solutions & Ecosystem
+- [ ] https://jobs.ashbyhq.com/givebutter/605dcc05-480b-406d-b0b6-e780537642ac | Givebutter | Senior Product Manager, CRM & Engage
+- [ ] https://jobs.ashbyhq.com/going/a6d08853-3692-40cf-a7f0-8d784340638c | Going | Senior Technical Product Manager
+- [ ] https://jobs.ashbyhq.com/goodparty/e3a16838-9b9b-4318-893a-898b062f4c38 | GoodParty.org | Staff Product Manager
+- [ ] https://jobs.ashbyhq.com/goteleport/baaa8f62-a72f-4cb8-b1a6-e1ac6801acfd | Teleport | Enterprise Account Development Representative- East Coast
+- [ ] https://jobs.ashbyhq.com/goventi/8959c394-3718-43b0-8ce8-f0f6d5817720 | Venti Technologies | Senior Technical Program Manager
+- [ ] https://jobs.ashbyhq.com/GovSignals/ee7c38a3-84f5-4060-86e5-18e611c37abb | GovSignals | Senior Federal Deployment Strategist
+- [ ] https://jobs.ashbyhq.com/greatquestion/7df8c66f-251b-49a3-b878-436ee236105d | greatquestion | Product Manager
+- [ ] https://jobs.ashbyhq.com/gridverify/82d03097-50fa-4695-a02a-eff7e09c26d9 | Grid | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/gridunity/f709c785-ee44-435d-9976-260cff4e4afd | GridUnity | Senior Product Owner
+- [ ] https://jobs.ashbyhq.com/halter/f561b0ed-414f-45e0-9130-7007438a102b | Halter | Enterprise Sales Manager (Texas)
+- [ ] https://jobs.ashbyhq.com/harmonic-security-inc/12fff564-5ec2-458b-b2b5-ccf4f9d7eb80 | Harmonic Security, Inc | Deployment Engineer
+- [ ] https://jobs.ashbyhq.com/harvey/09449e28-78b5-4d28-b38a-7ead854f7885 | harvey | Lead Product Owner, Finance Applications
+- [ ] https://jobs.ashbyhq.com/harvey/bab83f3e-dfa4-4e8e-9160-6ed428d3ab13 | harvey | Sr. Technical Program Manager, GTM Technology
+- [ ] https://jobs.ashbyhq.com/havocai/d159a734-8200-4200-8bfb-6df43f498e6f | havocai | Technical Program Manager
+- [ ] https://jobs.ashbyhq.com/headway/1f473f3b-437d-4781-b0b4-83480f22c739 | Headway | Staff Product Manager, Enterprise Products
+- [ ] https://jobs.ashbyhq.com/headway/f6ebbd61-5836-4321-b41d-7dc0ec58532a | Headway | Product Manager
+- [ ] https://jobs.ashbyhq.com/headway/5dea9dc5-8cc7-4721-96c9-589c3a53199e | Headway | Staff Product Manager, Monetization and Pricing 
+- [ ] https://jobs.ashbyhq.com/headway/1fcb5168-83d0-4d06-9b20-b8f2b6a3be3f | Headway | Staff/Principal Product Manager, Payer & Outcomes Data
+- [ ] https://jobs.ashbyhq.com/headway/44313d7b-5d70-4fe0-b0b5-24b049f63d81 | Headway | Staff / Principal Product Manager, Ranking
+- [ ] https://jobs.ashbyhq.com/headway/acfd827b-22f6-4229-aede-ee300c30a743 | Headway | Staff Product Manager, Provider Activation
+- [ ] https://jobs.ashbyhq.com/headway/1b6e27fe-8035-4eb5-9e7e-ca5efaa7bb01 | Headway | Senior Product Manager, Supervisory Billing
+- [ ] https://jobs.ashbyhq.com/headway/1069db3a-1043-454a-86f4-691e55d4210d | Headway | Staff Product Manager, Growth Automation & Enablement
+- [ ] https://jobs.ashbyhq.com/hcompany/0be828aa-2a86-4fb2-9bf8-79f82b60ec9a | hcompany | Deployment Strategist - US
+- [ ] https://jobs.ashbyhq.com/hellobrightline/730543fa-e444-4a56-bdb5-9dc8620fb4f7 | Brightline | Principal Product Manager, Public Sector
+- [ ] https://jobs.ashbyhq.com/hellopatient/507b4ef9-5906-46a3-91d9-8f553b237103 | Hello Patient | AI Agent Product Manager 
+- [ ] https://jobs.ashbyhq.com/hellopatient/fc288f14-e1ce-4d33-93c2-b91f2f0422f8 | Hello Patient | AI Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/higharc/eaa5ab7a-0e1d-4fcb-9987-11caf092157a | higharc | Director of Product, Enterprise
+- [ ] https://jobs.ashbyhq.com/higharc/1a0b4edc-9c38-41e0-8699-6c646682a760 | higharc | Forward Deployed Product Manager
+- [ ] https://jobs.ashbyhq.com/higharc/43b1784f-a8e2-42e9-9323-d8ebc424d08f | higharc | Sr. Product Manager, Studio
+- [ ] https://jobs.ashbyhq.com/hims-and-hers/67ee2d18-aa50-45cb-9dbf-787184aaabab | Hims & Hers | Lead Product Manager
+- [ ] https://jobs.ashbyhq.com/hims-and-hers/5059c6a4-0c1b-4937-bc7e-cf2f91d9990a | Hims & Hers | Product Manager, Platform
+- [ ] https://jobs.ashbyhq.com/hims-and-hers/ab2d532c-3b8c-4212-ad7b-9abb4eed4cfc | Hims & Hers | Staff Technical Program Manager
+- [ ] https://jobs.ashbyhq.com/hopper/37c6d60e-1bd3-4b11-a8e4-25d06df752fc | Hopper | Principal Product Manager, HTS API Marketplace
+- [ ] https://jobs.ashbyhq.com/hopper/241f7145-06b9-4ae5-969e-3cccaff85d98 | Hopper |  Principal Product Manager- Conversational AI
+- [ ] https://jobs.ashbyhq.com/hopper/646bcfcf-3b8a-47b3-a3d7-3baf97f126d0 | Hopper | Principal Product Manager- Conversational AI
+- [ ] https://jobs.ashbyhq.com/hopper/718f0398-6489-44e5-b590-830e57d56a19 | Hopper | Directeur ou directrice principal(e) de produit, IA conversationnelle// Principal Product Manager- Conversational AI 
+- [ ] https://jobs.ashbyhq.com/horizon3ai/15932ce7-9093-406f-bb3b-9b3e396c4c5a | Horizon3 AI | Federal IT Enterprise Services Administrator
+- [ ] https://jobs.ashbyhq.com/horizon3ai/27b37649-9cd9-4f70-9a55-28860d316edb | Horizon3 AI | Director, Mid-Enterprise Sales, SoCal
+- [ ] https://jobs.ashbyhq.com/horizon3ai/817efe82-c5f5-47c1-ab23-f621501d716e | Horizon3 AI | Director, Mid-Enterprise Sales, Ohio Valley
+- [ ] https://jobs.ashbyhq.com/horizon3ai/52c363ba-c46f-4731-a7dd-ac4da62a2a3c | Horizon3 AI | Senior Revenue Operations Program Manager
