@@ -145,16 +145,26 @@ async function verifyStandardAts(c){
   return best;
  }catch(e){base.reason=String(e.message||e);return base;}
 }
-const layer2Identified=(funnel.identified||[]).filter(x=>['workday','greenhouse','ashby','lever'].includes(x.provider));
-const jdProbes=await mapLimit(layer2Identified,4,c=>c.provider==='workday'?verifyWorkday(c):verifyStandardAts(c));
-const jdVerified=jdProbes.filter(x=>x.full_jd_verified);
 const layer3=JSON.parse(readFileSync('data/priority-layer3-resolution.json','utf8'));
+const standardProviders=new Set(['workday','greenhouse','ashby','lever']);
+const standardByCompany=new Map();
+for(const c of [...(funnel.identified||[]),...(layer3.identified||[])]){
+ if(!standardProviders.has(c.provider))continue;
+ const key=String(c.name||'').trim().toLowerCase();
+ if(!key)continue;
+ const prev=standardByCompany.get(key);
+ // Prefer the record with an explicit machine-readable endpoint when both layers found the company.
+ if(!prev || (!prev.endpoint && c.endpoint))standardByCompany.set(key,c);
+}
+const standardIdentified=[...standardByCompany.values()];
+const jdProbes=await mapLimit(standardIdentified,4,c=>c.provider==='workday'?verifyWorkday(c):verifyStandardAts(c));
+const jdVerified=jdProbes.filter(x=>x.full_jd_verified);
 const jdAudit={generated_at:new Date().toISOString(),method:'standard_ats_listing_then_job_detail',
  tested:jdProbes.length,full_jd_verified:jdVerified.length,
  rule:'Only substantive job description content with responsibility and qualification signals passes. ATS detection is not JD verification.',
  results:jdProbes};
 writeFileSync('data/priority-jd-capability.json',JSON.stringify(jdAudit,null,2)+'\n');
-console.log('Workday JD verification:',JSON.stringify({tested:jdProbes.length,full_jd_verified:jdVerified.length,failures:jdProbes.length-jdVerified.length}));
+console.log('Standard ATS JD verification:',JSON.stringify({tested:jdProbes.length,full_jd_verified:jdVerified.length,failures:jdProbes.length-jdVerified.length}));
 
 
 // Shared-platform fallback: verify publicly accessible job-detail pages via
