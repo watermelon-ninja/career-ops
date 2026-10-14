@@ -105,6 +105,12 @@
       "status": "official_careers_page_autodiscovered"
     },
     {
+      "name": "Colgate-Palmolive",
+      "careers_url": "https://jobs.colgate.com/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
       "name": "Corning",
       "careers_url": "https://www.corning.com/worldwide/en/careers.html",
       "source": "layer2b_official_domain_probe",
@@ -589,7 +595,13 @@
       "careers_url": "https://www.yeti.com/yeti-careers.html",
       "source": "layer2b_official_domain_probe",
       "status": "official_careers_page_autodiscovered"
+    },
+    {
+      "name": "Zebra Technologies",
+      "careers_url": "https://www.zebra.com/us/en/about-zebra/careers.html",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
     }
   ],
-  "generated_at": "2026-10-14T22:25:02.641Z"
+  "generated_at": "2026-10-14T23:08:22.162Z"
 }

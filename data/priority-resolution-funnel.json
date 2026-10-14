@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-14T22:25:15.062Z",
+  "generated_at": "2026-10-14T23:08:34.046Z",
   "layer": 2,
   "input_count": 200,
-  "identified_at_layer_2": 17,
+  "identified_at_layer_2": 18,
   "full_jd_verified_at_layer_2": 0,
   "shared_platform_candidates": 37,
-  "remaining_for_layer_3": 183,
+  "remaining_for_layer_3": 182,
   "provider_counts": {
-    "workday": 16,
+    "workday": 17,
     "smartrecruiters": 1
   },
   "platform_candidate_counts": {
     "eightfold": 9,
-    "oracle_recruiting_cloud": 11,
+    "oracle_recruiting_cloud": 10,
     "phenom": 8,
     "icims": 5,
-    "successfactors": 4
+    "successfactors": 5
   },
   "identified": [
     {
@@ -281,6 +281,30 @@
       "identified_by": "redirect_or_html",
       "official_careers_url": "https://www.dematic.com/en-us/about/careers/",
       "final_url": "https://www.dematic.com/en-us/about/careers/"
+    },
+    {
+      "name": "Zebra Technologies",
+      "group": "supply_chain",
+      "stage": 2,
+      "status": "ats_identified_unverified",
+      "resolved_by": null,
+      "provider": "workday",
+      "endpoint": "https://zebra.wd501.myworkdayjobs.com/wday/cxs/zebra/Zebra_careers/jobs",
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.zebra.com/us/en/about-zebra/careers.html",
+          "http_status": 200,
+          "final_url": "https://www.zebra.com/us/en/about-zebra/careers.html",
+          "result": "supported_ats_detected",
+          "provider": "workday"
+        }
+      ],
+      "failure_reason": null,
+      "identified_by": "redirect_or_html",
+      "official_careers_url": "https://www.zebra.com/us/en/about-zebra/careers.html",
+      "final_url": "https://www.zebra.com/us/en/about-zebra/careers.html"
     },
     {
       "name": "Deloitte",
@@ -981,29 +1005,6 @@
       "final_url": "https://careers.hcltech.com/"
     },
     {
-      "name": "BDO USA",
-      "group": "consulting",
-      "stage": 3,
-      "status": "shared_platform_candidate",
-      "resolved_by": null,
-      "provider": "oracle_recruiting_cloud",
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "url": "https://www.bdo.com/careers",
-          "http_status": 200,
-          "final_url": "https://www.bdo.com/careers",
-          "result": "shared_platform_detected",
-          "provider": "oracle_recruiting_cloud"
-        }
-      ],
-      "failure_reason": null,
-      "official_careers_url": "https://www.bdo.com/careers",
-      "final_url": "https://www.bdo.com/careers"
-    },
-    {
       "name": "Procter & Gamble",
       "group": "retail",
       "stage": 3,
@@ -1025,6 +1026,29 @@
       "failure_reason": null,
       "official_careers_url": "https://www.pgcareers.com/us/en",
       "final_url": "https://www.pgcareers.com/us/en"
+    },
+    {
+      "name": "Colgate-Palmolive",
+      "group": "retail",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "successfactors",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://jobs.colgate.com/",
+          "http_status": 200,
+          "final_url": "https://jobs.colgate.com/",
+          "result": "shared_platform_detected",
+          "provider": "successfactors"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://jobs.colgate.com/",
+      "final_url": "https://jobs.colgate.com/"
     },
     {
       "name": "Chewy",
@@ -2428,8 +2452,8 @@
         {
           "stage": 2,
           "url": "https://gxo.com/careers",
-          "http_status": 403,
-          "final_url": "https://gxo.com/careers",
+          "http_status": 200,
+          "final_url": "https://gxo.com/careers/",
           "result": "no_supported_ats_signature",
           "provider": null
         }
@@ -2639,23 +2663,6 @@
     },
     {
       "name": "Körber Supply Chain",
-      "group": "supply_chain",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Zebra Technologies",
       "group": "supply_chain",
       "stage": 3,
       "status": "needs_generic_endpoint",
@@ -3110,6 +3117,30 @@
       ]
     },
     {
+      "name": "BDO USA",
+      "group": "consulting",
+      "stage": 3,
+      "status": "needs_generic_endpoint",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.bdo.com/careers",
+          "http_status": 525,
+          "final_url": "https://www.bdo.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
+        }
+      ],
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.bdo.com/careers"
+      ]
+    },
+    {
       "name": "Bain & Company",
       "group": "consulting",
       "stage": 3,
@@ -3275,23 +3306,6 @@
     },
     {
       "name": "PepsiCo",
-      "group": "retail",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_curated_careers_url"
-        }
-      ],
-      "failure_reason": "no_curated_careers_url"
-    },
-    {
-      "name": "Colgate-Palmolive",
       "group": "retail",
       "stage": 3,
       "status": "needs_generic_endpoint",

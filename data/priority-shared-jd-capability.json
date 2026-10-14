@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T22:26:18.789Z",
+  "generated_at": "2026-10-14T23:09:26.270Z",
   "method": "public_jobposting_jsonld",
-  "tested": 51,
+  "tested": 52,
   "full_jd_verified": 3,
   "note": "A public JSON-LD JobPosting with substantive description is required; vendor API identification alone does not pass.",
   "results": [
@@ -297,9 +297,9 @@
       "reason": "no_public_job_detail"
     },
     {
-      "name": "BDO USA",
-      "group": "consulting",
-      "provider": "oracle_recruiting_cloud",
+      "name": "Procter & Gamble",
+      "group": "retail",
+      "provider": "phenom",
       "method": "public_jobposting_jsonld",
       "jd_fetch_status": "failed",
       "full_jd_verified": false,
@@ -309,9 +309,9 @@
       "reason": "no_public_job_detail"
     },
     {
-      "name": "Procter & Gamble",
+      "name": "Colgate-Palmolive",
       "group": "retail",
-      "provider": "phenom",
+      "provider": "successfactors",
       "method": "public_jobposting_jsonld",
       "jd_fetch_status": "failed",
       "full_jd_verified": false,
@@ -504,6 +504,18 @@
       "name": "Kinaxis",
       "group": "supply_chain",
       "provider": "icims",
+      "method": "public_jobposting_jsonld",
+      "jd_fetch_status": "failed",
+      "full_jd_verified": false,
+      "fit_scoring_eligible": false,
+      "jd_char_count": 0,
+      "job_url": null,
+      "reason": "no_public_job_detail"
+    },
+    {
+      "name": "GXO Logistics",
+      "group": "supply_chain",
+      "provider": "successfactors",
       "method": "public_jobposting_jsonld",
       "jd_fetch_status": "failed",
       "full_jd_verified": false,

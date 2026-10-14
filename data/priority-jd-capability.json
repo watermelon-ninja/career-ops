@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T22:26:07.542Z",
+  "generated_at": "2026-10-14T23:09:16.188Z",
   "method": "standard_ats_listing_then_job_detail",
-  "tested": 16,
-  "full_jd_verified": 11,
+  "tested": 22,
+  "full_jd_verified": 12,
   "rule": "Only substantive job description content with responsibility and qualification signals passes. ATS detection is not JD verification.",
   "results": [
     {
@@ -13,12 +13,12 @@
       "jd_fetch_status": "full",
       "full_jd_verified": true,
       "fit_scoring_eligible": true,
-      "job_url": "https://paloaltonetworks.wd5.myworkdayjobs.com/wday/cxs/paloaltonetworks/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Product-Manager_JR-023565",
+      "job_url": "https://paloaltonetworks.wd5.myworkdayjobs.com/wday/cxs/paloaltonetworks/panwexternalcareers/job/Office---USA---CA---Headquarters/Senior-ASIC-Design-Engineer_JR-023407",
       "reason": null,
-      "jd_char_count": 8014,
+      "jd_char_count": 4937,
       "has_responsibilities": true,
       "has_qualifications": true,
-      "job_title": "Principal Product Manager, Services"
+      "job_title": "Senior ASIC Design Engineer"
     },
     {
       "name": "Expedia Group",
@@ -28,12 +28,12 @@
       "jd_fetch_status": "partial",
       "full_jd_verified": false,
       "fit_scoring_eligible": false,
-      "job_url": "https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/job/Austin-Domain-11---HomeAway/Principal-Software-Development-Engineer_R-101767",
+      "job_url": "https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/job/Washington---Seattle-Campus/Software-Development-Engineer-III_R-102690-1",
       "reason": "jd_content_incomplete",
-      "jd_char_count": 7386,
+      "jd_char_count": 6541,
       "has_responsibilities": false,
       "has_qualifications": true,
-      "job_title": "Principal Software Development Engineer"
+      "job_title": "Software Development Engineer III - InsurTech - Full Stack"
     },
     {
       "name": "Samsung Electronics",
@@ -88,12 +88,12 @@
       "jd_fetch_status": "full",
       "full_jd_verified": true,
       "fit_scoring_eligible": true,
-      "job_url": "https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/job/East-Peoria-Illinois/Manufacturing-Technician_R0000400244",
+      "job_url": "https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/job/Seguin-Texas/Production-Technician-III--Power-Generation---1st-Shift_R0000396833",
       "reason": null,
-      "jd_char_count": 9249,
+      "jd_char_count": 6436,
       "has_responsibilities": true,
       "has_qualifications": true,
-      "job_title": "Manufacturing Technician"
+      "job_title": "Production Technician III, Power Generation - 1st Shift"
     },
     {
       "name": "Johnson Controls",
@@ -103,12 +103,12 @@
       "jd_fetch_status": "full",
       "full_jd_verified": true,
       "fit_scoring_eligible": true,
-      "job_url": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Pharmaceutical-Project-Manager_WD30282675",
+      "job_url": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/job/Gilbert-Arizona-United-States-of-America/Laser-Helper_WD30280008",
       "reason": null,
-      "jd_char_count": 8440,
+      "jd_char_count": 2756,
       "has_responsibilities": true,
       "has_qualifications": true,
-      "job_title": "Pharmaceutical Project Manager"
+      "job_title": "Machine Operator"
     },
     {
       "name": "3M",
@@ -146,6 +146,21 @@
       "has_responsibilities": true,
       "has_qualifications": true,
       "job_title": "AGV Technician 4"
+    },
+    {
+      "name": "Zebra Technologies",
+      "group": "supply_chain",
+      "provider": "workday",
+      "endpoint": "https://zebra.wd501.myworkdayjobs.com/wday/cxs/zebra/Zebra_careers/jobs",
+      "jd_fetch_status": "full",
+      "full_jd_verified": true,
+      "fit_scoring_eligible": true,
+      "job_url": "https://zebra.wd501.myworkdayjobs.com/wday/cxs/zebra/Zebra_careers/job/Mississauga-Canada/Supplier-Risk-and-Resiliency-Analyst-II_JR103524",
+      "reason": null,
+      "jd_char_count": 7425,
+      "has_responsibilities": true,
+      "has_qualifications": true,
+      "job_title": "Supplier Risk and Resiliency Analyst II"
     },
     {
       "name": "Deloitte",
@@ -232,6 +247,61 @@
       "has_responsibilities": true,
       "has_qualifications": true,
       "job_title": "Senior Product Marketing Manager, Commercial Banking &  Payments"
+    },
+    {
+      "name": "Carrier Global",
+      "group": "industrial",
+      "provider": "workday",
+      "endpoint": null,
+      "jd_fetch_status": "failed",
+      "full_jd_verified": false,
+      "fit_scoring_eligible": false,
+      "job_url": null,
+      "reason": "invalid_workday_endpoint"
+    },
+    {
+      "name": "Manhattan Associates",
+      "group": "supply_chain",
+      "provider": "workday",
+      "endpoint": null,
+      "jd_fetch_status": "failed",
+      "full_jd_verified": false,
+      "fit_scoring_eligible": false,
+      "job_url": null,
+      "reason": "invalid_workday_endpoint"
+    },
+    {
+      "name": "West Monroe",
+      "group": "consulting",
+      "provider": "greenhouse",
+      "endpoint": null,
+      "jd_fetch_status": "failed",
+      "full_jd_verified": false,
+      "fit_scoring_eligible": false,
+      "job_url": null,
+      "reason": "missing_greenhouse_slug"
+    },
+    {
+      "name": "Protiviti",
+      "group": "consulting",
+      "provider": "workday",
+      "endpoint": null,
+      "jd_fetch_status": "failed",
+      "full_jd_verified": false,
+      "fit_scoring_eligible": false,
+      "job_url": null,
+      "reason": "invalid_workday_endpoint"
+    },
+    {
+      "name": "RSM US",
+      "group": "consulting",
+      "provider": "workday",
+      "endpoint": null,
+      "jd_fetch_status": "failed",
+      "full_jd_verified": false,
+      "fit_scoring_eligible": false,
+      "job_url": null,
+      "reason": "invalid_workday_endpoint"
     }
   ]
 }

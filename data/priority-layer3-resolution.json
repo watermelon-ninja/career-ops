@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-14T22:26:01.461Z",
+  "generated_at": "2026-10-14T23:09:11.091Z",
   "layer": 3,
-  "input_count": 97,
-  "identified_at_layer_3": 56,
+  "input_count": 98,
+  "identified_at_layer_3": 57,
   "full_jd_verified_at_layer_3": 0,
   "fit_scoring_eligible_at_layer_3": 0,
   "unresolved_after_layer_3": 41,
   "jd_read_gate": "Only jd_fetch_status=full with substantive responsibilities and qualifications may set full_jd_verified=true and fit_scoring_eligible=true.",
   "provider_counts": {
     "eightfold": 15,
-    "oracle_recruiting_cloud": 11,
+    "oracle_recruiting_cloud": 10,
     "phenom": 10,
     "icims": 8,
-    "successfactors": 7,
+    "successfactors": 9,
     "workday": 4,
     "greenhouse": 1
   },
@@ -500,7 +500,7 @@
         {
           "url": "https://internal-careers.netapp.com/",
           "status": 200,
-          "final_url": "https://login.microsoftonline.com/4b0911a0-929b-4715-944b-c03745165b3a/saml2?SAMLRequest=jZDJasMwFEX3%2bQqhvazBiRuE7RDoJpBsmlJKN0WW5QFsKdWT6%2fTvq6QD2bVLCc595958cx4H9G489M4WmCcMI2O1q3vbFngKDeEZ3pSLfDuFzj6Yt8lAQJGxIM%2fQF7gL4SQpnec5mdPE%2bZYKxjh9PuyPujOjIr2FoKw2%2bJeq%2f6Yw2t0X%2bFWlvFFNpUjKdEWWtaqIatZpfC614OuKqabG6OnHXlzsdwCT2V2PhvjFREY4I3z5KIQUK8nvEp6usjQTL99Gsaa30inoQVo1GpBBy%2bP2sJcxT568C067AZcLhPJruP8PpwCMD1ELl5eyENsOru1t4lUd5%2fhIrAkUTjn9iowL09uJy08%3d&RelayState=https%3a%2f%2finternal-careers.netapp.com%2f",
+          "final_url": "https://login.microsoftonline.com/4b0911a0-929b-4715-944b-c03745165b3a/saml2?SAMLRequest=jZDLTsMwEEX3%2fQrLe8dO0jywklSV2FRqNxQhxAYZZ5pGauzgcUj5e9zyEDvYjnTunHur1Xk4kTdw2FtT0zgSlIDRtu1NV9PJH1ic01WzqNaTP5o7eJ0APQmMQXnGvqZH70fJ%2bTzP0ZxG1nU8ESLmj7vtXh9hUKw36JXRQH%2bo9m%2bKks1tTZ8hL6AQRcoOItVsuXyJWVnqhAlV5lq0GeibhJKHb%2fvkYr9BnGBzferDSSQ5iwWLl%2fdJKkUp0yzKs6IsiuzpyyjUdEZahT1KowZA6bXcr3dbGfLk6Ky32p5osyCkuoa7%2f3AKEZwPWrS5lMXQ9mS73kROtWGO98iA5zhW%2fDMyLMx%2fT9x8AA%3d%3d&RelayState=https%3a%2f%2finternal-careers.netapp.com%2f",
           "error": null
         },
         {
@@ -1793,7 +1793,7 @@
         {
           "url": "https://ngc.eightfold.ai/careerhub",
           "status": 200,
-          "final_url": "https://ngc-fin.amer.myngc.com/adfs/ls?SAMLRequest=fVJNU8IwEL3zKzq995MiJUNxEFCZQegAevDChDSFzLRJzaYq%2F96kgMoB9rab997u200fcFlUaFirPV%2FSj5qCalnWd1lwQM1TYteSI4GBAeK4pIAUQavhywyFro8qKZQgorAvSLc5GIBKxQQ3pOk4sRfzyWzxNJ1vYrztRXGnQ0mbdqMYtwmJch3dNml3erGPSRR3t2FoiG9UgtZIbC1pcstKpfhkGZVz3TGxJ2y3V7kosqYLQE2nHBTmSjP88M4JfCeI1mGIwg4K%2FXeDGmvzjGPVyO6VqgB5Ht8RJ2fc1aLSLQ86dYkoPZzl4BVgaOlpBw%2BMZ4zvbpvfHkGAntfr1EkXq7WRGJ5XMhIcat1pReUnI%2FR1ObuYxKVnVy5mHoDYYH24e0wgOQ1mD5pd9M0ZUGNbDq4J9L3%2FqD9ehcwKp%2BNUFIwcmrqJRyFLrK7bC9ygqbDMyRsoqjlUlLCc0cz%2BlRkWhfgaSYqVvpKSNbUtb9BqHYe5%2FImDHw%3D%3D&RelayState=https%3A%2F%2Fngc.eightfold.ai%2Fcareerhub",
+          "final_url": "https://ngc-fin.amer.myngc.com/adfs/ls?SAMLRequest=fVJNU8IwEL3zKzq99yPUMiVDcVD86AxCB6oHL0xIU8hMm9RsqvLvTaqoHDSn7Oa9t%2Ft2MwHS1C2edfog1uylY6AHjvPe1AJw%2F5S6nRJYEuCABWkYYE3xZvawwEM%2FxK2SWlJZu2ek%2FzkEgCnNpbCkbJ66q%2BXNYnWXLbesGidJldARoeNxFJcoRuPQ3OgOXURxjGhUohEdlZb4xBQYjdQ1kjZ2nFzJV14ytTQVU%2FeG7w%2B6knUPzgA6lgnQRGjDCIcjD4UeuiiGEQ4THCXPFjU35rkgupc9aN0CDgKxp17FhW9Eld8cTehT2QSkrCCowdLyrxlccVFysf%2Ff%2FO4TBPi%2BKHIvX20KKzE7jeRaCuhMpQ1Tr5yyx%2FXirBOfnVz5hAcAckvM4i4JhfSrMXfaz2Ji14B722r6l8Ak%2BI364bXYjjCb57Lm9Njn7bmVqiH6b3vIR32Gl17VQ3EnoGWUV5yV7rfMrK7l27ViRJstadUx1wmmg8FnM%2Bc%2FcfoB&RelayState=https%3A%2F%2Fngc.eightfold.ai%2Fcareerhub",
           "error": null
         },
         {
@@ -2544,7 +2544,7 @@
         {
           "url": "https://careers.dhl.com",
           "status": 200,
-          "final_url": "https://careers.dhl.com/eu/nl",
+          "final_url": "https://careers.dhl.com/amer/en",
           "error": null
         },
         {
@@ -2554,45 +2554,45 @@
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/favicon.ico?v=1678288902557",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/favicon.ico?v=1678288785938",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/favicon.ico?v=1678288902557",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/favicon.ico?v=1678288785938",
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/h/apple-touch-icon.png",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/h/apple-touch-icon.png",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/h/apple-touch-icon.png",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/h/apple-touch-icon.png",
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/m/apple-touch-icon.png",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/m/apple-touch-icon.png",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/m/apple-touch-icon.png",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/m/apple-touch-icon.png",
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/apple-touch-icon-precomposed.png",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/apple-touch-icon-precomposed.png",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/apple-touch-icon-precomposed.png",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/apple-touch-icon-precomposed.png",
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/apple-touch-icon.png",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/apple-touch-icon.png",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/apple-touch-icon.png",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/apple-touch-icon.png",
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/splash.png",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/splash.png",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/splash.png",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/splash.png",
           "error": null
         },
         {
-          "url": "https://careers.dhl.com/eu/nl/home",
+          "url": "https://careers.dhl.com/amer/en/home",
           "status": 200,
-          "final_url": "https://careers.dhl.com/eu/nl/home",
+          "final_url": "https://careers.dhl.com/amer/en/home",
           "error": null
         },
         {
@@ -2848,96 +2848,6 @@
       "next_action": "verify_job_detail_and_full_jd"
     },
     {
-      "name": "BDO USA",
-      "group": "consulting",
-      "stage": 3,
-      "status": "platform_identified_deep",
-      "resolved_by": null,
-      "provider": "oracle_recruiting_cloud",
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "url": "https://www.bdo.com/careers",
-          "http_status": 200,
-          "final_url": "https://www.bdo.com/careers",
-          "result": "shared_platform_detected",
-          "provider": "oracle_recruiting_cloud"
-        },
-        {
-          "url": "https://www.bdo.com/careers",
-          "status": 200,
-          "final_url": "https://www.bdo.com/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.bdo.com/careers",
-          "status": 200,
-          "final_url": "https://www.bdo.com/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.bdo.com/signin?returnUrl=/careers",
-          "status": 200,
-          "final_url": "https://login.bdo.com/bdousprdb2c.onmicrosoft.com/oauth2/v2.0/authorize?p=b2c_1a_signup_signin_bdocom&client_id=80433613-5089-459f-946a-dafacb6553ae&redirect_uri=https%3A%2F%2Fwww.bdo.com%2Fsignin-oidc&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=639276135252029997.ZDkwMTljY2UtZDVmMC00MGM3LWI3MDEtOWQ1MmI3ZWNkY2M2YmU4ODE0NmItM2U1Zi00MDA5LWI4MzctMDc0ZmY1NjUxOGQy&state=CfDJ8N6aoaAL9plKvUiYjB8BSRoWTi0qbuFNrxT3__DJOHBjOIapA72B5wqMb4ofTXc2tJXBtqk1NbSkkKgCvzWj1XcWvW4ZjBAFnFx9BwmOHbRrF4Cpe_bAbRIlGD_sLwdlia_HiBEwNC-aTxtj7nM700O-l_TGmueoxKgHUQqin5WZ8zpbNK2oEDxC0AH_NqSTBmNU8H4CDd6MqBgRRB05k1NllA5ys-66S7a5bUvXT9r-OEYOsqIwLDaysH9fMRwq8B9haAJ5x_UrsKGeg1G-8r-gSHeHUsgbUIxRzON-8zlDhEB7kQ_s3efD5UtD1gfhTVsl-UgyPlSZFk6so8yMJuJJ0dLMXHhhllf8ubgFsEts3gs7QdtaMdzrsftfPryo6A&x-client-SKU=ID_NET8_0&x-client-ver=7.1.2.0",
-          "error": null
-        },
-        {
-          "url": "https://www.bdo.com/careers/internship",
-          "status": 200,
-          "final_url": "https://www.bdo.com/careers/internship",
-          "error": null
-        },
-        {
-          "url": "https://www.bdo.com/careers/entry-level",
-          "status": 200,
-          "final_url": "https://www.bdo.com/careers/entry-level",
-          "error": null
-        },
-        {
-          "url": "https://www.bdo.com/careers/experienced-candidates",
-          "status": 200,
-          "final_url": "https://www.bdo.com/careers/experienced-candidates",
-          "error": null
-        },
-        {
-          "url": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers",
-          "status": 200,
-          "final_url": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers",
-          "error": null
-        },
-        {
-          "url": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers",
-          "status": 200,
-          "final_url": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers",
-          "error": null
-        },
-        {
-          "url": "https://flows.beamery.com/bdo-usa/careersite-talentcommunity",
-          "status": 200,
-          "final_url": "https://flows.beamery.com/bdo-usa/careersite-talentcommunity",
-          "error": null
-        },
-        {
-          "url": "https://www.bdo.com/legal-information-for-job-seekers",
-          "status": 200,
-          "final_url": "https://www.bdo.com/legal-information-for-job-seekers",
-          "error": null
-        }
-      ],
-      "failure_reason": null,
-      "official_careers_url": "https://www.bdo.com/careers",
-      "final_url": "https://www.bdo.com/careers",
-      "platform_evidence": [
-        "oraclecloud.com/hcmUI/CandidateExperience"
-      ],
-      "jd_fetch_status": "not_fetched",
-      "fit_scoring_eligible": false,
-      "jd_capability": "platform_identified_jd_unverified",
-      "next_action": "verify_job_detail_and_full_jd"
-    },
-    {
       "name": "Procter & Gamble",
       "group": "retail",
       "stage": 3,
@@ -3039,6 +2949,114 @@
       "final_url": "https://www.pgcareers.com/us/en",
       "platform_evidence": [
         "phenompeople.com"
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
+    },
+    {
+      "name": "Colgate-Palmolive",
+      "group": "retail",
+      "stage": 3,
+      "status": "platform_identified_deep",
+      "resolved_by": null,
+      "provider": "successfactors",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://jobs.colgate.com/",
+          "http_status": 200,
+          "final_url": "https://jobs.colgate.com/",
+          "result": "shared_platform_detected",
+          "provider": "successfactors"
+        },
+        {
+          "url": "https://jobs.colgate.com/",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/",
+          "error": null
+        },
+        {
+          "url": "https://jobs.colgate.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css",
+          "error": null
+        },
+        {
+          "url": "https://jobs.colgate.com/platform/css/j2w/min/bootstrapV3.global.responsive.min.css?h=275f70e9",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/platform/css/j2w/min/bootstrapV3.global.responsive.min.css?h=275f70e9",
+          "error": null
+        },
+        {
+          "url": "https://jobs.colgate.com/platform/csb/css/navbar-fixed-top.css",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/platform/csb/css/navbar-fixed-top.css",
+          "error": null
+        },
+        {
+          "url": "https://jobs.colgate.com/platform/csb/css/header1.css?h=275f70e9",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/platform/csb/css/header1.css?h=275f70e9",
+          "error": null
+        },
+        {
+          "url": "https://jobs.colgate.com/platform/css/j2w/min/sitebuilderframework.min.css?h=275f70e9",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/platform/css/j2w/min/sitebuilderframework.min.css?h=275f70e9",
+          "error": null
+        },
+        {
+          "url": "https://jobs.colgate.com/platform/css/j2w/min/sitebuilderframeworkunify.min.css?h=275f70e9",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/platform/css/j2w/min/sitebuilderframeworkunify.min.css?h=275f70e9",
+          "error": null
+        },
+        {
+          "url": "https://jobs.colgate.com/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=275f70e9",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=275f70e9",
+          "error": null
+        },
+        {
+          "url": "https://jobs.colgate.com/platform/fontawesome4.7/css/font-awesome-4.7.0.min.css?h=275f70e9",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/platform/fontawesome4.7/css/font-awesome-4.7.0.min.css?h=275f70e9",
+          "error": null
+        },
+        {
+          "url": "https://jobs.colgate.com/",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/",
+          "error": null
+        },
+        {
+          "url": "https://www.colgatepalmolive.com/en-us/contact-us/job-seeker",
+          "status": 200,
+          "final_url": "https://www.colgatepalmolive.com/en-us/faqs",
+          "error": null
+        },
+        {
+          "url": "https://jobs.colgate.com/go/View-All-Jobs/8506400/",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/go/View-All-Jobs/8506400/",
+          "error": null
+        },
+        {
+          "url": "https://jobs.colgate.com/go/Analytics/8501700/",
+          "status": 200,
+          "final_url": "https://jobs.colgate.com/go/Analytics/8501700/",
+          "error": null
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://jobs.colgate.com/",
+      "final_url": "https://jobs.colgate.com/",
+      "platform_evidence": [
+        "successfactors.com"
       ],
       "jd_fetch_status": "not_fetched",
       "fit_scoring_eligible": false,
@@ -4612,6 +4630,115 @@
       ],
       "platform_evidence": [
         "https://manh.wd5.myworkdayjobs.com/en-US/External/jobs"
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
+    },
+    {
+      "name": "GXO Logistics",
+      "group": "supply_chain",
+      "stage": 3,
+      "status": "platform_identified_deep",
+      "resolved_by": null,
+      "provider": "successfactors",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://gxo.com/careers",
+          "http_status": 200,
+          "final_url": "https://gxo.com/careers/",
+          "result": "no_supported_ats_signature",
+          "provider": null
+        },
+        {
+          "url": "https://gxo.com/careers",
+          "status": 200,
+          "final_url": "https://gxo.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://gxo.com/careers/",
+          "status": 200,
+          "final_url": "https://gxo.com/careers/",
+          "error": null
+        },
+        {
+          "url": "https://gxo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgxo.com%2Fcareers%2F",
+          "status": 403,
+          "final_url": "https://gxo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgxo.com%2Fcareers%2F",
+          "error": null
+        },
+        {
+          "url": "https://gxo.com/es/careers/",
+          "status": 200,
+          "final_url": "https://gxo.com/es/careers/",
+          "error": null
+        },
+        {
+          "url": "https://gxo.com/it/careers/",
+          "status": 403,
+          "final_url": "https://gxo.com/it/careers/",
+          "error": null
+        },
+        {
+          "url": "https://gxo.com/cz/careers/",
+          "status": 403,
+          "final_url": "https://gxo.com/cz/careers/",
+          "error": null
+        },
+        {
+          "url": "https://gxo.com/ro/careers/",
+          "status": 403,
+          "final_url": "https://gxo.com/ro/careers/",
+          "error": null
+        },
+        {
+          "url": "https://jobs.gxo.com/?utm_source=CorpSite",
+          "status": 200,
+          "final_url": "https://jobs.gxo.com/?utm_source=CorpSite",
+          "error": null
+        },
+        {
+          "url": "https://jobs.gxo.com/go/Driver-Careers/8882600/?utm_source=CorpSite",
+          "status": 200,
+          "final_url": "https://jobs.gxo.com/go/Driver-Careers/8882600/?utm_source=CorpSite",
+          "error": null
+        },
+        {
+          "url": "https://jobs.gxo.com/go/Technology-Careers/8882400/?utm_source=CorpSite",
+          "status": 200,
+          "final_url": "https://jobs.gxo.com/go/Technology-Careers/8882400/?utm_source=CorpSite",
+          "error": null
+        },
+        {
+          "url": "https://jobs.gxo.com/go/Corporate-Careers/8882200/?utm_source=CorpSite",
+          "status": 200,
+          "final_url": "https://jobs.gxo.com/go/Corporate-Careers/8882200/?utm_source=CorpSite",
+          "error": null
+        },
+        {
+          "url": "https://jobs.gxo.com/go/Material-Handlers-and-Forklift-Operators/8882700/?utm_source=CorpSite",
+          "status": 200,
+          "final_url": "https://jobs.gxo.com/go/Material-Handlers-and-Forklift-Operators/8882700/?utm_source=CorpSite",
+          "error": null
+        },
+        {
+          "url": "https://jobs.gxo.com/go/University-Opportunities/8882500/?utm_source=CorpSite",
+          "status": 200,
+          "final_url": "https://jobs.gxo.com/errorpage/?errortype=Exception",
+          "error": null
+        }
+      ],
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://gxo.com/careers"
+      ],
+      "platform_evidence": [
+        "successfactors.com"
       ],
       "jd_fetch_status": "not_fetched",
       "fit_scoring_eligible": false,
@@ -7063,9 +7190,9 @@
         },
         {
           "url": "https://www.sanmina.com/careers",
-          "status": null,
-          "final_url": "https://www.sanmina.com/careers",
-          "error": "timeout"
+          "status": 200,
+          "final_url": "https://www.sanmina.com/careers/",
+          "error": null
         },
         {
           "url": "https://jobs.sanmina.com/search/jobs",
@@ -7749,41 +7876,6 @@
       "next_action": "continue_source_resolution"
     },
     {
-      "name": "GXO Logistics",
-      "group": "supply_chain",
-      "stage": 3,
-      "status": "layer3_unresolved",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "url": "https://gxo.com/careers",
-          "http_status": 403,
-          "final_url": "https://gxo.com/careers",
-          "result": "no_supported_ats_signature",
-          "provider": null
-        },
-        {
-          "url": "https://gxo.com/careers",
-          "status": 403,
-          "final_url": "https://gxo.com/careers",
-          "error": null
-        }
-      ],
-      "failure_reason": "no_supported_ats_detected",
-      "official_careers_urls": [
-        "https://gxo.com/careers"
-      ],
-      "platform_evidence": [],
-      "jd_fetch_status": "not_fetched",
-      "fit_scoring_eligible": false,
-      "jd_capability": "attempted_unresolved",
-      "next_action": "continue_source_resolution"
-    },
-    {
       "name": "Schneider National",
       "group": "supply_chain",
       "stage": 3,
@@ -8022,21 +8114,21 @@
           "error": null
         },
         {
-          "url": "https://www.swisslog.com/-/media/swisslog/images/corporate/career/swisslog-as-an-employer/web_image-swisslog_brand_dortmund-summer-party_opening_may-2022.jpg?rev=-1&w=1900&hash=3AE6302B6E90BB2DEA84E5DE2CFCFF1D",
+          "url": "https://www.swisslog.com/-/media/swisslog/images/corporate/career/swisslog-as-an-employer/web_image-swisslog_brand_dortmund-summer-party_opening_may-2022.jpg?rev=5aaecb4324d54fa3a780466ad487cc61&w=1900&hash=4C86D90426473EB99F8D30F816A785B8",
           "status": 200,
-          "final_url": "https://www.swisslog.com/-/media/swisslog/images/corporate/career/swisslog-as-an-employer/web_image-swisslog_brand_dortmund-summer-party_opening_may-2022.jpg?rev=-1&w=1900&hash=3AE6302B6E90BB2DEA84E5DE2CFCFF1D",
-          "error": null
-        },
-        {
-          "url": "https://www.swisslog.com/en-gb/careers",
-          "status": 200,
-          "final_url": "https://www.swisslog.com/en-gb/careers",
+          "final_url": "https://www.swisslog.com/-/media/swisslog/images/corporate/career/swisslog-as-an-employer/web_image-swisslog_brand_dortmund-summer-party_opening_may-2022.jpg?rev=5aaecb4324d54fa3a780466ad487cc61&w=1900&hash=4C86D90426473EB99F8D30F816A785B8",
           "error": null
         },
         {
           "url": "https://www.swisslog.com/en-us/careers",
           "status": 200,
           "final_url": "https://www.swisslog.com/en-us/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.swisslog.com/en-gb/careers",
+          "status": 200,
+          "final_url": "https://www.swisslog.com/en-gb/careers",
           "error": null
         },
         {
@@ -8076,21 +8168,21 @@
           "error": null
         },
         {
-          "url": "https://www.swisslog.com/en-gb/careers/openings",
+          "url": "https://www.swisslog.com/en-us/careers/openings",
           "status": 200,
-          "final_url": "https://www.swisslog.com/en-gb/careers/openings",
+          "final_url": "https://www.swisslog.com/en-us/careers/openings",
           "error": null
         },
         {
-          "url": "https://www.swisslog.com/en-gb/careers/swisslog-as-an-employer",
+          "url": "https://www.swisslog.com/en-us/careers/swisslog-as-an-employer",
           "status": 200,
-          "final_url": "https://www.swisslog.com/en-gb/careers/swisslog-as-an-employer",
+          "final_url": "https://www.swisslog.com/en-us/careers/swisslog-as-an-employer",
           "error": null
         },
         {
-          "url": "https://www.swisslog.com/en-gb/careers/swisslog-as-an-employer/controls-vacancies",
+          "url": "https://www.swisslog.com/en-us/careers/swisslog-as-an-employer/controls-vacancies",
           "status": 200,
-          "final_url": "https://www.swisslog.com/en-gb/careers/swisslog-as-an-employer/controls-vacancies",
+          "final_url": "https://www.swisslog.com/en-us/careers/swisslog-as-an-employer/controls-vacancies",
           "error": null
         }
       ],
@@ -8798,6 +8890,41 @@
       "failure_reason": "no_supported_ats_detected",
       "official_careers_urls": [
         "https://www.cgi.com/en/careers"
+      ],
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
+    },
+    {
+      "name": "BDO USA",
+      "group": "consulting",
+      "stage": 3,
+      "status": "layer3_unresolved",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.bdo.com/careers",
+          "http_status": 525,
+          "final_url": "https://www.bdo.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
+        },
+        {
+          "url": "https://www.bdo.com/careers",
+          "status": 404,
+          "final_url": "https://www.bdo.com/careers",
+          "error": null
+        }
+      ],
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.bdo.com/careers"
       ],
       "platform_evidence": [],
       "jd_fetch_status": "not_fetched",

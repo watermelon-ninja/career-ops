@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T22:25:02.641Z",
+  "generated_at": "2026-10-14T23:08:22.163Z",
   "input_count": 86,
-  "discovered": 0,
-  "unresolved": 86,
+  "discovered": 2,
+  "unresolved": 84,
   "results": [
     {
       "company": "Box",
@@ -354,25 +354,25 @@
           "url": "https://www.tokyoelectron.com/jobs",
           "status": null,
           "final_url": "https://www.tokyoelectron.com/jobs",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.tokyoelectron.com/jobs/",
           "status": null,
           "final_url": "https://www.tokyoelectron.com/jobs/",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.tokyoelectron.com/en/careers",
           "status": null,
           "final_url": "https://www.tokyoelectron.com/en/careers",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.tokyoelectron.com/us/en/careers",
           "status": null,
           "final_url": "https://www.tokyoelectron.com/us/en/careers",
-          "error": "fetch failed"
+          "error": "timeout"
         }
       ]
     },
@@ -1120,9 +1120,9 @@
         },
         {
           "url": "https://www.generaldynamics.com/careers/",
-          "status": null,
+          "status": 403,
           "final_url": "https://www.generaldynamics.com/careers/",
-          "error": "fetch failed"
+          "error": null
         },
         {
           "url": "https://www.generaldynamics.com/jobs",
@@ -1776,79 +1776,19 @@
     },
     {
       "company": "Zebra Technologies",
-      "status": "unresolved",
+      "status": "discovered",
+      "seed": {
+        "name": "Zebra Technologies",
+        "careers_url": "https://www.zebra.com/us/en/about-zebra/careers.html",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
       "attempts": [
         {
           "url": "https://www.zebra.com/careers",
-          "status": 406,
-          "final_url": "https://www.zebra.com/careers",
+          "status": 200,
+          "final_url": "https://www.zebra.com/us/en/about-zebra/careers.html",
           "error": null
-        },
-        {
-          "url": "https://www.zebra.com/careers/",
-          "status": 406,
-          "final_url": "https://www.zebra.com/careers/",
-          "error": null
-        },
-        {
-          "url": "https://www.zebra.com/jobs",
-          "status": 406,
-          "final_url": "https://www.zebra.com/jobs",
-          "error": null
-        },
-        {
-          "url": "https://www.zebra.com/jobs/",
-          "status": 406,
-          "final_url": "https://www.zebra.com/jobs/",
-          "error": null
-        },
-        {
-          "url": "https://www.zebra.com/en/careers",
-          "status": 406,
-          "final_url": "https://www.zebra.com/en/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.zebra.com/us/en/careers",
-          "status": 406,
-          "final_url": "https://www.zebra.com/us/en/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.zebratechnologies.com/careers",
-          "status": null,
-          "final_url": "https://www.zebratechnologies.com/careers",
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://www.zebratechnologies.com/careers/",
-          "status": null,
-          "final_url": "https://www.zebratechnologies.com/careers/",
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://www.zebratechnologies.com/jobs",
-          "status": null,
-          "final_url": "https://www.zebratechnologies.com/jobs",
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://www.zebratechnologies.com/jobs/",
-          "status": null,
-          "final_url": "https://www.zebratechnologies.com/jobs/",
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://www.zebratechnologies.com/en/careers",
-          "status": null,
-          "final_url": "https://www.zebratechnologies.com/en/careers",
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://www.zebratechnologies.com/us/en/careers",
-          "status": null,
-          "final_url": "https://www.zebratechnologies.com/us/en/careers",
-          "error": "fetch failed"
         }
       ]
     },
@@ -2460,42 +2400,18 @@
     },
     {
       "company": "Colgate-Palmolive",
-      "status": "unresolved",
+      "status": "discovered",
+      "seed": {
+        "name": "Colgate-Palmolive",
+        "careers_url": "https://jobs.colgate.com/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
       "attempts": [
         {
           "url": "https://www.colgatepalmolive.com/careers",
-          "status": 503,
-          "final_url": "https://www.colgatepalmolive.com/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.colgatepalmolive.com/careers/",
-          "status": 503,
-          "final_url": "https://www.colgatepalmolive.com/careers/",
-          "error": null
-        },
-        {
-          "url": "https://www.colgatepalmolive.com/jobs",
-          "status": 503,
-          "final_url": "https://www.colgatepalmolive.com/jobs",
-          "error": null
-        },
-        {
-          "url": "https://www.colgatepalmolive.com/jobs/",
           "status": 200,
-          "final_url": "https://www.perfectname.com/domain/Dummy.com",
-          "error": null
-        },
-        {
-          "url": "https://www.colgatepalmolive.com/en/careers",
-          "status": 503,
-          "final_url": "https://www.colgatepalmolive.com/en/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.colgatepalmolive.com/us/en/careers",
-          "status": 404,
-          "final_url": "https://www.colgatepalmolive.com/en-us/us/en/careers",
+          "final_url": "https://jobs.colgate.com/",
           "error": null
         }
       ]
@@ -3214,15 +3130,15 @@
         },
         {
           "url": "https://www.globalpayments.com/jobs",
-          "status": null,
+          "status": 403,
           "final_url": "https://www.globalpayments.com/jobs",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.globalpayments.com/jobs/",
-          "status": null,
+          "status": 403,
           "final_url": "https://www.globalpayments.com/jobs/",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.globalpayments.com/en/careers",
@@ -3648,37 +3564,37 @@
           "url": "https://www.johnsonjohnson.com/careers",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/careers",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.johnsonjohnson.com/careers/",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/careers/",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.johnsonjohnson.com/jobs",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/jobs",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.johnsonjohnson.com/jobs/",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/jobs/",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.johnsonjohnson.com/en/careers",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/en/careers",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.johnsonjohnson.com/us/en/careers",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/us/en/careers",
-          "error": "fetch failed"
+          "error": "timeout"
         }
       ]
     },
@@ -3976,9 +3892,9 @@
         },
         {
           "url": "https://www.baylorscottwhitehealth.com/careers/",
-          "status": 200,
+          "status": null,
           "final_url": "https://www.baylorscottwhitehealth.com/careers/",
-          "error": null
+          "error": "timeout"
         },
         {
           "url": "https://www.baylorscottwhitehealth.com/jobs",
@@ -3988,9 +3904,9 @@
         },
         {
           "url": "https://www.baylorscottwhitehealth.com/jobs/",
-          "status": 200,
+          "status": null,
           "final_url": "https://www.baylorscottwhitehealth.com/jobs/",
-          "error": null
+          "error": "fetch failed"
         },
         {
           "url": "https://www.baylorscottwhitehealth.com/en/careers",
@@ -4120,9 +4036,9 @@
         },
         {
           "url": "https://www.transpak.com/en/careers",
-          "status": null,
-          "final_url": "https://www.transpak.com/en/careers",
-          "error": "timeout"
+          "status": 404,
+          "final_url": "https://www.transpak.com/careers",
+          "error": null
         },
         {
           "url": "https://www.transpak.com/us/en/careers",
@@ -4146,7 +4062,7 @@
           "url": "https://www.lowercoloradoriverauthority.com/careers/",
           "status": null,
           "final_url": "https://www.lowercoloradoriverauthority.com/careers/",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.lowercoloradoriverauthority.com/jobs",
@@ -4222,9 +4138,9 @@
       "attempts": [
         {
           "url": "https://www.shi.com/careers",
-          "status": null,
+          "status": 403,
           "final_url": "https://www.shi.com/careers",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.shi.com/careers/",
@@ -4318,9 +4234,9 @@
         },
         {
           "url": "https://www.planview.com/jobs/",
-          "status": 404,
+          "status": null,
           "final_url": "https://www.planview.com/jobs/",
-          "error": null
+          "error": "timeout"
         },
         {
           "url": "https://www.planview.com/en/careers",
