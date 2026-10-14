@@ -76,6 +76,28 @@ function detectApi(company) {
 }
 
 // ── External ATS directory (rotating batches, never silently claims full coverage) ──
+const SECOND_UNIVERSE_URL = 'https://raw.githubusercontent.com/fyrosofttech/lastroundai-hiring-data/main/ats-directory/lastroundai-ats-company-directory-2026-08.csv';
+
+function parseCsvRows(csv) {
+  const rows = [];
+  for (const line of csv.replace(/^\uFEFF/, '').split(/\r?\n/).filter(Boolean)) {
+    const cols = [];
+    let value = '', quoted = false;
+    for (let i = 0; i < line.length; i++) {
+      const ch = line[i];
+      if (ch === '"') {
+        if (quoted && line[i + 1] === '"') { value += '"'; i++; }
+        else quoted = !quoted;
+      } else if (ch === ',' && !quoted) { cols.push(value); value = ''; }
+      else value += ch;
+    }
+    cols.push(value);
+    rows.push(cols);
+  }
+  const header = rows.shift()?.map(v => v.trim().toLowerCase()) || [];
+  return rows.map(cols => Object.fromEntries(header.map((key, i) => [key, cols[i] || ''])));
+}
+
 async function loadUniverse(args) {
   if (!args.includes('--universe')) return [];
   const flag = args.indexOf('--universe-batch');
@@ -83,13 +105,32 @@ async function loadUniverse(args) {
   if (!Number.isInteger(requested) || requested < 1 || requested > 1000) {
     throw new Error('--universe-batch must be between 1 and 1000');
   }
-  const response = await fetch(UNIVERSE_URL, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) });
-  if (!response.ok) throw new Error(`ATS directory HTTP ${response.status}`);
-  const rows = (await response.text()).split(String.fromCharCode(10)).filter(Boolean).map(line => JSON.parse(line));
-  const valid = rows.filter(r => r.status === 'ok' && ['ashby','greenhouse','lever'].includes(r.provider) && /^[a-z0-9_.-]+$/i.test(r.slug));
-  const start = (Math.floor(Date.now() / 86400000) * requested) % Math.max(valid.length, 1);
+  const sources = [
+    { name: 'moonie0201', url: UNIVERSE_URL, parse: body => body.split(/\r?\n/).filter(Boolean).map(line => JSON.parse(line)).filter(r => r.status === 'ok').map(r => ({ provider: r.provider, slug: r.slug, name: r.name })) },
+    { name: 'lastroundai', url: SECOND_UNIVERSE_URL, parse: body => parseCsvRows(body).map(r => ({ provider: r.ats_vendor, slug: r.board_slug, name: r.company_name })) },
+  ];
+  const combined = new Map();
+  for (const source of sources) {
+    try {
+      const response = await fetch(source.url, { signal: AbortSignal.timeout(20_000) });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const rows = source.parse(await response.text());
+      let added = 0;
+      for (const r of rows) {
+        if (!['ashby','greenhouse','lever'].includes(r.provider) || !/^[a-z0-9_.-]+$/i.test(r.slug || '')) continue;
+        const key = `${r.provider}:${r.slug.toLowerCase()}`;
+        if (!combined.has(key)) { combined.set(key, r); added++; }
+      }
+      console.log(`ATS source ${source.name}: ${rows.length} entries; ${added} new unique boards`);
+    } catch (error) {
+      console.error(`ATS source ${source.name} unavailable: ${error.message}`);
+    }
+  }
+  const valid = [...combined.values()].sort((a,b) => (a.provider + ':' + a.slug).localeCompare(b.provider + ':' + b.slug));
+  if (!valid.length) throw new Error('No ATS directory sources loaded successfully');
+  const start = (Math.floor(Date.now() / 86400000) * requested) % valid.length;
   const batch = Array.from({length: Math.min(requested, valid.length)}, (_, i) => valid[(start + i) % valid.length]);
-  console.log(`ATS universe: ${valid.length} directory boards available; ${batch.length} selected for this run (rotating batch, not all scanned)`);
+  console.log(`ATS universe: ${valid.length} unique directory boards; ${batch.length} selected for this run (rotating batch, not all scanned)`);
   return batch.map(r => ({name: r.name || r.slug, careers_url: r.provider === 'ashby' ? `https://jobs.ashbyhq.com/${r.slug}` : r.provider === 'lever' ? `https://jobs.lever.co/${r.slug}` : `https://job-boards.greenhouse.io/${r.slug}`, scan_method: r.provider, enabled: true}));
 }
 
