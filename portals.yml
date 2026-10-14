@@ -97,6 +97,15 @@ search_queries:
     enabled: true
 
 tracked_companies:
+  # SmartRecruiters pilot: public career-page identifiers.
+  - name: SmartRecruiters (Pilot)
+    careers_url: https://careers.smartrecruiters.com/SmartRecruiters
+    scan_method: smartrecruiters
+    enabled: true
+  - name: Nexthink (SmartRecruiters Pilot)
+    careers_url: https://careers.smartrecruiters.com/Nexthink
+    scan_method: smartrecruiters
+    enabled: true
   # Workday pilot: known public career-site URLs; scanner reads CXS with bounded pagination.
   - name: Intel (Workday)
     careers_url: https://intel.wd1.myworkdayjobs.com/External
