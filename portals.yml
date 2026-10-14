@@ -249,3 +249,50 @@ tracked_companies:
     scan_method: websearch
     scan_query: 'site:ryder.com/careers "Supply Chain" "Systems" OR "WMS" OR "Implementation"'
     enabled: true
+
+# Verified Greenhouse board URLs: these are API-discoverable by scan.mjs.
+# Websearch-only companies above remain enabled but require a separate search runner.
+  - name: Tecovas
+    careers_url: https://job-boards.greenhouse.io/tecovas
+    scan_method: greenhouse
+    enabled: true
+  - name: Oura
+    careers_url: https://job-boards.greenhouse.io/oura
+    scan_method: greenhouse
+    enabled: true
+  - name: Apptronik
+    careers_url: https://job-boards.greenhouse.io/apptronik
+    scan_method: greenhouse
+    enabled: true
+  - name: OMP
+    careers_url: https://job-boards.greenhouse.io/ompexternaljobboards
+    scan_method: greenhouse
+    enabled: true
+  - name: Celonis
+    careers_url: https://job-boards.greenhouse.io/celonis
+    scan_method: greenhouse
+    enabled: true
+  - name: GHX
+    careers_url: https://job-boards.greenhouse.io/globalhealthcareexchangeinc
+    scan_method: greenhouse
+    enabled: true
+  - name: RF-SMART
+    careers_url: https://job-boards.greenhouse.io/rfsmart
+    scan_method: greenhouse
+    enabled: true
+  - name: Anduril
+    careers_url: https://job-boards.greenhouse.io/andurilindustries
+    scan_method: greenhouse
+    enabled: true
+  - name: RIDE Mobility
+    careers_url: https://job-boards.greenhouse.io/ridemobilityllc
+    scan_method: greenhouse
+    enabled: true
+  - name: Relativity Space
+    careers_url: https://job-boards.greenhouse.io/relativity
+    scan_method: greenhouse
+    enabled: true
+  - name: Anchanto
+    careers_url: https://job-boards.greenhouse.io/anchanto
+    scan_method: greenhouse
+    enabled: true
