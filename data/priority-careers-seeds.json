@@ -333,6 +333,12 @@
       "status": "official_careers_page_autodiscovered"
     },
     {
+      "name": "NinjaOne",
+      "careers_url": "https://www.ninjaone.com/careers/",
+      "source": "layer2b_official_domain_probe",
+      "status": "official_careers_page_autodiscovered"
+    },
+    {
       "name": "Northrop Grumman",
       "careers_url": "https://www.northropgrumman.com/careers",
       "source": "layer2b_official_domain_probe",
@@ -585,5 +591,5 @@
       "status": "official_careers_page_autodiscovered"
     }
   ],
-  "generated_at": "2026-10-14T20:31:42.446Z"
+  "generated_at": "2026-10-14T20:53:10.673Z"
 }

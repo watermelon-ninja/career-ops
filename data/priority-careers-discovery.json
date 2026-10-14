@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T20:31:42.447Z",
-  "input_count": 181,
-  "discovered": 94,
-  "unresolved": 87,
+  "generated_at": "2026-10-14T20:53:10.674Z",
+  "input_count": 87,
+  "discovered": 1,
+  "unresolved": 86,
   "results": [
     {
       "company": "Box",
@@ -42,24 +42,6 @@
           "url": "https://www.box.com/us/en/careers",
           "status": 403,
           "final_url": "https://www.box.com/us/en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Palo Alto Networks",
-      "status": "discovered",
-      "seed": {
-        "name": "Palo Alto Networks",
-        "careers_url": "https://jobs.paloaltonetworks.com/en",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.paloaltonetworks.com/careers",
-          "status": 200,
-          "final_url": "https://jobs.paloaltonetworks.com/en",
           "error": null
         }
       ]
@@ -107,42 +89,6 @@
       ]
     },
     {
-      "company": "Splunk",
-      "status": "discovered",
-      "seed": {
-        "name": "Splunk",
-        "careers_url": "https://careers.cisco.com/global/en/splunk",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.splunk.com/careers",
-          "status": 200,
-          "final_url": "https://careers.cisco.com/global/en/splunk",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "DocuSign",
-      "status": "discovered",
-      "seed": {
-        "name": "DocuSign",
-        "careers_url": "https://careers.docusign.com/careers-home",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.docusign.com/careers",
-          "status": 200,
-          "final_url": "https://careers.docusign.com/careers-home",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Canva",
       "status": "unresolved",
       "attempts": [
@@ -185,60 +131,6 @@
       ]
     },
     {
-      "company": "Veeva Systems",
-      "status": "discovered",
-      "seed": {
-        "name": "Veeva Systems",
-        "careers_url": "https://careers.veeva.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.veeva.com/careers",
-          "status": 200,
-          "final_url": "https://careers.veeva.com/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Nutanix",
-      "status": "discovered",
-      "seed": {
-        "name": "Nutanix",
-        "careers_url": "https://careers.nutanix.com/en/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.nutanix.com/careers",
-          "status": 200,
-          "final_url": "https://careers.nutanix.com/en/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "NetApp",
-      "status": "discovered",
-      "seed": {
-        "name": "NetApp",
-        "careers_url": "https://careers.netapp.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.netapp.com/careers",
-          "status": 200,
-          "final_url": "https://careers.netapp.com/",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Lenovo",
       "status": "unresolved",
       "attempts": [
@@ -276,78 +168,6 @@
           "url": "https://www.lenovo.com/us/en/careers",
           "status": 404,
           "final_url": "https://www.lenovo.com/us/en/careers/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Uber",
-      "status": "discovered",
-      "seed": {
-        "name": "Uber",
-        "careers_url": "https://jobs.uber.com/en/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.uber.com/careers",
-          "status": 200,
-          "final_url": "https://jobs.uber.com/en/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Expedia Group",
-      "status": "discovered",
-      "seed": {
-        "name": "Expedia Group",
-        "careers_url": "https://careers.expediagroup.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.expedia.com/careers",
-          "status": 429,
-          "final_url": "https://www.expedia.com/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.expedia.com/careers/",
-          "status": 429,
-          "final_url": "https://www.expedia.com/careers/",
-          "error": null
-        },
-        {
-          "url": "https://www.expedia.com/jobs",
-          "status": 429,
-          "final_url": "https://www.expedia.com/jobs",
-          "error": null
-        },
-        {
-          "url": "https://www.expedia.com/jobs/",
-          "status": 429,
-          "final_url": "https://www.expedia.com/jobs/",
-          "error": null
-        },
-        {
-          "url": "https://www.expedia.com/en/careers",
-          "status": 429,
-          "final_url": "https://www.expedia.com/en/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.expedia.com/us/en/careers",
-          "status": 429,
-          "final_url": "https://www.expedia.com/us/en/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.expediagroup.com/careers",
-          "status": 200,
-          "final_url": "https://careers.expediagroup.com/",
           "error": null
         }
       ]
@@ -437,24 +257,6 @@
       ]
     },
     {
-      "company": "AMD",
-      "status": "discovered",
-      "seed": {
-        "name": "AMD",
-        "careers_url": "https://www.amd.com/en/corporate/careers.html?utm_campaign=careers&utm_medium=redirect&utm_source=301",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.amd.com/careers",
-          "status": 200,
-          "final_url": "https://www.amd.com/en/corporate/careers.html?utm_campaign=careers&utm_medium=redirect&utm_source=301",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Texas Instruments",
       "status": "unresolved",
       "attempts": [
@@ -533,42 +335,6 @@
       ]
     },
     {
-      "company": "Micron Technology",
-      "status": "discovered",
-      "seed": {
-        "name": "Micron Technology",
-        "careers_url": "https://www.micron.com/about/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.micron.com/careers",
-          "status": 200,
-          "final_url": "https://www.micron.com/about/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Lam Research",
-      "status": "discovered",
-      "seed": {
-        "name": "Lam Research",
-        "careers_url": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.lamresearch.com/careers",
-          "status": 200,
-          "final_url": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Tokyo Electron",
       "status": "unresolved",
       "attempts": [
@@ -607,24 +373,6 @@
           "status": null,
           "final_url": "https://www.tokyoelectron.com/us/en/careers",
           "error": "fetch failed"
-        }
-      ]
-    },
-    {
-      "company": "Infineon Technologies",
-      "status": "discovered",
-      "seed": {
-        "name": "Infineon Technologies",
-        "careers_url": "https://www.infineon.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.infineon.com/careers",
-          "status": 200,
-          "final_url": "https://www.infineon.com/careers",
-          "error": null
         }
       ]
     },
@@ -713,24 +461,6 @@
       ]
     },
     {
-      "company": "Synopsys",
-      "status": "discovered",
-      "seed": {
-        "name": "Synopsys",
-        "careers_url": "https://careers.synopsys.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.synopsys.com/careers",
-          "status": 200,
-          "final_url": "https://careers.synopsys.com/",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Cadence Design Systems",
       "status": "unresolved",
       "attempts": [
@@ -805,156 +535,6 @@
           "status": null,
           "final_url": "https://www.cadencedesignsystems.com/us/en/careers",
           "error": "timeout"
-        }
-      ]
-    },
-    {
-      "company": "Arm",
-      "status": "discovered",
-      "seed": {
-        "name": "Arm",
-        "careers_url": "https://careers.arm.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.arm.com/careers",
-          "status": 200,
-          "final_url": "https://careers.arm.com/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Marvell Technology",
-      "status": "discovered",
-      "seed": {
-        "name": "Marvell Technology",
-        "careers_url": "https://www.marvell.com/company/careers.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.marvell.com/careers",
-          "status": 200,
-          "final_url": "https://www.marvell.com/company/careers.html",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Microchip Technology",
-      "status": "discovered",
-      "seed": {
-        "name": "Microchip Technology",
-        "careers_url": "https://www.microchip.com/en-us/about/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.microchip.com/careers",
-          "status": 200,
-          "final_url": "https://www.microchip.com/en-us/about/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Skyworks Solutions",
-      "status": "discovered",
-      "seed": {
-        "name": "Skyworks Solutions",
-        "careers_url": "https://www.skyworksinc.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.skyworks.com/careers",
-          "status": 200,
-          "final_url": "https://www.skyworksinc.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "onsemi",
-      "status": "discovered",
-      "seed": {
-        "name": "onsemi",
-        "careers_url": "https://www.onsemi.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.onsemi.com/careers",
-          "status": 200,
-          "final_url": "https://www.onsemi.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Wolfspeed",
-      "status": "discovered",
-      "seed": {
-        "name": "Wolfspeed",
-        "careers_url": "https://www.wolfspeed.com/careers/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.wolfspeed.com/careers",
-          "status": 200,
-          "final_url": "https://www.wolfspeed.com/careers/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Western Digital",
-      "status": "discovered",
-      "seed": {
-        "name": "Western Digital",
-        "careers_url": "https://www.westerndigital.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.westerndigital.com/careers",
-          "status": 200,
-          "final_url": "https://www.westerndigital.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Seagate Technology",
-      "status": "discovered",
-      "seed": {
-        "name": "Seagate Technology",
-        "careers_url": "https://www.seagate.com/careers/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.seagate.com/careers",
-          "status": 200,
-          "final_url": "https://www.seagate.com/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.seagate.com/careers/",
-          "status": 200,
-          "final_url": "https://www.seagate.com/careers/",
-          "error": null
         }
       ]
     },
@@ -1042,9 +622,9 @@
       "attempts": [
         {
           "url": "https://www.ichor.com/careers",
-          "status": 403,
-          "final_url": "http://www.telepathy.com/",
-          "error": null
+          "status": null,
+          "final_url": "https://www.ichor.com/careers",
+          "error": "timeout"
         },
         {
           "url": "https://www.ichor.com/careers/",
@@ -1111,24 +691,6 @@
           "status": null,
           "final_url": "https://www.ichorholdings.com/us/en/careers",
           "error": "fetch failed"
-        }
-      ]
-    },
-    {
-      "company": "Teradyne",
-      "status": "discovered",
-      "seed": {
-        "name": "Teradyne",
-        "careers_url": "https://jobs.teradyne.com/teradyne",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.teradyne.com/careers",
-          "status": 200,
-          "final_url": "https://jobs.teradyne.com/teradyne",
-          "error": null
         }
       ]
     },
@@ -1290,24 +852,6 @@
           "url": "https://www.celestica.com/us/en/careers",
           "status": 404,
           "final_url": "https://www.celestica.com/us/en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Sanmina",
-      "status": "discovered",
-      "seed": {
-        "name": "Sanmina",
-        "careers_url": "https://www.sanmina.com/careers/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.sanmina.com/careers",
-          "status": 200,
-          "final_url": "https://www.sanmina.com/careers/",
           "error": null
         }
       ]
@@ -1523,78 +1067,6 @@
       ]
     },
     {
-      "company": "Siemens",
-      "status": "discovered",
-      "seed": {
-        "name": "Siemens",
-        "careers_url": "https://www.siemens.com/en-us/company/jobs/?fbclid=PAZXh0bgNhZW0BMABwZG9mAmFkaWQBqzsLOnB-TXNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp-AYRJ6zXFIv4BKrdqSug0OBo66LQ2gA-Rt-BE3EATxQR7vg8L0G3989yQ7b_aem_TNo84fmqt69VuLdLAxJF6g&spr_cid=120_17380&spr_ppid=6aa0034d4a3765df6ebc2e3c&utm_campaign=120254581508960045&utm_content=120254601094070045&utm_id=120254581508960045&utm_medium=paid&utm_source=ig&utm_term=120254601086800045",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.siemens.com/careers",
-          "status": 200,
-          "final_url": "https://www.siemens.com/en-us/company/jobs/?fbclid=PAZXh0bgNhZW0BMABwZG9mAmFkaWQBqzsLOnB-TXNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp-AYRJ6zXFIv4BKrdqSug0OBo66LQ2gA-Rt-BE3EATxQR7vg8L0G3989yQ7b_aem_TNo84fmqt69VuLdLAxJF6g&spr_cid=120_17380&spr_ppid=6aa0034d4a3765df6ebc2e3c&utm_campaign=120254581508960045&utm_content=120254601094070045&utm_id=120254581508960045&utm_medium=paid&utm_source=ig&utm_term=120254601086800045",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Honeywell",
-      "status": "discovered",
-      "seed": {
-        "name": "Honeywell",
-        "careers_url": "https://www.honeywell.com/us/en/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.honeywell.com/careers",
-          "status": 200,
-          "final_url": "https://www.honeywell.com/us/en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Eaton",
-      "status": "discovered",
-      "seed": {
-        "name": "Eaton",
-        "careers_url": "https://www.eaton.com/us/en-us/company/careers.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.eaton.com/careers",
-          "status": 200,
-          "final_url": "https://www.eaton.com/us/en-us/company/careers.html",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Lockheed Martin",
-      "status": "discovered",
-      "seed": {
-        "name": "Lockheed Martin",
-        "careers_url": "https://www.lockheedmartin.com/en-us/careers/index.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.lockheedmartin.com/careers",
-          "status": 200,
-          "final_url": "https://www.lockheedmartin.com/en-us/careers/index.html",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "RTX",
       "status": "unresolved",
       "attempts": [
@@ -1637,32 +1109,14 @@
       ]
     },
     {
-      "company": "Northrop Grumman",
-      "status": "discovered",
-      "seed": {
-        "name": "Northrop Grumman",
-        "careers_url": "https://www.northropgrumman.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.northropgrumman.com/careers",
-          "status": 200,
-          "final_url": "https://www.northropgrumman.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "General Dynamics",
       "status": "unresolved",
       "attempts": [
         {
           "url": "https://www.generaldynamics.com/careers",
-          "status": null,
+          "status": 403,
           "final_url": "https://www.generaldynamics.com/careers",
-          "error": "fetch failed"
+          "error": null
         },
         {
           "url": "https://www.generaldynamics.com/careers/",
@@ -1739,42 +1193,6 @@
       ]
     },
     {
-      "company": "Caterpillar",
-      "status": "discovered",
-      "seed": {
-        "name": "Caterpillar",
-        "careers_url": "https://www.caterpillar.com/en/careers.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.caterpillar.com/careers",
-          "status": 200,
-          "final_url": "https://www.caterpillar.com/en/careers.html",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Deere & Company",
-      "status": "discovered",
-      "seed": {
-        "name": "Deere & Company",
-        "careers_url": "https://www.deere.com/en-us/our-company/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.deere.com/careers",
-          "status": 200,
-          "final_url": "https://www.deere.com/en-us/our-company/careers",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Cummins",
       "status": "unresolved",
       "attempts": [
@@ -1812,126 +1230,6 @@
           "url": "https://www.cummins.com/us/en/careers",
           "status": 403,
           "final_url": "https://www.cummins.com/en-na/us/en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Trane Technologies",
-      "status": "discovered",
-      "seed": {
-        "name": "Trane Technologies",
-        "careers_url": "https://careers.tranetechnologies.com/global/en/home",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.trane.com/careers",
-          "status": 200,
-          "final_url": "https://careers.tranetechnologies.com/global/en/home",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Johnson Controls",
-      "status": "discovered",
-      "seed": {
-        "name": "Johnson Controls",
-        "careers_url": "https://jobs.johnsoncontrols.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.johnsoncontrols.com/careers",
-          "status": 200,
-          "final_url": "https://jobs.johnsoncontrols.com/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Carrier Global",
-      "status": "discovered",
-      "seed": {
-        "name": "Carrier Global",
-        "careers_url": "https://www.carrier.com/us/en/careers/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.carrier.com/careers",
-          "status": 200,
-          "final_url": "https://www.carrier.com/carrier/en/worldwide/error-404.html",
-          "error": null
-        },
-        {
-          "url": "https://www.carrier.com/careers/",
-          "status": 200,
-          "final_url": "https://www.carrier.com/carrier/en/worldwide/error-404.html",
-          "error": null
-        },
-        {
-          "url": "https://www.carrier.com/jobs",
-          "status": 200,
-          "final_url": "https://www.carrier.com/carrier/en/worldwide/error-404.html",
-          "error": null
-        },
-        {
-          "url": "https://www.carrier.com/jobs/",
-          "status": 200,
-          "final_url": "https://www.carrier.com/carrier/en/worldwide/error-404.html",
-          "error": null
-        },
-        {
-          "url": "https://www.carrier.com/en/careers",
-          "status": 200,
-          "final_url": "https://www.carrier.com/carrier/en/worldwide/error-404.html",
-          "error": null
-        },
-        {
-          "url": "https://www.carrier.com/us/en/careers",
-          "status": 200,
-          "final_url": "https://www.carrier.com/us/en/careers/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "3M",
-      "status": "discovered",
-      "seed": {
-        "name": "3M",
-        "careers_url": "https://www.3m.com/3M/en_WW/careers-select-location/?utm_medium=redirect&utm_source=vanity-url&utm_campaign=www.3m.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.3m.com/careers",
-          "status": 200,
-          "final_url": "https://www.3m.com/3M/en_WW/careers-select-location/?utm_medium=redirect&utm_source=vanity-url&utm_campaign=www.3m.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Corning",
-      "status": "discovered",
-      "seed": {
-        "name": "Corning",
-        "careers_url": "https://www.corning.com/worldwide/en/careers.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.corning.com/careers",
-          "status": 200,
-          "final_url": "https://www.corning.com/worldwide/en/careers.html",
           "error": null
         }
       ]
@@ -2021,60 +1319,6 @@
       ]
     },
     {
-      "company": "Bosch",
-      "status": "discovered",
-      "seed": {
-        "name": "Bosch",
-        "careers_url": "https://www.bosch.com/careers/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.bosch.com/careers",
-          "status": 200,
-          "final_url": "https://www.bosch.com/careers/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Rivian",
-      "status": "discovered",
-      "seed": {
-        "name": "Rivian",
-        "careers_url": "https://careers.rivian.com/careers-home/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.rivian.com/careers",
-          "status": 200,
-          "final_url": "https://careers.rivian.com/careers-home/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Ford Motor Company",
-      "status": "discovered",
-      "seed": {
-        "name": "Ford Motor Company",
-        "careers_url": "https://www.careers.ford.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.ford.com/careers",
-          "status": 200,
-          "final_url": "https://www.careers.ford.com/",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Ericsson",
       "status": "unresolved",
       "attempts": [
@@ -2154,24 +1398,6 @@
           "url": "https://www.canon.com/us/en/careers",
           "status": 404,
           "final_url": "https://www.canon.com/us/en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Infor",
-      "status": "discovered",
-      "seed": {
-        "name": "Infor",
-        "careers_url": "https://www.infor.com/about/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.infor.com/careers",
-          "status": 200,
-          "final_url": "https://www.infor.com/about/careers",
           "error": null
         }
       ]
@@ -2297,24 +1523,6 @@
       ]
     },
     {
-      "company": "Schneider National",
-      "status": "discovered",
-      "seed": {
-        "name": "Schneider National",
-        "careers_url": "https://schneiderjobs.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.schneidernational.com/careers",
-          "status": 200,
-          "final_url": "https://schneiderjobs.com/",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Werner Enterprises",
       "status": "unresolved",
       "attempts": [
@@ -2357,24 +1565,6 @@
       ]
     },
     {
-      "company": "Old Dominion Freight Line",
-      "status": "discovered",
-      "seed": {
-        "name": "Old Dominion Freight Line",
-        "careers_url": "https://www.olddominionfreightline.com/us/en/careers.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.olddominionfreightline.com/careers",
-          "status": 200,
-          "final_url": "https://www.olddominionfreightline.com/us/en/careers.html",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Kuehne+Nagel",
       "status": "unresolved",
       "attempts": [
@@ -2413,24 +1603,6 @@
           "status": null,
           "final_url": "https://www.kuehnenagel.com/us/en/careers",
           "error": "timeout"
-        }
-      ]
-    },
-    {
-      "company": "DSV",
-      "status": "discovered",
-      "seed": {
-        "name": "DSV",
-        "careers_url": "https://www.dsv.com/en/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.dsv.com/careers",
-          "status": 200,
-          "final_url": "https://www.dsv.com/en/careers",
-          "error": null
         }
       ]
     },
@@ -2519,24 +1691,6 @@
       ]
     },
     {
-      "company": "Expeditors International",
-      "status": "discovered",
-      "seed": {
-        "name": "Expeditors International",
-        "careers_url": "https://www.expeditors.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.expeditors.com/careers",
-          "status": 200,
-          "final_url": "https://www.expeditors.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "ShipBob",
       "status": "unresolved",
       "attempts": [
@@ -2574,48 +1728,6 @@
           "url": "https://www.shipbob.com/us/en/careers",
           "status": 404,
           "final_url": "https://www.shipbob.com/us/en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Dematic",
-      "status": "discovered",
-      "seed": {
-        "name": "Dematic",
-        "careers_url": "https://www.dematic.com/en-us/about/careers/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.dematic.com/careers",
-          "status": 200,
-          "final_url": "https://www.dematic.com/en-us/errors/404/",
-          "error": null
-        },
-        {
-          "url": "https://www.dematic.com/careers/",
-          "status": 200,
-          "final_url": "https://www.dematic.com/en-us/about/careers/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Swisslog",
-      "status": "discovered",
-      "seed": {
-        "name": "Swisslog",
-        "careers_url": "https://www.swisslog.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.swisslog.com/careers",
-          "status": 200,
-          "final_url": "https://www.swisslog.com/careers",
           "error": null
         }
       ]
@@ -2741,60 +1853,6 @@
       ]
     },
     {
-      "company": "Tecsys",
-      "status": "discovered",
-      "seed": {
-        "name": "Tecsys",
-        "careers_url": "https://www.tecsys.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.tecsys.com/careers",
-          "status": 200,
-          "final_url": "https://www.tecsys.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "MuleSoft",
-      "status": "discovered",
-      "seed": {
-        "name": "MuleSoft",
-        "careers_url": "https://www.salesforce.com/company/careers/?d=70130000000i80S",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.mulesoft.com/careers",
-          "status": 200,
-          "final_url": "https://www.salesforce.com/company/careers/?d=70130000000i80S",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Informatica",
-      "status": "discovered",
-      "seed": {
-        "name": "Informatica",
-        "careers_url": "https://www.salesforce.com/company/careers/jobs/?search=informatica&pagesize=20",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.informatica.com/careers",
-          "status": 200,
-          "final_url": "https://www.salesforce.com/company/careers/jobs/?search=informatica&pagesize=20",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Qlik",
       "status": "unresolved",
       "attempts": [
@@ -2806,9 +1864,9 @@
         },
         {
           "url": "https://www.qlik.com/careers/",
-          "status": 200,
-          "final_url": "https://www.qlik.com/us/careers",
-          "error": null
+          "status": null,
+          "final_url": "https://www.qlik.com/careers/",
+          "error": "timeout"
         },
         {
           "url": "https://www.qlik.com/jobs",
@@ -2832,108 +1890,6 @@
           "url": "https://www.qlik.com/us/en/careers",
           "status": 404,
           "final_url": "https://www.qlik.com/us/en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Deloitte",
-      "status": "discovered",
-      "seed": {
-        "name": "Deloitte",
-        "careers_url": "https://www.deloitte.com/global/en/careers/job-search.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.deloitte.com/careers",
-          "status": 404,
-          "final_url": "https://www.deloitte.com/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.deloitte.com/careers/",
-          "status": 404,
-          "final_url": "https://www.deloitte.com/new/careers.html",
-          "error": null
-        },
-        {
-          "url": "https://www.deloitte.com/jobs",
-          "status": 200,
-          "final_url": "https://www.deloitte.com/global/en/careers/job-search.html",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Capgemini",
-      "status": "discovered",
-      "seed": {
-        "name": "Capgemini",
-        "careers_url": "https://www.capgemini.com/careers/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.capgemini.com/careers",
-          "status": 200,
-          "final_url": "https://www.capgemini.com/careers/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "EY",
-      "status": "discovered",
-      "seed": {
-        "name": "EY",
-        "careers_url": "https://www.ey.com/en_gl/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.ey.com/careers",
-          "status": 200,
-          "final_url": "https://www.ey.com/en_gl/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Cognizant",
-      "status": "discovered",
-      "seed": {
-        "name": "Cognizant",
-        "careers_url": "https://careers.cognizant.com/global-en/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.cognizant.com/careers",
-          "status": 200,
-          "final_url": "https://careers.cognizant.com/global-en/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Infosys",
-      "status": "discovered",
-      "seed": {
-        "name": "Infosys",
-        "careers_url": "https://www.infosys.com/careers/usa/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.infosys.com/careers",
-          "status": 200,
-          "final_url": "https://www.infosys.com/careers/usa/",
           "error": null
         }
       ]
@@ -3017,42 +1973,6 @@
       ]
     },
     {
-      "company": "Slalom",
-      "status": "discovered",
-      "seed": {
-        "name": "Slalom",
-        "careers_url": "https://www.slalom.com/us/en/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.slalom.com/careers",
-          "status": 200,
-          "final_url": "https://www.slalom.com/us/en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Wipro",
-      "status": "discovered",
-      "seed": {
-        "name": "Wipro",
-        "careers_url": "https://careers.wipro.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.wipro.com/careers",
-          "status": 200,
-          "final_url": "https://careers.wipro.com/",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Tata Consultancy Services",
       "status": "unresolved",
       "attempts": [
@@ -3091,60 +2011,6 @@
           "status": null,
           "final_url": "https://www.tataconsultancyservices.com/us/en/careers",
           "error": "fetch failed"
-        }
-      ]
-    },
-    {
-      "company": "HCLTech",
-      "status": "discovered",
-      "seed": {
-        "name": "HCLTech",
-        "careers_url": "https://careers.hcltech.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.hcltech.com/careers",
-          "status": 200,
-          "final_url": "https://careers.hcltech.com/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "NTT DATA",
-      "status": "discovered",
-      "seed": {
-        "name": "NTT DATA",
-        "careers_url": "https://www.nttdata.com/en-us/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.nttdata.com/careers",
-          "status": 200,
-          "final_url": "https://www.nttdata.com/en-us/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "CGI",
-      "status": "discovered",
-      "seed": {
-        "name": "CGI",
-        "careers_url": "https://www.cgi.com/en/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.cgi.com/careers",
-          "status": 200,
-          "final_url": "https://www.cgi.com/en/careers",
-          "error": null
         }
       ]
     },
@@ -3233,42 +2099,6 @@
       ]
     },
     {
-      "company": "West Monroe",
-      "status": "discovered",
-      "seed": {
-        "name": "West Monroe",
-        "careers_url": "https://www.westmonroe.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.westmonroe.com/careers",
-          "status": 200,
-          "final_url": "https://www.westmonroe.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Publicis Sapient",
-      "status": "discovered",
-      "seed": {
-        "name": "Publicis Sapient",
-        "careers_url": "https://careers.publicissapient.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.publicissapient.com/careers",
-          "status": 200,
-          "final_url": "https://careers.publicissapient.com/",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Perficient",
       "status": "unresolved",
       "attempts": [
@@ -3306,96 +2136,6 @@
           "url": "https://www.perficient.com/us/en/careers",
           "status": 429,
           "final_url": "https://www.perficient.com/us/en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Protiviti",
-      "status": "discovered",
-      "seed": {
-        "name": "Protiviti",
-        "careers_url": "https://www.protiviti.com/gl-en/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.protiviti.com/careers",
-          "status": 200,
-          "final_url": "https://www.protiviti.com/gl-en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "RSM US",
-      "status": "discovered",
-      "seed": {
-        "name": "RSM US",
-        "careers_url": "https://rsmus.com/careers.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.rsm.com/careers",
-          "status": 404,
-          "final_url": "https://www.rsm.com/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.rsm.com/careers/",
-          "status": 404,
-          "final_url": "https://www.rsm.com/careers/",
-          "error": null
-        },
-        {
-          "url": "https://www.rsm.com/jobs",
-          "status": 404,
-          "final_url": "https://www.rsm.com/jobs",
-          "error": null
-        },
-        {
-          "url": "https://www.rsm.com/jobs/",
-          "status": 404,
-          "final_url": "https://www.rsm.com/jobs/",
-          "error": null
-        },
-        {
-          "url": "https://www.rsm.com/en/careers",
-          "status": 404,
-          "final_url": "https://www.rsm.com/en/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.rsm.com/us/en/careers",
-          "status": 404,
-          "final_url": "https://www.rsm.com/us/en/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.rsmus.com/careers",
-          "status": 200,
-          "final_url": "https://rsmus.com/careers.html",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "BDO USA",
-      "status": "discovered",
-      "seed": {
-        "name": "BDO USA",
-        "careers_url": "https://www.bdo.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.bdo.com/careers",
-          "status": 200,
-          "final_url": "https://www.bdo.com/careers",
           "error": null
         }
       ]
@@ -3635,78 +2375,6 @@
       ]
     },
     {
-      "company": "Kearney",
-      "status": "discovered",
-      "seed": {
-        "name": "Kearney",
-        "careers_url": "https://www.kearney.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.kearney.com/careers",
-          "status": 200,
-          "final_url": "https://www.kearney.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Genpact",
-      "status": "discovered",
-      "seed": {
-        "name": "Genpact",
-        "careers_url": "https://www.genpact.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.genpact.com/careers",
-          "status": 200,
-          "final_url": "https://www.genpact.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Globant",
-      "status": "discovered",
-      "seed": {
-        "name": "Globant",
-        "careers_url": "https://www.globant.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.globant.com/careers",
-          "status": 200,
-          "final_url": "https://www.globant.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Costco",
-      "status": "discovered",
-      "seed": {
-        "name": "Costco",
-        "careers_url": "https://www.costco.com/f/-/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.costco.com/careers",
-          "status": 200,
-          "final_url": "https://www.costco.com/f/-/careers",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "H-E-B",
       "status": "unresolved",
       "attempts": [
@@ -3744,24 +2412,6 @@
           "url": "https://www.heb.com/us/en/careers",
           "status": 200,
           "final_url": "https://www.heb.com/us/en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Whole Foods Market",
-      "status": "discovered",
-      "seed": {
-        "name": "Whole Foods Market",
-        "careers_url": "https://careers.wholefoods.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.wholefoodsmarket.com/careers",
-          "status": 200,
-          "final_url": "https://careers.wholefoods.com/",
           "error": null
         }
       ]
@@ -3809,24 +2459,6 @@
       ]
     },
     {
-      "company": "Procter & Gamble",
-      "status": "discovered",
-      "seed": {
-        "name": "Procter & Gamble",
-        "careers_url": "https://www.pgcareers.com/us/en",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.pg.com/careers",
-          "status": 200,
-          "final_url": "https://www.pgcareers.com/us/en",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Colgate-Palmolive",
       "status": "unresolved",
       "attempts": [
@@ -3862,8 +2494,8 @@
         },
         {
           "url": "https://www.colgatepalmolive.com/us/en/careers",
-          "status": 503,
-          "final_url": "https://www.colgatepalmolive.com/us/en/careers",
+          "status": 404,
+          "final_url": "https://www.colgatepalmolive.com/en-us/us/en/careers",
           "error": null
         }
       ]
@@ -3911,42 +2543,6 @@
       ]
     },
     {
-      "company": "Chewy",
-      "status": "discovered",
-      "seed": {
-        "name": "Chewy",
-        "careers_url": "https://careers.chewy.com/us/en/home",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.chewy.com/careers",
-          "status": 200,
-          "final_url": "https://careers.chewy.com/us/en/home",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Wayfair",
-      "status": "discovered",
-      "seed": {
-        "name": "Wayfair",
-        "careers_url": "https://www.aboutwayfair.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.wayfair.com/careers",
-          "status": 200,
-          "final_url": "https://www.aboutwayfair.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Kroger",
       "status": "unresolved",
       "attempts": [
@@ -3989,138 +2585,6 @@
       ]
     },
     {
-      "company": "Albertsons",
-      "status": "discovered",
-      "seed": {
-        "name": "Albertsons",
-        "careers_url": "https://www.albertsons.com/careers.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.albertsons.com/careers",
-          "status": 403,
-          "final_url": "https://www.albertsonscompanies.com/careers/albertsons-careers.html",
-          "error": null
-        },
-        {
-          "url": "https://www.albertsons.com/careers/",
-          "status": 200,
-          "final_url": "https://situshscbet.com/desktop/home",
-          "error": null
-        },
-        {
-          "url": "https://www.albertsons.com/jobs",
-          "status": 200,
-          "final_url": "https://www.albertsons.com/careers.html",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Walgreens Boots Alliance",
-      "status": "discovered",
-      "seed": {
-        "name": "Walgreens Boots Alliance",
-        "careers_url": "https://jobs.walgreens.com/en",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.walgreensbootsalliance.com/careers",
-          "status": 200,
-          "final_url": "https://jobs.walgreens.com/en",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Dollar General",
-      "status": "discovered",
-      "seed": {
-        "name": "Dollar General",
-        "careers_url": "https://careers.dollargeneral.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.dollargeneral.com/careers",
-          "status": 200,
-          "final_url": "https://careers.dollargeneral.com/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "TJX Companies",
-      "status": "discovered",
-      "seed": {
-        "name": "TJX Companies",
-        "careers_url": "https://www.tjx.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.tjx.com/careers",
-          "status": 200,
-          "final_url": "https://www.tjx.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Ross Stores",
-      "status": "discovered",
-      "seed": {
-        "name": "Ross Stores",
-        "careers_url": "https://jobs.rossstores.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.rossstores.com/careers",
-          "status": 200,
-          "final_url": "https://jobs.rossstores.com/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Macy's",
-      "status": "discovered",
-      "seed": {
-        "name": "Macy's",
-        "careers_url": "https://www.macys.com/customer-service/articles/job-and-career-opportunities",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.macys.com/careers",
-          "status": 404,
-          "final_url": "https://www.macys.com/careers",
-          "error": null
-        },
-        {
-          "url": "https://www.macys.com/careers/",
-          "status": 404,
-          "final_url": "https://www.macys.com/careers/",
-          "error": null
-        },
-        {
-          "url": "https://www.macys.com/jobs",
-          "status": 200,
-          "final_url": "https://www.macys.com/customer-service/articles/job-and-career-opportunities",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Lululemon",
       "status": "unresolved",
       "attempts": [
@@ -4158,42 +2622,6 @@
           "url": "https://www.lululemon.com/us/en/careers",
           "status": 400,
           "final_url": "https://shop.lululemon.com/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "YETI",
-      "status": "discovered",
-      "seed": {
-        "name": "YETI",
-        "careers_url": "https://www.yeti.com/yeti-careers.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.yeti.com/careers",
-          "status": 200,
-          "final_url": "https://www.yeti.com/yeti-careers.html",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Tractor Supply",
-      "status": "discovered",
-      "seed": {
-        "name": "Tractor Supply",
-        "careers_url": "https://www.tractorsupply.careers/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.tractorsupply.com/careers",
-          "status": 200,
-          "final_url": "https://www.tractorsupply.careers/",
           "error": null
         }
       ]
@@ -4278,24 +2706,6 @@
           "url": "https://www.oreillyautomotive.com/us/en/careers",
           "status": 404,
           "final_url": "https://www.oreillyautomotive.com/us/en/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Shopify",
-      "status": "discovered",
-      "seed": {
-        "name": "Shopify",
-        "careers_url": "https://www.shopify.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.shopify.com/careers",
-          "status": 200,
-          "final_url": "https://www.shopify.com/careers",
           "error": null
         }
       ]
@@ -4498,15 +2908,15 @@
         },
         {
           "url": "https://www.generalmills.com/en/careers",
-          "status": null,
+          "status": 404,
           "final_url": "https://www.generalmills.com/en/careers",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.generalmills.com/us/en/careers",
-          "status": null,
+          "status": 404,
           "final_url": "https://www.generalmills.com/us/en/careers",
-          "error": "timeout"
+          "error": null
         }
       ]
     },
@@ -4709,24 +3119,6 @@
       ]
     },
     {
-      "company": "Hormel Foods",
-      "status": "discovered",
-      "seed": {
-        "name": "Hormel Foods",
-        "careers_url": "https://www.hormelfoods.com/careers/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.hormelfoods.com/careers",
-          "status": 200,
-          "final_url": "https://www.hormelfoods.com/careers/",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Charles Schwab",
       "status": "unresolved",
       "attempts": [
@@ -4822,9 +3214,9 @@
         },
         {
           "url": "https://www.globalpayments.com/jobs",
-          "status": 403,
+          "status": null,
           "final_url": "https://www.globalpayments.com/jobs",
-          "error": null
+          "error": "timeout"
         },
         {
           "url": "https://www.globalpayments.com/jobs/",
@@ -4885,78 +3277,6 @@
           "status": null,
           "final_url": "https://www.americanexpress.com/us/en/careers",
           "error": "fetch failed"
-        }
-      ]
-    },
-    {
-      "company": "JPMorgan Chase",
-      "status": "discovered",
-      "seed": {
-        "name": "JPMorgan Chase",
-        "careers_url": "https://www.jpmorganchase.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.jpmorganchase.com/careers",
-          "status": 200,
-          "final_url": "https://www.jpmorganchase.com/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Bank of America",
-      "status": "discovered",
-      "seed": {
-        "name": "Bank of America",
-        "careers_url": "https://careers.bankofamerica.com/en-us",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.bankofamerica.com/careers",
-          "status": 200,
-          "final_url": "https://careers.bankofamerica.com/en-us",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Wells Fargo",
-      "status": "discovered",
-      "seed": {
-        "name": "Wells Fargo",
-        "careers_url": "https://www.wellsfargojobs.com/en/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.wellsfargo.com/careers",
-          "status": 200,
-          "final_url": "https://www.wellsfargojobs.com/en/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Goldman Sachs",
-      "status": "discovered",
-      "seed": {
-        "name": "Goldman Sachs",
-        "careers_url": "https://www.goldmansachs.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.goldmansachs.com/careers",
-          "status": 200,
-          "final_url": "https://www.goldmansachs.com/careers",
-          "error": null
         }
       ]
     },
@@ -5040,42 +3360,6 @@
           "url": "https://www.progressive.com/us/en/careers",
           "status": 404,
           "final_url": "https://www.progressive.com/us/en/careers/",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Liberty Mutual",
-      "status": "discovered",
-      "seed": {
-        "name": "Liberty Mutual",
-        "careers_url": "https://www.libertymutualgroup.com/about-lm/careers/overview",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.libertymutual.com/careers",
-          "status": 200,
-          "final_url": "https://www.libertymutualgroup.com/about-lm/careers/overview",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "State Farm",
-      "status": "discovered",
-      "seed": {
-        "name": "State Farm",
-        "careers_url": "https://www.statefarm.com/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.statefarm.com/careers",
-          "status": 200,
-          "final_url": "https://www.statefarm.com/careers",
           "error": null
         }
       ]
@@ -5201,42 +3485,6 @@
       ]
     },
     {
-      "company": "Optum",
-      "status": "discovered",
-      "seed": {
-        "name": "Optum",
-        "careers_url": "https://www.optum.com/en/careers.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.optum.com/careers",
-          "status": 200,
-          "final_url": "https://www.optum.com/en/careers.html",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Cencora",
-      "status": "discovered",
-      "seed": {
-        "name": "Cencora",
-        "careers_url": "https://careers.cencora.com/us/en",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.cencora.com/careers",
-          "status": 200,
-          "final_url": "https://careers.cencora.com/us/en",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Thermo Fisher Scientific",
       "status": "unresolved",
       "attempts": [
@@ -5275,24 +3523,6 @@
           "status": null,
           "final_url": "https://www.thermofisherscientific.com/us/en/careers",
           "error": "fetch failed"
-        }
-      ]
-    },
-    {
-      "company": "Boston Scientific",
-      "status": "discovered",
-      "seed": {
-        "name": "Boston Scientific",
-        "careers_url": "https://www.bostonscientific.com/en-US/careers.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.bostonscientific.com/careers",
-          "status": 200,
-          "final_url": "https://www.bostonscientific.com/en-US/careers.html",
-          "error": null
         }
       ]
     },
@@ -5449,24 +3679,6 @@
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/us/en/careers",
           "error": "fetch failed"
-        }
-      ]
-    },
-    {
-      "company": "Merck & Co.",
-      "status": "discovered",
-      "seed": {
-        "name": "Merck & Co.",
-        "careers_url": "https://jobs.merck.com/us/en",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.merck.com/careers",
-          "status": 200,
-          "final_url": "https://jobs.merck.com/us/en",
-          "error": null
         }
       ]
     },
@@ -5633,24 +3845,6 @@
       ]
     },
     {
-      "company": "Quest Diagnostics",
-      "status": "discovered",
-      "seed": {
-        "name": "Quest Diagnostics",
-        "careers_url": "https://careers.questdiagnostics.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.questdiagnostics.com/careers",
-          "status": 200,
-          "final_url": "https://careers.questdiagnostics.com/",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "HCA Healthcare",
       "status": "unresolved",
       "attempts": [
@@ -5782,9 +3976,9 @@
         },
         {
           "url": "https://www.baylorscottwhitehealth.com/careers/",
-          "status": null,
+          "status": 200,
           "final_url": "https://www.baylorscottwhitehealth.com/careers/",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.baylorscottwhitehealth.com/jobs",
@@ -5794,9 +3988,9 @@
         },
         {
           "url": "https://www.baylorscottwhitehealth.com/jobs/",
-          "status": null,
+          "status": 200,
           "final_url": "https://www.baylorscottwhitehealth.com/jobs/",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.baylorscottwhitehealth.com/en/careers",
@@ -5850,43 +4044,7 @@
           "url": "https://www.stdavidshealthcare.com/us/en/careers",
           "status": null,
           "final_url": "https://www.stdavidshealthcare.com/us/en/careers",
-          "error": "timeout"
-        }
-      ]
-    },
-    {
-      "company": "Austin Regional Clinic",
-      "status": "discovered",
-      "seed": {
-        "name": "Austin Regional Clinic",
-        "careers_url": "https://www.austinregionalclinic.com/about/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.austinregionalclinic.com/careers",
-          "status": 200,
-          "final_url": "https://www.austinregionalclinic.com/about/careers",
-          "error": null
-        }
-      ]
-    },
-    {
-      "company": "Q2 Holdings",
-      "status": "discovered",
-      "seed": {
-        "name": "Q2 Holdings",
-        "careers_url": "https://www.q2.com/company/why-work-at-q2/careers",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.q2.com/careers",
-          "status": 200,
-          "final_url": "https://www.q2.com/company/why-work-at-q2/careers",
-          "error": null
+          "error": "fetch failed"
         }
       ]
     },
@@ -5904,7 +4062,7 @@
           "url": "https://www.texasmutualinsurance.com/careers/",
           "status": null,
           "final_url": "https://www.texasmutualinsurance.com/careers/",
-          "error": "timeout"
+          "error": "fetch failed"
         },
         {
           "url": "https://www.texasmutualinsurance.com/jobs",
@@ -5916,7 +4074,7 @@
           "url": "https://www.texasmutualinsurance.com/jobs/",
           "status": null,
           "final_url": "https://www.texasmutualinsurance.com/jobs/",
-          "error": "timeout"
+          "error": "fetch failed"
         },
         {
           "url": "https://www.texasmutualinsurance.com/en/careers",
@@ -5962,15 +4120,15 @@
         },
         {
           "url": "https://www.transpak.com/en/careers",
-          "status": 404,
-          "final_url": "https://www.transpak.com/careers",
-          "error": null
+          "status": null,
+          "final_url": "https://www.transpak.com/en/careers",
+          "error": "timeout"
         },
         {
           "url": "https://www.transpak.com/us/en/careers",
-          "status": null,
+          "status": 404,
           "final_url": "https://www.transpak.com/us/en/careers",
-          "error": "timeout"
+          "error": null
         }
       ]
     },
@@ -5994,13 +4152,13 @@
           "url": "https://www.lowercoloradoriverauthority.com/jobs",
           "status": null,
           "final_url": "https://www.lowercoloradoriverauthority.com/jobs",
-          "error": "timeout"
+          "error": "fetch failed"
         },
         {
           "url": "https://www.lowercoloradoriverauthority.com/jobs/",
           "status": null,
           "final_url": "https://www.lowercoloradoriverauthority.com/jobs/",
-          "error": "timeout"
+          "error": "fetch failed"
         },
         {
           "url": "https://www.lowercoloradoriverauthority.com/en/careers",
@@ -6064,21 +4222,21 @@
       "attempts": [
         {
           "url": "https://www.shi.com/careers",
-          "status": 403,
+          "status": null,
           "final_url": "https://www.shi.com/careers",
-          "error": null
+          "error": "timeout"
         },
         {
           "url": "https://www.shi.com/careers/",
-          "status": null,
+          "status": 403,
           "final_url": "https://www.shi.com/careers/",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.shi.com/jobs",
-          "status": null,
+          "status": 403,
           "final_url": "https://www.shi.com/jobs",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.shi.com/jobs/",
@@ -6138,7 +4296,13 @@
     },
     {
       "company": "NinjaOne",
-      "status": "unresolved",
+      "status": "discovered",
+      "seed": {
+        "name": "NinjaOne",
+        "careers_url": "https://www.ninjaone.com/careers/",
+        "source": "layer2b_official_domain_probe",
+        "status": "official_careers_page_autodiscovered"
+      },
       "attempts": [
         {
           "url": "https://www.ninjaone.com/careers",
@@ -6148,33 +4312,9 @@
         },
         {
           "url": "https://www.ninjaone.com/careers/",
-          "status": null,
+          "status": 200,
           "final_url": "https://www.ninjaone.com/careers/",
-          "error": "timeout"
-        },
-        {
-          "url": "https://www.ninjaone.com/jobs",
-          "status": null,
-          "final_url": "https://www.ninjaone.com/jobs",
-          "error": "timeout"
-        },
-        {
-          "url": "https://www.ninjaone.com/jobs/",
-          "status": null,
-          "final_url": "https://www.ninjaone.com/jobs/",
-          "error": "timeout"
-        },
-        {
-          "url": "https://www.ninjaone.com/en/careers",
-          "status": null,
-          "final_url": "https://www.ninjaone.com/en/careers",
-          "error": "timeout"
-        },
-        {
-          "url": "https://www.ninjaone.com/us/en/careers",
-          "status": null,
-          "final_url": "https://www.ninjaone.com/us/en/careers",
-          "error": "timeout"
+          "error": null
         }
       ]
     },
@@ -6214,9 +4354,9 @@
         },
         {
           "url": "https://www.planview.com/us/en/careers",
-          "status": null,
-          "final_url": "https://www.planview.com/us/en/careers",
-          "error": "timeout"
+          "status": 200,
+          "final_url": "https://www.planview.com/",
+          "error": null
         }
       ]
     }

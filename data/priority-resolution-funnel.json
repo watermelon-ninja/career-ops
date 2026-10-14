@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:38:16.814Z",
+  "generated_at": "2026-10-14T20:53:25.352Z",
   "layer": 2,
   "input_count": 200,
   "identified_at_layer_2": 17,
@@ -25,7 +25,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/introduceYourself?clientRequestID=06f06ca6dae2441d99391ed600fc2265",
+      "endpoint": "https://paloaltonetworks.wd5.myworkdayjobs.com/wday/cxs/paloaltonetworks/panwexternalcareers/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -49,7 +49,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://expedia.wd108.myworkdayjobs.com/en-US/search/introduceYourself",
+      "endpoint": "https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -73,7 +73,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers",
+      "endpoint": "https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -97,7 +97,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers?jobFamilyGroup=65dea26481d0016bd6c014dd98175a01",
+      "endpoint": "https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -121,7 +121,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://cree.wd108.myworkdayjobs.com/EXT",
+      "endpoint": "https://cree.wd108.myworkdayjobs.com/wday/cxs/cree/EXT/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -169,7 +169,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/login",
+      "endpoint": "https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -193,7 +193,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://jci.wd5.myworkdayjobs.com/en-US/JCI/login",
+      "endpoint": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -217,7 +217,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://3m.wd1.myworkdayjobs.com/es/Search",
+      "endpoint": "https://3m.wd1.myworkdayjobs.com/wday/cxs/3m/es/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -241,7 +241,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://odfl.wd1.myworkdayjobs.com/ODFL_Careers",
+      "endpoint": "https://odfl.wd1.myworkdayjobs.com/wday/cxs/odfl/ODFL_Careers/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -265,7 +265,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://kiongroup.wd3.myworkdayjobs.com/KION_SCS",
+      "endpoint": "https://kiongroup.wd3.myworkdayjobs.com/wday/cxs/kiongroup/KION_SCS/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -289,7 +289,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://deloitteie.wd3.myworkdayjobs.com/Experienced_Professionals",
+      "endpoint": "https://deloitteie.wd3.myworkdayjobs.com/wday/cxs/deloitteie/Experienced_Professionals/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -313,7 +313,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://genpact.wd108.myworkdayjobs.com/External_Careers&#34;}}",
+      "endpoint": "https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpact/External_Careers/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -337,7 +337,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://yeticoolers.wd5.myworkdayjobs.com/YETI",
+      "endpoint": "https://yeticoolers.wd5.myworkdayjobs.com/wday/cxs/yeticoolers/YETI/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -361,7 +361,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://ghr.wd1.myworkdayjobs.com/en-us/lateral-us/login",
+      "endpoint": "https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/en-us/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -385,7 +385,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://msd.wd5.myworkdayjobs.com/SearchJobs/login",
+      "endpoint": "https://msd.wd5.myworkdayjobs.com/wday/cxs/msd/SearchJobs/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -409,7 +409,7 @@
       "status": "ats_identified_unverified",
       "resolved_by": null,
       "provider": "workday",
-      "endpoint": "https://q2ebanking.wd5.myworkdayjobs.com/Q2",
+      "endpoint": "https://q2ebanking.wd5.myworkdayjobs.com/wday/cxs/q2ebanking/Q2/jobs",
       "full_jd_verified": false,
       "attempts": [
         {
@@ -1745,7 +1745,7 @@
         {
           "stage": 2,
           "url": "https://www.skyworksinc.com/careers",
-          "http_status": 202,
+          "http_status": 200,
           "final_url": "https://www.skyworksinc.com/careers",
           "result": "no_supported_ats_signature",
           "provider": null
@@ -4154,10 +4154,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_curated_careers_url"
+          "url": "https://www.ninjaone.com/careers/",
+          "http_status": 200,
+          "final_url": "https://www.ninjaone.com/careers/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": "no_curated_careers_url"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.ninjaone.com/careers/"
+      ]
     },
     {
       "name": "Planview",
