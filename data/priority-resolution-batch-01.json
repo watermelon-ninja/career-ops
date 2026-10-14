@@ -10,16 +10,17 @@
       "full_jd_fetch_verified": false,
       "attempts": 0,
       "last_error": null,
-      "notes": null
+      "notes": "Careers site has undergone migration; revalidate current source before building adapter"
     },
     {
       "name": "Apple",
-      "status": "endpoint_research",
+      "status": "official_listing_verified_endpoint_unverified",
       "ats_verified": false,
       "full_jd_fetch_verified": false,
       "attempts": 0,
       "last_error": null,
-      "notes": null
+      "notes": "Public search results confirmed; no verified reusable ATS endpoint yet",
+      "official_careers_url": "https://jobs.apple.com/en-us/search"
     },
     {
       "name": "Amazon",
@@ -59,12 +60,13 @@
     },
     {
       "name": "Tesla",
-      "status": "endpoint_research",
+      "status": "official_listing_verified_endpoint_unverified",
       "ats_verified": false,
       "full_jd_fetch_verified": false,
       "attempts": 0,
       "last_error": null,
-      "notes": "Official public careers listings observed; structured automated full-JD fetch not yet validated"
+      "notes": "Public job listings confirmed on official site; stable machine-readable endpoint and full JD retrieval not verified",
+      "official_careers_url": "https://www.tesla.com/careers/search"
     },
     {
       "name": "Applied Materials",
