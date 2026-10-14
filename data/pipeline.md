@@ -645,3 +645,51 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Technical-Program-Project-Management-IV_R2625433 | amat | Technical Program/Project Management IV
 - [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Supply-Chain-Project-Manager----B3-_R2628994 | amat | Supply Chain Project Manager - (B3)
 - [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Manager-III--Operations-Management--M3----FEP_R2628098 | amat | Manager III, Operations Management (M3) - FEP
+
+- [ ] https://jobs.ashbyhq.com/protege/f9e3d50b-bf15-492c-8feb-cd1870423e7f | Protege | Technical Product & Content Marketing Lead
+- [ ] https://jobs.ashbyhq.com/qualified-health-pbc/ae72ea84-de4a-467a-bf6d-57d832a7156e | Qualified Health PBC | Engagement Manager, Data Modernization
+- [ ] https://jobs.ashbyhq.com/qualified-health-pbc/645ed31c-5252-45ce-8f12-2dcdf1b853fb | Qualified Health PBC | Staff / Principal Forward-Deployed Architect, Data Modernization
+- [ ] https://jobs.ashbyhq.com/quora/b0a4e9ff-5d89-41c0-a14e-e66267cfbcac | Quora | Lead Product Manager - Growth, Quora (Remote)
+- [ ] https://jobs.ashbyhq.com/ramp/4c24a55a-ea3b-4cea-a5b5-7862938616bf | Ramp | Procurement Solutions Architect
+- [ ] https://jobs.ashbyhq.com/ramp/03e2d4e1-73ad-4f09-a058-2eb9ce34c2bc | Ramp | Technical Consultant, Mid-Market
+- [ ] https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642 | Ramp | Technical Consultant, Commercial
+- [ ] https://jobs.ashbyhq.com/ramp/218e3fef-0fa7-4ad4-b401-9ba0c76c0ff0 | Ramp | Technical Consultant, S/4HANA
+- [ ] https://jobs.ashbyhq.com/ramp/13fe8467-b624-4f30-8aad-af441dfb1797 | Ramp | Technical Consultant, Strategic, Oracle Cloud
+- [ ] https://jobs.ashbyhq.com/ramp/85bb97ba-b1fe-4a3b-be35-df4d40b7455e | Ramp | Technical Consultant, Workday Financials
+- [ ] https://jobs.ashbyhq.com/ramp/7fcef38b-5e90-4d71-9e59-d26d29de027f | Ramp | Senior Partner Consultant, Systems Integrators
+- [ ] https://jobs.ashbyhq.com/ramp/6a3f42e6-00d6-4e9d-9caa-9663ffac6d53 | Ramp | Technical Consultant, Enterprise, Oracle Cloud
+- [ ] https://jobs.ashbyhq.com/ramp/32fb4396-1976-45de-8137-79e6eecf40b3 | Ramp | Technical Consultant, Enterprise, Microsoft Dynamics F&O
+- [ ] https://jobs.ashbyhq.com/readme/eae2f31b-1175-4429-9f14-0d626e753f29 | ReadMe | Technical Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/ready/c97ced3f-0084-41ed-9960-6e58c006c85c | Ready | Technical Product Manager
+- [ ] https://jobs.ashbyhq.com/redis/f64281ec-46b8-4b44-b0fc-4ec8a57f6aab | Redis | Technical Product Manager - Enterprise AI & IT - Austin
+- [ ] https://amherstgroup.wd1.myworkdayjobs.com/amherst_holdings_careers/job/Remote-USA/Senior-Data-Product-Manager_R10781-1 | amherstgroup | Senior Data Product Manager
+- [ ] https://amplity.wd1.myworkdayjobs.com/amplityhealth/job/Remote---US/Program-Manager---Medical_R6220 | amplity | Program Manager – Medical
+- [ ] https://amplity.wd1.myworkdayjobs.com/amplityhealth/job/Remote---US/Oncology-Precision-Medicine-Strategy-and-Operations-Specialist_R6196 | amplity | Oncology Precision Medicine Strategy and Operations Specialist
+- [ ] https://amplity.wd1.myworkdayjobs.com/amplityhealth/job/Remote---US/Manager--Veeva-CRM-Platform---US-Remote-Based_R6137 | amplity | Manager, Veeva CRM Platform - US-Remote-Based
+- [ ] https://amplity.wd1.myworkdayjobs.com/amplityhealth/job/Remote---US/Contact-Center-Platform-Specialist---US-Remote_R6171 | amplity | Contact Center Platform Specialist - US Remote
+- [ ] https://andrewsdistributing.wd5.myworkdayjobs.com/andrewsdistributing/job/Corpus-Christi-TX/Regional-Distribution-Center-Manager_R5345 | andrewsdistributing | Distribution Center Manager
+- [ ] https://andersen.wd12.myworkdayjobs.com/andersen_external_career_site/job/Garland-TX/Supply-Chain-Analyst-I_R-7789-1 | andersen | Buyer/Procurement Analyst
+- [ ] https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Principal-Cloud-Operations-Manager_JR2026001400-1 | appliedis | Principal Cloud Operations Manager
+- [ ] https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---VA/Business-Analyst-Pod-Lead_JR2026001406 | appliedis | Business Analyst Pod Lead
+- [ ] https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---MD/Operations-and-Maintenance-Technician---Azure-Landing-Zone---Azure-Virtual-Desktop_JR2026001399 | appliedis | Operations and Maintenance Technician – Azure Landing Zone & Azure Virtual Desktop
+- [ ] https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Technical-Project-Manager---Business-Analyst_JR2026001371-1 | appliedis | Technical Project Manager / Business Analyst
+- [ ] https://andersonsinc.wd1.myworkdayjobs.com/theandersonscareers/job/Levelland-TX/Maintenance-Technician---Frac-Sand-Operations-_R12485 | andersonsinc | Maintenance Technician - Frac Sand Operations*
+- [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Global-Meetings---Events-Manager--Meeting-Planning_R-258268 | amgen | Global Meetings & Events Manager, Meeting Planning
+- [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Director---AI-Digital-Product-Management---Commercial-Value---Access_R-257593 | amgen | Director - AI Digital Product Management - Commercial Value & Access
+- [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Value---Access-Insights-Sr-Manager--Medical-Benefit-Products_R-255770 | amgen | Value & Access Insights Sr. Manager, Medical Benefit Products
+- [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Senior-Global-Program-Manager_R-257253 | amgen | Senior Global Program Manager
+- [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Corporate-Audit-Manager_R-256641 | amgen | Corporate Audit Manager
+- [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Director--Digital-Product-Portfolio-Enablement_R-255361 | amgen | Director, Digital Product Portfolio Enablement
+- [ ] https://arcticwolf.wd1.myworkdayjobs.com/external/job/Remote-United-States/Director--Marketing-Technology---Campaign-Operations_R26_1045 | arcticwolf | Director, Marketing Technology & Campaign Operations
+- [ ] https://arcticwolf.wd1.myworkdayjobs.com/external/job/Remote---IND---Karnataka/Business-Systems-Developer_R26_1023 | arcticwolf | Business Systems Developer
+- [ ] https://argenx.wd3.myworkdayjobs.com/external_careers/job/United-States---Remote/Digital-Technology-Product-Owner--Medical-Affairs_REQ-4613 | argenx | Digital Technology Product Owner, Medical Affairs
+- [ ] https://arkbluecross.wd1.myworkdayjobs.com/abcbs_external_careers/job/Arkansas-Remote/Chart-Procurement-Analyst_R0013822 | arkbluecross | Chart Procurement Analyst
+- [ ] https://ascentgl.wd1.myworkdayjobs.com/asg/job/Remote---US/Program-Manager_R1805 | ascentgl | Program Manager
+- [ ] https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Remote-Pennsylvania/Senior-Cyber-Threat-Analyst--IT---Security_R0022200-1 | ascensushr | Senior Cyber Threat Analyst, IT - Security
+- [ ] https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Remote-Florida/Nonqualified-Fund-Operations-Specialist_R0021972 | ascensushr | Nonqualified Fund Operations Specialist
+- [ ] https://armaninollp.wd1.myworkdayjobs.com/armanino/job/Dallas-Texas/Audit-Manager_JR103872 | armaninollp | Audit Manager
+- [ ] https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Remote-Worksite/Software-Architect---Systems_J000693777 | aptiv | Software Architect - Systems
+- [ ] https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Remote-Worksite/Sr-Account-Manager-Distribution---East-Coast_J000696266 | aptiv | Sr Account Manager Distribution - East Coast
+- [ ] https://ashland.wd12.myworkdayjobs.com/ashlandcareers1/job/US-Remote/Finance-Project-Manager_2026-0435 | ashland | Finance Project Manager
+- [ ] https://ashland.wd12.myworkdayjobs.com/ashlandcareers1/job/US-Remote/Strategic-Planning-Lead_2026-0316 | ashland | Strategic Planning Lead
+- [ ] https://aritzia.wd3.myworkdayjobs.com/external/job/Southlake-TX-USA-2806---Southlake-Town-Square/Store-Merchandising--Inventory-Manager_R0012130 | aritzia | Retail Stores - Inventory Manager, Store Merchandising
