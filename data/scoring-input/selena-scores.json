@@ -1,0 +1,429 @@
+{
+  "batch_id": "2026-10-14T17-57-22-068Z",
+  "rubric_version": "selena-fit-v1.1",
+  "principles": {
+    "supply_chain": "Meaningful semantic affinity boost, not a gate; process/system relevance matters more than keyword occurrence",
+    "bands": {
+      "9.0+": "Strong Apply",
+      "8.0-8.9": "High Review",
+      "7.0-7.9": "Low Priority / Review Later",
+      "<7.0": "Skip unless strategic reason"
+    }
+  },
+  "results": [
+    {
+      "index": 1,
+      "company": "Protege",
+      "title": "Technical Product & Content Marketing Lead",
+      "score": 5.8,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "product marketing/content focus; weak direct evidence"
+    },
+    {
+      "index": 2,
+      "company": "Qualified Health PBC",
+      "title": "Engagement Manager, Data Modernization",
+      "score": 9.4,
+      "decision": "Strong Apply",
+      "supply_chain_affinity": "Medium",
+      "rationale": "Databricks/data modernization + technical delivery + stakeholder/risk ownership; 4-7 years"
+    },
+    {
+      "index": 3,
+      "company": "Qualified Health PBC",
+      "title": "Staff / Principal Forward-Deployed Architect, Data Modernization",
+      "score": 4.3,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "10+ years architecture and hands-on cloud/data engineering hard gap"
+    },
+    {
+      "index": 4,
+      "company": "Quora",
+      "title": "Lead Product Manager - Growth",
+      "score": 6.2,
+      "decision": "Low Priority",
+      "supply_chain_affinity": "Low",
+      "rationale": "growth PM specialization and lead-level product track record gap"
+    },
+    {
+      "index": 5,
+      "company": "Ramp",
+      "title": "Procurement Solutions Architect",
+      "score": 7.4,
+      "decision": "Low Priority",
+      "supply_chain_affinity": "Medium",
+      "rationale": "procurement adjacency but 8+ years deep P2P/architect expertise required"
+    },
+    {
+      "index": 6,
+      "company": "Ramp",
+      "title": "Technical Consultant, Mid-Market",
+      "score": 8.9,
+      "decision": "High Review",
+      "supply_chain_affinity": "Medium",
+      "rationale": "ERP/integration discovery and business-technical translation strongly transferable"
+    },
+    {
+      "index": 7,
+      "company": "Ramp",
+      "title": "Technical Consultant, Commercial",
+      "score": 8.8,
+      "decision": "High Review",
+      "supply_chain_affinity": "Medium",
+      "rationale": "implementation/integration consulting fit; finance SaaS domain gap"
+    },
+    {
+      "index": 8,
+      "company": "Ramp",
+      "title": "Technical Consultant, S/4HANA",
+      "score": 7.6,
+      "decision": "Low Priority",
+      "supply_chain_affinity": "Medium",
+      "rationale": "SAP helps but requires 3+ years hands-on S/4HANA finance expertise"
+    },
+    {
+      "index": 9,
+      "company": "Ramp",
+      "title": "Technical Consultant, Strategic, Oracle Cloud",
+      "score": 6.4,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "requires 3+ years hands-on Oracle Fusion Financials"
+    },
+    {
+      "index": 10,
+      "company": "Ramp",
+      "title": "Technical Consultant, Workday Financials",
+      "score": 6.3,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "requires 3+ years hands-on Workday Financials"
+    },
+    {
+      "index": 11,
+      "company": "Ramp",
+      "title": "Senior Partner Consultant, Systems Integrators",
+      "score": 7.5,
+      "decision": "Low Priority",
+      "supply_chain_affinity": "Medium",
+      "rationale": "implementation/program fit but senior SI ecosystem/commercial ownership gap"
+    },
+    {
+      "index": 12,
+      "company": "Ramp",
+      "title": "Technical Consultant, Enterprise, Oracle Cloud",
+      "score": 6.4,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "requires deep Oracle Cloud Financials implementation"
+    },
+    {
+      "index": 13,
+      "company": "Ramp",
+      "title": "Technical Consultant, Enterprise, Microsoft Dynamics F&O",
+      "score": 6.2,
+      "decision": "Skip",
+      "supply_chain_affinity": "Medium",
+      "rationale": "ERP adjacency but Dynamics F&O hands-on hard gap"
+    },
+    {
+      "index": 14,
+      "company": "ReadMe",
+      "title": "Technical Customer Success Manager",
+      "score": 7.3,
+      "decision": "Low Priority",
+      "supply_chain_affinity": "Low",
+      "rationale": "technical/customer delivery transferable but developer-product customer success gap"
+    },
+    {
+      "index": 15,
+      "company": "Ready",
+      "title": "Technical Product Manager",
+      "score": 9.1,
+      "decision": "Strong Apply",
+      "supply_chain_affinity": "Low",
+      "rationale": "excellent product/requirements/cross-functional fit; deeper software architecture background is gap"
+    },
+    {
+      "index": 16,
+      "company": "Redis",
+      "title": "Technical Product Manager - Enterprise AI & IT - Austin",
+      "score": 8.7,
+      "decision": "High Review",
+      "supply_chain_affinity": "Low",
+      "rationale": "Austin + enterprise systems/product fit; production AI/agent ownership gap"
+    },
+    {
+      "index": 17,
+      "company": "amherstgroup",
+      "title": "Senior Data Product Manager",
+      "score": 9.2,
+      "decision": "Strong Apply",
+      "supply_chain_affinity": "Low",
+      "rationale": "Databricks + data roadmap + stories/acceptance criteria + stakeholder/engineering fit"
+    },
+    {
+      "index": 18,
+      "company": "amplity",
+      "title": "Program Manager – Medical",
+      "score": 4.4,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "medical credential and Medical Affairs experience required"
+    },
+    {
+      "index": 19,
+      "company": "amplity",
+      "title": "Oncology Precision Medicine Strategy and Operations Specialist",
+      "score": 5.2,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "oncology/diagnostics expertise required"
+    },
+    {
+      "index": 20,
+      "company": "amplity",
+      "title": "Manager, Veeva CRM Platform",
+      "score": 4.6,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "8+ years pharma CRM and 5+ years Veeva hands-on required"
+    },
+    {
+      "index": 21,
+      "company": "amplity",
+      "title": "Contact Center Platform Specialist",
+      "score": 6.9,
+      "decision": "Low Priority",
+      "supply_chain_affinity": "Low",
+      "rationale": "implementation/UAT/platform support transferable but CCaaS administration specialization"
+    },
+    {
+      "index": 22,
+      "company": "andrewsdistributing",
+      "title": "Distribution Center Manager",
+      "score": 5.6,
+      "decision": "Skip",
+      "supply_chain_affinity": "High",
+      "rationale": "strong domain but physical DC people/shift operations management is not target function"
+    },
+    {
+      "index": 23,
+      "company": "andersen",
+      "title": "Buyer/Procurement Analyst",
+      "score": 6.3,
+      "decision": "Low Priority",
+      "supply_chain_affinity": "High",
+      "rationale": "supply-chain domain strong but sourcing/material purchasing ownership, onsite Garland and low comp"
+    },
+    {
+      "index": 24,
+      "company": "appliedis",
+      "title": "Principal Cloud Operations Manager",
+      "score": 4,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "10+ years cloud operations and 50+ technical staff leadership hard gap"
+    },
+    {
+      "index": 25,
+      "company": "appliedis",
+      "title": "Business Analyst Pod Lead",
+      "score": 6.8,
+      "decision": "Low Priority",
+      "supply_chain_affinity": "Low",
+      "rationale": "BA function fits but 8+ years, US citizenship and senior-principal migration leadership"
+    },
+    {
+      "index": 26,
+      "company": "appliedis",
+      "title": "Operations and Maintenance Technician – Azure Landing Zone & Azure Virtual Desktop",
+      "score": 3.8,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "hands-on Azure infrastructure engineering role"
+    },
+    {
+      "index": 27,
+      "company": "appliedis",
+      "title": "Technical Project Manager / Business Analyst",
+      "score": 9.3,
+      "decision": "Strong Apply",
+      "supply_chain_affinity": "Low",
+      "rationale": "requirements/process/backlog/UAT/readiness/go-live/executive reporting directly evidenced"
+    },
+    {
+      "index": 28,
+      "company": "andersonsinc",
+      "title": "Maintenance Technician - Frac Sand Operations",
+      "score": 2.5,
+      "decision": "Skip",
+      "supply_chain_affinity": "Medium",
+      "rationale": "physical maintenance technician role outside target function"
+    },
+    {
+      "index": 29,
+      "company": "amgen",
+      "title": "Global Meetings & Events Manager, Meeting Planning",
+      "score": 4,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "event planning specialization"
+    },
+    {
+      "index": 30,
+      "company": "amgen",
+      "title": "Director - AI Digital Product Management - Commercial Value & Access",
+      "score": 4.8,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "director level, 8-10+ years product and AI/healthcare leadership"
+    },
+    {
+      "index": 31,
+      "company": "amgen",
+      "title": "Value & Access Insights Sr. Manager, Medical Benefit Products",
+      "score": 4.5,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "healthcare access/reimbursement specialization"
+    },
+    {
+      "index": 32,
+      "company": "amgen",
+      "title": "Senior Global Program Manager",
+      "score": 7,
+      "decision": "Low Priority",
+      "supply_chain_affinity": "Low",
+      "rationale": "program mechanics transfer but drug development/biopharma context and experience threshold"
+    },
+    {
+      "index": 33,
+      "company": "amgen",
+      "title": "Director, Digital Product Portfolio Enablement",
+      "score": 5,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "director/portfolio governance seniority beyond current level"
+    },
+    {
+      "index": 34,
+      "company": "arcticwolf",
+      "title": "Director, Marketing Technology & Campaign Operations",
+      "score": 4.2,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "director people leadership + MarTech specialization"
+    },
+    {
+      "index": 35,
+      "company": "arcticwolf",
+      "title": "Business Systems Developer",
+      "score": 3.5,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "India location plus hands-on integration/developer orientation"
+    },
+    {
+      "index": 36,
+      "company": "argenx",
+      "title": "Digital Technology Product Owner, Medical Affairs",
+      "score": 6.6,
+      "decision": "Low Priority",
+      "supply_chain_affinity": "Low",
+      "rationale": "PO mechanics fit but 5+ years pharma/Medical Affairs is material hard gap"
+    },
+    {
+      "index": 37,
+      "company": "arkbluecross",
+      "title": "Chart Procurement Analyst",
+      "score": 4.8,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "healthcare chart procurement specialization; Arkansas remote constraint"
+    },
+    {
+      "index": 38,
+      "company": "ascentgl",
+      "title": "Program Manager",
+      "score": 9,
+      "decision": "Strong Apply",
+      "supply_chain_affinity": "High",
+      "rationale": "logistics technology, roadmap, business process, UAT, governance and stakeholder ownership; 7+ years/comp are gaps"
+    },
+    {
+      "index": 39,
+      "company": "ascensushr",
+      "title": "Senior Cyber Threat Analyst, IT - Security",
+      "score": 3,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "cybersecurity specialization"
+    },
+    {
+      "index": 40,
+      "company": "ascensushr",
+      "title": "Nonqualified Fund Operations Specialist",
+      "score": 4,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "retirement fund operations specialization"
+    },
+    {
+      "index": 41,
+      "company": "armaninollp",
+      "title": "Audit Manager",
+      "score": 2.8,
+      "decision": "Skip",
+      "supply_chain_affinity": "Low",
+      "rationale": "audit/GAAP/GAAS specialization"
+    },
+    {
+      "index": 42,
+      "company": "aptiv",
+      "title": "Software Architect - Systems",
+      "score": 3.2,
+      "decision": "Skip",
+      "supply_chain_affinity": "Medium",
+      "rationale": "automotive adjacency but expert embedded Linux/C++ architecture hard gap"
+    },
+    {
+      "index": 43,
+      "company": "aptiv",
+      "title": "Sr Account Manager Distribution - East Coast",
+      "score": 4.8,
+      "decision": "Skip",
+      "supply_chain_affinity": "Medium",
+      "rationale": "distribution term is sales channel/account management; electronics industry + sales specialization"
+    },
+    {
+      "index": 44,
+      "company": "ashland",
+      "title": "Finance Project Manager",
+      "score": 8.8,
+      "decision": "High Review",
+      "supply_chain_affinity": "High",
+      "rationale": "PM plus logistics/warehouse/inventory analytics projects; finance depth is manageable gap"
+    },
+    {
+      "index": 45,
+      "company": "ashland",
+      "title": "Strategic Planning Lead",
+      "score": 7.8,
+      "decision": "Low Priority",
+      "supply_chain_affinity": "High",
+      "rationale": "S&OP/SAP strong domain affinity but requires direct planning/manufacturing ownership"
+    },
+    {
+      "index": 46,
+      "company": "aritzia",
+      "title": "Retail Stores - Inventory Manager, Store Merchandising",
+      "score": 4.8,
+      "decision": "Skip",
+      "supply_chain_affinity": "Medium",
+      "rationale": "inventory keyword but retail store merchandising/people operations function mismatch"
+    }
+  ]
+}
