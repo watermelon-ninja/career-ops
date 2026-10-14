@@ -1,28 +1,163 @@
 {
-  "generated_at": "2026-10-14T20:05:37.014Z",
+  "generated_at": "2026-10-14T20:16:46.143Z",
+  "layer": 2,
   "input_count": 200,
-  "resolved_at_layer_2": 0,
-  "remaining_for_layer_3": 200,
-  "resolved": [],
-  "remaining": [
+  "identified_at_layer_2": 1,
+  "full_jd_verified_at_layer_2": 0,
+  "shared_platform_candidates": 5,
+  "remaining_for_layer_3": 199,
+  "provider_counts": {
+    "workday": 1
+  },
+  "platform_candidate_counts": {
+    "eightfold": 1,
+    "oracle_recruiting_cloud": 1,
+    "phenom": 3
+  },
+  "identified": [
+    {
+      "name": "Samsung Electronics",
+      "group": "industrial",
+      "stage": 2,
+      "status": "ats_identified_unverified",
+      "resolved_by": null,
+      "provider": "workday",
+      "endpoint": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers",
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.samsung.com/us/careers",
+          "http_status": 200,
+          "final_url": "https://www.samsung.com/us/careers/",
+          "result": "supported_ats_detected",
+          "provider": "workday"
+        }
+      ],
+      "failure_reason": null,
+      "identified_by": "redirect_or_html",
+      "official_careers_url": "https://www.samsung.com/us/careers",
+      "final_url": "https://www.samsung.com/us/careers/"
+    }
+  ],
+  "platform_candidates": [
     {
       "name": "Microsoft",
       "group": "tech",
       "stage": 3,
-      "status": "needs_generic_endpoint",
+      "status": "shared_platform_candidate",
       "resolved_by": null,
-      "provider": null,
+      "provider": "eightfold",
       "endpoint": null,
       "full_jd_verified": false,
       "attempts": [
         {
           "stage": 2,
-          "result": "no_supported_ats_signature"
+          "url": "https://jobs.careers.microsoft.com",
+          "http_status": 200,
+          "final_url": "https://apply.careers.microsoft.com/careers",
+          "result": "shared_platform_detected",
+          "provider": "eightfold"
         }
       ],
       "failure_reason": null,
-      "official_careers_url": "https://jobs.careers.microsoft.com"
+      "official_careers_url": "https://jobs.careers.microsoft.com",
+      "final_url": "https://apply.careers.microsoft.com/careers"
     },
+    {
+      "name": "Oracle",
+      "group": "tech",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "oracle_recruiting_cloud",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.oracle.com",
+          "http_status": 200,
+          "final_url": "https://careers.oracle.com/en/sites/jobsearch",
+          "result": "shared_platform_detected",
+          "provider": "oracle_recruiting_cloud"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.oracle.com",
+      "final_url": "https://careers.oracle.com/en/sites/jobsearch"
+    },
+    {
+      "name": "Blue Yonder",
+      "group": "supply_chain",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "phenom",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.blueyonder.com",
+          "http_status": 200,
+          "final_url": "https://careers.blueyonder.com/us/en",
+          "result": "shared_platform_detected",
+          "provider": "phenom"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.blueyonder.com",
+      "final_url": "https://careers.blueyonder.com/us/en"
+    },
+    {
+      "name": "UPS",
+      "group": "supply_chain",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "phenom",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://www.jobs-ups.com",
+          "http_status": 200,
+          "final_url": "https://www.jobs-ups.com/us/en",
+          "result": "shared_platform_detected",
+          "provider": "phenom"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://www.jobs-ups.com",
+      "final_url": "https://www.jobs-ups.com/us/en"
+    },
+    {
+      "name": "DHL",
+      "group": "supply_chain",
+      "stage": 3,
+      "status": "shared_platform_candidate",
+      "resolved_by": null,
+      "provider": "phenom",
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://careers.dhl.com",
+          "http_status": 200,
+          "final_url": "https://careers.dhl.com/amer/en",
+          "result": "shared_platform_detected",
+          "provider": "phenom"
+        }
+      ],
+      "failure_reason": null,
+      "official_careers_url": "https://careers.dhl.com",
+      "final_url": "https://careers.dhl.com/amer/en"
+    }
+  ],
+  "remaining": [
     {
       "name": "Apple",
       "group": "tech",
@@ -35,11 +170,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_supported_ats_signature"
+          "url": "https://jobs.apple.com",
+          "http_status": null,
+          "final_url": "https://jobs.apple.com",
+          "result": "timeout",
+          "provider": null
         }
       ],
-      "failure_reason": null,
-      "official_careers_url": "https://jobs.apple.com"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://jobs.apple.com"
+      ]
     },
     {
       "name": "Amazon",
@@ -53,11 +194,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_supported_ats_signature"
+          "url": "https://www.amazon.jobs",
+          "http_status": 200,
+          "final_url": "https://www.amazon.jobs/en/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": null,
-      "official_careers_url": "https://www.amazon.jobs"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.amazon.jobs"
+      ]
     },
     {
       "name": "Meta",
@@ -71,29 +218,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_supported_ats_signature"
+          "url": "https://www.metacareers.com",
+          "http_status": 200,
+          "final_url": "https://www.metacareers.com/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": null,
-      "official_careers_url": "https://www.metacareers.com"
-    },
-    {
-      "name": "Oracle",
-      "group": "tech",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_supported_ats_signature"
-        }
-      ],
-      "failure_reason": null,
-      "official_careers_url": "https://careers.oracle.com"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.metacareers.com"
+      ]
     },
     {
       "name": "IBM",
@@ -110,7 +245,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "ServiceNow",
@@ -124,11 +259,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_supported_ats_signature"
+          "url": "https://careers.servicenow.com",
+          "http_status": 200,
+          "final_url": "https://careers.servicenow.com/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": null,
-      "official_careers_url": "https://careers.servicenow.com"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://careers.servicenow.com"
+      ]
     },
     {
       "name": "Atlassian",
@@ -145,7 +286,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Intuit",
@@ -162,7 +303,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Box",
@@ -179,7 +320,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Palo Alto Networks",
@@ -196,7 +337,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Fortinet",
@@ -213,7 +354,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Splunk",
@@ -230,7 +371,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "DocuSign",
@@ -247,7 +388,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Canva",
@@ -264,7 +405,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Veeva Systems",
@@ -281,7 +422,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Nutanix",
@@ -298,7 +439,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "NetApp",
@@ -315,7 +456,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Lenovo",
@@ -332,7 +473,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Uber",
@@ -349,7 +490,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Expedia Group",
@@ -366,7 +507,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Electronic Arts",
@@ -383,7 +524,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "TikTok",
@@ -400,7 +541,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "AMD",
@@ -417,25 +558,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
-    },
-    {
-      "name": "Samsung Electronics",
-      "group": "industrial",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_supported_ats_signature"
-        }
-      ],
-      "failure_reason": null,
-      "official_careers_url": "https://www.samsung.com/us/careers"
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Texas Instruments",
@@ -452,7 +575,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Micron Technology",
@@ -469,7 +592,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Lam Research",
@@ -486,7 +609,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Tokyo Electron",
@@ -503,7 +626,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Infineon Technologies",
@@ -520,7 +643,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Silicon Labs",
@@ -537,7 +660,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Cirrus Logic",
@@ -554,7 +677,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Synopsys",
@@ -571,7 +694,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Cadence Design Systems",
@@ -588,7 +711,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Arm",
@@ -605,7 +728,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Marvell Technology",
@@ -622,7 +745,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Microchip Technology",
@@ -639,7 +762,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Skyworks Solutions",
@@ -656,7 +779,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "onsemi",
@@ -673,7 +796,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Wolfspeed",
@@ -690,7 +813,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Western Digital",
@@ -707,7 +830,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Seagate Technology",
@@ -724,7 +847,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Ultra Clean Holdings",
@@ -741,7 +864,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Ichor Holdings",
@@ -758,7 +881,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Teradyne",
@@ -775,7 +898,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Keysight Technologies",
@@ -792,7 +915,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "National Instruments",
@@ -809,7 +932,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Celestica",
@@ -826,7 +949,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Sanmina",
@@ -843,7 +966,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Benchmark Electronics",
@@ -860,7 +983,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Foxconn",
@@ -877,7 +1000,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Pegatron",
@@ -894,7 +1017,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Compal Electronics",
@@ -911,7 +1034,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Schneider Electric",
@@ -928,7 +1051,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Siemens",
@@ -945,7 +1068,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Honeywell",
@@ -962,7 +1085,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Eaton",
@@ -979,7 +1102,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Lockheed Martin",
@@ -996,7 +1119,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "RTX",
@@ -1013,7 +1136,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Northrop Grumman",
@@ -1030,7 +1153,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "General Dynamics",
@@ -1047,7 +1170,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Firefly Aerospace",
@@ -1064,7 +1187,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Caterpillar",
@@ -1081,7 +1204,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Deere & Company",
@@ -1098,7 +1221,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Cummins",
@@ -1115,7 +1238,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Trane Technologies",
@@ -1132,7 +1255,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Johnson Controls",
@@ -1149,7 +1272,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Carrier Global",
@@ -1166,7 +1289,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "3M",
@@ -1183,7 +1306,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Corning",
@@ -1200,7 +1323,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Parker Hannifin",
@@ -1217,7 +1340,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "TE Connectivity",
@@ -1234,7 +1357,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Bosch",
@@ -1251,7 +1374,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Rivian",
@@ -1268,7 +1391,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Ford Motor Company",
@@ -1285,7 +1408,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Tesla",
@@ -1299,11 +1422,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_supported_ats_signature"
+          "url": "https://www.tesla.com/careers",
+          "http_status": 403,
+          "final_url": "https://www.tesla.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": null,
-      "official_careers_url": "https://www.tesla.com/careers"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.tesla.com/careers"
+      ]
     },
     {
       "name": "Ericsson",
@@ -1320,7 +1449,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Canon",
@@ -1337,7 +1466,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "SAP",
@@ -1351,11 +1480,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_supported_ats_signature"
+          "url": "https://jobs.sap.com",
+          "http_status": 200,
+          "final_url": "https://jobs.sap.com/en/",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": null,
-      "official_careers_url": "https://jobs.sap.com"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://jobs.sap.com"
+      ]
     },
     {
       "name": "Kinaxis",
@@ -1369,29 +1504,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_supported_ats_signature"
+          "url": "https://www.kinaxis.com/en/careers",
+          "http_status": 200,
+          "final_url": "https://www.kinaxis.com/en/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": null,
-      "official_careers_url": "https://www.kinaxis.com/en/careers"
-    },
-    {
-      "name": "Blue Yonder",
-      "group": "supply_chain",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_supported_ats_signature"
-        }
-      ],
-      "failure_reason": null,
-      "official_careers_url": "https://careers.blueyonder.com"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.kinaxis.com/en/careers"
+      ]
     },
     {
       "name": "Manhattan Associates",
@@ -1405,11 +1528,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_supported_ats_signature"
+          "url": "https://www.manh.com/company/careers",
+          "http_status": 404,
+          "final_url": "https://www.manh.com/company/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": null,
-      "official_careers_url": "https://www.manh.com/company/careers"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.manh.com/company/careers"
+      ]
     },
     {
       "name": "Infor",
@@ -1426,7 +1555,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "E2open",
@@ -1440,11 +1569,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_supported_ats_signature"
+          "url": "https://www.e2open.com/careers",
+          "http_status": 200,
+          "final_url": "https://www.e2open.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": null,
-      "official_careers_url": "https://www.e2open.com/careers"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://www.e2open.com/careers"
+      ]
     },
     {
       "name": "Descartes Systems Group",
@@ -1461,7 +1596,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "GXO Logistics",
@@ -1475,11 +1610,17 @@
       "attempts": [
         {
           "stage": 2,
-          "result": "no_supported_ats_signature"
+          "url": "https://gxo.com/careers",
+          "http_status": 403,
+          "final_url": "https://gxo.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
         }
       ],
-      "failure_reason": null,
-      "official_careers_url": "https://gxo.com/careers"
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://gxo.com/careers"
+      ]
     },
     {
       "name": "XPO",
@@ -1496,7 +1637,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Schneider National",
@@ -1513,7 +1654,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Werner Enterprises",
@@ -1530,7 +1671,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Old Dominion Freight Line",
@@ -1547,43 +1688,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
-    },
-    {
-      "name": "UPS",
-      "group": "supply_chain",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_supported_ats_signature"
-        }
-      ],
-      "failure_reason": null,
-      "official_careers_url": "https://www.jobs-ups.com"
-    },
-    {
-      "name": "DHL",
-      "group": "supply_chain",
-      "stage": 3,
-      "status": "needs_generic_endpoint",
-      "resolved_by": null,
-      "provider": null,
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "result": "no_supported_ats_signature"
-        }
-      ],
-      "failure_reason": null,
-      "official_careers_url": "https://careers.dhl.com"
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Kuehne+Nagel",
@@ -1600,7 +1705,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "DSV",
@@ -1617,7 +1722,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "CEVA Logistics",
@@ -1634,7 +1739,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "GEODIS",
@@ -1651,7 +1756,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Expeditors International",
@@ -1668,7 +1773,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "ShipBob",
@@ -1685,7 +1790,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Dematic",
@@ -1702,7 +1807,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Swisslog",
@@ -1719,7 +1824,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Körber Supply Chain",
@@ -1736,7 +1841,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Zebra Technologies",
@@ -1753,7 +1858,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Tecsys",
@@ -1770,7 +1875,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "MuleSoft",
@@ -1787,7 +1892,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Informatica",
@@ -1804,7 +1909,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Qlik",
@@ -1821,7 +1926,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Deloitte",
@@ -1838,7 +1943,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Capgemini",
@@ -1855,7 +1960,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "EY",
@@ -1872,7 +1977,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Cognizant",
@@ -1889,7 +1994,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Infosys",
@@ -1906,7 +2011,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "EPAM Systems",
@@ -1923,7 +2028,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Slalom",
@@ -1940,7 +2045,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Wipro",
@@ -1957,7 +2062,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Tata Consultancy Services",
@@ -1974,7 +2079,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "HCLTech",
@@ -1991,7 +2096,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "NTT DATA",
@@ -2008,7 +2113,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "CGI",
@@ -2025,7 +2130,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Booz Allen Hamilton",
@@ -2042,7 +2147,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "SAIC",
@@ -2059,7 +2164,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "West Monroe",
@@ -2076,7 +2181,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Publicis Sapient",
@@ -2093,7 +2198,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Perficient",
@@ -2110,7 +2215,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Protiviti",
@@ -2127,7 +2232,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "RSM US",
@@ -2144,7 +2249,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "BDO USA",
@@ -2161,7 +2266,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Bain & Company",
@@ -2178,7 +2283,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Boston Consulting Group",
@@ -2195,7 +2300,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "McKinsey & Company",
@@ -2212,7 +2317,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Kearney",
@@ -2229,7 +2334,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Genpact",
@@ -2246,7 +2351,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Globant",
@@ -2263,7 +2368,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Costco",
@@ -2280,7 +2385,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "H-E-B",
@@ -2297,7 +2402,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Whole Foods Market",
@@ -2314,7 +2419,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "PepsiCo",
@@ -2331,7 +2436,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Procter & Gamble",
@@ -2348,7 +2453,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Colgate-Palmolive",
@@ -2365,7 +2470,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Best Buy",
@@ -2382,7 +2487,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Chewy",
@@ -2399,7 +2504,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Wayfair",
@@ -2416,7 +2521,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Kroger",
@@ -2433,7 +2538,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Albertsons",
@@ -2450,7 +2555,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Walgreens Boots Alliance",
@@ -2467,7 +2572,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Dollar General",
@@ -2484,7 +2589,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "TJX Companies",
@@ -2501,7 +2606,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Ross Stores",
@@ -2518,7 +2623,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Macy's",
@@ -2535,7 +2640,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Lululemon",
@@ -2552,7 +2657,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "YETI",
@@ -2569,7 +2674,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Tractor Supply",
@@ -2586,7 +2691,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "AutoZone",
@@ -2603,7 +2708,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "O'Reilly Automotive",
@@ -2620,7 +2725,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Shopify",
@@ -2637,7 +2742,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "DoorDash",
@@ -2654,7 +2759,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Coca-Cola",
@@ -2671,7 +2776,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Keurig Dr Pepper",
@@ -2688,7 +2793,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Kraft Heinz",
@@ -2705,7 +2810,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "General Mills",
@@ -2722,7 +2827,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Mondelez International",
@@ -2739,7 +2844,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Nestlé USA",
@@ -2756,7 +2861,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Hershey",
@@ -2773,7 +2878,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Hormel Foods",
@@ -2790,7 +2895,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Charles Schwab",
@@ -2807,7 +2912,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Global Payments",
@@ -2824,7 +2929,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "American Express",
@@ -2841,7 +2946,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "JPMorgan Chase",
@@ -2858,7 +2963,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Bank of America",
@@ -2875,7 +2980,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Wells Fargo",
@@ -2892,7 +2997,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Goldman Sachs",
@@ -2909,7 +3014,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Morgan Stanley",
@@ -2926,7 +3031,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Progressive",
@@ -2943,7 +3048,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Liberty Mutual",
@@ -2960,7 +3065,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "State Farm",
@@ -2977,7 +3082,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Berkshire Hathaway",
@@ -2994,7 +3099,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "UnitedHealth Group",
@@ -3011,7 +3116,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Optum",
@@ -3028,7 +3133,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Cencora",
@@ -3045,7 +3150,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Thermo Fisher Scientific",
@@ -3062,7 +3167,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Boston Scientific",
@@ -3079,7 +3184,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Becton Dickinson",
@@ -3096,7 +3201,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Johnson & Johnson",
@@ -3113,7 +3218,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Merck & Co.",
@@ -3130,7 +3235,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Eli Lilly",
@@ -3147,7 +3252,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Gilead Sciences",
@@ -3164,7 +3269,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Moderna",
@@ -3181,7 +3286,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Quest Diagnostics",
@@ -3198,7 +3303,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "HCA Healthcare",
@@ -3215,7 +3320,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Ascension",
@@ -3232,7 +3337,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Baylor Scott & White Health",
@@ -3249,7 +3354,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "St. David's HealthCare",
@@ -3266,7 +3371,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Austin Regional Clinic",
@@ -3283,7 +3388,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Q2 Holdings",
@@ -3300,7 +3405,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Texas Mutual Insurance",
@@ -3317,7 +3422,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "TransPak",
@@ -3334,7 +3439,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Lower Colorado River Authority",
@@ -3351,7 +3456,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Austin Energy",
@@ -3368,7 +3473,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "SHI International",
@@ -3385,7 +3490,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "NinjaOne",
@@ -3402,7 +3507,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     },
     {
       "name": "Planview",
@@ -3419,7 +3524,7 @@
           "result": "no_curated_careers_url"
         }
       ],
-      "failure_reason": null
+      "failure_reason": "no_curated_careers_url"
     }
   ]
-}
+}\n
