@@ -402,3 +402,27 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://jobs.ashbyhq.com/lendable/a97d2289-6240-419e-aad1-fc2b41ad527a | lendable | Financial Crimes Program Manager
 - [ ] https://jobs.ashbyhq.com/light/7128356c-f87a-453c-8154-8ae1c9201a13 | Light | Sales, Enterprise
 - [ ] https://jobs.ashbyhq.com/level/6cde4fa0-c435-4065-ba02-8ada5293d884 | Level | Technical Product Manager, Learning Science
+
+- [ ] https://jobs.ashbyhq.com/livekit/904b69f9-802e-43f4-9378-dfe7a577145c | LiveKit | Senior Product Operations Manager
+- [ ] https://jobs.ashbyhq.com/lumos/dd7f3e8b-cd72-402f-be52-3c102285599b | Lumos | Enterprise Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/magiceden/1bde0a10-11c5-4b21-8cef-983e77eb3722 | Magic Eden | Senior Growth Product Manager, AI-Native
+- [ ] https://jobs.ashbyhq.com/maintainx/306711b6-9485-40b9-be32-00552f3da09c | MaintainX | Enterprise Account Director - Central
+- [ ] https://jobs.ashbyhq.com/maintainx/f3c7ba93-0ce4-459f-8828-d1157387a70b | MaintainX | Manager, Inside Sales - Enterprise
+- [ ] https://jobs.ashbyhq.com/maintainx/07fc88e3-a5f8-4684-9105-4547e5e7e8ec | MaintainX | Inside Sales Representative - Enterprise
+- [ ] https://jobs.ashbyhq.com/maximustribe/3db9329b-416c-4af4-9293-43685bd0fd41 | Maximus Health, Inc. | Lead Growth Product Manager
+- [ ] https://jobs.ashbyhq.com/maybern/609b5bef-d9f9-4795-9b3c-050d4496ed68 | Maybern | Implementation Manager
+- [ ] https://jobs.ashbyhq.com/maya-htt/71bd03b3-225c-4521-9a01-89669d67c743 | maya-htt | Growth Marketing Program Manager
+- [ ] https://jobs.ashbyhq.com/medely/ebff736e-649d-4bbf-99d2-062e6b1c7255 | Medely | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/mento/9dc5945c-6edf-480c-8445-5bc2f94405d9 | Mento | Forward Deployment Engineer / Support Engineer (Director/Team Lead) Coach
+- [ ] https://jobs.ashbyhq.com/meridianlink/b6780633-9ef1-4e37-98ef-18a702749e23 | meridianlink | Product Manager, Consumer Lending Technology 
+- [ ] https://jobs.ashbyhq.com/meridianlink/a8bdd074-f6b0-42ef-85de-37f0b5c2c945 | meridianlink | Sr. Product Manager - Mortgage Lending Technology 
+- [ ] https://jobs.ashbyhq.com/miovision/84e78306-eb61-4397-b1d8-d54dfe4ee764 | miovision | Staff Product Manager
+- [ ] https://jobs.ashbyhq.com/monarchmoney/827aa0b5-9b7b-4527-974d-a1984c539612 | monarchmoney | Product Manager (Senior/Staff/Principal)
+- [ ] https://jobs.ashbyhq.com/nava-benefits/ffbef50e-b0e2-4d92-b883-e39fd8899395 | Nava Benefits | Product Manager
+- [ ] https://jobs.ashbyhq.com/Nash/23961208-3814-4cf7-9e08-e3034757a1f0 | Nash | Enterprise Solutions Consultant/Regional Launcher, LATAM
+- [ ] https://jobs.ashbyhq.com/ncontracts/b40a26da-f242-4a0c-9934-15afeffaaa60 | Ncontracts | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/neara/faf0cce7-d840-463a-94d7-b6bf883f614b | Neara | Commercial Director, Enterprise Accounts
+- [ ] https://jobs.ashbyhq.com/neara/16a4aacb-f371-482d-a576-f78d80f756eb | Neara | Technical Program Manager
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/Enterprise-Technical-Account-Manager_R171928 | Adobe (Workday) | Enterprise Technical Account Manager
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Illinois/Principal-Enterprise-Architect_R171035 | Adobe (Workday) | Principal Enterprise Architect
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Alberta/Senior-Enterprise-Architect_R169774 | Adobe (Workday) | Senior Enterprise Architect
