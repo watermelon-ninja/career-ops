@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T19:10:16.167Z",
-  "universe_boards": 29031,
-  "priority_companies": 351,
-  "covered_count": 151,
-  "needs_extra_work_count": 200,
+  "generated_at": "2026-10-14T19:16:15.777Z",
+  "universe_boards": 29047,
+  "priority_companies": 354,
+  "covered_count": 153,
+  "needs_extra_work_count": 201,
   "covered": [
     {
       "name": "Google",
@@ -1204,6 +1204,18 @@
       ]
     },
     {
+      "name": "Anduril",
+      "group": "industrial",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "https://job-boards.greenhouse.io/andurilindustries",
+          "name": "Anduril",
+          "configured": true
+        }
+      ]
+    },
+    {
       "name": "SpaceX",
       "group": "industrial",
       "boards": [
@@ -1358,6 +1370,18 @@
           "provider": "greenhouse",
           "slug": "fourkites",
           "name": "fourkites"
+        }
+      ]
+    },
+    {
+      "name": "OMP",
+      "group": "supply_chain",
+      "boards": [
+        {
+          "provider": "greenhouse",
+          "slug": "https://job-boards.greenhouse.io/ompexternaljobboards",
+          "name": "OMP",
+          "configured": true
         }
       ]
     },
@@ -1755,6 +1779,12 @@
           "provider": "greenhouse",
           "slug": "rfsmart",
           "name": "rfsmart"
+        },
+        {
+          "provider": "greenhouse",
+          "slug": "https://job-boards.greenhouse.io/rfsmart",
+          "name": "RF-SMART",
+          "configured": true
         }
       ]
     },
@@ -1824,6 +1854,12 @@
           "provider": "greenhouse",
           "slug": "celonis",
           "name": "celonis"
+        },
+        {
+          "provider": "greenhouse",
+          "slug": "https://job-boards.greenhouse.io/celonis",
+          "name": "Celonis",
+          "configured": true
         }
       ]
     },
@@ -3080,803 +3116,1008 @@
   "needs_extra_work": [
     {
       "name": "Microsoft",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Apple",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Amazon",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Meta",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Oracle",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "IBM",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "ServiceNow",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Atlassian",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Intuit",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Box",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Palo Alto Networks",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Fortinet",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Splunk",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "DocuSign",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Canva",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Veeva Systems",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Nutanix",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "NetApp",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Lenovo",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Uber",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Expedia Group",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Electronic Arts",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "TikTok",
-      "group": "tech"
+      "group": "tech",
+      "status": "needs_resolution"
     },
     {
       "name": "Applied Materials",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "AMD",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Samsung Electronics",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Texas Instruments",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Micron Technology",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Lam Research",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Tokyo Electron",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Infineon Technologies",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Silicon Labs",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Cirrus Logic",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Synopsys",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Cadence Design Systems",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Arm",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Marvell Technology",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Microchip Technology",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Skyworks Solutions",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "onsemi",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Wolfspeed",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Western Digital",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Seagate Technology",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Ultra Clean Holdings",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Ichor Holdings",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Teradyne",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Keysight Technologies",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "National Instruments",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Celestica",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Sanmina",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Benchmark Electronics",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Foxconn",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Pegatron",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Compal Electronics",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Schneider Electric",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Siemens",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Honeywell",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Eaton",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Lockheed Martin",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "RTX",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Northrop Grumman",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "General Dynamics",
-      "group": "industrial"
-    },
-    {
-      "name": "Anduril",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Firefly Aerospace",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Caterpillar",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Deere & Company",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Cummins",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Trane Technologies",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Johnson Controls",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Carrier Global",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "3M",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Corning",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Parker Hannifin",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "TE Connectivity",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Bosch",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Rivian",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "Ford Motor Company",
-      "group": "industrial"
+      "group": "industrial",
+      "status": "needs_resolution"
+    },
+    {
+      "name": "Tesla",
+      "group": "industrial",
+      "status": "needs_resolution"
+    },
+    {
+      "name": "Ericsson",
+      "group": "industrial",
+      "status": "needs_resolution"
+    },
+    {
+      "name": "Canon",
+      "group": "industrial",
+      "status": "needs_resolution"
     },
     {
       "name": "SAP",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Kinaxis",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Blue Yonder",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Manhattan Associates",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Infor",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "E2open",
-      "group": "supply_chain"
-    },
-    {
-      "name": "OMP",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Descartes Systems Group",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "GXO Logistics",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "XPO",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Schneider National",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Werner Enterprises",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Old Dominion Freight Line",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "UPS",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "DHL",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Kuehne+Nagel",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "DSV",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "CEVA Logistics",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "GEODIS",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Expeditors International",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "ShipBob",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Dematic",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Swisslog",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Körber Supply Chain",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Zebra Technologies",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Tecsys",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "MuleSoft",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Informatica",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Qlik",
-      "group": "supply_chain"
+      "group": "supply_chain",
+      "status": "needs_resolution"
     },
     {
       "name": "Deloitte",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Capgemini",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "EY",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Cognizant",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Infosys",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "EPAM Systems",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Slalom",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Wipro",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Tata Consultancy Services",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "HCLTech",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "NTT DATA",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "CGI",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Booz Allen Hamilton",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "SAIC",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "West Monroe",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Publicis Sapient",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Perficient",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Protiviti",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "RSM US",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "BDO USA",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Bain & Company",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Boston Consulting Group",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "McKinsey & Company",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Kearney",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Genpact",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Globant",
-      "group": "consulting"
+      "group": "consulting",
+      "status": "needs_resolution"
     },
     {
       "name": "Costco",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "H-E-B",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Whole Foods Market",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "PepsiCo",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Procter & Gamble",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Colgate-Palmolive",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Best Buy",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Chewy",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Wayfair",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Kroger",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Albertsons",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Walgreens Boots Alliance",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Dollar General",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "TJX Companies",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Ross Stores",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Macy's",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Lululemon",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "YETI",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Tractor Supply",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "AutoZone",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "O'Reilly Automotive",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Shopify",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "DoorDash",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Coca-Cola",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Keurig Dr Pepper",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Kraft Heinz",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "General Mills",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Mondelez International",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Nestlé USA",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Hershey",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Hormel Foods",
-      "group": "retail"
+      "group": "retail",
+      "status": "needs_resolution"
     },
     {
       "name": "Charles Schwab",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Global Payments",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "American Express",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "JPMorgan Chase",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Bank of America",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Wells Fargo",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Goldman Sachs",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Morgan Stanley",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Progressive",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Liberty Mutual",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "State Farm",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Berkshire Hathaway",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "UnitedHealth Group",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Optum",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Cencora",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Thermo Fisher Scientific",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Boston Scientific",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Becton Dickinson",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Johnson & Johnson",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Merck & Co.",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Eli Lilly",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Gilead Sciences",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Moderna",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Quest Diagnostics",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "HCA Healthcare",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Ascension",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Baylor Scott & White Health",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "St. David's HealthCare",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Austin Regional Clinic",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Q2 Holdings",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Texas Mutual Insurance",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "TransPak",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Lower Colorado River Authority",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Austin Energy",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "SHI International",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "NinjaOne",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     },
     {
       "name": "Planview",
-      "group": "finance_health_local"
+      "group": "finance_health_local",
+      "status": "needs_resolution"
     }
   ]
 }
