@@ -46,6 +46,10 @@ function detectApi(company) {
 
   const url = company.careers_url || '';
 
+  // SmartRecruiters public Posting API.
+  const srMatch = url.match(/^https?:\/\/careers\.smartrecruiters\.com\/([^/?#]+)/i);
+  if (srMatch) return { type: 'smartrecruiters', url: `https://api.smartrecruiters.com/v1/companies/${srMatch[1]}/postings`, slug: srMatch[1] };
+
   // Workday CXS: preserve the tenant, shard and career-site slug from a real URL.
   const wdMatch = url.match(/^https?:\/\/([a-z0-9-]+)\.(wd[0-9]+)\.myworkdayjobs\.com\/(?:[a-z]{2}-[A-Z]{2}\/)?([^/?#]+)/i);
   if (wdMatch) {
@@ -234,6 +238,7 @@ function parseTeamtailor(json, companyName) {
 async function fetchWorkdayJobs(api, companyName) {
   const pageSize = 20, maxPages = 25;
   const jobs = [];
+  let firstPageTotal = null;
   for (let page = 0; page < maxPages; page++) {
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
@@ -248,6 +253,7 @@ async function fetchWorkdayJobs(api, companyName) {
       if (!response.ok) throw new Error(`Workday HTTP ${response.status}`);
       json = await response.json();
     } finally { clearTimeout(timer); }
+    if (page === 0 && Number.isFinite(json.total) && json.total > 0) firstPageTotal = json.total;
     const postings = json.jobPostings || [];
     for (const j of postings) {
       if (!j.externalPath) continue;
@@ -258,8 +264,29 @@ async function fetchWorkdayJobs(api, companyName) {
         location: j.locationsText || j.bulletFields?.join(' / ') || '',
       });
     }
-    if (postings.length < pageSize || (Number.isFinite(json.total) && (page + 1) * pageSize >= json.total)) break;
+    if (postings.length < pageSize || (firstPageTotal !== null && (page + 1) * pageSize >= firstPageTotal)) break;
     if (page === maxPages - 1) console.log(`Workday ${companyName}: reached ${maxPages * pageSize}-job safety cap; board is partially scanned`);
+  }
+  return jobs;
+}
+
+async function fetchSmartRecruitersJobs(api, companyName) {
+  const pageSize = 100, maxPages = 10;
+  const jobs = [];
+  for (let page = 0; page < maxPages; page++) {
+    const json = await fetchJson(`${api.url}?limit=${pageSize}&offset=${page * pageSize}`);
+    const postings = json.content || [];
+    for (const j of postings) {
+      const loc = j.location || {};
+      jobs.push({
+        title: j.name || '',
+        url: j.ref || (j.id ? `https://jobs.smartrecruiters.com/${api.slug}/${j.id}` : ''),
+        company: companyName,
+        location: [loc.city, loc.region, loc.country].filter(Boolean).join(', ') || (loc.remote ? 'Remote' : ''),
+      });
+    }
+    if (postings.length < pageSize || (Number.isFinite(json.totalFound) && (page + 1) * pageSize >= json.totalFound)) break;
+    if (page === maxPages - 1) console.log(`SmartRecruiters ${companyName}: reached ${maxPages * pageSize}-job safety cap`);
   }
   return jobs;
 }
@@ -494,10 +521,12 @@ async function main() {
     try {
       const jobs = type === 'workday'
         ? await fetchWorkdayJobs(company._api, company.name)
-        : PARSERS[type](await fetchJson(url), company.name);
+        : type === 'smartrecruiters'
+          ? await fetchSmartRecruitersJobs(company._api, company.name)
+          : PARSERS[type](await fetchJson(url), company.name);
       totalFound += jobs.length;
       providerStats.get(type).jobs += jobs.length;
-      if (type === 'workday') console.log(`Workday board: ${company.name} — ${jobs.length} jobs returned`);
+      if (type === 'workday' || type === 'smartrecruiters') console.log(`${type} board: ${company.name} — ${jobs.length} jobs returned`);
 
       for (const job of jobs) {
         if (!titleFilter(job.title)) {
