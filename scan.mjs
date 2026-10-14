@@ -46,6 +46,13 @@ function detectApi(company) {
 
   const url = company.careers_url || '';
 
+  // Workday CXS: preserve the tenant, shard and career-site slug from a real URL.
+  const wdMatch = url.match(/^https?:\/\/([a-z0-9-]+)\.(wd[0-9]+)\.myworkdayjobs\.com\/(?:[a-z]{2}-[A-Z]{2}\/)?([^/?#]+)/i);
+  if (wdMatch) {
+    const [, tenant, shard, site] = wdMatch;
+    return { type: 'workday', url: `https://${tenant}.${shard}.myworkdayjobs.com/wday/cxs/${tenant}/${site}/jobs`, origin: `https://${tenant}.${shard}.myworkdayjobs.com`, site };
+  }
+
   // Ashby
   const ashbyMatch = url.match(/jobs\.ashbyhq\.com\/([^/?#]+)/);
   if (ashbyMatch) {
@@ -213,6 +220,41 @@ function parseTeamtailor(json, companyName) {
       return [a.addressLocality, a.addressRegion, a.addressCountry].filter(Boolean).join(', ');
     }).filter(Boolean).join(' / ') || (j._jobposting?.jobLocationType === 'TELECOMMUTE' ? 'Remote' : ''),
   }));
+}
+
+// Workday only allows up to 20 results per CXS page. Keep requests bounded
+// to avoid spending the whole Actions run on a single very large employer.
+async function fetchWorkdayJobs(api, companyName) {
+  const pageSize = 20, maxPages = 25;
+  const jobs = [];
+  for (let page = 0; page < maxPages; page++) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+    let json;
+    try {
+      const response = await fetch(api.url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify({ appliedFacets: {}, limit: pageSize, offset: page * pageSize, searchText: '' }),
+        signal: controller.signal,
+      });
+      if (!response.ok) throw new Error(`Workday HTTP ${response.status}`);
+      json = await response.json();
+    } finally { clearTimeout(timer); }
+    const postings = json.jobPostings || [];
+    for (const j of postings) {
+      if (!j.externalPath) continue;
+      jobs.push({
+        title: j.title || '',
+        url: `${api.origin}/${api.site}${j.externalPath.startsWith('/') ? '' : '/'}${j.externalPath}`,
+        company: companyName,
+        location: j.locationsText || j.bulletFields?.join(' / ') || '',
+      });
+    }
+    if (postings.length < pageSize || (Number.isFinite(json.total) && (page + 1) * pageSize >= json.total)) break;
+    if (page === maxPages - 1) console.log(`Workday ${companyName}: reached ${maxPages * pageSize}-job safety cap; board is partially scanned`);
+  }
+  return jobs;
 }
 
 const PARSERS = { greenhouse: parseGreenhouse, ashby: parseAshby, lever: parseLever, teamtailor: parseTeamtailor };
@@ -437,8 +479,9 @@ async function main() {
   const tasks = targets.map(company => async () => {
     const { type, url } = company._api;
     try {
-      const json = await fetchJson(url);
-      const jobs = PARSERS[type](json, company.name);
+      const jobs = type === 'workday'
+        ? await fetchWorkdayJobs(company._api, company.name)
+        : PARSERS[type](await fetchJson(url), company.name);
       totalFound += jobs.length;
 
       for (const job of jobs) {
