@@ -1,16 +1,18 @@
 {
-  "generated_at": "2026-10-14T20:54:08.658Z",
+  "generated_at": "2026-10-14T22:26:01.461Z",
   "layer": 3,
   "input_count": 97,
-  "identified_at_layer_3": 57,
+  "identified_at_layer_3": 56,
   "full_jd_verified_at_layer_3": 0,
-  "unresolved_after_layer_3": 40,
+  "fit_scoring_eligible_at_layer_3": 0,
+  "unresolved_after_layer_3": 41,
+  "jd_read_gate": "Only jd_fetch_status=full with substantive responsibilities and qualifications may set full_jd_verified=true and fit_scoring_eligible=true.",
   "provider_counts": {
     "eightfold": 15,
     "oracle_recruiting_cloud": 11,
     "phenom": 10,
     "icims": 8,
-    "successfactors": 8,
+    "successfactors": 7,
     "workday": 4,
     "greenhouse": 1
   },
@@ -135,7 +137,11 @@
       "final_url": "https://apply.careers.microsoft.com/careers",
       "platform_evidence": [
         "eightfold"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Oracle",
@@ -221,7 +227,11 @@
       "final_url": "https://careers.oracle.com/en/sites/jobsearch",
       "platform_evidence": [
         "sites/jobsearch"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Splunk",
@@ -325,7 +335,11 @@
       "final_url": "https://careers.cisco.com/global/en/splunk",
       "platform_evidence": [
         "phenompeople.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "DocuSign",
@@ -429,7 +443,11 @@
       "final_url": "https://careers.docusign.com/careers-home",
       "platform_evidence": [
         "icims"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "NetApp",
@@ -482,7 +500,7 @@
         {
           "url": "https://internal-careers.netapp.com/",
           "status": 200,
-          "final_url": "https://login.microsoftonline.com/4b0911a0-929b-4715-944b-c03745165b3a/saml2?SAMLRequest=jZDLboMwEEX3%2bQrLe%2bMHIYAFRJG6iZRsmqqquqkcMAQp2NRjSvr3ddKHumu3I507595ifRnO6E076K0pMY8YRtrUtulNV%2bLJt4Sv8LpaFJvJn8y9fp00eBQYA%2fICfYlP3o%2bS0nmeozmOrOuoYIzTp%2f3uUJ%2f0oEhvwCtTa%2fxDNX9TGG3vSvxy1KlOBGtJnucxWbI0J9kyOZI2TVTNVNLGnGP0%2bG0vrvZbgElvb099ODGxIpwRvnwQTCaxFGnEsiwRmXj%2bMgo1nZFWQQ%2fSqEGD9LU8bPY7GfLk6Ky3tT3jaoFQcQt3%2f%2bEUgHY%2baOHqWhZC27PtehM51YQ53iOjPYWxoJ%2bRYWH6e%2bLqAw%3d%3d&RelayState=https%3a%2f%2finternal-careers.netapp.com%2f",
+          "final_url": "https://login.microsoftonline.com/4b0911a0-929b-4715-944b-c03745165b3a/saml2?SAMLRequest=jZDJasMwFEX3%2bQqhvazBiRuE7RDoJpBsmlJKN0WW5QFsKdWT6%2fTvq6QD2bVLCc595958cx4H9G489M4WmCcMI2O1q3vbFngKDeEZ3pSLfDuFzj6Yt8lAQJGxIM%2fQF7gL4SQpnec5mdPE%2bZYKxjh9PuyPujOjIr2FoKw2%2bJeq%2f6Yw2t0X%2bFWlvFFNpUjKdEWWtaqIatZpfC614OuKqabG6OnHXlzsdwCT2V2PhvjFREY4I3z5KIQUK8nvEp6usjQTL99Gsaa30inoQVo1GpBBy%2bP2sJcxT568C067AZcLhPJruP8PpwCMD1ELl5eyENsOru1t4lUd5%2fhIrAkUTjn9iowL09uJy08%3d&RelayState=https%3a%2f%2finternal-careers.netapp.com%2f",
           "error": null
         },
         {
@@ -534,7 +552,11 @@
       "platform_evidence": [
         "eightfold.ai",
         "/careers/jobs"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Uber",
@@ -638,7 +660,11 @@
       "final_url": "https://jobs.uber.com/en/",
       "platform_evidence": [
         "oraclecloud.com/hcmUI/CandidateExperience"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "AMD",
@@ -742,7 +768,11 @@
       "final_url": "https://www.amd.com/en/corporate/careers.html?utm_campaign=careers&utm_medium=redirect&utm_source=301",
       "platform_evidence": [
         "icims.com/jobs"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Micron Technology",
@@ -846,7 +876,11 @@
       "final_url": "https://www.micron.com/about/careers",
       "platform_evidence": [
         "eightfold.ai"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Lam Research",
@@ -950,7 +984,11 @@
       "final_url": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
       "platform_evidence": [
         "eightfold.ai"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Infineon Technologies",
@@ -1054,7 +1092,11 @@
       "final_url": "https://www.infineon.com/careers",
       "platform_evidence": [
         "Eightfold"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Arm",
@@ -1158,7 +1200,11 @@
       "final_url": "https://careers.arm.com/",
       "platform_evidence": [
         "careers-arm.icims.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "onsemi",
@@ -1262,7 +1308,11 @@
       "final_url": "https://www.onsemi.com/careers",
       "platform_evidence": [
         "oraclecloud.com/hcmUI/CandidateExperience"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Teradyne",
@@ -1366,7 +1416,11 @@
       "final_url": "https://jobs.teradyne.com/teradyne",
       "platform_evidence": [
         "successfactors.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Honeywell",
@@ -1471,7 +1525,11 @@
       "platform_evidence": [
         "oraclecloud.com/hcmUI/CandidateExperience",
         "CandidateExperience"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Eaton",
@@ -1575,7 +1633,11 @@
       "final_url": "https://www.eaton.com/us/en-us/company/careers.html",
       "platform_evidence": [
         "eightfold.ai"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Lockheed Martin",
@@ -1680,7 +1742,11 @@
       "platform_evidence": [
         "eightfold",
         "eightfold.ai"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Northrop Grumman",
@@ -1727,7 +1793,7 @@
         {
           "url": "https://ngc.eightfold.ai/careerhub",
           "status": 200,
-          "final_url": "https://ngc-fin.amer.myngc.com/adfs/ls?SAMLRequest=fVLLbsIwELzzFVHueZHysggVBdoiUYiA9tALMo4NlhI79Tpt%2BfvaAdpyAN%2FWnpndmXUfcJGXaFjpvVjSj4qCbjjOd5ELQPVT4lZKIImBAxK4oIA0Qavhyww1%2FRCVSmpJZO5ekG5zMABVmkthSdNx4i7mk9niaTrfdDNGek3CaNzrtrpxp4NxmzDW2rI4jsNt1o06nbhFQkt8owqMRuIaSVs7TqrkJ8%2BompuOiTvhu71mMs%2FqLgAVnQrQWGjDCJttLwq96G7dDFErRnH0blFjY54LrGvZvdYloCAQO%2BIxLnwjqvziYEqfyCLAGYMgB0tLTxk8cJFxsbttfnsEAXper1MvXazWVmJ4jmQkBVSm04qqT07o63J2MYlPz658zAMAucFmcfeYQHIazB3UWfTtGlBtWw2uCfSD%2F6g%2FXolshNNxKnNODvW9PY9SFVhftxf5UX3DM4%2FVUFQJKCnhjNPM%2FZUZ5rn8GimKtdmSVhV1nWDQaByHufyJgx8%3D&RelayState=https%3A%2F%2Fngc.eightfold.ai%2Fcareerhub",
+          "final_url": "https://ngc-fin.amer.myngc.com/adfs/ls?SAMLRequest=fVJNU8IwEL3zKzq995MiJUNxEFCZQegAevDChDSFzLRJzaYq%2F96kgMoB9rab997u200fcFlUaFirPV%2FSj5qCalnWd1lwQM1TYteSI4GBAeK4pIAUQavhywyFro8qKZQgorAvSLc5GIBKxQQ3pOk4sRfzyWzxNJ1vYrztRXGnQ0mbdqMYtwmJch3dNml3erGPSRR3t2FoiG9UgtZIbC1pcstKpfhkGZVz3TGxJ2y3V7kosqYLQE2nHBTmSjP88M4JfCeI1mGIwg4K%2FXeDGmvzjGPVyO6VqgB5Ht8RJ2fc1aLSLQ86dYkoPZzl4BVgaOlpBw%2BMZ4zvbpvfHkGAntfr1EkXq7WRGJ5XMhIcat1pReUnI%2FR1ObuYxKVnVy5mHoDYYH24e0wgOQ1mD5pd9M0ZUGNbDq4J9L3%2FqD9ehcwKp%2BNUFIwcmrqJRyFLrK7bC9ygqbDMyRsoqjlUlLCc0cz%2BlRkWhfgaSYqVvpKSNbUtb9BqHYe5%2FImDHw%3D%3D&RelayState=https%3A%2F%2Fngc.eightfold.ai%2Fcareerhub",
           "error": null
         },
         {
@@ -1785,7 +1851,11 @@
       "platform_evidence": [
         "eightfold.ai",
         "eightfold"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Trane Technologies",
@@ -1889,7 +1959,11 @@
       "final_url": "https://careers.tranetechnologies.com/global/en/home",
       "platform_evidence": [
         "phenompeople.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Rivian",
@@ -1993,7 +2067,11 @@
       "final_url": "https://careers.rivian.com/careers-home/",
       "platform_evidence": [
         "careers-rivian.icims.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Blue Yonder",
@@ -2175,7 +2253,11 @@
       "final_url": "https://careers.blueyonder.com/us/en",
       "platform_evidence": [
         "phenompeople.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "UPS",
@@ -2357,7 +2439,11 @@
       "final_url": "https://www.jobs-ups.com/us/en",
       "platform_evidence": [
         "phenompeople.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "DHL",
@@ -2458,7 +2544,7 @@
         {
           "url": "https://careers.dhl.com",
           "status": 200,
-          "final_url": "https://careers.dhl.com/amer/en",
+          "final_url": "https://careers.dhl.com/eu/nl",
           "error": null
         },
         {
@@ -2468,45 +2554,45 @@
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/favicon.ico?v=1678288785938",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/favicon.ico?v=1678288902557",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/favicon.ico?v=1678288785938",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/favicon.ico?v=1678288902557",
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/h/apple-touch-icon.png",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/h/apple-touch-icon.png",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/h/apple-touch-icon.png",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/h/apple-touch-icon.png",
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/m/apple-touch-icon.png",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/m/apple-touch-icon.png",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/m/apple-touch-icon.png",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/m/apple-touch-icon.png",
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/apple-touch-icon-precomposed.png",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/apple-touch-icon-precomposed.png",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/apple-touch-icon-precomposed.png",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/apple-touch-icon-precomposed.png",
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/apple-touch-icon.png",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/apple-touch-icon.png",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/apple-touch-icon.png",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/apple-touch-icon.png",
           "error": null
         },
         {
-          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/splash.png",
+          "url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/splash.png",
           "status": 200,
-          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/en_amer/desktop/assets/images/l/splash.png",
+          "final_url": "https://cdn.phenompeople.com/CareerConnectResources/DPDHGLOBAL/nl_eu/desktop/assets/images/l/splash.png",
           "error": null
         },
         {
-          "url": "https://careers.dhl.com/amer/en/home",
+          "url": "https://careers.dhl.com/eu/nl/home",
           "status": 200,
-          "final_url": "https://careers.dhl.com/amer/en/home",
+          "final_url": "https://careers.dhl.com/eu/nl/home",
           "error": null
         },
         {
@@ -2539,7 +2625,11 @@
       "final_url": "https://careers.dhl.com/amer/en",
       "platform_evidence": [
         "phenompeople.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Wipro",
@@ -2643,7 +2733,11 @@
       "final_url": "https://careers.wipro.com/",
       "platform_evidence": [
         "successfactors.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "HCLTech",
@@ -2747,7 +2841,11 @@
       "final_url": "https://careers.hcltech.com/",
       "platform_evidence": [
         "successfactors.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "BDO USA",
@@ -2782,7 +2880,7 @@
         {
           "url": "https://www.bdo.com/signin?returnUrl=/careers",
           "status": 200,
-          "final_url": "https://login.bdo.com/bdousprdb2c.onmicrosoft.com/oauth2/v2.0/authorize?p=b2c_1a_signup_signin_bdocom&client_id=80433613-5089-459f-946a-dafacb6553ae&redirect_uri=https%3A%2F%2Fwww.bdo.com%2Fsignin-oidc&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=639276080130900383.YzBmMWJjYTEtM2U2NC00NTNlLThjZDAtNDNlOWZlNWQxOWY0YmI1Zjc1YjAtOTk3MC00ZjA1LThjMDktNzZjMWNhMjEwNWQx&state=CfDJ8N6aoaAL9plKvUiYjB8BSRqlllkprQ4TJRWDaODcSiXHn-c5fy2Is1rzvVVkQ1drQfbz93E34ptH9wk1cl9BE7xr-imvfQjLfFOmlse1JGqDCETTkmOO8D_lxToqR6wXKao9tGf4qdUOEWrzrDFFivJPeh33mVF2xhLqQUhfUd7jxj7P3ypszBaMHASg11070VuN6_tRRyrFUAI6cZ9v9_AWrZjcKMX46m3OvpqvG9EN5S_RGmktIZPIMaxggA7p93zP_EVkhe6MPTthi0dCRQfZD2GTd5NhXoBvd-eZ9bxzNLxtIVZPGG3Jlw3UcVGulADrNn0DQdDHYAsF-36OivwBuP3MDPfO1ZrAskSK4rDGl-HrR1Im6746eXFMo-n9CQ&x-client-SKU=ID_NET8_0&x-client-ver=7.1.2.0",
+          "final_url": "https://login.bdo.com/bdousprdb2c.onmicrosoft.com/oauth2/v2.0/authorize?p=b2c_1a_signup_signin_bdocom&client_id=80433613-5089-459f-946a-dafacb6553ae&redirect_uri=https%3A%2F%2Fwww.bdo.com%2Fsignin-oidc&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=639276135252029997.ZDkwMTljY2UtZDVmMC00MGM3LWI3MDEtOWQ1MmI3ZWNkY2M2YmU4ODE0NmItM2U1Zi00MDA5LWI4MzctMDc0ZmY1NjUxOGQy&state=CfDJ8N6aoaAL9plKvUiYjB8BSRoWTi0qbuFNrxT3__DJOHBjOIapA72B5wqMb4ofTXc2tJXBtqk1NbSkkKgCvzWj1XcWvW4ZjBAFnFx9BwmOHbRrF4Cpe_bAbRIlGD_sLwdlia_HiBEwNC-aTxtj7nM700O-l_TGmueoxKgHUQqin5WZ8zpbNK2oEDxC0AH_NqSTBmNU8H4CDd6MqBgRRB05k1NllA5ys-66S7a5bUvXT9r-OEYOsqIwLDaysH9fMRwq8B9haAJ5x_UrsKGeg1G-8r-gSHeHUsgbUIxRzON-8zlDhEB7kQ_s3efD5UtD1gfhTVsl-UgyPlSZFk6so8yMJuJJ0dLMXHhhllf8ubgFsEts3gs7QdtaMdzrsftfPryo6A&x-client-SKU=ID_NET8_0&x-client-ver=7.1.2.0",
           "error": null
         },
         {
@@ -2833,7 +2931,11 @@
       "final_url": "https://www.bdo.com/careers",
       "platform_evidence": [
         "oraclecloud.com/hcmUI/CandidateExperience"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Procter & Gamble",
@@ -2937,7 +3039,11 @@
       "final_url": "https://www.pgcareers.com/us/en",
       "platform_evidence": [
         "phenompeople.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Chewy",
@@ -3041,7 +3147,11 @@
       "final_url": "https://careers.chewy.com/us/en/home",
       "platform_evidence": [
         "phenompeople.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Albertsons",
@@ -3091,7 +3201,11 @@
       "final_url": "https://www.albertsons.com/careers.html",
       "platform_evidence": [
         "oraclecloud.com/hcmUI/CandidateExperience"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Dollar General",
@@ -3195,7 +3309,11 @@
       "final_url": "https://careers.dollargeneral.com/",
       "platform_evidence": [
         "oraclecloud.com/hcmUI/CandidateExperience"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Macy's",
@@ -3239,7 +3357,11 @@
       "final_url": "https://www.macys.com/customer-service/articles/job-and-career-opportunities",
       "platform_evidence": [
         "oraclecloud.com/hcmUI/CandidateExperience"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Tractor Supply",
@@ -3343,7 +3465,11 @@
       "final_url": "https://www.tractorsupply.careers/",
       "platform_evidence": [
         "successfactors.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Hormel Foods",
@@ -3435,7 +3561,11 @@
       "final_url": "https://www.hormelfoods.com/careers/",
       "platform_evidence": [
         "oraclecloud.com/hcmUI/CandidateExperience"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "JPMorgan Chase",
@@ -3539,7 +3669,11 @@
       "final_url": "https://www.jpmorganchase.com/careers",
       "platform_evidence": [
         "oraclecloud.com/hcmUI/CandidateExperience"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "State Farm",
@@ -3644,7 +3778,11 @@
       "platform_evidence": [
         "icims.com/jobs",
         "iCIMS"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Cencora",
@@ -3748,7 +3886,11 @@
       "final_url": "https://careers.cencora.com/us/en",
       "platform_evidence": [
         "phenompeople.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Boston Scientific",
@@ -3852,7 +3994,11 @@
       "final_url": "https://www.bostonscientific.com/en-US/careers.html",
       "platform_evidence": [
         "eightfold.ai"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Quest Diagnostics",
@@ -3956,7 +4102,11 @@
       "final_url": "https://careers.questdiagnostics.com/",
       "platform_evidence": [
         "oraclecloud.com/hcmUI/CandidateExperience"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Amazon",
@@ -4061,7 +4211,11 @@
       ],
       "platform_evidence": [
         "icims"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Skyworks Solutions",
@@ -4166,7 +4320,11 @@
       ],
       "platform_evidence": [
         "successfactors.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Carrier Global",
@@ -4217,7 +4375,11 @@
       ],
       "platform_evidence": [
         "https://carrier.wd5.myworkdayjobs.com/jobs/login"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "SAP",
@@ -4322,7 +4484,11 @@
       ],
       "platform_evidence": [
         "jobs.sap.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Kinaxis",
@@ -4397,7 +4563,11 @@
       ],
       "platform_evidence": [
         "careers-kinaxis.icims.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Manhattan Associates",
@@ -4442,112 +4612,11 @@
       ],
       "platform_evidence": [
         "https://manh.wd5.myworkdayjobs.com/en-US/External/jobs"
-      ]
-    },
-    {
-      "name": "GXO Logistics",
-      "group": "supply_chain",
-      "stage": 3,
-      "status": "platform_identified_deep",
-      "resolved_by": null,
-      "provider": "successfactors",
-      "endpoint": null,
-      "full_jd_verified": false,
-      "attempts": [
-        {
-          "stage": 2,
-          "url": "https://gxo.com/careers",
-          "http_status": 403,
-          "final_url": "https://gxo.com/careers",
-          "result": "no_supported_ats_signature",
-          "provider": null
-        },
-        {
-          "url": "https://gxo.com/careers",
-          "status": 200,
-          "final_url": "https://gxo.com/careers/",
-          "error": null
-        },
-        {
-          "url": "https://gxo.com/careers/",
-          "status": 200,
-          "final_url": "https://gxo.com/careers/",
-          "error": null
-        },
-        {
-          "url": "https://gxo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgxo.com%2Fcareers%2F",
-          "status": 403,
-          "final_url": "https://gxo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgxo.com%2Fcareers%2F",
-          "error": null
-        },
-        {
-          "url": "https://gxo.com/es/careers/",
-          "status": 403,
-          "final_url": "https://gxo.com/es/careers/",
-          "error": null
-        },
-        {
-          "url": "https://gxo.com/it/careers/",
-          "status": 403,
-          "final_url": "https://gxo.com/it/careers/",
-          "error": null
-        },
-        {
-          "url": "https://gxo.com/cz/careers/",
-          "status": 403,
-          "final_url": "https://gxo.com/cz/careers/",
-          "error": null
-        },
-        {
-          "url": "https://gxo.com/ro/careers/",
-          "status": 403,
-          "final_url": "https://gxo.com/ro/careers/",
-          "error": null
-        },
-        {
-          "url": "https://jobs.gxo.com/?utm_source=CorpSite",
-          "status": 200,
-          "final_url": "https://jobs.gxo.com/?utm_source=CorpSite",
-          "error": null
-        },
-        {
-          "url": "https://jobs.gxo.com/go/Driver-Careers/8882600/?utm_source=CorpSite",
-          "status": 200,
-          "final_url": "https://jobs.gxo.com/go/Driver-Careers/8882600/?utm_source=CorpSite",
-          "error": null
-        },
-        {
-          "url": "https://jobs.gxo.com/go/Technology-Careers/8882400/?utm_source=CorpSite",
-          "status": 200,
-          "final_url": "https://jobs.gxo.com/go/Technology-Careers/8882400/?utm_source=CorpSite",
-          "error": null
-        },
-        {
-          "url": "https://jobs.gxo.com/go/Corporate-Careers/8882200/?utm_source=CorpSite",
-          "status": 200,
-          "final_url": "https://jobs.gxo.com/go/Corporate-Careers/8882200/?utm_source=CorpSite",
-          "error": null
-        },
-        {
-          "url": "https://jobs.gxo.com/go/Material-Handlers-and-Forklift-Operators/8882700/?utm_source=CorpSite",
-          "status": 200,
-          "final_url": "https://jobs.gxo.com/go/Material-Handlers-and-Forklift-Operators/8882700/?utm_source=CorpSite",
-          "error": null
-        },
-        {
-          "url": "https://jobs.gxo.com/go/University-Opportunities/8882500/?utm_source=CorpSite",
-          "status": 200,
-          "final_url": "https://jobs.gxo.com/errorpage/?errortype=Exception",
-          "error": null
-        }
       ],
-      "failure_reason": "no_supported_ats_detected",
-      "official_careers_urls": [
-        "https://gxo.com/careers"
-      ],
-      "platform_evidence": [
-        "successfactors.com"
-      ]
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Expeditors International",
@@ -4593,7 +4662,11 @@
       "platform_evidence": [
         "/careers/jobs/",
         "/careers/jobs"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "MuleSoft",
@@ -4698,7 +4771,11 @@
       ],
       "platform_evidence": [
         "/careers/jobs/"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Informatica",
@@ -4737,7 +4814,11 @@
       ],
       "platform_evidence": [
         "/careers/jobs/"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "NTT DATA",
@@ -4813,7 +4894,11 @@
       "platform_evidence": [
         "/global/en/search-results",
         "phenompeople.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "West Monroe",
@@ -4910,7 +4995,11 @@
         "https://job-boards.greenhouse.io/embed/job_board?for=westmonroe4&field_6784819004%5B%5D=19695640004",
         "https://job-boards.greenhouse.io/embed/job_board?for=westmonroe4&field_6784819004%5B%5D=14843560004",
         "https://job-boards.greenhouse.io/embed/job_board?for=westmonroe5"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Publicis Sapient",
@@ -5016,7 +5105,11 @@
       "platform_evidence": [
         "careers-direct-publicisgroupe.icims.com",
         "icims"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Protiviti",
@@ -5124,7 +5217,11 @@
         "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiAPAC",
         "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiEMEACareers?Location_Country=29247e57dbaf46fb855b224e03170bc7",
         "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiExperiencedCareers/4/refreshFacet/318c8bb6f553100021d223d9780d30be"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "RSM US",
@@ -5234,7 +5331,11 @@
         "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/jobs?locationCountry=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=fc86c74f6dc51000c75e3f6e5cae0002&jobFamilyGroup=fc86c74f6dc51000c75e49b2b2b40000&jobFamilyGroup=fc86c74f6dc51000c75e13ff6e670000&jobFamilyGroup=fc86c74f6dc51000c75e47e38cd90000&jobFamilyGroup=fc86c74f6dc51000c75e4a4cd42a0001",
         "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers?jobFamilyGroup=fc86c74f6dc51000c75e430db2f50000&jobFamilyGroup=fc86c74f6dc51000c75e427318330000&jobFamilyGroup=fc86c74f6dc51000c75e136536fe0000&jobFamilyGroup=fc86c74f6dc51000c75deeaa86890002&jobFamilyGroup=fc86c74f6dc51000c75e13ff6e670002&jobFamilyGroup=fc86c74f6dc51000c75e461431fc0000&jobFamilyGroup=fc86c74f6dc51000c75e49b2b2b40002&jobFamilyGroup=fc86c74f6dc51000c75e413eeed90000&jobFamilyGroup=fc86c74f6dc51000c75e46ae16460000&jobFamilyGroup=fc86c74f6dc51000c75e4444a7550000&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
         "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/jobs?CF_-_Job_Req_Country__LRV__Extended=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=fc86c74f6dc51000c75e14996ec00002"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Globant",
@@ -5333,7 +5434,11 @@
       ],
       "platform_evidence": [
         "successfactors.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Wayfair",
@@ -5438,7 +5543,11 @@
       ],
       "platform_evidence": [
         "/careers/jobs"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "TJX Companies",
@@ -5508,7 +5617,7 @@
         },
         {
           "url": "https://www.instagram.com/tjxcareers/",
-          "status": 200,
+          "status": 429,
           "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftjxcareers%2F&is_from_rle",
           "error": null
         }
@@ -5519,7 +5628,11 @@
       ],
       "platform_evidence": [
         "phenompeople.com"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Shopify",
@@ -5624,7 +5737,11 @@
       ],
       "platform_evidence": [
         "/careers/jobs"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     },
     {
       "name": "Liberty Mutual",
@@ -5729,7 +5846,11 @@
       ],
       "platform_evidence": [
         "eightfold"
-      ]
+      ],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "platform_identified_jd_unverified",
+      "next_action": "verify_job_detail_and_full_jd"
     }
   ],
   "unresolved": [
@@ -5834,7 +5955,11 @@
       "official_careers_urls": [
         "https://jobs.apple.com"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Meta",
@@ -5931,7 +6056,11 @@
       "official_careers_urls": [
         "https://www.metacareers.com"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "IBM",
@@ -6034,7 +6163,11 @@
       "official_careers_urls": [
         "https://www.ibm.com/careers/search"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "ServiceNow",
@@ -6137,7 +6270,11 @@
       "official_careers_urls": [
         "https://careers.servicenow.com"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Atlassian",
@@ -6240,7 +6377,11 @@
       "official_careers_urls": [
         "https://www.atlassian.com/company/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Intuit",
@@ -6343,7 +6484,11 @@
       "official_careers_urls": [
         "https://www.intuit.com/careers/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Veeva Systems",
@@ -6446,7 +6591,11 @@
       "official_careers_urls": [
         "https://careers.veeva.com/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Nutanix",
@@ -6549,7 +6698,11 @@
       "official_careers_urls": [
         "https://careers.nutanix.com/en/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Synopsys",
@@ -6652,7 +6805,11 @@
       "official_careers_urls": [
         "https://careers.synopsys.com/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Microchip Technology",
@@ -6755,7 +6912,11 @@
       "official_careers_urls": [
         "https://www.microchip.com/en-us/about/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Seagate Technology",
@@ -6858,7 +7019,11 @@
       "official_careers_urls": [
         "https://www.seagate.com/careers/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Sanmina",
@@ -6898,9 +7063,9 @@
         },
         {
           "url": "https://www.sanmina.com/careers",
-          "status": 200,
-          "final_url": "https://www.sanmina.com/careers/",
-          "error": null
+          "status": null,
+          "final_url": "https://www.sanmina.com/careers",
+          "error": "timeout"
         },
         {
           "url": "https://jobs.sanmina.com/search/jobs",
@@ -6913,7 +7078,11 @@
       "official_careers_urls": [
         "https://www.sanmina.com/careers/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Siemens",
@@ -7016,7 +7185,11 @@
       "official_careers_urls": [
         "https://www.siemens.com/en-us/company/jobs/?fbclid=PAZXh0bgNhZW0BMABwZG9mAmFkaWQBqzsLOnB-TXNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp-AYRJ6zXFIv4BKrdqSug0OBo66LQ2gA-Rt-BE3EATxQR7vg8L0G3989yQ7b_aem_TNo84fmqt69VuLdLAxJF6g&spr_cid=120_17380&spr_ppid=6aa0034d4a3765df6ebc2e3c&utm_campaign=120254581508960045&utm_content=120254601094070045&utm_id=120254581508960045&utm_medium=paid&utm_source=ig&utm_term=120254601086800045"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Deere & Company",
@@ -7053,7 +7226,11 @@
       "official_careers_urls": [
         "https://www.deere.com/en-us/our-company/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Corning",
@@ -7156,7 +7333,11 @@
       "official_careers_urls": [
         "https://www.corning.com/worldwide/en/careers.html"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Bosch",
@@ -7259,7 +7440,11 @@
       "official_careers_urls": [
         "https://www.bosch.com/careers/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Ford Motor Company",
@@ -7362,7 +7547,11 @@
       "official_careers_urls": [
         "https://www.careers.ford.com/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Tesla",
@@ -7393,7 +7582,11 @@
       "official_careers_urls": [
         "https://www.tesla.com/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Infor",
@@ -7496,7 +7689,11 @@
       "official_careers_urls": [
         "https://www.infor.com/about/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "E2open",
@@ -7545,7 +7742,46 @@
       "official_careers_urls": [
         "https://www.e2open.com/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
+    },
+    {
+      "name": "GXO Logistics",
+      "group": "supply_chain",
+      "stage": 3,
+      "status": "layer3_unresolved",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [
+        {
+          "stage": 2,
+          "url": "https://gxo.com/careers",
+          "http_status": 403,
+          "final_url": "https://gxo.com/careers",
+          "result": "no_supported_ats_signature",
+          "provider": null
+        },
+        {
+          "url": "https://gxo.com/careers",
+          "status": 403,
+          "final_url": "https://gxo.com/careers",
+          "error": null
+        }
+      ],
+      "failure_reason": "no_supported_ats_detected",
+      "official_careers_urls": [
+        "https://gxo.com/careers"
+      ],
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Schneider National",
@@ -7648,7 +7884,11 @@
       "official_careers_urls": [
         "https://schneiderjobs.com/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "DSV",
@@ -7751,7 +7991,11 @@
       "official_careers_urls": [
         "https://www.dsv.com/en/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Swisslog",
@@ -7778,21 +8022,21 @@
           "error": null
         },
         {
-          "url": "https://www.swisslog.com/-/media/swisslog/images/corporate/career/swisslog-as-an-employer/web_image-swisslog_brand_dortmund-summer-party_opening_may-2022.jpg?rev=5aaecb4324d54fa3a780466ad487cc61&w=1900&hash=4C86D90426473EB99F8D30F816A785B8",
+          "url": "https://www.swisslog.com/-/media/swisslog/images/corporate/career/swisslog-as-an-employer/web_image-swisslog_brand_dortmund-summer-party_opening_may-2022.jpg?rev=-1&w=1900&hash=3AE6302B6E90BB2DEA84E5DE2CFCFF1D",
           "status": 200,
-          "final_url": "https://www.swisslog.com/-/media/swisslog/images/corporate/career/swisslog-as-an-employer/web_image-swisslog_brand_dortmund-summer-party_opening_may-2022.jpg?rev=5aaecb4324d54fa3a780466ad487cc61&w=1900&hash=4C86D90426473EB99F8D30F816A785B8",
-          "error": null
-        },
-        {
-          "url": "https://www.swisslog.com/en-us/careers",
-          "status": 200,
-          "final_url": "https://www.swisslog.com/en-us/careers",
+          "final_url": "https://www.swisslog.com/-/media/swisslog/images/corporate/career/swisslog-as-an-employer/web_image-swisslog_brand_dortmund-summer-party_opening_may-2022.jpg?rev=-1&w=1900&hash=3AE6302B6E90BB2DEA84E5DE2CFCFF1D",
           "error": null
         },
         {
           "url": "https://www.swisslog.com/en-gb/careers",
           "status": 200,
           "final_url": "https://www.swisslog.com/en-gb/careers",
+          "error": null
+        },
+        {
+          "url": "https://www.swisslog.com/en-us/careers",
+          "status": 200,
+          "final_url": "https://www.swisslog.com/en-us/careers",
           "error": null
         },
         {
@@ -7832,21 +8076,21 @@
           "error": null
         },
         {
-          "url": "https://www.swisslog.com/en-us/careers/openings",
+          "url": "https://www.swisslog.com/en-gb/careers/openings",
           "status": 200,
-          "final_url": "https://www.swisslog.com/en-us/careers/openings",
+          "final_url": "https://www.swisslog.com/en-gb/careers/openings",
           "error": null
         },
         {
-          "url": "https://www.swisslog.com/en-us/careers/swisslog-as-an-employer",
+          "url": "https://www.swisslog.com/en-gb/careers/swisslog-as-an-employer",
           "status": 200,
-          "final_url": "https://www.swisslog.com/en-us/careers/swisslog-as-an-employer",
+          "final_url": "https://www.swisslog.com/en-gb/careers/swisslog-as-an-employer",
           "error": null
         },
         {
-          "url": "https://www.swisslog.com/en-us/careers/swisslog-as-an-employer/controls-vacancies",
+          "url": "https://www.swisslog.com/en-gb/careers/swisslog-as-an-employer/controls-vacancies",
           "status": 200,
-          "final_url": "https://www.swisslog.com/en-us/careers/swisslog-as-an-employer/controls-vacancies",
+          "final_url": "https://www.swisslog.com/en-gb/careers/swisslog-as-an-employer/controls-vacancies",
           "error": null
         }
       ],
@@ -7854,7 +8098,11 @@
       "official_careers_urls": [
         "https://www.swisslog.com/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Tecsys",
@@ -7909,7 +8157,11 @@
       "official_careers_urls": [
         "https://www.tecsys.com/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Capgemini",
@@ -8012,7 +8264,11 @@
       "official_careers_urls": [
         "https://www.capgemini.com/careers/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "EY",
@@ -8115,7 +8371,11 @@
       "official_careers_urls": [
         "https://www.ey.com/en_gl/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Cognizant",
@@ -8218,7 +8478,11 @@
       "official_careers_urls": [
         "https://careers.cognizant.com/global-en/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Infosys",
@@ -8321,7 +8585,11 @@
       "official_careers_urls": [
         "https://www.infosys.com/careers/usa/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Slalom",
@@ -8424,7 +8692,11 @@
       "official_careers_urls": [
         "https://www.slalom.com/us/en/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "CGI",
@@ -8527,7 +8799,11 @@
       "official_careers_urls": [
         "https://www.cgi.com/en/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Kearney",
@@ -8600,7 +8876,11 @@
       "official_careers_urls": [
         "https://www.kearney.com/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Costco",
@@ -8679,7 +8959,11 @@
       "official_careers_urls": [
         "https://www.costco.com/f/-/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Whole Foods Market",
@@ -8782,7 +9066,11 @@
       "official_careers_urls": [
         "https://careers.wholefoods.com/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Walgreens Boots Alliance",
@@ -8885,7 +9173,11 @@
       "official_careers_urls": [
         "https://jobs.walgreens.com/en"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Ross Stores",
@@ -8988,7 +9280,11 @@
       "official_careers_urls": [
         "https://jobs.rossstores.com/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Wells Fargo",
@@ -9091,7 +9387,11 @@
       "official_careers_urls": [
         "https://www.wellsfargojobs.com/en/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Goldman Sachs",
@@ -9194,7 +9494,11 @@
       "official_careers_urls": [
         "https://www.goldmansachs.com/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Optum",
@@ -9297,7 +9601,11 @@
       "official_careers_urls": [
         "https://www.optum.com/en/careers.html"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "Austin Regional Clinic",
@@ -9400,7 +9708,11 @@
       "official_careers_urls": [
         "https://www.austinregionalclinic.com/about/careers"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     },
     {
       "name": "NinjaOne",
@@ -9443,7 +9755,11 @@
       "official_careers_urls": [
         "https://www.ninjaone.com/careers/"
       ],
-      "platform_evidence": []
+      "platform_evidence": [],
+      "jd_fetch_status": "not_fetched",
+      "fit_scoring_eligible": false,
+      "jd_capability": "attempted_unresolved",
+      "next_action": "continue_source_resolution"
     }
   ]
 }

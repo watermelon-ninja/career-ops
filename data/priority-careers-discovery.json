@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T20:53:10.674Z",
-  "input_count": 87,
-  "discovered": 1,
+  "generated_at": "2026-10-14T22:25:02.641Z",
+  "input_count": 86,
+  "discovered": 0,
   "unresolved": 86,
   "results": [
     {
@@ -622,9 +622,9 @@
       "attempts": [
         {
           "url": "https://www.ichor.com/careers",
-          "status": null,
-          "final_url": "https://www.ichor.com/careers",
-          "error": "timeout"
+          "status": 403,
+          "final_url": "http://www.telepathy.com/",
+          "error": null
         },
         {
           "url": "https://www.ichor.com/careers/",
@@ -1120,9 +1120,9 @@
         },
         {
           "url": "https://www.generaldynamics.com/careers/",
-          "status": 403,
+          "status": null,
           "final_url": "https://www.generaldynamics.com/careers/",
-          "error": null
+          "error": "fetch failed"
         },
         {
           "url": "https://www.generaldynamics.com/jobs",
@@ -1864,9 +1864,9 @@
         },
         {
           "url": "https://www.qlik.com/careers/",
-          "status": null,
-          "final_url": "https://www.qlik.com/careers/",
-          "error": "timeout"
+          "status": 200,
+          "final_url": "https://www.qlik.com/us/careers",
+          "error": null
         },
         {
           "url": "https://www.qlik.com/jobs",
@@ -3220,9 +3220,9 @@
         },
         {
           "url": "https://www.globalpayments.com/jobs/",
-          "status": 403,
+          "status": null,
           "final_url": "https://www.globalpayments.com/jobs/",
-          "error": null
+          "error": "timeout"
         },
         {
           "url": "https://www.globalpayments.com/en/careers",
@@ -4074,7 +4074,7 @@
           "url": "https://www.texasmutualinsurance.com/jobs/",
           "status": null,
           "final_url": "https://www.texasmutualinsurance.com/jobs/",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.texasmutualinsurance.com/en/careers",
@@ -4126,9 +4126,9 @@
         },
         {
           "url": "https://www.transpak.com/us/en/careers",
-          "status": 404,
+          "status": null,
           "final_url": "https://www.transpak.com/us/en/careers",
-          "error": null
+          "error": "timeout"
         }
       ]
     },
@@ -4146,19 +4146,19 @@
           "url": "https://www.lowercoloradoriverauthority.com/careers/",
           "status": null,
           "final_url": "https://www.lowercoloradoriverauthority.com/careers/",
-          "error": "timeout"
+          "error": "fetch failed"
         },
         {
           "url": "https://www.lowercoloradoriverauthority.com/jobs",
           "status": null,
           "final_url": "https://www.lowercoloradoriverauthority.com/jobs",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.lowercoloradoriverauthority.com/jobs/",
           "status": null,
           "final_url": "https://www.lowercoloradoriverauthority.com/jobs/",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.lowercoloradoriverauthority.com/en/careers",
@@ -4228,15 +4228,15 @@
         },
         {
           "url": "https://www.shi.com/careers/",
-          "status": 403,
+          "status": null,
           "final_url": "https://www.shi.com/careers/",
-          "error": null
+          "error": "timeout"
         },
         {
           "url": "https://www.shi.com/jobs",
-          "status": 403,
+          "status": null,
           "final_url": "https://www.shi.com/jobs",
-          "error": null
+          "error": "timeout"
         },
         {
           "url": "https://www.shi.com/jobs/",
@@ -4295,30 +4295,6 @@
       ]
     },
     {
-      "company": "NinjaOne",
-      "status": "discovered",
-      "seed": {
-        "name": "NinjaOne",
-        "careers_url": "https://www.ninjaone.com/careers/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.ninjaone.com/careers",
-          "status": null,
-          "final_url": "https://www.ninjaone.com/careers",
-          "error": "timeout"
-        },
-        {
-          "url": "https://www.ninjaone.com/careers/",
-          "status": 200,
-          "final_url": "https://www.ninjaone.com/careers/",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Planview",
       "status": "unresolved",
       "attempts": [
@@ -4342,9 +4318,9 @@
         },
         {
           "url": "https://www.planview.com/jobs/",
-          "status": null,
+          "status": 404,
           "final_url": "https://www.planview.com/jobs/",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.planview.com/en/careers",
@@ -4354,9 +4330,9 @@
         },
         {
           "url": "https://www.planview.com/us/en/careers",
-          "status": 200,
-          "final_url": "https://www.planview.com/",
-          "error": null
+          "status": null,
+          "final_url": "https://www.planview.com/us/en/careers",
+          "error": "timeout"
         }
       ]
     }

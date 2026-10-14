@@ -799,3 +799,5 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager-III--Operations-Management--M3----FEP_R2628098 | Applied Materials | Manager III, Operations Management (M3) - FEP
 
 - [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Supply-Chain-Project-Manager----B3-_R2628996 | Applied Materials | Supply Chain Project Manager - (B3)
+
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager-II--Operations-Management--M2--Nights--MDP-Build_R2611314 | Applied Materials | Manager II, Operations Management (M2) 2nd Shift- MDP Build
