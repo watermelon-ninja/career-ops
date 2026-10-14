@@ -148,9 +148,62 @@ async function verifyStandardAts(c){
 const layer2Identified=(funnel.identified||[]).filter(x=>['workday','greenhouse','ashby','lever'].includes(x.provider));
 const jdProbes=await mapLimit(layer2Identified,4,c=>c.provider==='workday'?verifyWorkday(c):verifyStandardAts(c));
 const jdVerified=jdProbes.filter(x=>x.full_jd_verified);
+const layer3=JSON.parse(readFileSync('data/priority-layer3-resolution.json','utf8'));
 const jdAudit={generated_at:new Date().toISOString(),method:'standard_ats_listing_then_job_detail',
  tested:jdProbes.length,full_jd_verified:jdVerified.length,
  rule:'Only substantive job description content with responsibility and qualification signals passes. ATS detection is not JD verification.',
  results:jdProbes};
 writeFileSync('data/priority-jd-capability.json',JSON.stringify(jdAudit,null,2)+'\n');
 console.log('Workday JD verification:',JSON.stringify({tested:jdProbes.length,full_jd_verified:jdVerified.length,failures:jdProbes.length-jdVerified.length}));
+
+
+// Shared-platform fallback: verify publicly accessible job-detail pages via
+// schema.org JobPosting JSON-LD. No private/vendor API credentials assumed.
+function jsonLdJobPostings(html){
+ const out=[],re=/<script\\b[^>]*type=["']application\\/ld\\+json["'][^>]*>([\\s\\S]*?)<\\/script>/gi;
+ let m;while((m=re.exec(html))){try{
+  const root=JSON.parse(m[1]);const nodes=Array.isArray(root)?root:[root];
+  for(const node of nodes){const list=node?.['@graph']||[node];for(const j of list){
+   const types=Array.isArray(j?.['@type'])?j['@type']:[j?.['@type']];
+   if(types.includes('JobPosting'))out.push(j);
+  }}
+ }catch{}}
+ return out;
+}
+async function verifyPublicJobPage(c){
+ const seeds=[c.final_url,c.official_careers_url,...(c.official_careers_urls||[])].filter(Boolean);
+ const result={name:c.name,group:c.group,provider:c.provider||null,method:'public_jobposting_jsonld',
+  jd_fetch_status:'failed',full_jd_verified:false,fit_scoring_eligible:false,
+  jd_char_count:0,job_url:null,reason:'no_public_job_detail'};
+ const visited=new Set();
+ for(const seed of [...new Set(seeds)].slice(0,2)){
+  const root=await get(seed);if(!root.ok)continue;
+  const candidates=[root.url,...links(root.url,root.body).filter(u=>/(\\/job\\/|\\/jobs\\/|jobid|job_id|requisition|\\/position\\/)/i.test(u)).slice(0,10)];
+  for(const url of candidates){
+   if(visited.has(url))continue;visited.add(url);
+   const page=url===root.url?root:await get(url);if(!page.ok)continue;
+   for(const j of jsonLdJobPostings(page.body)){
+    const q=jdQuality(j.description||'');
+    if(q.jd_char_count>result.jd_char_count)Object.assign(result,q,{
+     job_url:page.url,job_title:j.title||null,
+     full_jd_verified:q.jd_fetch_status==='full',fit_scoring_eligible:q.jd_fetch_status==='full',
+     reason:q.jd_fetch_status==='full'?null:'incomplete_jobposting_description'});
+    if(result.full_jd_verified)return result;
+   }
+  }
+ }
+ return result;
+}
+const sharedCandidates=[...(layer3.identified||[]),...(layer3.unresolved||[])].filter(c=>
+ ['eightfold','oracle_recruiting_cloud','phenom','icims','successfactors'].includes(c.provider));
+const sharedJdProbes=await mapLimit(sharedCandidates,4,verifyPublicJobPage);
+const sharedVerified=sharedJdProbes.filter(x=>x.full_jd_verified);
+writeFileSync('data/priority-shared-jd-capability.json',JSON.stringify({
+ generated_at:new Date().toISOString(),method:'public_jobposting_jsonld',
+ tested:sharedJdProbes.length,full_jd_verified:sharedVerified.length,
+ note:'A public JSON-LD JobPosting with substantive description is required; vendor API identification alone does not pass.',
+ results:sharedJdProbes
+},null,2)+'\n');
+console.log('Shared platform public JD verification:',JSON.stringify({
+ tested:sharedJdProbes.length,full_jd_verified:sharedVerified.length,
+ failures:sharedJdProbes.length-sharedVerified.length}));
