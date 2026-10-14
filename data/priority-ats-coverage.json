@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-10-14T19:16:15.777Z",
-  "universe_boards": 29047,
+  "generated_at": "2026-10-14T20:05:36.935Z",
+  "universe_boards": 29048,
   "priority_companies": 354,
-  "covered_count": 153,
-  "needs_extra_work_count": 201,
+  "covered_count": 154,
+  "needs_extra_work_count": 200,
   "covered": [
     {
       "name": "Google",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -22,6 +29,13 @@
     {
       "name": "Cisco",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -36,6 +50,13 @@
     {
       "name": "Dell Technologies",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -66,6 +87,13 @@
     {
       "name": "NVIDIA",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -88,6 +116,13 @@
     {
       "name": "Salesforce",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -190,6 +225,13 @@
     {
       "name": "Adobe",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -220,6 +262,13 @@
     {
       "name": "Workday",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -250,6 +299,13 @@
     {
       "name": "Databricks",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -261,6 +317,13 @@
     {
       "name": "Snowflake",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "ashby"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "ashby",
@@ -272,6 +335,13 @@
     {
       "name": "Cloudflare",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -283,6 +353,13 @@
     {
       "name": "Palantir",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "lever"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "lever",
@@ -294,6 +371,13 @@
     {
       "name": "OpenAI",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "ashby"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "ashby",
@@ -305,6 +389,13 @@
     {
       "name": "Anthropic",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -316,6 +407,13 @@
     {
       "name": "Scale AI",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -327,6 +425,13 @@
     {
       "name": "Datadog",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -338,6 +443,13 @@
     {
       "name": "MongoDB",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -349,6 +461,13 @@
     {
       "name": "Elastic",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -360,6 +479,13 @@
     {
       "name": "Confluent",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "ashby"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "ashby",
@@ -371,6 +497,13 @@
     {
       "name": "Red Hat",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -385,6 +518,13 @@
     {
       "name": "GitLab",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -396,6 +536,13 @@
     {
       "name": "HubSpot",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -407,6 +554,13 @@
     {
       "name": "Autodesk",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -429,6 +583,13 @@
     {
       "name": "Zoom",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -443,6 +604,13 @@
     {
       "name": "Dropbox",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -454,6 +622,13 @@
     {
       "name": "Okta",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -465,6 +640,13 @@
     {
       "name": "Zscaler",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -476,6 +658,13 @@
     {
       "name": "CrowdStrike",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -490,6 +679,13 @@
     {
       "name": "Twilio",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -501,6 +697,13 @@
     {
       "name": "Asana",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -512,6 +715,13 @@
     {
       "name": "Notion",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "ashby"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "ashby",
@@ -523,6 +733,13 @@
     {
       "name": "Figma",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -534,6 +751,13 @@
     {
       "name": "Samsara",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -545,6 +769,13 @@
     {
       "name": "Toast",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -556,6 +787,13 @@
     {
       "name": "Procore",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -570,6 +808,13 @@
     {
       "name": "UiPath",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "ashby"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "ashby",
@@ -581,6 +826,14 @@
     {
       "name": "Pure Storage",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "ashby",
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "ashby",
@@ -597,6 +850,13 @@
     {
       "name": "HPE",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -627,6 +887,13 @@
     {
       "name": "HP Inc.",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -641,6 +908,13 @@
     {
       "name": "Indeed",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -652,6 +926,14 @@
     {
       "name": "LinkedIn",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse",
+        "lever"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -668,6 +950,13 @@
     {
       "name": "Airbnb",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -679,6 +968,13 @@
     {
       "name": "Netflix",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -693,6 +989,14 @@
     {
       "name": "Disney",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse",
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -712,6 +1016,13 @@
     {
       "name": "Roku",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -723,6 +1034,14 @@
     {
       "name": "Reddit",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "ashby",
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "ashby",
@@ -739,6 +1058,13 @@
     {
       "name": "Pinterest",
       "group": "tech",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -748,8 +1074,34 @@
       ]
     },
     {
+      "name": "Applied Materials",
+      "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "configured_board",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
+      "boards": [
+        {
+          "provider": "workday",
+          "slug": "https://amat.wd1.myworkdayjobs.com/External",
+          "name": "Applied Materials",
+          "configured": true
+        }
+      ]
+    },
+    {
       "name": "NXP Semiconductors",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -764,6 +1116,13 @@
     {
       "name": "Intel",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -778,6 +1137,13 @@
     {
       "name": "Qualcomm",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -792,6 +1158,13 @@
     {
       "name": "KLA",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -814,6 +1187,13 @@
     {
       "name": "ASML",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -828,6 +1208,13 @@
     {
       "name": "GlobalFoundries",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -842,6 +1229,13 @@
     {
       "name": "Broadcom",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -856,6 +1250,13 @@
     {
       "name": "Analog Devices",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -870,6 +1271,13 @@
     {
       "name": "Entegris",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -884,6 +1292,15 @@
     {
       "name": "Flex",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse",
+        "ashby",
+        "lever"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -905,6 +1322,13 @@
     {
       "name": "Jabil",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -919,6 +1343,14 @@
     {
       "name": "Plexus",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "lever",
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "lever",
@@ -938,6 +1370,13 @@
     {
       "name": "Emerson",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -960,6 +1399,13 @@
     {
       "name": "Rockwell Automation",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -998,6 +1444,13 @@
     {
       "name": "ABB",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1012,6 +1465,13 @@
     {
       "name": "GE Vernova",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1034,6 +1494,13 @@
     {
       "name": "GE Aerospace",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1048,6 +1515,13 @@
     {
       "name": "Boeing",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1206,6 +1680,13 @@
     {
       "name": "Anduril",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "configured_board",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -1218,6 +1699,13 @@
     {
       "name": "SpaceX",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -1229,6 +1717,14 @@
     {
       "name": "Blue Origin",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "lever",
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "lever",
@@ -1248,6 +1744,14 @@
     {
       "name": "Saronic",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "ashby",
+        "lever"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "ashby",
@@ -1264,6 +1768,13 @@
     {
       "name": "DuPont",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1278,6 +1789,13 @@
     {
       "name": "Aptiv",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1292,6 +1810,13 @@
     {
       "name": "Toyota",
       "group": "industrial",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1338,6 +1863,13 @@
     {
       "name": "Coupa",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "lever"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "lever",
@@ -1349,6 +1881,14 @@
     {
       "name": "project44",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "ashby",
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "ashby",
@@ -1365,6 +1905,13 @@
     {
       "name": "FourKites",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -1376,6 +1923,13 @@
     {
       "name": "OMP",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "configured_board",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -1388,6 +1942,13 @@
     {
       "name": "C.H. Robinson",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1402,6 +1963,13 @@
     {
       "name": "Ryder",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1416,6 +1984,13 @@
     {
       "name": "RXO",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1430,6 +2005,13 @@
     {
       "name": "J.B. Hunt",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1452,6 +2034,13 @@
     {
       "name": "FedEx",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1594,6 +2183,14 @@
     {
       "name": "Maersk",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "teamtailor",
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "teamtailor",
@@ -1645,6 +2242,13 @@
     {
       "name": "Flexport",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -1656,6 +2260,13 @@
     {
       "name": "Arrive Logistics",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "lever"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "lever",
@@ -1667,6 +2278,13 @@
     {
       "name": "Uber Freight",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -1678,6 +2296,13 @@
     {
       "name": "Stord",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1700,6 +2325,13 @@
     {
       "name": "Symbotic",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1714,6 +2346,13 @@
     {
       "name": "AutoStore",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1728,6 +2367,13 @@
     {
       "name": "KION Group",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1774,6 +2420,13 @@
     {
       "name": "RF-SMART",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "configured_board",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -1791,6 +2444,13 @@
     {
       "name": "SPS Commerce",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1805,6 +2465,13 @@
     {
       "name": "Boomi",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "ashby"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "ashby",
@@ -1816,6 +2483,13 @@
     {
       "name": "Fivetran",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -1827,6 +2501,13 @@
     {
       "name": "Alteryx",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1849,6 +2530,13 @@
     {
       "name": "Celonis",
       "group": "supply_chain",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "configured_board",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -1866,6 +2554,13 @@
     {
       "name": "Accenture",
       "group": "consulting",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1896,6 +2591,13 @@
     {
       "name": "KPMG",
       "group": "consulting",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "lever"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "lever",
@@ -1907,6 +2609,13 @@
     {
       "name": "PwC",
       "group": "consulting",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1977,6 +2686,13 @@
     {
       "name": "Leidos",
       "group": "consulting",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -1991,6 +2707,13 @@
     {
       "name": "Guidehouse",
       "group": "consulting",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2005,6 +2728,13 @@
     {
       "name": "Thoughtworks",
       "group": "consulting",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -2016,6 +2746,13 @@
     {
       "name": "Oliver Wyman",
       "group": "consulting",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "lever"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "lever",
@@ -2027,6 +2764,13 @@
     {
       "name": "Gartner",
       "group": "consulting",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2041,6 +2785,13 @@
     {
       "name": "Walmart",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2071,6 +2822,13 @@
     {
       "name": "Target",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2085,6 +2843,13 @@
     {
       "name": "The Home Depot",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2099,6 +2864,13 @@
     {
       "name": "Nike",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2113,6 +2885,14 @@
     {
       "name": "Unilever",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse",
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -2164,6 +2944,13 @@
     {
       "name": "Lowe's",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2178,6 +2965,13 @@
     {
       "name": "CVS Health",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2192,6 +2986,13 @@
     {
       "name": "Dollar Tree",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2214,6 +3015,13 @@
     {
       "name": "Nordstrom",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2236,6 +3044,13 @@
     {
       "name": "Gap Inc.",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2258,6 +3073,13 @@
     {
       "name": "CarMax",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2272,6 +3094,13 @@
     {
       "name": "Carvana",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -2283,6 +3112,13 @@
     {
       "name": "eBay",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2297,6 +3133,13 @@
     {
       "name": "Etsy",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2327,6 +3170,13 @@
     {
       "name": "Instacart",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -2338,6 +3188,13 @@
     {
       "name": "Mars",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2352,6 +3209,13 @@
     {
       "name": "Tyson Foods",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2414,6 +3278,13 @@
     {
       "name": "Sysco",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2428,6 +3299,13 @@
     {
       "name": "US Foods",
       "group": "retail",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2442,6 +3320,13 @@
     {
       "name": "Visa",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2464,6 +3349,13 @@
     {
       "name": "PayPal",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2478,6 +3370,13 @@
     {
       "name": "Block",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -2489,6 +3388,13 @@
     {
       "name": "Stripe",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -2500,6 +3406,13 @@
     {
       "name": "Fiserv",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2514,6 +3427,13 @@
     {
       "name": "FIS",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2528,6 +3448,13 @@
     {
       "name": "Mastercard",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2566,6 +3493,13 @@
     {
       "name": "Citi",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2580,6 +3514,13 @@
     {
       "name": "Capital One",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2610,6 +3551,13 @@
     {
       "name": "USAA",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2624,6 +3572,13 @@
     {
       "name": "Travelers",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2646,6 +3601,13 @@
     {
       "name": "The Hartford",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2668,6 +3630,13 @@
     {
       "name": "Allstate",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2698,6 +3667,13 @@
     {
       "name": "Cigna",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2712,6 +3688,13 @@
     {
       "name": "Elevance Health",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2742,6 +3725,13 @@
     {
       "name": "Humana",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2764,6 +3754,13 @@
     {
       "name": "Centene",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2778,6 +3775,13 @@
     {
       "name": "McKesson",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2840,6 +3844,13 @@
     {
       "name": "Cardinal Health",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2870,6 +3881,13 @@
     {
       "name": "Medtronic",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2892,6 +3910,13 @@
     {
       "name": "Abbott",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2930,6 +3955,13 @@
     {
       "name": "Stryker",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2944,6 +3976,13 @@
     {
       "name": "Pfizer",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2974,6 +4013,13 @@
     {
       "name": "Amgen",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -2996,6 +4042,13 @@
     {
       "name": "Labcorp",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -3018,6 +4071,13 @@
     {
       "name": "SolarWinds",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -3029,6 +4089,13 @@
     {
       "name": "SailPoint",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -3043,6 +4110,13 @@
     {
       "name": "ERCOT",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -3057,6 +4131,13 @@
     {
       "name": "Bazaarvoice",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "lever"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "lever",
@@ -3068,6 +4149,13 @@
     {
       "name": "BigCommerce",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -3090,6 +4178,13 @@
     {
       "name": "WP Engine",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "workday"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "workday",
@@ -3104,6 +4199,13 @@
     {
       "name": "AlertMedia",
       "group": "finance_health_local",
+      "stage": 1,
+      "status": "directory_matched_unverified",
+      "resolved_by": "directory_alias",
+      "providers": [
+        "greenhouse"
+      ],
+      "full_jd_verified": false,
       "boards": [
         {
           "provider": "greenhouse",
@@ -3117,1007 +4219,2402 @@
     {
       "name": "Microsoft",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Apple",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Amazon",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Meta",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Oracle",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "IBM",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "ServiceNow",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Atlassian",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Intuit",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Box",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Palo Alto Networks",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Fortinet",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Splunk",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "DocuSign",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Canva",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Veeva Systems",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Nutanix",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "NetApp",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Lenovo",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Uber",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Expedia Group",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Electronic Arts",
       "group": "tech",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "TikTok",
       "group": "tech",
-      "status": "needs_resolution"
-    },
-    {
-      "name": "Applied Materials",
-      "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "AMD",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Samsung Electronics",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Texas Instruments",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Micron Technology",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Lam Research",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Tokyo Electron",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Infineon Technologies",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Silicon Labs",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Cirrus Logic",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Synopsys",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Cadence Design Systems",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Arm",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Marvell Technology",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Microchip Technology",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Skyworks Solutions",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "onsemi",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Wolfspeed",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Western Digital",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Seagate Technology",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Ultra Clean Holdings",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Ichor Holdings",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Teradyne",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Keysight Technologies",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "National Instruments",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Celestica",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Sanmina",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Benchmark Electronics",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Foxconn",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Pegatron",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Compal Electronics",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Schneider Electric",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Siemens",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Honeywell",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Eaton",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Lockheed Martin",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "RTX",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Northrop Grumman",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "General Dynamics",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Firefly Aerospace",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Caterpillar",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Deere & Company",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Cummins",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Trane Technologies",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Johnson Controls",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Carrier Global",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "3M",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Corning",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Parker Hannifin",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "TE Connectivity",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Bosch",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Rivian",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Ford Motor Company",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Tesla",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Ericsson",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Canon",
       "group": "industrial",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "SAP",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Kinaxis",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Blue Yonder",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Manhattan Associates",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Infor",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "E2open",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Descartes Systems Group",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "GXO Logistics",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "XPO",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Schneider National",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Werner Enterprises",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Old Dominion Freight Line",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "UPS",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "DHL",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Kuehne+Nagel",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "DSV",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "CEVA Logistics",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "GEODIS",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Expeditors International",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "ShipBob",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Dematic",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Swisslog",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Körber Supply Chain",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Zebra Technologies",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Tecsys",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "MuleSoft",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Informatica",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Qlik",
       "group": "supply_chain",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Deloitte",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Capgemini",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "EY",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Cognizant",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Infosys",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "EPAM Systems",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Slalom",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Wipro",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Tata Consultancy Services",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "HCLTech",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "NTT DATA",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "CGI",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Booz Allen Hamilton",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "SAIC",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "West Monroe",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Publicis Sapient",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Perficient",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Protiviti",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "RSM US",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "BDO USA",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Bain & Company",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Boston Consulting Group",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "McKinsey & Company",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Kearney",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Genpact",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Globant",
       "group": "consulting",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Costco",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "H-E-B",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Whole Foods Market",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "PepsiCo",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Procter & Gamble",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Colgate-Palmolive",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Best Buy",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Chewy",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Wayfair",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Kroger",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Albertsons",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Walgreens Boots Alliance",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Dollar General",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "TJX Companies",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Ross Stores",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Macy's",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Lululemon",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "YETI",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Tractor Supply",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "AutoZone",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "O'Reilly Automotive",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Shopify",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "DoorDash",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Coca-Cola",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Keurig Dr Pepper",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Kraft Heinz",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "General Mills",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Mondelez International",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Nestlé USA",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Hershey",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Hormel Foods",
       "group": "retail",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Charles Schwab",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Global Payments",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "American Express",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "JPMorgan Chase",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Bank of America",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Wells Fargo",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Goldman Sachs",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Morgan Stanley",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Progressive",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Liberty Mutual",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "State Farm",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Berkshire Hathaway",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "UnitedHealth Group",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Optum",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Cencora",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Thermo Fisher Scientific",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Boston Scientific",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Becton Dickinson",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Johnson & Johnson",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Merck & Co.",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Eli Lilly",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Gilead Sciences",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Moderna",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Quest Diagnostics",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "HCA Healthcare",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Ascension",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Baylor Scott & White Health",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "St. David's HealthCare",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Austin Regional Clinic",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Q2 Holdings",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Texas Mutual Insurance",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "TransPak",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Lower Colorado River Authority",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Austin Energy",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "SHI International",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "NinjaOne",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     },
     {
       "name": "Planview",
       "group": "finance_health_local",
-      "status": "needs_resolution"
+      "stage": 2,
+      "status": "needs_ats_autodetect",
+      "resolved_by": null,
+      "provider": null,
+      "endpoint": null,
+      "full_jd_verified": false,
+      "attempts": [],
+      "failure_reason": null
     }
   ]
 }

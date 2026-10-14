@@ -783,3 +783,17 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-IL-Remote/Subcontractor--DAS---Enterprise-Packaged-Solutions_JR108373 | bakertilly | Subcontractor, DAS - Enterprise Packaged Solutions
 - [ ] https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TX-Frisco/IT-Audit--Cybersecurity---Risk-Manager--SOC-Focus-_JR107733 | bakertilly | IT Audit, Cybersecurity & Risk Manager (SOC Focus)
 - [ ] https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TX-Frisco/IT-Audit--Cybersecurity---Risk-Advisory-Senior-Consultant--SOC-Focus-_JR107212 | bakertilly | IT Audit, Cybersecurity & Risk Advisory Senior Consultant (SOC Focus)
+
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Technical-Project-Manager---ALD-New-Product-Transitions--E2-E4-_R2630364-1 | Applied Materials | Technical Project Manager - ALD New Product Transitions (E2-E4)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Technical-Project-Program-Management_R2629697 | Applied Materials | Technical Project/Program Management
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Material-Coordinator-Manager--Manager-II--Operations-Management--M2-_R2629151 | Applied Materials | Material Coordinator Manager, Manager II, Operations Management (M2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Technical-Project-Manager---ALD-New-Product-Transitions_R2630943 | Applied Materials | Technical Project Manager - ALD New Product Transitions
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Technical-Project-Program-Manager-II_R2629759 | Applied Materials | Technical Project/Program Manager II
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager-II--Operations-Management---2nd-Shift_R2630540 | Applied Materials | Manager II, Operations Management - 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Operations-Management-MDP-Weekend-Test-Manager-II----M2-_R2619893 | Applied Materials | Operations Management- Test Manager II Night Shift - (M2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Freight-Audit-Program-Manager--New-College-Grad--Bachelor-s--Austin--TX-_R2627062 | Applied Materials | Freight Audit Program Manager, New College Grad- Bachelor's (Austin, TX)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager-II--Operations-Management--M2--Nights--MDP-Build_R2628078 | Applied Materials | Manager II, Operations Management (M2) Nights- MDP Build
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager--NPC-New-Product-Transition-Project-Manager_R2627285-1 | Applied Materials | Manager, NPC New Product Transition Project Manager
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Technical-Program-Project-Management-IV_R2625433 | Applied Materials | Technical Program/Project Management IV
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Supply-Chain-Project-Manager----B3-_R2628994 | Applied Materials | Supply Chain Project Manager - (B3)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager-III--Operations-Management--M3----FEP_R2628098 | Applied Materials | Manager III, Operations Management (M3) - FEP
