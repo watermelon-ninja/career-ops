@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "note": "Official company careers seeds, not ATS or full-JD verification.",
+  "companies": [
+    {
+      "name": "IBM",
+      "careers_url": "https://www.ibm.com/careers/search",
+      "source": "official_site",
+      "status": "official_careers_page_verified"
+    },
+    {
+      "name": "Atlassian",
+      "careers_url": "https://www.atlassian.com/company/careers",
+      "source": "official_site",
+      "status": "official_careers_page_verified"
+    },
+    {
+      "name": "Intuit",
+      "careers_url": "https://www.intuit.com/careers/",
+      "source": "official_site",
+      "status": "official_careers_page_verified"
+    }
+  ]
+}
