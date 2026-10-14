@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "description": "First resolution batch. Research status is not a confirmed failure or scan coverage.",
+  "company_count": 15,
+  "companies": [
+    {
+      "name": "Microsoft",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "Apple",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "Amazon",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "Meta",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "Oracle",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "IBM",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "Tesla",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": "Official public careers listings observed; structured automated full-JD fetch not yet validated"
+    },
+    {
+      "name": "Applied Materials",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "AMD",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "Samsung Electronics",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "SAP",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "Kinaxis",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "Blue Yonder",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "Manhattan Associates",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    },
+    {
+      "name": "Infor",
+      "status": "endpoint_research",
+      "ats_verified": false,
+      "full_jd_fetch_verified": false,
+      "attempts": 0,
+      "last_error": null,
+      "notes": null
+    }
+  ]
+}
