@@ -103,7 +103,7 @@ async function verifyWorkday(c){
   // Try at most three postings, since some tenants return special/unreadable jobs first.
   for(const post of posts.slice(0,3)){
    if(!post.externalPath)continue;
-   const detailUrl=origin+'/wday/cxs/'+tenant+'/'+site+'/job'+(post.externalPath.startsWith('/')?'':'/')+post.externalPath;
+   const detailUrl=origin+'/wday/cxs/'+tenant+'/'+site+post.externalPath;
    const d=await fetch(detailUrl,{headers:{accept:'application/json'},signal:ctrl.signal});
    if(!d.ok){result.reason='detail_http_'+d.status;continue;}
    const json=await d.json();const info=json.jobPostingInfo||{};
@@ -194,7 +194,7 @@ async function verifyPublicJobPage(c){
  }
  return result;
 }
-const sharedCandidates=[...(layer3.identified||[]),...(layer3.unresolved||[])].filter(c=>
+const sharedCandidates=[...(layer3.identified||[])].filter(c=>
  ['eightfold','oracle_recruiting_cloud','phenom','icims','successfactors'].includes(c.provider));
 const sharedJdProbes=await mapLimit(sharedCandidates,4,verifyPublicJobPage);
 const sharedVerified=sharedJdProbes.filter(x=>x.full_jd_verified);
