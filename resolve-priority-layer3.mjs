@@ -190,7 +190,10 @@ async function verifyPublicJobPage(c){
  const visited=new Set();
  for(const seed of [...new Set(seeds)].slice(0,2)){
   const root=await get(seed);if(!root.ok)continue;
-  const candidates=[root.url,...links(root.url,root.body).filter(u=>/(\\/job\\/|\\/jobs\\/|jobid|job_id|requisition|\\/position\\/)/i.test(u)).slice(0,10)];
+  const candidates=[root.url,...links(root.url,root.body).filter(u=>{
+   const x=String(u).toLowerCase();
+   return x.includes('/job/')||x.includes('/jobs/')||x.includes('jobid')||x.includes('job_id')||x.includes('requisition')||x.includes('/position/');
+  }).slice(0,10)];
   for(const url of candidates){
    if(visited.has(url))continue;visited.add(url);
    const page=url===root.url?root:await get(url);if(!page.ok)continue;
