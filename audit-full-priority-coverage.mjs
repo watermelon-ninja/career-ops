@@ -17,8 +17,11 @@ const norm=x=>String(x||'').toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]
 const alias=new Map([['delltechnologies','dell'],['samsungelectronics','samsung'],['nxpsemiconductors','nxp'],['thehomedepot','homedepot']]);
 const canon=x=>alias.get(norm(x))||norm(x);
 const wish=yaml.load(readFileSync('priority-companies-expanded.yml','utf8')).companies||[];
+const configured=(yaml.load(readFileSync('portals.yml','utf8')).tracked_companies||[]).filter(c=>['workday','greenhouse','ashby','lever','smartrecruiters','teamtailor'].includes(c.scan_method));
 const all=new Map();
 for(const [source,url,parse] of sources){const res=await fetch(url);if(!res.ok)throw new Error(source+' HTTP '+res.status);for(const b of parse(await res.text())){if(!b.provider||!b.slug)continue;all.set(b.provider+':'+String(b.slug).toLowerCase(),b);}}
+// Add verified direct boards from portals.yml even when third-party directories omit them.
+for(const c of configured){all.set('configured:'+canon(c.name),{provider:c.scan_method,slug:c.careers_url,name:c.name,configured:true});}
 const idx=new Map();for(const b of all.values()){for(const key of new Set([canon(b.name),canon(b.slug),canon(b.tenant)])){if(!key)continue;if(!idx.has(key))idx.set(key,[]);idx.get(key).push(b);}}
 const covered=[],needs=[];for(const c of wish){const hits=idx.get(canon(c.name))||[];if(hits.length)covered.push({name:c.name,group:c.group,boards:hits});else needs.push({name:c.name,group:c.group});}
 mkdirSync('data',{recursive:true});writeFileSync('data/priority-ats-coverage.json',JSON.stringify({generated_at:new Date().toISOString(),universe_boards:all.size,priority_companies:wish.length,covered_count:covered.length,needs_extra_work_count:needs.length,covered,needs_extra_work:needs},null,2)+'\n');
