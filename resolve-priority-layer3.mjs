@@ -10,7 +10,7 @@ const input=[...known,...unknown];
 
 const markers=[
  ['oracle_recruiting_cloud',/(oraclecloud\.com\/hcmUI\/CandidateExperience|CandidateExperience|sites\/jobsearch|recruitingCE)/ig],
- ['eightfold',/(eightfold\.ai|eightfold|\/careers\/jobs\/?|position-list)/ig],
+ ['eightfold',/(https?:\/\/[^\"\'<>\\s]*eightfold\.ai[^\"\'<>\\s]*|[a-z0-9.-]+\.eightfold\.ai)/ig],
  ['phenom',/(phenompeople\.com|phenom-page|phn-|\/global\/en\/search-results)/ig],
  ['icims',/(icims\.com\/jobs|iCIMS|careers-[a-z0-9.-]+\.icims\.com)/ig],
  ['successfactors',/(successfactors\.(?:com|eu)|sfcareer|careerSiteBuilder|jobs\.sap\.com)/ig],
