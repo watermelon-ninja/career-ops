@@ -76,3 +76,53 @@ jd_read_gate:"Only jd_fetch_status=full with substantive responsibilities and qu
 provider_counts:counts,identified,unresolved};
 writeFileSync('data/priority-layer3-resolution.json',JSON.stringify(out,null,2)+'\n');
 console.log(JSON.stringify({layer:3,input:input.length,identified:identified.length,unresolved:unresolved.length,providers:counts},null,2));
+
+
+// Verify actual job-level JD content for already identified Workday boards.
+// A platform match, successful listing, or HTML shell never counts as JD read.
+function jdQuality(raw){
+ const text=String(raw||'').replace(/<[^>]*>/g,' ').replace(/&(?:nbsp|amp|lt|gt|quot|#39);/g,' ').replace(/\s+/g,' ').trim();
+ const responsibilities=/(responsibilit|what you.ll do|what you will do|duties|your role|key accountabilit|job description)/i.test(text);
+ const qualifications=/(qualification|requirement|what you.ll need|what you bring|experience required|minimum qualifications|basic qualifications)/i.test(text);
+ return {jd_char_count:text.length,has_responsibilities:responsibilities,has_qualifications:qualifications,
+   jd_fetch_status:text.length>=500&&responsibilities&&qualifications?'full':text.length>=150?'partial':'metadata_only'};
+}
+async function verifyWorkday(c){
+ const result={name:c.name,group:c.group,provider:'workday',endpoint:c.endpoint,
+  jd_fetch_status:'failed',full_jd_verified:false,fit_scoring_eligible:false,job_url:null,reason:null};
+ const m=String(c.endpoint||'').match(/^(https:\/\/[^/]+)\/wday\/cxs\/([^/]+)\/([^/]+)\/jobs$/);
+ if(!m){result.reason='invalid_workday_endpoint';return result;}
+ const [,origin,tenant,site]=m;
+ const ctrl=new AbortController(),timer=setTimeout(()=>ctrl.abort(),12000);
+ try{
+  const r=await fetch(c.endpoint,{method:'POST',headers:{'content-type':'application/json','accept':'application/json'},
+   body:JSON.stringify({appliedFacets:{},limit:20,offset:0,searchText:''}),signal:ctrl.signal});
+  if(!r.ok){result.reason='listing_http_'+r.status;return result;}
+  const listing=await r.json();const posts=listing.jobPostings||[];
+  if(!posts.length){result.reason='no_job_postings';return result;}
+  // Try at most three postings, since some tenants return special/unreadable jobs first.
+  for(const post of posts.slice(0,3)){
+   if(!post.externalPath)continue;
+   const detailUrl=origin+'/wday/cxs/'+tenant+'/'+site+'/job'+(post.externalPath.startsWith('/')?'':'/')+post.externalPath;
+   const d=await fetch(detailUrl,{headers:{accept:'application/json'},signal:ctrl.signal});
+   if(!d.ok){result.reason='detail_http_'+d.status;continue;}
+   const json=await d.json();const info=json.jobPostingInfo||{};
+   const q=jdQuality(info.jobDescription||info.description||'');
+   Object.assign(result,q,{job_url:detailUrl,job_title:info.title||post.title||null,
+     full_jd_verified:q.jd_fetch_status==='full',fit_scoring_eligible:q.jd_fetch_status==='full',
+     reason:q.jd_fetch_status==='full'?null:'jd_content_incomplete'});
+   if(result.full_jd_verified)break;
+  }
+ }catch(e){result.reason=e.name==='AbortError'?'timeout':String(e.message||e);}
+ finally{clearTimeout(timer);}
+ return result;
+}
+const layer2Identified=(funnel.identified||[]).filter(x=>x.provider==='workday');
+const jdProbes=await mapLimit(layer2Identified,4,verifyWorkday);
+const jdVerified=jdProbes.filter(x=>x.full_jd_verified);
+const jdAudit={generated_at:new Date().toISOString(),method:'workday_listing_then_job_detail',
+ tested:jdProbes.length,full_jd_verified:jdVerified.length,
+ rule:'Only substantive job description content with responsibility and qualification signals passes. ATS detection is not JD verification.',
+ results:jdProbes};
+writeFileSync('data/priority-jd-capability.json',JSON.stringify(jdAudit,null,2)+'\n');
+console.log('Workday JD verification:',JSON.stringify({tested:jdProbes.length,full_jd_verified:jdVerified.length,failures:jdProbes.length-jdVerified.length}));
