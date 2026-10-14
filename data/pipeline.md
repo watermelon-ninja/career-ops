@@ -513,3 +513,135 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://alation.wd503.myworkdayjobs.com/externalsite/job/USA-REMOTE/Deployment-Strategist_R10000784-1 | alation | Deployment Strategist
 - [ ] https://ag.wd3.myworkdayjobs.com/airbus/job/Grand-Prairie-TX/Sr-Business-Analyst_JR10449208 | ag | Sr Business Analyst
 - [ ] https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Director--Enterprise-Manufacturing-Applications_R-2026-45788-1 | alcon | Director, Enterprise Manufacturing Applications
+
+- [ ] https://job-boards.greenhouse.io/tecovas/jobs/8864376002 | Tecovas | Business Systems & Operations Analyst, Supply Chain
+- [ ] https://job-boards.greenhouse.io/tecovas/jobs/8863600002 | Tecovas | Sourcing Specialist, Supply Chain
+- [ ] https://job-boards.greenhouse.io/tecovas/jobs/8883459002 | Tecovas | Technical Project Manager
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4402115009 | Oura | Staff Engineer, Technical Lead, Content Management Systems
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4340141009 | Oura | Staff Strategic Sourcing Manager - Logistics
+- [ ] https://boards.greenhouse.io/apptronik/jobs/6207268004?gh_jid=6207268004 | Apptronik | Principal People Analytics Specialist
+- [ ] https://boards.greenhouse.io/apptronik/jobs/6212513004?gh_jid=6212513004 | Apptronik | Senior Business Systems Manager
+- [ ] https://boards.greenhouse.io/apptronik/jobs/5979028004?gh_jid=5979028004 | Apptronik | Staff Mechanical Engineer – Robotic Hand Design Tech Lead
+- [ ] https://boards.greenhouse.io/apptronik/jobs/5972803004?gh_jid=5972803004 | Apptronik | Staff Mechanical Engineer – Upper Body Tech Lead
+- [ ] https://boards.greenhouse.io/apptronik/jobs/6207439004?gh_jid=6207439004 | Apptronik | Staff People Technology Specialist
+- [ ] https://boards.greenhouse.io/apptronik/jobs/6179902004?gh_jid=6179902004 | Apptronik | Staff Simulation Architect - Core Simulation Platform
+- [ ] https://boards.greenhouse.io/apptronik/jobs/6130155004?gh_jid=6130155004 | Apptronik | Technical Lead Manager - Production Engineering
+- [ ] https://jobs.ashbyhq.com/pika/e0533e4b-28a2-4c18-be00-73111f84f326 | Pika | Product Manager
+- [ ] https://jobs.ashbyhq.com/playlab/f8b16f4b-408e-4a9f-9a33-93fe05cf644e | Playlab | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/playlab/6faf5f52-a365-40c0-9644-fdd4183bc772 | Playlab | Product Operations Manager
+- [ ] https://jobs.ashbyhq.com/pliant/6e1cf84f-71dc-4e51-ba52-d3e532c2344f | Pliant | Fraud Operations Specialist (m/f/d)
+- [ ] https://jobs.ashbyhq.com/pliant/ae9f61bd-2abc-4c90-8aa2-8be048b6bd6b | Pliant | Credit Risk Manager – US Corporate and SME Clients (m/f/d)
+- [ ] https://jobs.ashbyhq.com/pliant/30672b5f-fbc4-4594-a033-2abf636dd4aa | Pliant | Senior Credit Risk Manager – US Corporate and SME Clients (m/f/d)
+- [ ] https://jobs.ashbyhq.com/pliant/2a9cf58e-3acc-4c05-8b3e-0930a272e54f | Pliant | Payments & Fraud Operations Specialist (m/f/d)
+- [ ] https://jobs.ashbyhq.com/pliant/427cfe54-a0fd-442e-8d2b-b5e205c07c77 | Pliant | Senior Product Designer, Design Systems (m/f/d)
+- [ ] https://jobs.ashbyhq.com/pliant/290eb365-43bb-48f8-8a8c-83e597ae0229 | Pliant | (Senior) Product Manager - Member Management (m/f/d)
+- [ ] https://jobs.ashbyhq.com/pliant/15a92045-f8c8-4627-b159-ce468a5f33f5 | Pliant | Engineering Manager - Platform Core *EU/UK remote* (m/f/d)
+- [ ] https://jobs.ashbyhq.com/pliant/f1e62eb1-ae47-4151-8b38-9197b6447609 | Pliant | Payment Program Manager – Card Issuing (m/f/d)
+- [ ] https://jobs.ashbyhq.com/polymarket/b4e518a5-9946-445e-be88-05eb0a464ea3 | Polymarket | Technical Program Manager CX Tooling
+- [ ] https://jobs.ashbyhq.com/polymarket/0752edc4-e728-4946-b3d9-4719a6271072 | Polymarket | Data and Analytics Lead
+- [ ] https://jobs.ashbyhq.com/polymarket/6495a3e4-5c5f-48a5-9b32-81e2b59db3c1 | Polymarket | Capacity Planning Lead 
+- [ ] https://jobs.ashbyhq.com/polygon-labs/bd8cd97a-4eed-468e-b87f-4cac59e5c6c2 | Polygon Labs | Boys Club - Content Project Manager
+- [ ] https://jobs.ashbyhq.com/post/cbdd382e-729d-4a8c-9aca-0a84b2b15d44 | Post. | Senior Data Engineer - Graph Specialist 
+- [ ] https://jobs.ashbyhq.com/posthog/0be1b52c-2401-4ae2-b7fc-5d018c1ff96f | Posthog | Technical Customer Success Manager - EMEA
+- [ ] https://jobs.ashbyhq.com/posthog/3c592b84-8b34-4ae4-ae23-cadce8f2212d | Posthog | Product Manager (ex-founder or ex-product engineer)
+- [ ] https://jobs.ashbyhq.com/posthog/8854fb74-8457-40cd-bc10-60125a0c0cd4 | Posthog | Technical Customer Success Manager - Americas
+- [ ] https://jobs.ashbyhq.com/primer/9565b51a-4553-45ba-86c0-abffb25fc602 | Primer | Architectural Project Manager
+- [ ] https://jobs.ashbyhq.com/primer/b8645d28-cf60-4ca2-9194-945cd2c9c2c4 | Primer | Revenue Operations Lead
+- [ ] https://jobs.ashbyhq.com/procurify/bab0f6a4-be5c-4870-a991-22e9835dab37 | Procurify | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/project-expedition/3ce0bf4f-393b-4f1f-903e-d1eac6d4e114 | Project Expedition | Senior Travel Planning Specialist for Custom & Group Tours
+- [ ] https://jobs.ashbyhq.com/prompt/bf8e3f5f-0f34-4195-b84c-34178c4542a2 | Prompt | Enterprise Billing Success Manager 
+- [ ] https://jobs.ashbyhq.com/prompt/5cb0e3d4-e72f-4bac-bbd2-2f234898cb5c | Prompt | Healthcare Data and Business Analyst
+- [ ] https://jobs.ashbyhq.com/prompt/14cd7ce3-5c04-4768-846c-586afe2c43bd | Prompt | Senior Manager, Benefit Verification & Authorization Operations
+- [ ] https://jobs.ashbyhq.com/prompt/d9013d2b-d5b7-421e-bc5c-16b507bb4ecb | Prompt | Billing Tech Support Specialist 
+- [ ] https://jobs.ashbyhq.com/prompt/4dcec854-1c54-4f08-b883-6ceea53c9dcc | Prompt | Enterprise Client Success Manager 
+- [ ] https://jobs.ashbyhq.com/prompt/5255a7bc-8b6e-4554-b98a-7b4c76e1fbb0 | Prompt | Program Lead, Executive Operations
+- [ ] https://jobs.ashbyhq.com/prompt/1e05bfac-baf2-4459-bdad-6dddab663204 | Prompt |  Senior Marketing Operations Manager
+- [ ] https://jobs.ashbyhq.com/prophet-security/4fec2dd0-0859-4760-8afd-b18057ecb32c | Prophet Security | Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4722778005 | GHX | Contract - Sr Project Manager
+- [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4667324005 | GHX | Seasonal Inventory Specialist – Nationwide Travel, TX
+- [ ] https://alirahealth.wd3.myworkdayjobs.com/alirahealth/job/Boston-Remote/Senior-Clinical-Project-Manager_JR000653 | alirahealth | Senior Clinical Project Manager
+- [ ] https://alirahealth.wd3.myworkdayjobs.com/alirahealth/job/Boston-Remote/Senior-Project-Manager_JR000623 | alirahealth | Senior Project Manager
+- [ ] https://alirahealth.wd3.myworkdayjobs.com/alirahealth/job/Europe-Remote/Senior-Product-Manager_JR000613 | alirahealth | Senior Product Manager
+- [ ] https://alirahealth.wd3.myworkdayjobs.com/alirahealth/job/Boston-Remote/Clinical-Project-Manager_JR000646 | alirahealth | Clinical Project Manager
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Implementations-Manager--MANTL-_JR-000846 | alkami | Sr. Program Manager (MANTL)
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Engineering-Manager_JR-000901 | alkami | Technical Engineering Manager
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Sr-Solution-Architect--Integrations--MANTL-_JR-000897 | alkami | Sr. Solution Architect, Integrations (MANTL)
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Strategic-Program-Manager--PMO_JR-000902-1 | alkami | Strategic Program Manager, PMO
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Sr-Program-Manager---Implementation_JR-000884 | alkami | Sr. Program Manager - Implementation
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Staff-Technical-Support-Specialist--MANTL-_JR-000871 | alkami | Staff Technical Support Specialist (MANTL)
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Senior-Project-Manager--Implementation_JR-000862 | alkami | Senior Project Manager, Implementation
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Sr-Product-Manager_JR-000854 | alkami | Sr Product Manager
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Project-Manager-II---Implementation_JR-000638 | alkami | Program Manager II - Implementation
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Program-Manager-II--Implementation_JR-000586 | alkami | Program Manager II, Implementation
+- [ ] https://aligneddc.wd12.myworkdayjobs.com/aligneddc/job/Remote---Texas/Project-Manager--Compliance_JR101256 | aligneddc | Project Manager, Compliance
+- [ ] https://aligneddc.wd12.myworkdayjobs.com/aligneddc/job/Remote---Texas/Data-Architect_JR101202 | aligneddc | Data Architect
+- [ ] https://alkegen.wd5.myworkdayjobs.com/alkegen/job/Dallas-Texas/Manager-Enterprise-Applications---Dynamics---Digital-Solutions_R13175 | alkegen | Manager Enterprise Applications – Dynamics & Digital Solutions
+- [ ] https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-California/Senior-Engineering-Manager----iOS-Video-Applications_R170167-1 | Adobe (Workday) | Senior Engineering Manager  | iOS Video Applications
+- [ ] https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Richardson-TX/Product-Marketing-Engineer--Data-Centers_R6721 | allegromicro | Product Marketing Engineer, Data Centers
+- [ ] https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Richardson-TX/Product-Marketing-Manager_R6571 | allegromicro | Technical Product Marketing Engineer
+- [ ] https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Richardson-TX/Senior-Principal-Digital-SOC-Architect_R6697 | allegromicro | Senior Principal Digital SoC Architect
+- [ ] https://allegion.wd5.myworkdayjobs.com/careers/job/Remote-Indiana/IT-Platform-Analyst_JR37594 | allegion | IT Platform Analyst
+- [ ] https://allegion.wd5.myworkdayjobs.com/careers/job/Remote-Indiana/IT-Senior-Program-Manager_JR37124 | allegion | IT Senior Program Manager
+- [ ] https://allegion.wd5.myworkdayjobs.com/careers/job/Remote-Indiana/IT-Sustaining-Project-Manager_JR37074 | allegion | IT Sustaining Project Manager
+- [ ] https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Australia-Remote/Solutions-Architect---Data-Science_JR2027021 | NVIDIA (Workday) | Solutions Architect - Data Science
+- [ ] https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Project-Technical-Delivery-Manager_JR2003336 | NVIDIA (Workday) | Project Technical Delivery Manager
+- [ ] https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Agentic-AI-Platform-Senior-Account-Manager-UK-I_JR2024082 | NVIDIA (Workday) | Senior Account Manager, Agentic AI Cyber Platform — UK&I
+- [ ] https://altera.wd1.myworkdayjobs.com/altera/job/Sacramento-California-United-States-Remote/DSP-Specialist-FAE--Field-Applications-Engineer----West-Region_R02668 | altera | DSP Specialist FAE (Field Applications Engineer) – West Region
+- [ ] https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Irving-Texas---United-States-of-America/Senior-Fixed-Operations-Manager--Little-Rock_R00214761-1 | alliance | Senior Fixed Operations Manager -Little Rock
+- [ ] https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Irving-Texas---United-States-of-America/Senior-Dealer-Operations-Manager---West-TX-NM_R00214605-1 | alliance | Senior Dealer Operations Manager - West TX/NM
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---NY-Remote/Product-Management--Technical--Expert_R34393-1 | allstate | Product Management (Technical) Expert
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---NY-Remote/Product-Management--Technical--Lead-Consultant_R35988-1 | allstate | Product Management (Technical) Lead Consultant
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Senior-Strategic-Planning-and-Operations-Consultant_R32906 | allstate | Senior Strategic Operations Consultant
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Distribution-Service-Strategy-Business-Architect-Senior-Consultant-I_R35231 | allstate | Distribution Service Strategy Business Architect Senior Consultant I
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Lead-Digital-Product-Manager--Customer-Identity---Access-Management--_R36079 | allstate | Lead Digital Product Manager (Customer Identity & Access Management )
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/CAN---ON-GTA-Remote/Provincial-Product-Analytics-Consultant_R35633 | allstate | Provincial Product Analytics Consultant
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Digital-Product-Manager-Expert---Finance-Technology_R35610-1 | allstate | Digital Product Manager Expert - Finance Technology
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Digital-Product-Manager---Legal-Technology_R35460-1 | allstate | Digital Product Manager - Legal Technology
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Systems-Engineer--Lead-Consultant-Identity---Authentication---Remote_R35426-1 | allstate | Systems Engineer, Lead Consultant Identity & Authentication - Remote
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Digital-Product-Manager--Infrastructure-as-Code-_R35966 | allstate | Digital Product Manager (Infrastructure as Code)
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Digital-Product-Manager--AI-Powered-Customer-Experiences-_R35564 | allstate | Digital Product Manager (AI-Powered Customer Experiences)
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Enterprise-Architect---Emerging-Analytics_R35217 | allstate | Enterprise Architect - Emerging Analytics
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Mexico-Remote/Lead-BI-Developer_R34996 | allstate | Lead BI Developer
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Digital-Product-Manager--Container-Platform-_R35359-1 | allstate | Digital Product Manager (Container Platform)
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Platform--Lead--Consultant_R34700 | allstate | Platform (Lead) Consultant - .Net, Azure, API
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/SAP-Accounting-Master-Data-Senior-Consultant_R34378-1 | allstate | SAP Accounting Master Data Senior Consultant
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Workforce-Identity-Service-Lead-Consultant_R31767 | allstate | Java Development Lead Identity Systems Engineer
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Exposure-Intelligence-Analyst---Infrastructure---Systems--Servers---Containers---K8s---OS-_R32029 | allstate | Infrastructure & Systems, Service (Lead) Consultant - Exposure Intelligence
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Exposure-Intelligence-Analyst---Databases---Data-Stores--RDBMS---NoSQL---Object-Storage---Permissions-_R33667 | allstate | Databases & Data Stores Service (Lead) Consultant- Exposure Intelligence
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Exposure-Intelligence-Analyst---Applications---APIs--OWASP---SAST-DAST---Auth-_R33669 | allstate | Applications & APIs Service (Lead) Consultant - Exposure Intelligence
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Digital-Product-Manager--Network-Connectivity-_R33774 | allstate | Digital Product Manager (Network Connectivity)
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---NE-Remote/Lead-Digital-Product-Manager_R32979 | allstate | Lead Digital Product Manager
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Platform-Consultant---Threat-Modeling_R32524 | allstate | Platform Consultant - Threat Modeling
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Platform-Consultant---Cyber-Platforms--Data----Tooling_R31084 | allstate | Platform Consultant — Cyber Platforms, Data, & Tooling
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Platform-Consultant---Product-Security_R29154 | allstate | Platform Consultant - Product Security
+- [ ] https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/PHL-Remote-CWs/Sr-Manager--Connected-Planning---Anaplan-Architecture_R12548 | alteryx | Sr. Manager, Connected Planning & Anaplan Architecture
+- [ ] https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/Manager--Finance-Analytics-Engineering---Automation_R12544 | alteryx | Manager, Finance Analytics Engineering & Automation
+- [ ] https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Southern-California-USA---Remote/Senior-Business-Systems-Analyst_R12521 | alteryx | Senior Business Systems Analyst
+- [ ] https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/InfoSec-Analyst_R12418 | alteryx | Information Security Analyst
+- [ ] https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/Senior-Security-Operations-Center--SOC--Analyst_R12420 | alteryx | Senior Security Operations Center (SOC) Analyst
+- [ ] https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/Principal-Platform-Architect_R12008-1 | alteryx | Principal, Cloud Platform Architect
+- [ ] https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/Senior-Manager---Director--Business-Technology--Sales---Partners_R12279 | alteryx | Senior Manager / Director, Business Technology, Sales & Partners
+- [ ] https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Mexico-City-Mexico---Remote/Channel-Account-Manager---Distribution-Mexico_R11696 | alteryx | Channel Account Manager - Distribution Mexico
+- [ ] https://ameresco.wd5.myworkdayjobs.com/ameresco/job/USA-Remote/Operations-Manager---Medium-Voltage_R4007 | ameresco | Operations Manager - Medium Voltage
+- [ ] https://ameresco.wd5.myworkdayjobs.com/ameresco/job/United-States---Minnesota---Remote/Assistant-Project-Manager_R3996 | ameresco | Assistant Project Manager
+- [ ] https://ameresco.wd5.myworkdayjobs.com/ameresco/job/USA-Remote/Project-Manager---Facility-Condition-Assessments---Capital-Planning_R4037 | ameresco | Project Manager - Facility Condition Assessments & Capital Planning
+- [ ] https://ameresco.wd5.myworkdayjobs.com/ameresco/job/United-States---Massachusetts---Remote/Senior-Project-Manager---Solar-PV---BESS_R4066 | ameresco | Senior Project Manager - Solar PV & BESS
+- [ ] https://ameresco.wd5.myworkdayjobs.com/ameresco/job/United-States---California---Remote/Regional-Operations---Maintenance-Manager_R4040 | ameresco | Regional Operations & Maintenance Manager
+- [ ] https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RemoteHome-Indiana/Supply-Planning-Analyst_REQ_97275 | amcor | Supply Planning Analyst
+- [ ] https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Houston-TX/Senior-Community-Disaster-Program-Manager-Houston--TX-_RC91787 | americanredcross | Senior Community Disaster Program Manager(Houston, TX)
+- [ ] https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/El-Paso-TX/Community-Disaster-Program-Manager_RC89439 | americanredcross | Community Disaster Program Manager
+- [ ] https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Fort-Worth-TX/Community-Disaster-Program-Manager--Fort-Worth--TX-_RC91288 | americanredcross | Community Disaster Program Manager (Fort Worth, TX)
+- [ ] https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Arlington-TX/Strategic-Business-Planning-Manager_RC91132 | americanredcross | Strategic Business Planning Manager
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Technical-Project-Manager---ALD-New-Product-Transitions--E2-E4-_R2630364-1 | amat | Technical Project Manager - ALD New Product Transitions (E2-E4)
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Technical-Project-Program-Management_R2629697 | amat | Technical Project/Program Management
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Material-Coordinator-Manager--Manager-II--Operations-Management--M2-_R2629151 | amat | Material Coordinator Manager, Manager II, Operations Management (M2)
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Technical-Project-Manager---ALD-New-Product-Transitions_R2630943 | amat | Technical Project Manager - ALD New Product Transitions
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Technical-Project-Program-Manager-II_R2629759 | amat | Technical Project/Program Manager II
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Manager-II--Operations-Management---2nd-Shift_R2630540 | amat | Manager II, Operations Management - 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Operations-Management-MDP-Weekend-Test-Manager-II----M2-_R2619893 | amat | Operations Management- Test Manager II Night Shift - (M2)
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Freight-Audit-Program-Manager--New-College-Grad--Bachelor-s--Austin--TX-_R2627062 | amat | Freight Audit Program Manager, New College Grad- Bachelor's (Austin, TX)
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Manager-II--Operations-Management--M2--Nights--MDP-Build_R2628078 | amat | Manager II, Operations Management (M2) Nights- MDP Build
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Manager--NPC-New-Product-Transition-Project-Manager_R2627285-1 | amat | Manager, NPC New Product Transition Project Manager
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Technical-Program-Project-Management-IV_R2625433 | amat | Technical Program/Project Management IV
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Supply-Chain-Project-Manager----B3-_R2628994 | amat | Supply Chain Project Manager - (B3)
+- [ ] https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Manager-III--Operations-Management--M3----FEP_R2628098 | amat | Manager III, Operations Management (M3) - FEP
