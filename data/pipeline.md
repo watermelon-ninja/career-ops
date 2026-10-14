@@ -72,3 +72,95 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://jobs.ashbyhq.com/1password/e74b204c-236f-4dc1-be97-57e36d61c63d | 1password | Senior Sales Engineer - Enterprise
 - [ ] https://jobs.ashbyhq.com/1password/ff516ff4-2726-4c18-ae6e-681640d9c81d | 1password | Principal Product Manager, Security
 - [ ] https://jobs.ashbyhq.com/1password/0a11e3df-2212-419e-a1ff-dc501fa7a084 | 1password | Senior Product Manager
+
+- [ ] https://jobs.ashbyhq.com/zip/d28dc61e-b4fa-4517-b61e-a31bccefddba | Zip | Enterprise Solution Engineer (Pre-Sales)
+- [ ] https://jobs.ashbyhq.com/zip/8529f344-71e2-4fcf-944a-c8457e71faa1 | Zip | Senior ERP Solutions Consultant 
+- [ ] https://jobs.ashbyhq.com/zip/8f064b8b-e95c-4e63-9f49-1ca46b3a57d9 | Zip | Solutions Integration Architect - SAP Ariba
+- [ ] https://jobs.ashbyhq.com/zip/b5a21cc6-7d36-444a-a1fb-cb3f56d5e38b | Zip | Enterprise Architect
+- [ ] https://jobs.ashbyhq.com/zip/042dc503-720f-4c32-a789-ccc8699ef267 | Zip | Solutions Integration Architect - SAP
+- [ ] https://jobs.ashbyhq.com/zip/1565b338-74a2-4282-b260-4b16eec733fd | Zip | Enterprise Architect 
+- [ ] https://job-boards.greenhouse.io/12twenty/jobs/4739278005 | 12twenty | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/2k/jobs/8004977003 | 2K | Principal Product Manager, Infrastructure
+- [ ] https://job-boards.greenhouse.io/2k/jobs/7989563003 | 2K | Senior Technical Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/2k/jobs/7807537003 | 2K | Senior Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8480222002?gh_jid=8480222002 | 3Cloud | Architect - Enterprise Solutions Architecture
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8066652002?gh_jid=8066652002 | 3Cloud | Enterprise Sales Director
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8585076002?gh_jid=8585076002 | 3Cloud | Senior Architect - Enterprise Solutions Architecture
+- [ ] https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=7995782003 | ABACUS | Analyst, Enterprise Service Desk
+- [ ] https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8008654003 | ABACUS | Engineer, Enterprise Service Desk
+- [ ] https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8008489003 | ABACUS | Engineer, Enterprise Service Desk 
+- [ ] https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8011550003 | ABACUS | Escalation Engineer, Enterprise Service Desk
+- [ ] https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8004924003 | ABACUS | Sr. Analyst, Enterprise Service Desk
+- [ ] https://www.abclegal.com/job-openings/job?id=7994875003&gh_jid=7994875003 | ABC Legal Services | Product Manager — Service of Process 
+- [ ] https://www.abclegal.com/job-openings/job?id=7980883003&gh_jid=7980883003 | ABC Legal Services | Senior Java Developer — Enterprise API Integrations
+- [ ] https://job-boards.greenhouse.io/able/jobs/8610714002 | Able | Technical Program Manager
+- [ ] https://abnormal.ai/careers/jobs/7989737003?gh_jid=7989737003 | Abnormal | Customer Success Manager, Enterprise (Missouri Valley)
+- [ ] https://abnormal.ai/careers/jobs/7978334003?gh_jid=7978334003 | Abnormal | Enterprise Sales Engineer, France
+- [ ] https://abnormal.ai/careers/jobs/7894655003?gh_jid=7894655003 | Abnormal | Enterprise Sales Engineer - Ohio Valley
+- [ ] https://abnormal.ai/careers/jobs/7998225003?gh_jid=7998225003 | Abnormal | Enterprise Sales Engineer - TOLA
+- [ ] https://abnormal.ai/careers/jobs/8002712003?gh_jid=8002712003 | Abnormal | People Program Manager
+- [ ] https://abnormal.ai/careers/jobs/7812768003?gh_jid=7812768003 | Abnormal | Product Manager (Outbound) - Identity
+- [ ] https://abnormal.ai/careers/jobs/7974524003?gh_jid=7974524003 | Abnormal | Product Manager (Outbound) - New Products
+- [ ] https://job-boards.greenhouse.io/accela/jobs/8159683 | Accela | Senior Product Manager, Payments Strategy & Growth
+- [ ] https://job-boards.greenhouse.io/accuweather/jobs/8247411 | AccuWeather Careers | Senior Product Manager
+- [ ] https://www.actblue.com/careers/available-positions/?gh_jid=8611237002 | ActBlue | Senior ERP Analyst (NetSuite) 
+- [ ] https://www.actblue.com/careers/available-positions/?gh_jid=8652400002 | ActBlue | Senior Product Manager II
+- [ ] https://job-boards.greenhouse.io/acuitymd/jobs/6019042004 | AcuityMD | Program Manager 
+- [ ] https://job-boards.greenhouse.io/acuitymd/jobs/5920568004 | AcuityMD | Senior Product Manager 
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8802895002 | Addepar | Sr. Enterprise Sales Engineer
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8575949002 | Addepar | Sr. Product Manager - Market Data Feeds
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8849742002 | Addepar | Staff Product Manager - Foundation Engineering
+- [ ] https://job-boards.greenhouse.io/aegisventures/jobs/4701414006 | Aegis Ventures | Product Manager
+- [ ] https://job-boards.greenhouse.io/aegisventures/jobs/4714383006 | Aegis Ventures | Product Operations and Support Specialist
+- [ ] https://www.8am.com/openings/?gh_jid=4719561006 | 8am | Senior Product Manager, Identity and Access Management
+- [ ] https://job-boards.greenhouse.io/afresh/jobs/6139678004 | Afresh | Enterprise Account Manager
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8020318003 | Affirm | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7818070003 | Affirm | Senior Product Manager, 1: Many Merchant Growth
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7929523003 | Affirm | Senior Product Manager, Checkout
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8009665003 | Affirm | Senior Product Manager, Consumer Payments
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7773693003 | Affirm | Senior Product Manager, Credit & Pricing
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7832312003 | Affirm | Senior Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7694938003 | Affirm | Staff Product Manager, Affirm Bank
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8008483003 | Affirm | Staff Product Manager, Comms Platform
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8011040003 | Affirm | Staff Product Manager, Consumer Growth Loyalty
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8006357003 | Affirm | Staff Product Manager, Credit & Pricing
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8006359003 | Affirm | Staff Product Manager, Credit & Pricing 
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7994553003 | Affirm | Staff Security Engineer, Enterprise AI
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7984707003 | Affirm | Staff Technical Program Manager, Engineering Onboarding
+- [ ] https://www.agero.com/available-jobs?gh_jid=8801087002 | Agero | Product Manager MBSi
+- [ ] https://www.agilityrobotics.com/about/job-post?gh_jid=6219956004 | Agility Robotics | Senior Enterprise Applications Developer
+- [ ] https://careers.airbnb.com/positions/8189782?gh_jid=8189782 | Airbnb | Product Manager, Community Support
+- [ ] https://job-boards.eu.greenhouse.io/akersystems/jobs/4976881101 | Aker Systems | Lead Technical Business Analyst
+- [ ] https://job-boards.greenhouse.io/akuity/jobs/4379854009 | Akuity | Enterprise Sales Leader, AMER
+- [ ] https://job-boards.greenhouse.io/alertmedia/jobs/8876969002 | AlertMedia | Embedded Program Manager
+- [ ] https://job-boards.greenhouse.io/alertmedia/jobs/8875582002 | AlertMedia | Enterprise Account Director
+- [ ] https://job-boards.greenhouse.io/alertmedia/jobs/8755609002 | AlertMedia | Sr. Product Manager
+- [ ] https://job-boards.greenhouse.io/alliancedefendingfreedom/jobs/5414762008?gh_jid=5414762008 | Alliance Defending Freedom | Audience Growth Program Manager
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6219278004 | Alpaca  | ERM Program Manager
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6206700004 | Alpaca  | Product Manager - Brokerage - EU
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6187211004 | Alpaca  | Product Manager - Brokerage - Middle East
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6221656004 | Alpaca  | Product Manager - Brokerage - UK
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6144762004 | Alpaca  | Product Manager, Clearing Systems  
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6198942004 | Alpaca  | Product Manager - Derivatives
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6221619004 | Alpaca  | Product Manager, Digital Assets - Tokenization
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6207943004 | Alpaca  | Product Manager - Market Data
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6212184004 | Alpaca  | Product Manager - Trading API
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6184949004 | Alpaca  | Senior Technical Product Manager: Infrastructure and Platforms
+- [ ] https://job-boards.greenhouse.io/alphasenseindia/jobs/8782988002 | AlphaSense India | Product Manager I
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8887127002 | AlphaSense | Copy of Product Manager, New Content Initiatives and Analysis
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8607736002 | AlphaSense | Enterprise Risk Officer, ECRM
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8813574002 | AlphaSense | Principal Product Manager - Enterprise Admin Experience
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8859162002 | AlphaSense | Principal Product Manager, Financial Data
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8676367002 | AlphaSense | Principal Product Manager, Security and Identity Platform
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8701443002 | AlphaSense | Product Manager II - Financial Data
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8860806002 | AlphaSense | Product Manager, New Content Initiatives and Analysis
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8701509002 | AlphaSense | Senior Customer Education Manager, Enterprise
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8596193002 | AlphaSense | Senior Product Manager - AI Workflows (Expert Research)
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8784167002 | AlphaSense | Senior Product Manager, Developer Experience
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/7944386002 | AlphaSense | Sr. Product Manager, M&A Transactions and Valuations
+- [ ] https://job-boards.eu.greenhouse.io/altamirafreelance/jobs/4965669101 | Altamira for freelancers | AI Business Analyst (Freelance)
+- [ ] https://altruist.com/join-altruist/6150825004?gh_jid=6150825004 | Altruist | Advisor Onboarding Program Lead, Enterprise
+- [ ] https://altruist.com/join-altruist/6217333004?gh_jid=6217333004 | Altruist | Senior Product Manager, Portfolio Reporting
+- [ ] https://altruist.com/join-altruist/6133312004?gh_jid=6133312004 | Altruist | Senior Sales Executive, Enterprise
+- [ ] https://altruist.com/join-altruist/5985831004?gh_jid=5985831004 | Altruist | Sr. Solutions Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/alxafrica/jobs/8267874 | ALX Africa | Enterprise Sales Manager
