@@ -43,10 +43,43 @@ const platformMarkers=[
  ['icims',new RegExp("(?:icims\\.com\\/jobs|iCIMS)",'i')]
 ];
 
+function cleanDetectedUrl(raw=''){
+ return String(raw).replace(/&amp;/g,'&').replace(/&#34;|&quot;/g,'"').replace(/[}"'<>\\]+$/g,'');
+}
+function normalizeWorkday(raw=''){
+ const cleaned=cleanDetectedUrl(raw);
+ try{
+  const u=new URL(cleaned);
+  const host=u.hostname.toLowerCase();
+  const hm=host.match(/^([a-z0-9-]+)\.(wd\d+)\.myworkdayjobs\.com$/i);
+  if(!hm)return null;
+  const [,tenant,shard]=hm;
+  const parts=u.pathname.split('/').filter(Boolean);
+  // Workday may prefix locale before the actual career site.
+  const locale=/^[a-z]{2}-[A-Z]{2}$/.test(parts[0]||'')?parts.shift():null;
+  // Reject action pages as site names; the first remaining segment is the site.
+  const site=parts[0];
+  if(!site||/^(login|introduceYourself|job|jobs)$/i.test(site))return null;
+  return {
+   provider:'workday',
+   endpoint:`https://${tenant}.${shard}.myworkdayjobs.com/wday/cxs/${tenant}/${site}/jobs`,
+   origin:`https://${tenant}.${shard}.myworkdayjobs.com`,
+   site,
+   detected_url:cleaned
+  };
+ }catch{return null;}
+}
 function supported(text=''){
  for(const [provider,re] of fingerprints){
   re.lastIndex=0; const m=re.exec(text);
-  if(m) return {provider,endpoint:m[0].replace(/&amp;/g,'&')};
+  if(!m)continue;
+  const cleaned=cleanDetectedUrl(m[0]);
+  if(provider==='workday'){
+   const normalized=normalizeWorkday(cleaned);
+   if(normalized)return normalized;
+   continue;
+  }
+  return {provider,endpoint:cleaned,detected_url:cleaned};
  }
  return null;
 }
