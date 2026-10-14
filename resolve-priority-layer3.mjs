@@ -169,7 +169,8 @@ function jsonLdJobPostings(html){
   const tag=html.slice(open,tagEnd+1);
   const close=html.toLowerCase().indexOf(closeNeedle,tagEnd+1); if(close<0)break;
   pos=close+closeNeedle.length;
-  if(!/type\\s*=\\s*["']application\\/ld\\+json["']/i.test(tag))continue;
+  const compactTag=tag.toLowerCase().replace(/\\s+/g,'');
+  if(!compactTag.includes('type="application/ld+json"')&&!compactTag.includes("type='application/ld+json'"))continue;
   const payload=html.slice(tagEnd+1,close).trim();
   try{
    const root=JSON.parse(payload);const nodes=Array.isArray(root)?root:[root];
