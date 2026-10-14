@@ -19,3 +19,5 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4739364005 | GHX | Technical Product Manager
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7819752003?gh_jid=7819752003 | Celonis | Principal Enterprise Architect
 
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265382007?gh_jid=5265382007 | Anduril | Mission Operations Product Manager, Group 5 Mission Autonomy
