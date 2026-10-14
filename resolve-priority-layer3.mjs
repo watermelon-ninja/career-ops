@@ -153,7 +153,8 @@ function normalizeStandardEvidence(c){
   const u=new URL(ev);
   if(c.provider==='workday'){
    const parts=u.pathname.split('/').filter(Boolean);
-   const site=parts.find(x=>!['en-US','en','jobs','job','login'].includes(x));
+   const ignored=new Set(['en-US','en','jobs','job','login']);
+   const site=parts.find(x=>!ignored.has(x)&&x.toLowerCase()!==u.hostname.split('.')[0].toLowerCase());
    if(site){const tenant=u.hostname.split('.')[0];return {...c,endpoint:u.origin+'/wday/cxs/'+tenant+'/'+site+'/jobs',normalized_from_evidence:ev};}
   }
   if(c.provider==='greenhouse'){
@@ -230,11 +231,9 @@ async function verifyEightfold(c){
      reason:q.jd_fetch_status==='full'?null:'incomplete_eightfold_job_description'});
     if(result.full_jd_verified)return result;
    }
-   const q=jdQuality(page.body);
-   if(q.jd_char_count>result.jd_char_count)Object.assign(result,q,{job_url:page.url,
-    full_jd_verified:q.jd_fetch_status==='full',fit_scoring_eligible:q.jd_fetch_status==='full',
-    reason:q.jd_fetch_status==='full'?null:'incomplete_eightfold_page'});
-   if(result.full_jd_verified)return result;
+   // Never score the whole HTML document as a JD. Eightfold passes only on
+   // a job-level structured description; page shells can contain unrelated
+   // responsibilities/qualifications and create false positives.
   }
  }
  return result;
