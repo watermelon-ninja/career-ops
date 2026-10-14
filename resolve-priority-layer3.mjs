@@ -55,13 +55,24 @@ async function resolve(c){
  const counts={};for(const h of allHits)counts[h.provider]=(counts[h.provider]||0)+1;
  const ranked=Object.entries(counts).sort((a,b)=>b[1]-a[1]);
  const provider=ranked[0]?.[0]||c.provider||null;
- return {...c,stage:3,status:provider?'platform_identified_deep':'layer3_unresolved',provider,platform_evidence:[...new Set(allHits.filter(h=>h.provider===provider).map(h=>h.evidence))].slice(0,10),attempts:[...(c.attempts||[]),...attempts],full_jd_verified:false};
+ const capability=provider?'platform_identified_jd_unverified':'attempted_unresolved';
+ return {...c,stage:3,status:provider?'platform_identified_deep':'layer3_unresolved',provider,
+   platform_evidence:[...new Set(allHits.filter(h=>h.provider===provider).map(h=>h.evidence))].slice(0,10),
+   attempts:[...(c.attempts||[]),...attempts],
+   jd_fetch_status:'not_fetched',
+   full_jd_verified:false,
+   fit_scoring_eligible:false,
+   jd_capability:capability,
+   next_action:provider?'verify_job_detail_and_full_jd':'continue_source_resolution'};
 }
 async function mapLimit(xs,n,fn){const o=new Array(xs.length);let i=0;async function w(){while(true){const k=i++;if(k>=xs.length)return;o[k]=await fn(xs[k]);}}await Promise.all(Array.from({length:Math.min(n,xs.length)},w));return o;}
 const results=await mapLimit(input,8,resolve);
 const identified=results.filter(x=>x.status==='platform_identified_deep');
 const unresolved=results.filter(x=>x.status==='layer3_unresolved');
 const counts=identified.reduce((a,x)=>(a[x.provider]=(a[x.provider]||0)+1,a),{});
-const out={generated_at:new Date().toISOString(),layer:3,input_count:input.length,identified_at_layer_3:identified.length,full_jd_verified_at_layer_3:0,unresolved_after_layer_3:unresolved.length,provider_counts:counts,identified,unresolved};
+const out={generated_at:new Date().toISOString(),layer:3,input_count:input.length,identified_at_layer_3:identified.length,
+full_jd_verified_at_layer_3:0,fit_scoring_eligible_at_layer_3:0,unresolved_after_layer_3:unresolved.length,
+jd_read_gate:"Only jd_fetch_status=full with substantive responsibilities and qualifications may set full_jd_verified=true and fit_scoring_eligible=true.",
+provider_counts:counts,identified,unresolved};
 writeFileSync('data/priority-layer3-resolution.json',JSON.stringify(out,null,2)+'\n');
 console.log(JSON.stringify({layer:3,input:input.length,identified:identified.length,unresolved:unresolved.length,providers:counts},null,2));
