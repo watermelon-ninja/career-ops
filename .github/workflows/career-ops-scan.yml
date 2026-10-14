@@ -40,7 +40,7 @@ jobs:
           if [ -n "${{ inputs.company }}" ]; then
             node scan.mjs --company "${{ inputs.company }}"
           else
-            npm run scan
+            node scan.mjs --universe --universe-batch 250
           fi
 
       - name: Show scan summary
