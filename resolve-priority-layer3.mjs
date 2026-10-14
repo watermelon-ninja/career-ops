@@ -117,10 +117,38 @@ async function verifyWorkday(c){
  finally{clearTimeout(timer);}
  return result;
 }
-const layer2Identified=(funnel.identified||[]).filter(x=>x.provider==='workday');
-const jdProbes=await mapLimit(layer2Identified,4,verifyWorkday);
+async function verifyStandardAts(c){
+ const base={name:c.name,group:c.group,provider:c.provider,endpoint:c.endpoint,jd_fetch_status:'failed',full_jd_verified:false,fit_scoring_eligible:false,job_url:null,reason:null};
+ try{
+  let jobs=[];
+  if(c.provider==='greenhouse'){
+   const slug=(String(c.endpoint||c.official_careers_url||'').match(/greenhouse\.io\/(?:v1\/boards\/)?([^/?]+)/i)||[])[1];
+   if(!slug){base.reason='missing_greenhouse_slug';return base;}
+   const r=await fetch('https://boards-api.greenhouse.io/v1/boards/'+slug+'/jobs?content=true');if(!r.ok){base.reason='listing_http_'+r.status;return base;}
+   jobs=(await r.json()).jobs||[];jobs=jobs.map(j=>({title:j.title,url:j.absolute_url,description:j.content||''}));
+  }else if(c.provider==='lever'){
+   const slug=(String(c.endpoint||c.official_careers_url||'').match(/lever\.co\/(?:v0\/postings\/)?([^/?]+)/i)||[])[1];
+   if(!slug){base.reason='missing_lever_slug';return base;}
+   const r=await fetch('https://api.lever.co/v0/postings/'+slug+'?mode=json');if(!r.ok){base.reason='listing_http_'+r.status;return base;}
+   jobs=(await r.json()).map(j=>({title:j.text,url:j.hostedUrl,description:[j.descriptionPlain,j.additionalPlain,...(j.lists||[]).map(x=>x.text+' '+(x.content||''))].filter(Boolean).join(' ')}));
+  }else if(c.provider==='ashby'){
+   const slug=(String(c.endpoint||c.official_careers_url||'').match(/ashbyhq\.com\/(?:posting-api\/job-board\/)?([^/?]+)/i)||[])[1];
+   if(!slug){base.reason='missing_ashby_slug';return base;}
+   const r=await fetch('https://api.ashbyhq.com/posting-api/job-board/'+slug);if(!r.ok){base.reason='listing_http_'+r.status;return base;}
+   jobs=((await r.json()).jobs||[]).map(j=>({title:j.title,url:j.jobUrl||j.applyUrl,description:j.descriptionPlain||j.descriptionHtml||j.description||''}));
+  }
+  if(!jobs.length){base.reason='no_job_postings';return base;}
+  let best=base;
+  for(const j of jobs.slice(0,5)){const q=jdQuality(j.description);const cur={...base,...q,job_title:j.title||null,job_url:j.url||null,
+    full_jd_verified:q.jd_fetch_status==='full',fit_scoring_eligible:q.jd_fetch_status==='full',reason:q.jd_fetch_status==='full'?null:'jd_content_incomplete'};
+    if(cur.full_jd_verified)return cur;if((cur.jd_char_count||0)>(best.jd_char_count||0))best=cur;}
+  return best;
+ }catch(e){base.reason=String(e.message||e);return base;}
+}
+const layer2Identified=(funnel.identified||[]).filter(x=>['workday','greenhouse','ashby','lever'].includes(x.provider));
+const jdProbes=await mapLimit(layer2Identified,4,c=>c.provider==='workday'?verifyWorkday(c):verifyStandardAts(c));
 const jdVerified=jdProbes.filter(x=>x.full_jd_verified);
-const jdAudit={generated_at:new Date().toISOString(),method:'workday_listing_then_job_detail',
+const jdAudit={generated_at:new Date().toISOString(),method:'standard_ats_listing_then_job_detail',
  tested:jdProbes.length,full_jd_verified:jdVerified.length,
  rule:'Only substantive job description content with responsibility and qualification signals passes. ATS detection is not JD verification.',
  results:jdProbes};
