@@ -1,7 +1,7 @@
 {
-  "next_index": 1250,
-  "universe_size": 15779,
+  "next_index": 1500,
+  "universe_size": 28663,
   "batch_size": 250,
-  "last_start_index": 1000,
-  "updated_at": "2026-10-14T16:54:18.500Z"
+  "last_start_index": 1250,
+  "updated_at": "2026-10-14T17:08:00.928Z"
 }

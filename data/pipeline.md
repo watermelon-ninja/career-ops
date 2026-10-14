@@ -370,3 +370,35 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://jobs.ashbyhq.com/horizon3ai/27b37649-9cd9-4f70-9a55-28860d316edb | Horizon3 AI | Director, Mid-Enterprise Sales, SoCal
 - [ ] https://jobs.ashbyhq.com/horizon3ai/817efe82-c5f5-47c1-ab23-f621501d716e | Horizon3 AI | Director, Mid-Enterprise Sales, Ohio Valley
 - [ ] https://jobs.ashbyhq.com/horizon3ai/52c363ba-c46f-4731-a7dd-ac4da62a2a3c | Horizon3 AI | Senior Revenue Operations Program Manager
+
+- [ ] https://jobs.ashbyhq.com/injective/6d9f0316-873a-41a5-9971-b981b1b85430 | Injective | Senior Technical Product Manager (Injective Labs)
+- [ ] https://jobs.ashbyhq.com/inspiren/6078fae7-1548-4a68-b956-82340335fb0c | Inspiren | Senior Implementation Manager
+- [ ] https://jobs.ashbyhq.com/inspiren/807cf866-e169-4190-817a-c057a3790639 | Inspiren | Principal Product Manager, Assisted Living & Memory Care
+- [ ] https://jobs.ashbyhq.com/inovalon/e601a851-211e-48c1-bd0b-017b8ef7fcba | Inovalon | Senior Principal Product Manager - Infusion
+- [ ] https://jobs.ashbyhq.com/inovalon/e7edd78f-0f4c-4e64-b24b-37d6905cfbd7 | Inovalon | Product Owner - Claims
+- [ ] https://jobs.ashbyhq.com/inovalon/68c6b2f6-216f-462b-be0c-554408bd2e50 | Inovalon | Senior Product Manager, AI/ML
+- [ ] https://jobs.ashbyhq.com/jerry.ai/a8eebdcf-e041-4319-9634-a70cf08736f6 | jerry.ai | Senior Product Manager, Emerging Products (0-1)
+- [ ] https://jobs.ashbyhq.com/jobber/2b8ae7cc-d8df-4d4f-889c-a1cd9c533c9d | Jobber | Staff Product Manager, Fintech New Bets
+- [ ] https://jobs.ashbyhq.com/jobs-valence/1503bfef-2994-4edd-9d49-1770faba5d39 | Valence | Staff Product Manager
+- [ ] https://jobs.ashbyhq.com/kin/367cdec2-ccd9-4f50-bdc4-eec1ec939f76 | Kin Insurance | Data Product Manager
+- [ ] https://jobs.ashbyhq.com/kin/1c9b0f0f-a2a8-4729-bcb8-e8817652c82e | Kin Insurance | Senior Insurance Business Analyst
+- [ ] https://jobs.ashbyhq.com/kit/5a4c9008-9362-4223-a1e0-8a50ef2096cd | Kit | Senior Product Manager - Publishing
+- [ ] https://jobs.ashbyhq.com/kit/64e002a3-ef82-45bf-a9f5-fbdb945c7326 | Kit | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/kit/c3a68331-f3ef-4fd5-8151-ae269179cdc7 | Kit | Senior Product Manager - Content Creation
+- [ ] https://jobs.ashbyhq.com/kit/2b4158e2-47c0-4570-863a-c23b5b8cad09 | Kit | Senior Product Manager - Email & Publishing Tools
+- [ ] https://jobs.ashbyhq.com/kodex/462f4052-f247-4b14-86fc-550123571b05 | Kodex | Senior Product Manager, Platform & Integrations
+- [ ] https://jobs.ashbyhq.com/kueski/e4055ce1-f0ac-45a5-b94e-dcee794ae91b | Kueski | Staff Product Manager- Growth Team Lead
+- [ ] https://jobs.ashbyhq.com/kontakt/6a51caf5-5a7e-4b2d-9dd5-c67229202530 | Kontakt.io | Customer Success Manager, Enterprise
+- [ ] https://jobs.ashbyhq.com/lambda/65c58572-7ffa-4e26-a252-771dd89ab0d8 | lambda | Staff Data Center Implementation Manager
+- [ ] https://jobs.ashbyhq.com/lambda/9a8b0df2-63e0-4641-9503-59f56fbe195e | lambda | Technical Program Manager - Data Center Infrastructure Delivery
+- [ ] https://jobs.ashbyhq.com/lark/e516ab0c-eebb-4ea7-a585-3054862d436b | Lark Health | Senior Product Manager, Core App
+- [ ] https://jobs.ashbyhq.com/leadbank/32477853-c075-4a83-a621-9aaa30988f72 | Lead | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/leadbank/93f4e766-29af-462c-b87a-50e43403cd32 | Lead | Senior Technical Governance Program Manager
+- [ ] https://jobs.ashbyhq.com/leadbank/1676aeb1-6966-4bda-964c-2658bd151c7b | Lead | Associate Program Manager
+- [ ] https://jobs.ashbyhq.com/lemonade/8e911c39-caae-43d2-8908-d579a2739a0e | lemonade | Insurance Product Manager, Car
+- [ ] https://jobs.ashbyhq.com/lemonade/70be3cf8-107a-4352-bdbe-648de1040e33 | lemonade | Associate Insurance Product Manager, Car 
+- [ ] https://jobs.ashbyhq.com/lemonade/6e579892-c0f2-43a8-b80e-5411ece5e0bb | lemonade | Senior Insurance Product Manager, Car 
+- [ ] https://jobs.ashbyhq.com/leland/a617fbcb-aea9-4065-83ee-1cbcd31664da | leland | Product Operations Coach
+- [ ] https://jobs.ashbyhq.com/lendable/a97d2289-6240-419e-aad1-fc2b41ad527a | lendable | Financial Crimes Program Manager
+- [ ] https://jobs.ashbyhq.com/light/7128356c-f87a-453c-8154-8ae1c9201a13 | Light | Sales, Enterprise
+- [ ] https://jobs.ashbyhq.com/level/6cde4fa0-c435-4065-ba02-8ada5293d884 | Level | Technical Product Manager, Learning Science
