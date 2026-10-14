@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T23:09:16.188Z",
+  "generated_at": "2026-10-14T23:31:21.504Z",
   "method": "standard_ats_listing_then_job_detail",
   "tested": 22,
-  "full_jd_verified": 12,
+  "full_jd_verified": 16,
   "rule": "Only substantive job description content with responsibility and qualification signals passes. ATS detection is not JD verification.",
   "results": [
     {
@@ -140,12 +140,12 @@
       "jd_fetch_status": "full",
       "full_jd_verified": true,
       "fit_scoring_eligible": true,
-      "job_url": "https://kiongroup.wd3.myworkdayjobs.com/wday/cxs/kiongroup/KION_SCS/job/Islandia-NY-United-States/Electro-Mechanical-Tech-4_JR-0096846",
+      "job_url": "https://kiongroup.wd3.myworkdayjobs.com/wday/cxs/kiongroup/KION_SCS/job/Sailsbury-SA-Australia/AGV-Engineer_JR-0091586",
       "reason": null,
-      "jd_char_count": 3697,
+      "jd_char_count": 4256,
       "has_responsibilities": true,
       "has_qualifications": true,
-      "job_title": "AGV Technician 4"
+      "job_title": "AGV Engineer"
     },
     {
       "name": "Zebra Technologies",
@@ -263,45 +263,61 @@
       "name": "Manhattan Associates",
       "group": "supply_chain",
       "provider": "workday",
-      "endpoint": null,
-      "jd_fetch_status": "failed",
-      "full_jd_verified": false,
-      "fit_scoring_eligible": false,
-      "job_url": null,
-      "reason": "invalid_workday_endpoint"
+      "endpoint": "https://manh.wd5.myworkdayjobs.com/wday/cxs/manh/External/jobs",
+      "jd_fetch_status": "full",
+      "full_jd_verified": true,
+      "fit_scoring_eligible": true,
+      "job_url": "https://manh.wd5.myworkdayjobs.com/wday/cxs/manh/External/job/Atlanta-GA/Demand-Generation-Manager--WMS_16951",
+      "reason": null,
+      "jd_char_count": 11314,
+      "has_responsibilities": true,
+      "has_qualifications": true,
+      "job_title": "Demand Generation Manager"
     },
     {
       "name": "West Monroe",
       "group": "consulting",
       "provider": "greenhouse",
-      "endpoint": null,
-      "jd_fetch_status": "failed",
-      "full_jd_verified": false,
-      "fit_scoring_eligible": false,
-      "job_url": null,
-      "reason": "missing_greenhouse_slug"
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/westmonroe4/jobs?content=true",
+      "jd_fetch_status": "full",
+      "full_jd_verified": true,
+      "fit_scoring_eligible": true,
+      "job_url": "https://westmonroe.com/careers/job-details-experienced-professionals?gh_jid=5735518004",
+      "reason": null,
+      "jd_char_count": 46368,
+      "has_responsibilities": true,
+      "has_qualifications": true,
+      "job_title": "Agentic AI Architect-Google Cloud "
     },
     {
       "name": "Protiviti",
       "group": "consulting",
       "provider": "workday",
-      "endpoint": null,
-      "jd_fetch_status": "failed",
-      "full_jd_verified": false,
-      "fit_scoring_eligible": false,
-      "job_url": null,
-      "reason": "invalid_workday_endpoint"
+      "endpoint": "https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/roberthalf/ProtivitiNA/jobs",
+      "jd_fetch_status": "full",
+      "full_jd_verified": true,
+      "fit_scoring_eligible": true,
+      "job_url": "https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/roberthalf/ProtivitiNA/job/DENVER/Denver-Executive-Assistant_JR-261046",
+      "reason": null,
+      "jd_char_count": 8483,
+      "has_responsibilities": true,
+      "has_qualifications": true,
+      "job_title": "Denver Executive Assistant"
     },
     {
       "name": "RSM US",
       "group": "consulting",
       "provider": "workday",
-      "endpoint": null,
-      "jd_fetch_status": "failed",
-      "full_jd_verified": false,
-      "fit_scoring_eligible": false,
-      "job_url": null,
-      "reason": "invalid_workday_endpoint"
+      "endpoint": "https://rsm.wd1.myworkdayjobs.com/wday/cxs/rsm/RSMCareers/jobs",
+      "jd_fetch_status": "full",
+      "full_jd_verified": true,
+      "fit_scoring_eligible": true,
+      "job_url": "https://rsm.wd1.myworkdayjobs.com/wday/cxs/rsm/RSMCareers/job/San-Salvador/Platform-Manger---Camunda-or-Boomi_JR119173",
+      "reason": null,
+      "jd_char_count": 8317,
+      "has_responsibilities": true,
+      "has_qualifications": true,
+      "job_title": "Platform Manager - Camunda or Boomi"
     }
   ]
 }

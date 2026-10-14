@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T23:08:22.163Z",
-  "input_count": 86,
-  "discovered": 2,
+  "generated_at": "2026-10-14T23:30:07.844Z",
+  "input_count": 84,
+  "discovered": 0,
   "unresolved": 84,
   "results": [
     {
@@ -348,7 +348,7 @@
           "url": "https://www.tokyoelectron.com/careers/",
           "status": null,
           "final_url": "https://www.tokyoelectron.com/careers/",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.tokyoelectron.com/jobs",
@@ -366,13 +366,13 @@
           "url": "https://www.tokyoelectron.com/en/careers",
           "status": null,
           "final_url": "https://www.tokyoelectron.com/en/careers",
-          "error": "timeout"
+          "error": "fetch failed"
         },
         {
           "url": "https://www.tokyoelectron.com/us/en/careers",
           "status": null,
           "final_url": "https://www.tokyoelectron.com/us/en/careers",
-          "error": "timeout"
+          "error": "fetch failed"
         }
       ]
     },
@@ -622,21 +622,21 @@
       "attempts": [
         {
           "url": "https://www.ichor.com/careers",
-          "status": 403,
-          "final_url": "http://www.telepathy.com/",
-          "error": null
+          "status": null,
+          "final_url": "https://www.ichor.com/careers",
+          "error": "timeout"
         },
         {
           "url": "https://www.ichor.com/careers/",
-          "status": 403,
-          "final_url": "http://www.telepathy.com/",
-          "error": null
+          "status": null,
+          "final_url": "https://www.ichor.com/careers/",
+          "error": "timeout"
         },
         {
           "url": "https://www.ichor.com/jobs",
-          "status": 403,
-          "final_url": "http://www.telepathy.com/",
-          "error": null
+          "status": null,
+          "final_url": "https://www.ichor.com/jobs",
+          "error": "timeout"
         },
         {
           "url": "https://www.ichor.com/jobs/",
@@ -988,39 +988,39 @@
       "attempts": [
         {
           "url": "https://www.compalelectronics.com/careers",
-          "status": null,
+          "status": 200,
           "final_url": "https://www.compalelectronics.com/careers",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.compalelectronics.com/careers/",
-          "status": null,
+          "status": 200,
           "final_url": "https://www.compalelectronics.com/careers/",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.compalelectronics.com/jobs",
-          "status": null,
+          "status": 200,
           "final_url": "https://www.compalelectronics.com/jobs",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.compalelectronics.com/jobs/",
-          "status": null,
+          "status": 200,
           "final_url": "https://www.compalelectronics.com/jobs/",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.compalelectronics.com/en/careers",
-          "status": null,
+          "status": 200,
           "final_url": "https://www.compalelectronics.com/en/careers",
-          "error": "timeout"
+          "error": null
         },
         {
           "url": "https://www.compalelectronics.com/us/en/careers",
-          "status": null,
+          "status": 200,
           "final_url": "https://www.compalelectronics.com/us/en/careers",
-          "error": "timeout"
+          "error": null
         }
       ]
     },
@@ -1775,24 +1775,6 @@
       ]
     },
     {
-      "company": "Zebra Technologies",
-      "status": "discovered",
-      "seed": {
-        "name": "Zebra Technologies",
-        "careers_url": "https://www.zebra.com/us/en/about-zebra/careers.html",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.zebra.com/careers",
-          "status": 200,
-          "final_url": "https://www.zebra.com/us/en/about-zebra/careers.html",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Qlik",
       "status": "unresolved",
       "attempts": [
@@ -2399,24 +2381,6 @@
       ]
     },
     {
-      "company": "Colgate-Palmolive",
-      "status": "discovered",
-      "seed": {
-        "name": "Colgate-Palmolive",
-        "careers_url": "https://jobs.colgate.com/",
-        "source": "layer2b_official_domain_probe",
-        "status": "official_careers_page_autodiscovered"
-      },
-      "attempts": [
-        {
-          "url": "https://www.colgatepalmolive.com/careers",
-          "status": 200,
-          "final_url": "https://jobs.colgate.com/",
-          "error": null
-        }
-      ]
-    },
-    {
       "company": "Best Buy",
       "status": "unresolved",
       "attempts": [
@@ -2452,9 +2416,9 @@
         },
         {
           "url": "https://www.bestbuy.com/us/en/careers",
-          "status": 404,
+          "status": null,
           "final_url": "https://www.bestbuy.com/us/en/careers",
-          "error": null
+          "error": "timeout"
         }
       ]
     },
@@ -3130,9 +3094,9 @@
         },
         {
           "url": "https://www.globalpayments.com/jobs",
-          "status": 403,
+          "status": null,
           "final_url": "https://www.globalpayments.com/jobs",
-          "error": null
+          "error": "timeout"
         },
         {
           "url": "https://www.globalpayments.com/jobs/",
@@ -3564,37 +3528,37 @@
           "url": "https://www.johnsonjohnson.com/careers",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/careers",
-          "error": "timeout"
+          "error": "fetch failed"
         },
         {
           "url": "https://www.johnsonjohnson.com/careers/",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/careers/",
-          "error": "timeout"
+          "error": "fetch failed"
         },
         {
           "url": "https://www.johnsonjohnson.com/jobs",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/jobs",
-          "error": "timeout"
+          "error": "fetch failed"
         },
         {
           "url": "https://www.johnsonjohnson.com/jobs/",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/jobs/",
-          "error": "timeout"
+          "error": "fetch failed"
         },
         {
           "url": "https://www.johnsonjohnson.com/en/careers",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/en/careers",
-          "error": "timeout"
+          "error": "fetch failed"
         },
         {
           "url": "https://www.johnsonjohnson.com/us/en/careers",
           "status": null,
           "final_url": "https://www.johnsonjohnson.com/us/en/careers",
-          "error": "timeout"
+          "error": "fetch failed"
         }
       ]
     },
@@ -3898,15 +3862,15 @@
         },
         {
           "url": "https://www.baylorscottwhitehealth.com/jobs",
-          "status": 200,
+          "status": null,
           "final_url": "https://www.baylorscottwhitehealth.com/jobs",
-          "error": null
+          "error": "timeout"
         },
         {
           "url": "https://www.baylorscottwhitehealth.com/jobs/",
-          "status": null,
+          "status": 200,
           "final_url": "https://www.baylorscottwhitehealth.com/jobs/",
-          "error": "fetch failed"
+          "error": null
         },
         {
           "url": "https://www.baylorscottwhitehealth.com/en/careers",
@@ -3978,7 +3942,7 @@
           "url": "https://www.texasmutualinsurance.com/careers/",
           "status": null,
           "final_url": "https://www.texasmutualinsurance.com/careers/",
-          "error": "fetch failed"
+          "error": "timeout"
         },
         {
           "url": "https://www.texasmutualinsurance.com/jobs",
@@ -4246,9 +4210,9 @@
         },
         {
           "url": "https://www.planview.com/us/en/careers",
-          "status": null,
-          "final_url": "https://www.planview.com/us/en/careers",
-          "error": "timeout"
+          "status": 200,
+          "final_url": "https://www.planview.com/",
+          "error": null
         }
       ]
     }

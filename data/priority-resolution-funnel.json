@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:08:34.046Z",
+  "generated_at": "2026-10-14T23:30:23.197Z",
   "layer": 2,
   "input_count": 200,
   "identified_at_layer_2": 18,
@@ -2452,8 +2452,8 @@
         {
           "stage": 2,
           "url": "https://gxo.com/careers",
-          "http_status": 200,
-          "final_url": "https://gxo.com/careers/",
+          "http_status": 403,
+          "final_url": "https://gxo.com/careers",
           "result": "no_supported_ats_signature",
           "provider": null
         }
@@ -3129,7 +3129,7 @@
         {
           "stage": 2,
           "url": "https://www.bdo.com/careers",
-          "http_status": 525,
+          "http_status": 404,
           "final_url": "https://www.bdo.com/careers",
           "result": "no_supported_ats_signature",
           "provider": null
