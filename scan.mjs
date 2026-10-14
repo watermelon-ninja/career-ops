@@ -475,6 +475,12 @@ async function main() {
   let totalDupes = 0;
   const newOffers = [];
   const errors = [];
+  const providerStats = new Map();
+  for (const c of targets) {
+    const type = c._api.type;
+    if (!providerStats.has(type)) providerStats.set(type, { boards: 0, jobs: 0, errors: 0 });
+    providerStats.get(type).boards++;
+  }
 
   const tasks = targets.map(company => async () => {
     const { type, url } = company._api;
@@ -483,6 +489,8 @@ async function main() {
         ? await fetchWorkdayJobs(company._api, company.name)
         : PARSERS[type](await fetchJson(url), company.name);
       totalFound += jobs.length;
+      providerStats.get(type).jobs += jobs.length;
+      if (type === 'workday') console.log(`Workday board: ${company.name} — ${jobs.length} jobs returned`);
 
       for (const job of jobs) {
         if (!titleFilter(job.title)) {
@@ -508,6 +516,7 @@ async function main() {
         newOffers.push({ ...job, source: `${type}-api` });
       }
     } catch (err) {
+      providerStats.get(type).errors++;
       errors.push({ company: company.name, error: err.message });
     }
   });
@@ -532,6 +541,10 @@ async function main() {
   console.log(`Filtered by location:  ${totalFilteredLocation} removed`);
   console.log(`Duplicates:            ${totalDupes} skipped`);
   console.log(`New offers added:      ${newOffers.length}`);
+  console.log('Provider breakdown (boards / jobs / errors):');
+  for (const [provider, stats] of [...providerStats.entries()].sort()) {
+    console.log(`  ${provider}: ${stats.boards} / ${stats.jobs} / ${stats.errors}`);
+  }
 
   if (errors.length > 0) {
     console.log(`\nErrors (${errors.length}):`);
