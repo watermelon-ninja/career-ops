@@ -6,27 +6,27 @@ const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 function clean(s){return String(s||'').replace(/<[^>]*>/g,' ').replace(/&nbsp;|&#160;/gi,' ').replace(/&amp;/gi,'&').replace(/&lt;/gi,'<').replace(/&gt;/gi,'>').replace(/&quot;/gi,'"').replace(/&#39;/gi,"'").replace(/\s+/g,' ').trim();}
 async function get(url,options={}){const c=new AbortController();const t=setTimeout(()=>c.abort(),12000);try{const r=await fetch(url,{...options,signal:c.signal});if(!r.ok)throw Error('HTTP '+r.status);return await r.json();}finally{clearTimeout(t);}}
 function endpoint(row){
- const u=new URL(row.url),p=u.pathname;
- if(row.portal==='workday-api'){
+ const u=new URL(row.url),p=u.pathname, portal=row.source || row.portal || '';
+ if(portal==='workday-api'){
    const m=u.hostname.match(/^([^.]+)\.(wd\d+)\.myworkdayjobs\.com$/i);
    const site=p.split('/').filter(Boolean)[0];if(!m||!site)return null;
    const rest=p.slice(('/'+site).length);
    return {provider:'workday',url:u.origin+'/wday/cxs/'+m[1]+'/'+site+rest};
  }
- if(row.portal==='greenhouse-api'){
+ if(portal==='greenhouse-api'){
    const m=p.match(/\/(?:jobs\/)?(\d+)(?:\/)?$/);const board=p.match(/\/(?:boards\/)?([^/]+)\/jobs\/\d+/);
    if(!m||!board)return null;
    return {provider:'greenhouse',url:'https://boards-api.greenhouse.io/v1/boards/'+board[1]+'/jobs/'+m[1]};
  }
- if(row.portal==='ashby-api'){
+ if(portal==='ashby-api'){
    const m=p.match(/^\/([^/]+)\/([^/?#]+)/);if(!m)return null;
    return {provider:'ashby',url:'https://api.ashbyhq.com/posting-api/job-board/'+m[1]};
  }
- if(row.portal==='lever-api'){
+ if(portal==='lever-api'){
    const m=p.match(/^\/([^/]+)\/([^/?#]+)/);if(!m)return null;
    return {provider:'lever',url:'https://api.lever.co/v0/postings/'+m[1]+'/'+m[2]};
  }
- if(row.portal==='smartrecruiters-api'){
+ if(portal==='smartrecruiters-api'){
    const m=p.match(/^\/([^/]+)\/([^/?#]+)/);if(!m)return null;
    return {provider:'smartrecruiters',url:'https://api.smartrecruiters.com/v1/companies/'+m[1]+'/postings/'+m[2]};
  }
@@ -79,7 +79,8 @@ const rows=loadCandidates();
 mkdirSync('data',{recursive:true});
 const prior=existsSync(output)?readFileSync(output,'utf8').split('\n').filter(Boolean).map(x=>{try{return JSON.parse(x)}catch{return null}}).filter(Boolean):[];
 const known=new Map(prior.map(x=>[x.url,x]));
-const pending=rows.filter(x=>!known.has(x.url)).slice(0,limit);
+const retryable=new Set(['unsupported','fetch_failed','incomplete','unavailable']);
+const pending=rows.filter(x=>!known.has(x.url) || retryable.has(known.get(x.url)?.status)).slice(0,limit);
 const results=[];
 for(let i=0;i<pending.length;i++){
  const row=pending[i];let result;
@@ -88,7 +89,9 @@ for(let i=0;i<pending.length;i++){
  if((i+1)%25===0)console.log('JD enriched '+(i+1)+'/'+pending.length);
  await sleep(75);
 }
-const all=[...prior,...results];
+const refreshed=new Map(prior.map(x=>[x.url,x]));
+for(const x of results)refreshed.set(x.url,x);
+const all=[...refreshed.values()];
 writeFileSync(output,all.map(x=>JSON.stringify(x)).join('\n')+'\n');
 const summary={processed:results.length,existing:prior.length,total:all.length,statuses:results.reduce((a,x)=>(a[x.status]=(a[x.status]||0)+1,a),{})};
 console.log('JD enrichment summary:',JSON.stringify(summary));
