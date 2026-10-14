@@ -21,12 +21,12 @@ for(const p of portals){
 }
 
 const fingerprints=[
- ['workday',/https?:\\/\\/[a-z0-9-]+\\.wd\\d+\\.myworkdayjobs\\.com\\/[^"'<>\\s]+/ig],
- ['greenhouse',/https?:\\/\\/(?:boards|job-boards)(?:\\.eu)?\\.greenhouse\\.io\\/[^"'<>\\s]+/ig],
- ['ashby',/https?:\\/\\/jobs\\.ashbyhq\\.com\\/[^"'<>\\s]+/ig],
- ['lever',/https?:\\/\\/jobs\\.lever\\.co\\/[^"'<>\\s]+/ig],
- ['smartrecruiters',/https?:\\/\\/(?:careers\\.)?smartrecruiters\\.com\\/[^"'<>\\s]+/ig],
- ['teamtailor',/https?:\\/\\/[a-z0-9.-]+\\.teamtailor\\.com\\/?[^"'<>\\s]*/ig]
+ ['workday',/https?:\/\/[a-z0-9-]+\\.wd\\d+\\.myworkdayjobs\\.com\/[^"'<>\\s]+/ig],
+ ['greenhouse',/https?:\/\/(?:boards|job-boards)(?:\\.eu)?\\.greenhouse\\.io\/[^"'<>\\s]+/ig],
+ ['ashby',/https?:\/\/jobs\\.ashbyhq\\.com\/[^"'<>\\s]+/ig],
+ ['lever',/https?:\/\/jobs\\.lever\\.co\/[^"'<>\\s]+/ig],
+ ['smartrecruiters',/https?:\/\/(?:careers\\.)?smartrecruiters\\.com\/[^"'<>\\s]+/ig],
+ ['teamtailor',/https?:\/\/[a-z0-9.-]+\\.teamtailor\\.com\/?[^"'<>\\s]*/ig]
 ];
 const platformMarkers=[
  ['oracle_recruiting_cloud',/(?:oraclecloud\\.com\\/hcmUI\\/CandidateExperience|CandidateExperience|sites\\/jobsearch)/i],
