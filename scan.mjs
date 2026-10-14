@@ -365,6 +365,19 @@ function buildLocationFilter(locationFilter) {
     if (!location) return true;
     const lower = location.toLowerCase();
     if (block.length > 0 && block.some(k => lower.includes(k))) return false;
+
+    // Remote alone is not enough: reject clearly foreign-only remote locations
+    // before applying the broad US/Austin/Texas allow list.
+    const foreignSignals = [
+      'canada','canadian','europe','emea','germany','german','uk','united kingdom',
+      'australia','india','mexico','philippines','poland','france','spain','italy',
+      'netherlands','ireland','singapore','japan','brazil','argentina'
+    ];
+    const usSignals = ['united states','usa','u.s.',' us ','austin','texas',' tx','remote - us','us remote'];
+    const clearlyForeign = foreignSignals.some(k => lower.includes(k));
+    const clearlyUS = usSignals.some(k => lower.includes(k));
+    if (clearlyForeign && !clearlyUS) return false;
+
     if (allow.length === 0) return true;
     return allow.some(k => lower.includes(k));
   };
