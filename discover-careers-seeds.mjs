@@ -4,11 +4,18 @@
 // and accepts a seed only when the page itself looks like a careers/jobs destination.
 // Uncertain candidates remain unresolved; no guessed URL is promoted to the seed registry.
 import {readFileSync,writeFileSync,existsSync} from 'node:fs';
+import yaml from 'js-yaml';
 
 const follow=JSON.parse(readFileSync('data/priority-manual-followup.json','utf8'));
 const seedPath='data/priority-careers-seeds.json';
 const seedDoc=existsSync(seedPath)?JSON.parse(readFileSync(seedPath,'utf8')):{schema_version:1,companies:[]};
 const existing=new Map((seedDoc.companies||[]).map(x=>[x.name.toLowerCase(),x]));
+const portals=yaml.load(readFileSync('portals.yml','utf8')).tracked_companies||[];
+const norm=x=>String(x||'').toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]/g,'');
+const aliases=new Map([['thehomedepot','homedepot'],['delltechnologies','dell'],['samsungelectronics','samsung'],['gxo','gxologistics']]);
+const canon=x=>aliases.get(norm(x))||norm(x);
+const portalNames=new Set(portals.filter(p=>p.careers_url).map(p=>canon(p.name)));
+const seedNames=new Set((seedDoc.companies||[]).map(p=>canon(p.name)));
 
 const stripName=n=>String(n).toLowerCase()
  .replace(/&/g,'and').replace(/\b(the|inc|incorporated|corp|corporation|company|companies|group|holdings|holding|technologies|technology|systems|solutions|international|global|usa|us)\b/g,' ')
@@ -58,7 +65,8 @@ async function discover(company){
 }
 async function mapLimit(items,limit,fn){const out=new Array(items.length);let i=0;async function w(){while(true){const n=i++;if(n>=items.length)return;out[n]=await fn(items[n]);}}await Promise.all(Array.from({length:Math.min(limit,items.length)},w));return out;}
 
-const targets=(follow.companies||[]).filter(x=>x.failure_reason==='no_curated_careers_url');
+// Layer 1 handoff has not run ATS autodetect yet, so it has no failure_reason.
+const targets=(follow.companies||[]).filter(x=>!portalNames.has(canon(x.name))&&!seedNames.has(canon(x.name)));
 const results=await mapLimit(targets,12,discover);
 const found=results.filter(x=>x.status==='discovered').map(x=>x.seed);
 for(const x of found)existing.set(x.name.toLowerCase(),x);
