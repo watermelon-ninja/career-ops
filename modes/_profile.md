@@ -17,6 +17,8 @@ Primary positioning: **Enterprise Supply Chain Systems & Integration**.
 | **WMS / Warehouse Systems Analyst** | Infor WMS, ASRS, warehouse automation, inventory, fulfillment | Someone who understands warehouse systems implementation and production support |
 | **Technical Product Owner, Supply Chain Systems** | Backlog ownership, Agile/Scrum, UAT, go-live readiness | Someone who can prioritize supply chain systems work and drive release outcomes |
 | **Implementation / Program Manager, Supply Chain Systems** | Rollout, deployment, SIT/UAT governance, hypercare, vendor coordination | Someone who can manage supply chain systems implementation from readiness through go-live |
+| **Product / Product Operations Manager** | Cross-functional prioritization, process improvement, analytics, stakeholder alignment | Someone who can translate operational problems into scalable product/process improvements |
+| **Enterprise Implementation Consultant** | Requirements, configuration, testing, adoption, customer/stakeholder delivery | Someone who can lead complex enterprise-system implementations across business and technical teams |
 
 ## Your Adaptive Framing
 
@@ -51,10 +53,14 @@ Her advantage is the combination of:
 
 ## Proof Points to Prioritize
 
-- Inventory forecasting model improved accuracy by **25–35%**.
-- Supply chain systems/process work supported approximately **$2.5M annual savings**.
-- Manual logistics processing reduced by **20%**.
-- Supported eCommerce go-live and logistics integrations with **Amazon, CEVA, and XPO**.
+Use only verified, defensible facts. Do not invent or inherit metrics from template/example content.
+
+- Reprioritized **20+ cycle-count workflows to 5–6 high-use processes** for the initial WMS release, balancing business impact, timeline, and resources while reducing implementation/training complexity.
+- Built interface/job clarity across **4 integrations and 50+ jobs**, reducing false defects and saving **20%+ development/QA time**.
+- Supported **40+ SIT/UAT cases** within owned WMS scope and cross-functional readiness/deployment work; do not attribute the overall program's 900+ test cases or 200+ requirements to Selena personally.
+- Automated data exchange with **Amazon, CEVA, and XPO**, reducing manual logistics processing by approximately **20%**.
+- Captured previously undocumented inventory-control business logic and partnered with business, vendor, development, and testing teams to translate it into process flows, backlog items, system requirements, testing, and deployment readiness.
+- Databricks / SQL / Genie analytics, exception monitoring, and logistics reporting are valid experience; do not fabricate savings or forecasting-accuracy metrics.
 
 ## Keywords to Match
 
@@ -70,7 +76,9 @@ No portfolio/demo URL is configured yet. Use `data/resume-master.md` and `config
 
 ## Your Comp Targets
 
-No compensation target has been provided yet. If compensation comes up, ask Selena for target range, minimum, and location/onsite constraints before making recommendations.
+Target total compensation is generally **$150K+**, but ability fit must be scored separately from compensation. Do not down-score a role's capability match merely because pay is lower; flag compensation as a separate decision factor.
+
+Austin is preferred. U.S. remote/hybrid is acceptable. Selective relocation can be considered for exceptional opportunities. Selena does not require sponsorship.
 
 ## Your Negotiation Scripts
 
