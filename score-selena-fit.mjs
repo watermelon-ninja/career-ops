@@ -53,17 +53,38 @@ function fit(j){
   if(has(jd,/registered nurse|medical license|clinical licensure|professional engineer license|licensed architect/))gaps.push('specialized_credential_gap');
   if(has(jd,/people manager|manage a team of|direct reports/) && !has(title,/product owner|analyst/))gaps.push('people_management_requirement');
 
-  let score=Object.values(dims).reduce((a,b)=>a+b,0);
+  let capabilityScore=Object.values(dims).reduce((a,b)=>a+b,0);
+
+  // Domain-context correction: systems/technology work is Selena's core lane;
+  // frontline/specialized operations should not score highly from generic operations keywords.
+  const systemsContext=has(text,/business systems|enterprise systems|system implementation|systems integration|\bwms\b|\berp\b|\bsap\b|kinaxis|databricks|data platform|technical program|product owner/);
+  const physicalOpsContext=has(text,/frontline|shop floor|plant operations|chemical manufacturing|hazardous|process safety|shift team|store operations|field leadership/);
+  if(physicalOpsContext&&!systemsContext){capabilityScore=Math.min(capabilityScore,6.4);gaps.push('non_systems_operations_domain');}
+
+  capabilityScore=Math.round(capabilityScore*10)/10;
+  let score=capabilityScore;
   let gap='none';
   if(gaps.includes('specialized_credential_gap')){gap='disqualifying';score=Math.min(score,5.9);}
   else if(gaps.includes('occupation_mismatch')){gap='major';score=Math.min(score,6.9);}
   else if(gaps.includes('major_experience_gap')){gap='major';score=Math.min(score,7.4);}
   else if(gaps.length){gap='manageable';}
   score=Math.round(score*10)/10;
+
+  // Application Fit is separate from capability: seniority, career level and hard requirements
+  // affect whether Selena should apply, not whether she could perform the underlying work.
+  let applicationScore=score;
+  if(gaps.includes('major_experience_gap')) applicationScore=Math.min(applicationScore,6.9);
+  if(gaps.includes('executive_scope')) applicationScore=Math.min(applicationScore,5.9);
+  if(has(title,/\b(jr\.?|junior|associate)\b/) && has(jd,/1.?3 years|1 to 3 years|one to three years/)) {
+    applicationScore=Math.min(applicationScore,7.8);
+    gaps.push('under_level_role');
+    if(gap==='none') gap='manageable';
+  }
+  applicationScore=Math.round(applicationScore*10)/10;
   if(dims.domain>=1.4)evidence.push('domain_transfer');
   if(dims.responsibilities>=1.5)evidence.push('delivery_ownership');
   if(dims.skills_technology>=1)evidence.push('systems_tools');
-  return {...j,fit_dimensions:dims,requirement_gap:gap,requirement_gaps:gaps,selena_fit_score:score,selena_fit_band:score>=9?'strong_apply':score>=8?'high_review':score>=7?'possible':'low',selena_fit_evidence:evidence};
+  return {...j,fit_dimensions:dims,requirement_gap:gap,requirement_gaps:gaps,capability_fit_score:capabilityScore,application_fit_score:applicationScore,selena_fit_score:applicationScore,selena_fit_band:applicationScore>=9?'strong_apply':applicationScore>=8?'high_review':applicationScore>=7?'possible':'low',selena_fit_evidence:evidence};
 }
 const eligible=rows.filter(x=>x.fit_scoring_eligible&&x.full_jd_verified&&x.jd_text);
 const out=eligible.map(fit).sort((a,b)=>b.selena_fit_score-a.selena_fit_score);
