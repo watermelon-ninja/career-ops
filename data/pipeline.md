@@ -1532,3 +1532,161 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Vice-President--Product-Strategy_1653551 | centene | Vice President, Product Strategy
 - [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/VP--Network-Development---Contracting---Sunshine-State-Health-Plan_1658424 | centene | VP, Network Development & Contracting - Sunshine State Health Plan
 - [ ] https://jobs.ashbyhq.com/tessera-labs/b3bd0562-b2eb-483a-8efc-b77bcda21afe | Tessera Labs | SAP Principal Delivery Architect
+
+- [ ] https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/USA---California---Remote/Product-Insights---System-Integration-Product-Manager_R04723 | cohesity | Senior Product Manager, Partner Insights & Systems Integration
+- [ ] https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Staff-Technical-Program-Manager--PSA-Ops_JR106186 | collectorsuniverse | Staff Technical Program Manager, PSA Ops
+- [ ] https://jobs.ashbyhq.com/truemed/c71b6d73-502b-4a8f-884d-7f74cc5353a4 | Truemed | Product Manager, Merchant Payments & Integration
+- [ ] https://jobs.ashbyhq.com/trust-wallet/f421685a-fc97-46f9-bcce-db991f4d25ee | Trust Wallet | Senior Product Manager - Data Platform (Web3)
+- [ ] https://jobs.ashbyhq.com/vanta/f2661895-d4fb-4b7e-95c9-14b13964e6a9 | Vanta | Senior Product Manager, Agent Ecosystem
+- [ ] https://jobs.ashbyhq.com/vanta/22ba8036-10cb-405d-82fb-9cb07324934c | Vanta | Senior Product Manager, Integrations
+- [ ] https://jobs.ashbyhq.com/vanta/f7225fae-2203-4332-8ea4-8569c7e371d1 | Vanta | Staff Product Manager, Data Platform
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Houston-TX-United-States-of-America/Senior-Pricing-Analyst---Project-Logistics_R49134 | chrobinson | Senior Pricing Analyst - Project Logistics
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Malaysia-Remote/Supervisor-Service-Delivery-Logistics_R48806 | chrobinson | Supervisor Service Delivery-Logistics
+- [ ] https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Senior-Hardware-Engineering-Program-Manager_2028178-1 | cisco | Senior Hardware Engineering Program Manager
+- [ ] https://cityofgalveston.wd12.myworkdayjobs.com/cityofgalvestontexascareers/job/Galveston-TX/Business-Systems-Analyst_JR100293 | cityofgalveston | Business Systems Analyst
+- [ ] https://cni.wd503.myworkdayjobs.com/cni/job/Remote/Logistics-Specialist_R9165 | cni | Logistics Specialist
+- [ ] https://cni.wd503.myworkdayjobs.com/cni/job/Remote/Senior-Logistics-Specialist_R9164 | cni | Senior Logistics Specialist
+- [ ] https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Malaysia---Remote/Distribution-Manager--ASEAN_R04476-1 | cohesity | Distribution Manager, ASEAN
+- [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US--REMOTE/Inventory-Consultant_R-147415 | coke | Inventory Consultant
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Remote/Senior-Software-Engineer---Global-Forwarding-Technology_R49501 | chrobinson | Senior Software Engineer - Global Forwarding Technology
+- [ ] https://ciena.wd5.myworkdayjobs.com/careers/job/Remote-US/Field-Service-Project-Manager--Jr-_R031794-1 | ciena | Field Service Project Manager (Jr)
+- [ ] https://ciena.wd5.myworkdayjobs.com/careers/job/Remote-US/Services-Project-Manager_R031618-1 | ciena | Services Project Manager
+- [ ] https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Hardware-Engineering-Technical-Leader---Power-Engineer--Hybrid-_2021743 | cisco | Hardware Engineering Technical Leader - Power Engineer (Hybrid)
+- [ ] https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Costa-Rica-Remote/Assistant-Clinical-Project-Manager_R14717 | clarioclinical | Assistant Clinical Project Manager
+- [ ] https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Costa-Rica-Remote/Clinical-Project-Manager_R18034-1 | clarioclinical | Clinical Project Manager
+- [ ] https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/United-States-Remote/Project-Manager-II_R18287 | clarioclinical | Project Manager II
+- [ ] https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/United-States-Remote/Project-Manager--Digital-Physiology_R18036 | clarioclinical | Project Manager, Digital Physiology
+- [ ] https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/United-States-Remote/Senior-Lead--Clinical-Project-Manager_R18312-1 | clarioclinical | Senior Lead, Clinical Project Manager
+- [ ] https://claytonhomes.wd1.myworkdayjobs.com/brohn/job/Austin-TX/Land-Development-Project-Manager_JR134322 | claytonhomes | Land Development Project Manager
+- [ ] https://clearesult.wd1.myworkdayjobs.com/clearesult_external_careers/job/Remote---Illinois/C-I-Program-Manager_R0018223 | clearesult | C&I Program Manager
+- [ ] https://clunegc.wd12.myworkdayjobs.com/clunegc/job/Austin-TX/Project-Manager---Tenant-Improvement_JR101431 | clunegc | Project Manager - Tenant Improvement
+- [ ] https://clunegc.wd12.myworkdayjobs.com/clunegc/job/Austin-TX/Senior-Project-Manager---Mission-Critical_JR101428 | clunegc | Senior Project Manager - Mission Critical
+- [ ] https://clunegc.wd12.myworkdayjobs.com/clunegc/job/Austin-TX/Senior-Project-Manager---Tenant-Improvement_JR101432-1 | clunegc | Senior Project Manager - Tenant Improvement
+- [ ] https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Senior-Product-Manager--Vault-Operations_JR106110 | collectorsuniverse | Senior Product Manager, Vault Operations
+- [ ] https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Staff-Product-Manager--AI-Research---Engineering_JR106708 | collectorsuniverse | Staff Product Manager, AI Research & Engineering
+- [ ] https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Staff-Product-Manager--New-Business-Ventures_JR104976 | collectorsuniverse | Staff Product Manager, New Business Ventures
+- [ ] https://colliers.wd3.myworkdayjobs.com/colliers-external-career-site/job/Dallas-Texas-United-States-of-America/Senior-Project-Manager--Construction_JR18051 | colliers | Senior Project Manager, Construction
+- [ ] https://jobs.ashbyhq.com/trilitech/d4798bb2-4006-4722-9684-48a47db79182 | Trilitech | Product Manager
+- [ ] https://jobs.ashbyhq.com/trilitech/e5154e9a-5d8f-4339-8c21-6c8d16479bd4 | Trilitech | Product Manager - Metals.io
+- [ ] https://jobs.ashbyhq.com/trust-wallet/dd29ec3d-4059-447d-b3c0-15de2807caca | Trust Wallet | Senior Product Manager - Trading Growth (Web3)
+- [ ] https://jobs.ashbyhq.com/trust-wallet/e7a289e0-73a4-4f4c-bb50-dc0bd8eb5c0d | Trust Wallet | Senior Product Manager (Core) 
+- [ ] https://jobs.ashbyhq.com/turquoise-health/f7183632-4e65-4e1a-9d82-8d62cfc5eee3 | Turquoise | Founding Product Manager, Life Sciences Workflows
+- [ ] https://jobs.ashbyhq.com/turquoise-health/7a416ec3-eef0-41da-8afb-09644fb54e1b | Turquoise | Senior/Staff Product Manager, Contracts
+- [ ] https://jobs.ashbyhq.com/uipath/638d976d-2a0e-44ba-aee6-8ec179ff64e0 | UiPath | Enterprise Sales Executive
+- [ ] https://jobs.ashbyhq.com/uipath/0ecf46f8-8446-4674-aa78-ef6b0dedaa2a | UiPath | Enterprise Sales Executive — Regional Banking & Credit Unions
+- [ ] https://jobs.ashbyhq.com/uipath/50e112f8-c870-4cb0-883d-15e0b575074e | UiPath | Senior Enterprise Sales Executive
+- [ ] https://jobs.ashbyhq.com/uipath/5b4163c3-4911-4fcc-acf0-cddc37778a9f | UiPath | Senior Technical Account Manager - Federal 
+- [ ] https://jobs.ashbyhq.com/uipath/7ae90b76-d672-4a16-9ab5-c9212017b9ff | UiPath | Technical Account Manager
+- [ ] https://jobs.ashbyhq.com/uipath/199067bc-e277-443c-b53a-49cd6637f489 | UiPath | Technical Account Manager 
+- [ ] https://jobs.ashbyhq.com/uipath/fce22e8d-384e-4b74-ae39-796d9e24162b | UiPath | Technical Account Manager - Healthcare
+- [ ] https://jobs.ashbyhq.com/unicourt/8478e1a2-d104-4924-a1db-5195f5bfc370 | UniCourt Inc | Product Manager, Court Data and Alerts
+- [ ] https://jobs.ashbyhq.com/upchurch/9e0ca3d2-35e7-4a7b-bc73-586eeb892b7d | Upchurch | Mechanical Project Manager
+- [ ] https://jobs.ashbyhq.com/upside/5a27555e-84a2-469f-ba61-c4b90518fda8 | Upside | Senior Product Manager, Restaurant Vertical
+- [ ] https://jobs.ashbyhq.com/vanta/55e4b938-655c-40b3-a98b-3bc32d5c5a72 | Vanta | Senior Product Manager, Document Management
+- [ ] https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Principal-Product-Manager--PSA-Liquidity-Platform_JR104556-1 | collectorsuniverse | Principal Product Manager, PSA Liquidity Platform
+- [ ] https://ciena.wd5.myworkdayjobs.com/careers/job/Remote-US/Global-Process-Owner---Sales-and-Operations-Planning_R029895 | ciena | Global Process Owner - Sales and Operations Planning
+- [ ] https://circle.wd1.myworkdayjobs.com/circle/job/San-Francisco---remote-first-in-US/Engineering-Manager--Identity---Access-Platform_JR101170 | circle | Engineering Manager, Identity & Access Platform
+- [ ] https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Remote-United-States-of-America/Senior-Product-Sales-Manager--Higher-Education_JREQ136212-1 | clarivate | Sr. Product Sales Manager, Research & Analytics
+- [ ] https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Remote-United-States-of-America/Sr-Solutions-Sales-Manager--Research---Analytics_JREQ136843 | clarivate | Sr. Solutions Sales Manager, Research & Analytics
+- [ ] https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Remote-United-States-of-America/Strategic-Product-Sales-Manager--Learning-Technology-_JREQ136700-1 | clarivate | Strategic Product Sales Manager (Learning Technology)
+- [ ] https://clearchanneloutdoor.wd5.myworkdayjobs.com/cco/job/Dallas-TX-Arlington/Digital-Inventory-Lead_Req23730 | clearchanneloutdoor | Digital Inventory Lead
+- [ ] https://cloudera.wd5.myworkdayjobs.com/external_career/job/Czech-Republic--Remote/Sr-Staff-Platform-Operations-Engineer_261295-1 | cloudera | Sr. Staff Platform Operations Engineer
+- [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---TX---Dallas/Warehouse-Technician--2nd-Shift-1p-9-30p-_R-145510-1 | coke | Warehouse Technician (2nd Shift 1p-9:30p)
+- [ ] https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/PHL---Manila---Remote/Workday-Integration-Consultant--Global-Delivery-Center-_JR-16976-1 | collaborative | Workday Integration Consultant (Global Delivery Center)
+- [ ] https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/PHL---Manila---Remote/Workday-Integrations-Analyst-Consultant--Global-Delivery-Center-_JR-16888-1 | collaborative | Workday Integrations Analyst Consultant (Global Delivery Center)
+- [ ] https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/PHL---Manila---Remote/Workday-Integrations-Manager--Global-Delivery-Center-_JR-16137-1 | collaborative | Workday Integrations Manager (Global Delivery Center)
+- [ ] https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Analytics-Manager--Marketplace_JR104576 | collectorsuniverse | Analytics Manager, Marketplace
+- [ ] https://collegeboard.wd1.myworkdayjobs.com/careers/job/Remote---USA/Lead-Data-Platform-Engineer_REQ002884 | collegeboard | Lead Data Platform Engineer
+- [ ] https://collegeboard.wd1.myworkdayjobs.com/careers/job/Remote---USA/Lead-Full-Stack-Engineer--Platform-Services_REQ002904-1 | collegeboard | Lead Full Stack Engineer, Platform Services
+- [ ] https://jobs.ashbyhq.com/turquoise-health/f4bcb7df-4e4b-468d-94af-d651b548fb81 | Turquoise | Platform Operations Engineer
+- [ ] https://jobs.ashbyhq.com/upside/a0d16dd9-bbdf-4e16-8563-26548b1f16ce | Upside | Merchant Analytics Manager
+- [ ] https://jobs.ashbyhq.com/upside/bc44f6a7-dd97-49a2-80b1-d340c37ecae5 | Upside | Senior Merchant Analytics Manager
+- [ ] https://jobs.ashbyhq.com/vanta/2e68c5e8-5de2-4428-bad0-ddcf518399c4 | Vanta | Senior Manager, Systems Engineering
+- [ ] https://jobs.ashbyhq.com/vanta/021cca9c-f937-4d97-8be7-bc83af8307be | Vanta | Senior Software Engineer, Product Platform
+- [ ] https://jobs.ashbyhq.com/vanta/0fcbc935-76c7-4eac-b522-af421ed200c9 | Vanta | Staff Product Designer, Design Systems
+- [ ] https://jobs.ashbyhq.com/vanta/32babc06-def2-4db3-b153-1c1c44bdcf40 | Vanta | Staff Visual Product Designer, Design Systems
+- [ ] https://clark.wd503.myworkdayjobs.com/clarkexternal/job/Houston-TX/Assistant-Project-Manager_R5025145 | clark | Assistant Project Manager
+- [ ] https://clark.wd503.myworkdayjobs.com/clarkexternal/job/Houston-TX/Project-Manager_R5025141 | clark | Project Manager
+- [ ] https://clark.wd503.myworkdayjobs.com/clarkexternal/job/Houston-TX/Project-Manager--Advanced-Manufacturing-_R5025214 | clark | Project Manager (Advanced Manufacturing)
+- [ ] https://clark.wd503.myworkdayjobs.com/clarkexternal/job/Haskell-TX/Senior-Project-Manager_R5023015 | clark | Senior Project Manager
+- [ ] https://clark.wd503.myworkdayjobs.com/clarkexternal/job/Houston-TX/Senior-Project-Manager--Advanced-Manufacturing-_R5025215 | clark | Senior Project Manager (Advanced Manufacturing)
+- [ ] https://clunegc.wd12.myworkdayjobs.com/clunegc/job/Dallas-TX/Assistant-Project-Manager---Mission-Critical_JR101422 | clunegc | Assistant Project Manager - Mission Critical
+- [ ] https://clunegc.wd12.myworkdayjobs.com/clunegc/job/Dallas-TX/Assistant-Project-Manager---Tenant-Improvement_JR101378 | clunegc | Assistant Project Manager - Tenant Improvement
+- [ ] https://clunegc.wd12.myworkdayjobs.com/clunegc/job/Houston-TX/Project-Manager---Mission-Critical_JR101435 | clunegc | Project Manager - Mission Critical
+- [ ] https://clunegc.wd12.myworkdayjobs.com/clunegc/job/Dallas-TX/Project-Manager---Project-Services_JR100896 | clunegc | Project Manager - Project Services
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5253779007?gh_jid=5253779007 | Anduril | Senior Product Sourcing Engineer, Counter Intrusion
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2-_R2630041 | Applied Materials | Manufacturing Technician II - (T2)
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Plano-TX-United-States-of-America/Account-Manager---Full-Time-Roles-Starting-Spring-Summer-2027_R49416-1 | chrobinson | Account Manager – Full Time Roles Starting Spring/Summer 2027
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Plano-TX-United-States-of-America/Associate-Portfolio-Executive_R49812 | chrobinson | Associate Portfolio Executive
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Plano-TX-United-States-of-America/Associate-Portfolio-Executive---Full-Time-Roles-Starting-Spring-Summer-2027_R49425 | chrobinson | Associate Portfolio Executive – Full Time Roles Starting Spring/Summer 2027
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Dallas-TX-United-States-of-America/Dallas-Associate-Service-Assurance-Manager_R48966 | chrobinson | Associate Service Assurance Manager
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Plano-TX-United-States-of-America/Capacity-Portfolio-Representative---Full-Time-Roles-Starting-Spring-Summer-2027_R49420-1 | chrobinson | Capacity Portfolio Representative – Full Time Roles Starting Spring/Summer 2027
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Minnesota-Remote/Software-Engineer-III_R49703 | chrobinson | Software Engineer III
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Database-Administration-Senior-Advisor--Hybrid_26012233 | cigna | Database Administration Senior Advisor- Hybrid
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Texas-Work-at-Home/RN-Health-Coach---Part-time-30-hours---Evernorth---TX_26012017 | cigna | RN Health Coach - Part time 30 hours - Evernorth - TX
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Software-Engineering-Advisor--Hybrid_26012682 | cigna | Software Engineering Advisor- Hybrid
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Sr-New-Business-Manager--U500--Austin--TX----Hybrid_26009593 | cigna | Sr. New Business Manager; U500 (Austin, TX) - Hybrid
+- [ ] https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Richardson-Texas-US/Customer-Success-Area-TAM-Splunk-Specialist_2026525 | cisco | Customer Success Area TAM Splunk Specialist
+- [ ] https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dallas-Texas-US/Solutions-Engineer_2028382 | cisco | Solutions Engineer
+- [ ] https://citi.wd5.myworkdayjobs.com/citi_early_careers_events_site/job/Houston-Texas-United-States/Early-ID-Program---Corporate-Banking--Energy----Fall-2026---Houston_26999902 | citi | Early ID Program – Corporate Banking (Energy),  Fall 2026 – Houston
+- [ ] https://jobs.ashbyhq.com/uipath/b69c3cd9-8f58-4d2e-be3f-36c35c7462d2 | UiPath | Account Executive - SLED
+- [ ] https://jobs.ashbyhq.com/uipath/35943d38-7acc-45df-8243-2dae6ff47218 | UiPath | Account Executive - SLED 
+- [ ] https://jobs.ashbyhq.com/uipath/3bdbdc61-2344-41bd-bf3d-5df3a90884e5 | UiPath | Business Development Representative
+- [ ] https://jobs.ashbyhq.com/uipath/fa13ffa3-c4b3-4e93-be31-5646b22c5430 | UiPath | Business Development Representative (Spanish/English Fluent)
+- [ ] https://jobs.ashbyhq.com/uipath/a1abf26d-c90a-4190-82d4-2a5d5c636deb | UiPath | Commercial AE - Acquisition
+- [ ] https://jobs.ashbyhq.com/uipath/abf100ba-99e0-4a32-885e-d605a583f73e | UiPath | Commercial Expansion Account Executive - Central
+- [ ] https://jobs.ashbyhq.com/uipath/1ccbf4a0-1524-44b0-bfea-23162afa3ed7 | UiPath | Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/uipath/0552fab0-e7dd-41bd-a338-18693763df6b | UiPath | Customer Success Manager (Federal)
+- [ ] https://jobs.ashbyhq.com/uipath/99298364-14fb-4bd7-9884-5dcd7b82d759 | UiPath | HR Business Partner
+- [ ] https://jobs.ashbyhq.com/uipath/ca6d3131-c964-4ee3-a7e0-8da9a4b38636 | UiPath | Industry Associate, Healthcare Providers
+- [ ] https://jobs.ashbyhq.com/uipath/6c4e5887-5cfe-4396-b1ab-bd2e9861f7ad | UiPath | Manager, Customer Success - Pub Sec
+- [ ] https://jobs.ashbyhq.com/uipath/32eef9a3-4899-441e-96a3-a5917760c939 | UiPath | Manager, Sales Engineering - Life Science
+- [ ] https://jobs.ashbyhq.com/uipath/04456834-b035-4bcf-8515-e8fc7f111571 | UiPath | Sales Engineer - Healthcare, Payor
+- [ ] https://jobs.ashbyhq.com/uipath/75345dfc-f069-481f-8c74-15c8c7d9e9de | UiPath | Sales Engineer, Healthcare - Provider
+- [ ] https://jobs.ashbyhq.com/uipath/0f1c0517-a967-4104-a25e-90219fadd3cf | UiPath | Sales Engineer: Retail and Manufacturing
+- [ ] https://jobs.ashbyhq.com/uipath/d3bba292-f69a-4eac-99b8-b947cd6cd298 | UiPath | Senior Partner Account Manager
+- [ ] https://jobs.ashbyhq.com/uipath/37c4d6c5-15f1-491b-afb8-8cdb41a22792 | UiPath | Senior Solution Engineer
+- [ ] https://jobs.ashbyhq.com/uipath/00e26410-8407-439e-a79a-aab35334f2c2 | UiPath | Test Cloud Account Executive — Banking & Financial Services
+- [ ] https://circle.wd1.myworkdayjobs.com/circle/job/San-Francisco---remote-first-in-US/Principal-Product-Manager_JR101164 | circle | Principal Product Manager
+- [ ] https://clark.wd503.myworkdayjobs.com/clarkexternal/job/Houston-TX/Senior-MEP-Manager---Systems-Manager_R5025144 | clark | Senior MEP Manager / Systems Manager
+- [ ] https://clark.wd503.myworkdayjobs.com/clarkexternal/job/Haskell-TX/Systems-MEP-Manager_R5023702 | clark | Systems/MEP Manager
+- [ ] https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Principal-Product-Manager--Payments_JR106111 | collectorsuniverse | Principal Product Manager, Payments
+- [ ] https://jobs.ashbyhq.com/upside/ba136e80-93d5-4e30-8ea3-f0d8a56407d2 | Upside | Principal Product Manager, Personalization and MarTech
+- [ ] https://cisecurity.wd1.myworkdayjobs.com/cis_external_career_site/job/Remote/Operations-Support-Specialist---Remote_JR100237 | cisecurity | Operations Support Specialist - Remote
+- [ ] https://clearesult.wd1.myworkdayjobs.com/clearesult_external_careers/job/Remote---Michigan/Lead-Energy-Technician_R0016283 | clearesult | Lead Energy Technician
+- [ ] https://clearesult.wd1.myworkdayjobs.com/clearesult_external_careers/job/Remote---Michigan/Operations-Analyst_R0018090 | clearesult | Operations Analyst
+- [ ] https://clearesult.wd1.myworkdayjobs.com/clearesult_external_careers/job/Remote---Massachusetts/Senior-Financial-Operations-Consultant_R0017901 | clearesult | Senior Financial Analyst – Program Operations
+- [ ] https://clearesult.wd1.myworkdayjobs.com/clearesult_external_careers/job/Remote---New-Jersey/Senior-Operations-Finance-Analyst_R0018101-1 | clearesult | Senior Operations Finance Analyst
+- [ ] https://cni.wd503.myworkdayjobs.com/cni/job/Remote/Data-Analyst-IV_R9644 | cni | Data Analyst IV
+- [ ] https://jobs.ashbyhq.com/tremendous/600678fd-f6fd-410b-8f4d-98391573a0ac | Tremendous | Operations Analyst
+- [ ] https://jobs.ashbyhq.com/truemed/e2ca8e15-fdd5-48e0-b2b9-bee96bd2c929 | Truemed | Tech Lead / Manager - Merchant & API
+- [ ] https://jobs.ashbyhq.com/turquoise-health/fdcd9752-b372-467c-aec1-1419edee2c87 | Turquoise | Senior Performance Engineer, Data Products
+- [ ] https://jobs.ashbyhq.com/twelve-labs/b465d736-63b9-477e-bad5-2b5e3bf4c204 | TwelveLabs | Legal Operations & Compliance Lead
+- [ ] https://jobs.ashbyhq.com/vanta/f987d41a-d0e1-4260-9129-f64aee6122ae | Vanta | AI Agent Operations Specialist, Support
+- [ ] https://jobs.ashbyhq.com/vanta/0fab2072-8863-42ec-b00d-de367b90d937 | Vanta | Senior Data Analyst, Strategic Finance
+- [ ] https://jobs.ashbyhq.com/vanta/c6090572-cbca-4b11-810e-127bf0183abf | Vanta | Senior GTM Strategy & Operations Manager, Mid-Late Sales Funnel
+- [ ] https://jobs.ashbyhq.com/vanta/40f80a35-39d7-4272-aceb-7ad91edabf4a | Vanta | Sr. Manager, Security Operations
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Houston-TX/Bilingual-Onsite-Health-Coach---Evernorth---Houston-TX_26011777 | cigna | Bilingual Onsite Health Coach - Evernorth - Houston TX
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Arlington-TX/LVN---33-hours---week---Evernorth---Arlington-TX_26009422 | cigna | LVN - 33 hours / week - Evernorth - Arlington TX
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Parkland-Health---5151-Maple-Ave---Dallas-TX/RN-Health-Coach---Evernorth---Dallas-TX_26012655 | cigna | RN Health Coach - Evernorth - Dallas TX
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/San-Antonio-TX/Specialty-Infusion-Field-Nurse---Accredo---San-Antonio--TX_26010951 | cigna | Specialty Infusion Field Nurse – Accredo – San Antonio, TX
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Houston-TX/Sr-New-Business-Manager--O500--Houston--TX----Hybrid_26011502 | cigna | Sr. New Business Manager; O500 (Houston, TX) - Hybrid
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Houston-TX/Strategic-Account-Executive--U500--Houston--TX----Hybrid_26009572-1 | cigna | Strategic Account Executive; U500 (Houston, TX) - Hybrid
+- [ ] https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/PHL---Manila---Remote/Senior-Manager--Workday-Integrations--Global-Delivery-Center-_JR-16151-1 | collaborative | Senior Principal Consultant, Workday Integrations (Global Delivery Center)
+- [ ] https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/USA---United-States---Remote/Workday-Financials-Integrations-Senior-Principal-Consultant-Global-Application-Managed-Services--AMS-_JR-15839-1 | collaborative | Workday Financials Integrations Senior Principal Consultant-Global Application Managed Services (AMS)
+- [ ] https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/USA---United-States---Remote/Workday-Integrations-Principal-Consultant---Global-AMS--Global-Application-Managed-Services-_JR-16439-1 | collaborative | Workday Integrations Principal Consultant - Global AMS (Global Application Managed Services)
+- [ ] https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/PHL---Manila---Remote/Workday-Integrations-Principal-Consultant--Global-Delivery-Center-_JR-15623-1 | collaborative | Workday Integrations Principal Consultant (Global Delivery Center)
+- [ ] https://collegeboard.wd1.myworkdayjobs.com/careers/job/Remote---USA/Director--Analytics---Business-Intelligence--Digital-Product-Operations_REQ002836 | collegeboard | Director, Analytics & Business Intelligence, Digital Product Operations
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Remote/Director--Marketing--Robinson-Managed-Solutions-_R49476 | chrobinson | Director, Marketing (Robinson Managed Solutions)
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Plano-TX/VP-of-New-Business-Sales--U500--Plano--TX----Hybrid_26008835 | cigna | VP of New Business Sales; U500 (Plano, TX) - Hybrid
+- [ ] https://cinemark.wd1.myworkdayjobs.com/cinemark/job/CORP---Cinemark-Service-Center-Plano-TX/Security-Technologies-Manager_R39697-1 | cinemark | Security Technologies Manager
+- [ ] https://clearchanneloutdoor.wd5.myworkdayjobs.com/cco/job/Dallas-TX-Arlington/Ad-Operations-Specialist---South-Central-Region_Req24069 | clearchanneloutdoor | Ad Operations Specialist - South Central Region
+- [ ] https://clearchanneloutdoor.wd5.myworkdayjobs.com/cco/job/Virtual-TX/Business-Operations-Manager---Airports-Division_Req23934 | clearchanneloutdoor | Business Operations Manager - Airports Division
+- [ ] https://clearchanneloutdoor.wd5.myworkdayjobs.com/cco/job/San-Antonio-TX-North-Loop-1604/Digital-Asset-Operations-Specialist_Req24056 | clearchanneloutdoor | Digital Asset Operations Specialist
+- [ ] https://clr.wd5.myworkdayjobs.com/clr_careers/job/Monahans-TX/Production-Tech-I--VRU-_R02651 | clr | Production Tech I (VRU)
+- [ ] https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/USA---United-States---Remote/Workday-Security-Senior-Principal-Consultant---Global-Application-Managed-Services--AMS-_JR-15415-1 | collaborative | Workday Financials Senior Principal Consultant - Global Application Managed Services (AMS)
+- [ ] https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/USA---United-States---Remote/Workday-Financials-Professional-Services-Automation-Senior-Principal-Consultant---Global-AMS--Application-Managed-Services-_JR-15428-1 | collaborative | Workday Financials/Professional Services Automation Senior Principal Consultant - Global AMS (Application Managed Services)
+- [ ] https://jobs.ashbyhq.com/uipath/ffac7c87-311d-4bba-ad61-1824d9c9e4ed | UiPath | Industry Principal, Healthcare Providers
+- [ ] https://jobs.ashbyhq.com/uipath/77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2 | UiPath | Principal AI Architect – Healthcare
+- [ ] https://jobs.ashbyhq.com/uipath/a46e6524-01e7-4ca9-8080-03b69b8ec8f7 | UiPath | Principal AI Architect, Sales - Life Sciences 
+- [ ] https://jobs.ashbyhq.com/uipath/0772300d-b9cb-4dfd-a32e-2efecd1d6bb2 | UiPath | Senior Industry Practice Director, Healthcare Provider
