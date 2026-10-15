@@ -1,11 +1,14 @@
 {
-  "generated_at": "2026-10-15T01:53:38.643Z",
+  "generated_at": "2026-10-15T02:04:04.596Z",
   "profile_version": 1,
-  "eligible": 196,
-  "scored": 196,
-  "strong_apply": 2,
-  "high_review": 11,
-  "possible": 33,
-  "low": 150,
+  "eligible": 167,
+  "scored": 167,
+  "new_this_run": 23,
+  "new_strong_apply": 0,
+  "new_high_review": 0,
+  "strong_apply": 0,
+  "high_review": 7,
+  "possible": 35,
+  "low": 125,
   "major_or_disqualifying_gap": 9
 }

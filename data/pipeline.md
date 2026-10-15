@@ -1908,3 +1908,134 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Principal-Engineer---Network--Remote-_R30292 | crowdstrike | Principal Engineer - Network (Remote)
 - [ ] https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Vice-President--AI-Architect--Remote-_R30285 | crowdstrike | Vice President, AI Architect (Remote)
 - [ ] https://crownholdings.wd501.myworkdayjobs.com/crownholdings/job/TX---Fort-Bend/Production-Technician_JR102259 | crownholdings | Production Technician
+
+- [ ] https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/Remote/Business-Systems-Analyst---JIRA-Administrator_JR100301 | ddcdine | Business Systems Analyst / JIRA Administrator
+- [ ] https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/Remote/PMO-Technical-Program-Manager_JR100424-1 | ddcdine | PMO Technical Program Manager
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---New-Jersey/Technical-Project-Manager---Temporary-Worker_R1132728 | dentsuaegis | Technical Project Manager - Temporary Worker
+- [ ] https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Staff-IT-Business-Systems-Analyst--Strategic-Initiatives_JR121582 | dexcom | Staff IT Business Systems Analyst- Strategic Initiatives
+- [ ] https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Senior-Business-Systems-Analyst_2026-8982 | dimensional | Senior Business Systems Analyst (Oracle)
+- [ ] https://disa.wd5.myworkdayjobs.com/disa_external_career_site/job/USA---Remote/Senior-Advisor--Business-Systems-Integration-Project-Manager_R-2210 | disa | Senior Advisor, Business Systems Integration Project Manager
+- [ ] https://jobs.ashbyhq.com/wrapbook/ff23fd02-653b-493b-b97e-f9195bcc32ef | Wrapbook | Senior Product Manager II - Agreement Data Platform
+- [ ] https://jobs.ashbyhq.com/zello/a9304157-96b5-4641-a269-1d51c027e6c3 | Zello | RevOps Systems Analyst 
+- [ ] https://cyrusone.wd1.myworkdayjobs.com/cyrusonecareerportal/job/Allen-TX/Cooling-Distribution-Unit--CDU----Mechanical-Systems-Specialist_R0008161 | cyrusone | Cooling Distribution Unit (CDU) & Mechanical Systems Specialist
+- [ ] https://cyrusone.wd1.myworkdayjobs.com/cyrusonecareerportal/job/Allen-TX/Cooling-Distribution-Unit---Mechanical-Systems-Specialist_R0007729 | cyrusone | Cooling Distribution Unit & Mechanical Systems Specialist
+- [ ] https://jobs.ashbyhq.com/worldly/42656c08-0355-4f69-9203-b7045357e06f | Worldly | Account Manager, Supply Chain ESG
+- [ ] https://jobs.ashbyhq.com/worldly/f7431fc4-02f8-4c71-a275-14011569da0c | Worldly | Customer Success Manager | Sustainability | Fashion Supply Chains
+- [ ] https://boards.greenhouse.io/6sense/jobs/8275585?gh_jid=8275585 | 6sense | Senior Digital Program Manager
+- [ ] https://cumminggroup.wd1.myworkdayjobs.com/cgc/job/Austin-TX/Project-Manager-I_JR103636 | cumminggroup | Project Manager I
+- [ ] https://cumminggroup.wd1.myworkdayjobs.com/cgc/job/Austin-TX/Senior-Commissioning-Project-Manager---Data-Center-Construction_JR103805 | cumminggroup | Senior Commissioning Project Manager - Data Center Construction
+- [ ] https://cumminggroup.wd1.myworkdayjobs.com/cgc/job/Austin-TX/Senior-Project-Manager---Utilities-Natural-Gas---Data-Center-Construction_JR103778-1 | cumminggroup | Senior Project Manager - Utilities/Natural Gas - Data Center Construction
+- [ ] https://curriculumassociates.wd5.myworkdayjobs.com/external/job/US-Remote/Senior-IT-Project-Manager_JR05527-2 | curriculumassociates | Senior IT Project Manager
+- [ ] https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Assistant-Project-Manager_R339286 | cw | Assistant Project Manager
+- [ ] https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Senior-Project-Manager---PMO-Lead_R339488-1 | cw | Senior Project Manager - PMO Lead
+- [ ] https://cw.wd1.myworkdayjobs.com/external/job/Dallas-Texas-USA/Senior-Project-Manager--Project---Development-Services_R339119 | cw | Senior Project Manager, Project & Development Services
+- [ ] https://cyrusone.wd1.myworkdayjobs.com/cyrusonecareerportal/job/Remote/Commissioning-Project-Manager-II_R0007938 | cyrusone | Commissioning Project Manager II
+- [ ] https://cyrusone.wd1.myworkdayjobs.com/cyrusonecareerportal/job/Remote/Senior-Operations-Engineering-Program-Manager_R0008157 | cyrusone | Senior Operations Engineering Program Manager
+- [ ] https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Product-Manager-Cyber-Intel_JR2106-1 | dataminr | Product Manager Cyber Intel
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---California/Business-Analyst---Adobe-Experience-Cloud_R1129346 | dentsuaegis | Business Analyst – Adobe Experience Cloud
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---Maryland/Program-Manager---Experience-Design-and-Development_R1130789 | dentsuaegis | Program Manager - Experience Design and Development
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---California/Program-Manager--CRM-and-Loyalty_R1131627 | dentsuaegis | Program Manager, CRM and Loyalty
+- [ ] https://devoted.wd1.myworkdayjobs.com/devoted/job/Remote-USA/Payment-Integrity-Program-Manager_R3708 | devoted | Payment Integrity Program Manager
+- [ ] https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Product-Manager--Consumer-Mobile-App_JR121242 | dexcom | Product Manager, Consumer Mobile App
+- [ ] https://disney.wd5.myworkdayjobs.com/disneycareer/job/The-Woodlands-TX-USA/Lead-Media-Systems-Engineer_10142531 | disney | Lead Media Systems Engineer (Overnight Shift Supervisor)
+- [ ] https://jobs.ashbyhq.com/wrapbook/0280fda1-ceca-4a10-90dd-383a477f26fc | Wrapbook | Senior Product Manager II - Fraud & Identity
+- [ ] https://jobs.ashbyhq.com/wrapbook/bdec6f85-c0ee-4251-8afa-a450d539354f | Wrapbook | Senior Product Manager II - Vendor Spend 
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8387809002?gh_jid=8387809002 | 3Cloud | Architect (Azure/Purview) - Data Governance Platforms 
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8684109002?gh_jid=8684109002 | 3Cloud | Consulting Manager - Cloud Platform
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8585070002?gh_jid=8585070002 | 3Cloud | Senior Architect - Cloud Platform
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8621495002?gh_jid=8621495002 | 3Cloud | Senior Architect - Data Platforms & Architecture
+- [ ] https://boards.greenhouse.io/6sense/jobs/7994497?gh_jid=7994497 | 6sense | Product Lead, Predictive Platform
+- [ ] https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8001121003 | ABACUS | Analyst, Enterprise Service Desk
+- [ ] https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Connected-Buildings-Technical-Lead_R338430 | cw | Connected Buildings Technical Lead
+- [ ] https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Lead-Integrations-Architect_R337344 | cw | Lead Integrations Architect
+- [ ] https://cyrusone.wd1.myworkdayjobs.com/cyrusonecareerportal/job/Remote/Senior-Generator-Systems-Specialist_R0008154 | cyrusone | Senior Generator Systems Specialist
+- [ ] https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Remote/Manager-of-Manufacturing-Applications---Onsite_R1317697 | danaher | Technical Manager of Manufacturing Applications - USA Remote
+- [ ] https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/Remote/Cybersecurity-Technology-Management-Analyst_JR100419 | ddcdine | Cybersecurity Technology Management Analyst
+- [ ] https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/Remote/Information-System-Security-Manager--ISSM-_JR100439 | ddcdine | Information System Security Manager (ISSM)
+- [ ] https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/Remote/Senior-IBM-z-OS-Systems-Programmer_JR100432 | ddcdine | Senior IBM z/OS Systems Programmer
+- [ ] https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/Remote/Sr-CICS-Systems-Programmer_JR100321 | ddcdine | Sr. CICS Systems Programmer
+- [ ] https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/Remote/Technical-Writer---Knowledge-Management-Specialist_JR100303-1 | ddcdine | Technical Writer / Knowledge Management Specialist
+- [ ] https://deluxe.wd5.myworkdayjobs.com/usa_can/job/Remote-USA/Technical-Product-Analyst-II_261000WD | deluxe | Technical Product Analyst II
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA--Remote--Texas--Central-Time/AEM-Technical-Architect_R1129516-1 | dentsuaegis | AEM Technical Architect
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---Georgia/Experience-Technical-Architect--Innovation---Emerging-Technologies_R1132350 | dentsuaegis | Experience Technical Architect, Innovation & Emerging Technologies
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---Georgia/Lead-Analyst--Retail-Pricing-Analytics_R1129762 | dentsuaegis | Lead Analyst,  Retail Pricing Analytics (Onsite)
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---New-York/Lead-Enterprise-Architect_R1120834-1 | dentsuaegis | Lead Enterprise Architect
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---Colorado/Platform-Architect--SFMC_R1131285 | dentsuaegis | Platform Architect, SFMC
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---Maryland/Senior-Analyst---Financial-Services-Direct-Mail-Marketing-Analytics_R1132743 | dentsuaegis | Senior Analyst – Financial Services Direct Mail Marketing Analytics
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---California/Senior-Analyst--Marketing-Analytics_R1131188 | dentsuaegis | Senior Analyst, Marketing Analytics
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---Colorado/Senior-Braze-Platform-Architect_R1131197 | dentsuaegis | Senior Braze Platform Architect
+- [ ] https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Integrated-Evidence-Planning-Specialist_JR121178 | dexcom | Integrated Evidence Planning Specialist
+- [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Remote---US/Lead-Software-Engineer---Merchandising-Technology--REMOTE-_202603675 | dickssportinggoods | Lead Software Engineer - Merchandising Technology (REMOTE)
+- [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Store1602-San-Antonio-TX/Retail-Omni-Fulfillment-Lead_202640348 | dickssportinggoods | Retail Omni Fulfillment Lead
+- [ ] https://digitalturbine.wd501.myworkdayjobs.com/digital_turbine_external_careers/job/United-States---Austin/Lead-FP-A-Analyst_JR101066 | digitalturbine | Lead Analyst, Financial Planning & Analysis (FP&A)
+- [ ] https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Manager--Investment-Engineering--Analytics-Platforms-_2026-8981 | dimensional | Manager, Investment Engineering (Analytics Platforms)
+- [ ] https://disa.wd5.myworkdayjobs.com/disa_external_career_site/job/USA---Remote/Sr-Business-Integration-Solutions-Analyst_R-2209 | disa | Sr. Business Integration Solutions Analyst
+- [ ] https://job-boards.greenhouse.io/abc/jobs/7850227 | ThoughtWorks_new | Consultant Systems Support Engineer
+- [ ] https://jobs.ashbyhq.com/wrapbook/99aff2fb-7785-471e-92e1-aa4a6c15b632 | Wrapbook | Senior Software Engineer II, Business Systems
+- [ ] https://jobs.ashbyhq.com/zip/51ce746c-e8e3-4b64-ad98-1e54e16c0b5b | Zip | Senior Technical Enablement Manager
+- [ ] https://jobs.ashbyhq.com/zip/b4e91377-9377-4dd5-80a4-a8e4fa6f58e2 | Zip | Solutions Integration Architect - SAP Ariba
+- [ ] https://cumminggroup.wd1.myworkdayjobs.com/cgc/job/Vernon-TX/Senior-Project-Manager---Utility-Electerical_JR103869-1 | cumminggroup | Senior Project Manager - Utility Electrical (Data Center Construction)
+- [ ] https://cyrusone.wd1.myworkdayjobs.com/cyrusonecareerportal/job/Dallas-TX/Project-Manager--Development_R0007208-3 | cyrusone | Project Manager, Development
+- [ ] https://cyrusone.wd1.myworkdayjobs.com/cyrusonecareerportal/job/San-Antonio-TX/Senior-Project-Manager--Construction---Development_R0008079 | cyrusone | Senior Project Manager, Construction & Development
+- [ ] https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Coppell-TX-Corporate/Digital-Product-Manager_R-1013029 | daveandbusters | Digital Product Manager
+- [ ] https://distributionnow.wd5.myworkdayjobs.com/dnow_careers/job/US-TX-Tomball-24310-Tomball-Parkway/Project-Manager_R09010 | distributionnow | Project Manager
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5253774007?gh_jid=5253774007 | Anduril | Senior Product Sourcing Engineer, Counter Intrusion
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/TX---Austin/Licensed-Vocational-Nurse-LVN_R1076091 | cvshealth | Licensed Vocational Nurse LVN
+- [ ] https://disney.wd5.myworkdayjobs.com/disneycareer/job/The-Woodlands-TX-USA/Electrician_10156443 | disney | Electrician
+- [ ] https://disney.wd5.myworkdayjobs.com/disneycareer/job/The-Woodlands-TX-USA/HVAC-Tech_10158812 | disney | HVAC Tech
+- [ ] https://disney.wd5.myworkdayjobs.com/disneycareer/job/Houston-TX-USA/KTRK-Meteorologist--Expression-Of-Interest-_10157404-1 | disney | KTRK Meteorologist (Expression Of Interest)
+- [ ] https://disney.wd5.myworkdayjobs.com/disneycareer/job/The-Woodlands-TX-USA/Media-Engineer-II_10160054-1 | disney | Media Engineer II
+- [ ] https://disney.wd5.myworkdayjobs.com/disneycareer/job/Houston-TX-USA/Video-Editor--KTRK_10161972 | disney | Video Editor, KTRK
+- [ ] https://cyrusone.wd1.myworkdayjobs.com/cyrusonecareerportal/job/Allen-TX/CDU---Mechanical-Systems-Specialist_R0007827 | cyrusone | CDU & Mechanical Systems Specialist
+- [ ] https://cyrusone.wd1.myworkdayjobs.com/cyrusonecareerportal/job/Dallas-TX/Global-Security-Technology-and-Construction-Delivery-Manager_R0007479 | cyrusone | Global Security Technology and Construction Delivery Manager
+- [ ] https://cyrusone.wd1.myworkdayjobs.com/cyrusonecareerportal/job/Houston-TX/Global-Security-Technology-and-Construction-Technical-Specialist_R0008085 | cyrusone | Global Security Technology and Construction Technical Specialist
+- [ ] https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Coppell-TX-Corporate/Manager--Enterprise-Platform-Operations_R-1013284 | daveandbusters | Manager, Enterprise Platform Operations
+- [ ] https://daveandbusters.wd1.myworkdayjobs.com/main_event_careers/job/Coppell-TX-Corporate/Security-Support-Specialist---Systems_R-1012824 | daveandbusters | Security Support Specialist - Systems
+- [ ] https://jobs.ashbyhq.com/yendo/44f1a080-2a6b-4843-aee4-dc30eb44b857 | Yendo | Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8653931002?gh_jid=8653931002 | 3Cloud | Data Architect - Managed Services
+- [ ] https://boards.greenhouse.io/6sense/jobs/8273670?gh_jid=8273670 | 6sense | IT Support Specialist
+- [ ] https://boards.greenhouse.io/6sense/jobs/8224039?gh_jid=8224039 | 6sense | Sr. Manager, R&D Operations
+- [ ] https://curriculumassociates.wd5.myworkdayjobs.com/external/job/US-Remote/Digital-Production-Specialist_JR05639 | curriculumassociates | Digital Production Specialist
+- [ ] https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---TX---Plano---6565-Headquarters-Dr/Event-Operations-Technician_R340322 | cw | Event Operations Technician
+- [ ] https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Senior-Manager--Data-Engineering_R320501 | cw | Senior Manager, Data Engineering
+- [ ] https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Remote/Analyst--Security-Operations---USA-Remote_R1312939 | danaher | Analyst, Security Operations - USA Remote
+- [ ] https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/TWN---Remote/Field-Application-Specialist_R1318421 | danaher | Field Application Specialist
+- [ ] https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/Remote/Lead-Application-Engineer_JR100429 | ddcdine | Lead Application Engineer
+- [ ] https://deckers.wd5.myworkdayjobs.com/deckers/job/HOKA-Houston-Outlet-Retail-Store-Texas-City-TX/Stockroom-Operations-Lead--HOKA_21918 | deckers | Stockroom Operations Lead, HOKA
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---Georgia/Data-Architect_R1132680 | dentsuaegis | Data Architect, Product Modernization
+- [ ] https://devoted.wd1.myworkdayjobs.com/devoted/job/Remote-USA/Manager--Clinical-Data-Acquisition_R3701 | devoted | Manager, Clinical Data Acquisition
+- [ ] https://devoted.wd1.myworkdayjobs.com/devoted/job/Remote-USA/Sr-Manager-Provider-Operations_R3663 | devoted | Sr. Manager Provider Operations
+- [ ] https://devoted.wd1.myworkdayjobs.com/devoted/job/Remote-USA/Sr-Manager--AI-Performance---Operations_R3699 | devoted | Sr. Manager, AI Performance & Operations
+- [ ] https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Senior-Manager-IT-Manufacturing-Applications_JR121581 | dexcom | Senior Manager IT Manufacturing Applications
+- [ ] https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Sr-AI-ML-Engineer--Data-Product---AI_JR121555 | dexcom | Sr AI/ML Engineer, Data Product & AI
+- [ ] https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Sr-Manager--Data-Protection-and-Insider-Risk_JR121177-1 | dexcom | Sr. Manager, Data Protection and Insider Risk
+- [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Remote---US/Senior-Manager--Monetization--Audiences---Data--REMOTE-_202638033 | dickssportinggoods | Senior Manager, Monetization- Audiences & Data (REMOTE)
+- [ ] https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Analyst-Associate--Investment-Engineering--Data-Solutions-_2026-9012 | dimensional | Analyst/Associate, Investment Engineering (Data Solutions)
+- [ ] https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Application-Services-Manager_2026-8871 | dimensional | Application Services Manager
+- [ ] https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7998039003 | Ivanti | Lead Sales Operations Analyst
+- [ ] https://jobs.ashbyhq.com/worldly/4c6865c2-9cf3-49cc-bfaf-2490420b7b72 | Worldly | Sustainability Data Analyst
+- [ ] https://jobs.ashbyhq.com/wrapbook/97b7f013-a1d8-42ab-849f-a734bd034bd5 | Wrapbook | Senior Sales Operations & Compensation Manager
+- [ ] https://jobs.ashbyhq.com/wrapbook/d48db205-d4c1-40e1-b278-34c222e561fd | Wrapbook | Senior SMB Digital Success Lead, Commercial 
+- [ ] https://jobs.ashbyhq.com/zip/a7c6dfc4-66b5-4330-b6b7-462f05f3ce86 | Zip | Senior Order to Cash Operations Manager
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8858565002?gh_jid=8858565002 | 3Cloud | Director - Data Platforms & Architecture
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8615852002?gh_jid=8615852002 | 3Cloud | Principal Architect – Data Platforms & Architecture SME
+- [ ] https://boards.greenhouse.io/6sense/jobs/7512125?gh_jid=7512125 | 6sense | Principal Technical Product Marketing Manager
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/TX---Fort-Worth/Dispensing-Pharmacist---Long-Term-Care---Full-Time_R1051563 | cvshealth | Dispensing Pharmacist - Long Term Care - Full Time
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/TX---Dickinson/Operations-Manager_R1075231 | cvshealth | Operations Manager
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/TX---Longview/Outreach-Executive-I---Bilingual-Spanish-Preferred_R1067065 | cvshealth | Patient Growth Specialist
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/TX---Crossroads/Pharmacy-Lead-technician_R1074858-1 | cvshealth | Pharmacy Lead technician
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/TX---Fort-Worth/Pharmacy-Technician_R1074373 | cvshealth | Pharmacy Technician
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/TX---Decatur/Shift-Supervisor_R1074843 | cvshealth | Shift Supervisor
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/TX---San-Antonio/Store-Associate_R1075364 | cvshealth | Store Associate
+- [ ] https://cumminggroup.wd1.myworkdayjobs.com/cgc/job/Dallas-TX/Commissioning-Manager---Data-Center-Construction_JR103223 | cumminggroup | Commissioning Manager - Data Center Construction
+- [ ] https://cumminggroup.wd1.myworkdayjobs.com/cgc/job/Fort-Worth-TX/QA-QC-Manager---Data-Center-Construction_JR103352 | cumminggroup | QA/QC Manager - Data Center Construction
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/TX---Richardson/Lead-Director-Software-Development---Architecture--Client-Experience-_R0902232 | cvshealth | Lead Director Software Development  (Architecture, Client Experience)
+- [ ] https://cyrusone.wd1.myworkdayjobs.com/cyrusonecareerportal/job/Whitney-TX/Data-Center-Security-Operations-Technician_R0007418 | cyrusone | Data Center Security Operations Technician
+- [ ] https://daveandbusters.wd1.myworkdayjobs.com/main_event_careers/job/Grapevine-TX/Restaurant-Operations-Manager_R-1013878 | daveandbusters | Restaurant Operations Manager
+- [ ] https://deckers.wd5.myworkdayjobs.com/deckers/job/HOKA-San-Marcos-Outlet-Retail-Store-San-Marcos-TX/Stockroom-Operations-Lead_21912 | deckers | Stockroom Operations Lead
+- [ ] https://derivaenergy.wd501.myworkdayjobs.com/careers/job/Goldsmith-TX/Lead-Wind-Technician-at-Notrees-Wind-Farm_R-200538 | derivaenergy | Lead Wind Technician at Notrees Wind Farm
+- [ ] https://destinationpet.wd5.myworkdayjobs.com/dpec/job/Town--Country-Veterinary-Hospital--San-Antonio-TX/Veterinary-Technician-Specialist--VTS----Surgical-or-Anesthesia-Analgesia_JR108066 | destinationpet | Veterinary Technician Specialist (VTS) - Surgical or Anesthesia/Analgesia
+- [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Store5478-Plano-TX/Assistant-Store-Manager-Operations_202610526 | dickssportinggoods | Assistant Store Manager Operations
+- [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Store1062-El-Paso-TX/Specialist-Off-Field-Operations_202616334 | dickssportinggoods | Specialist Off Field Operations
+- [ ] https://distributionnow.wd5.myworkdayjobs.com/dnow_careers/job/US-TX-Tomball-24310-Tomball-Parkway/Application-Specialist_R08833 | distributionnow | Application Specialist
+- [ ] https://distributionnow.wd5.myworkdayjobs.com/dnow_careers/job/US-TX-Houston-7402-N-Eldridge-Pkwy/Litigation-and-Claims-Operations-Specialist_R08873 | distributionnow | Litigation and Claims Operations Specialist
