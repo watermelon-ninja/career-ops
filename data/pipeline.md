@@ -3009,3 +3009,531 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://hec.wd5.myworkdayjobs.com/harvest_midstream/job/Houston-TX/XMLNAME-26-067B---SCADA-Real-Time-Application-Manager_R006335 | hec | 26-067.B - SCADA Real Time Application Manager
 - [ ] https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/HROC-Digital-Solutions-and-Innovation-Manager_JR10018055 | heidelbergmaterials | HROC Digital Solutions and Innovation Manager
 - [ ] https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Lead-Service-Engineer---Software---Digital-Solutions_JR102479 | hmhw | Lead Service Engineer - Software & Digital Solutions
+
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Remote---USA/Program-Manager--Enterprise-Growth---Capital-Programs_J2453143-1 | jabil | Program Manager, Enterprise Growth & Capital Programs
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Warehousing-Logistics-Sourcing-Intelligence-Manager--Houston--TX-_1209705 | hpe | Warehousing Logistics Sourcing Intelligence Manager (Houston, TX)
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/eCommerce-Digital-Customer-Success---Transformation-Manager--Indirect-GTM-_1214838 | hpe | eCommerce Digital Customer Success & Transformation Manager (Indirect GTM)
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/Finance-Transformation-Business-Change-Analyst_1215736 | hpe | Finance Transformation Business Change Analyst
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/Finance-Transformation-Data-AIML-Engineer_1215702 | hpe | Finance Transformation Data/AIML Engineer
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/Finance-Transformation-Process-Engineer_1215751-1 | hpe | Finance Transformation Process Engineer
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/Finance-Transformation-Project-Manager_1215742 | hpe | Finance Transformation Project Manager
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Program-Manager--Alliances---Market-Development-Funds_1214385-2 | hpe | Program Manager, Alliances & Market Development Funds
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/Solution-Architect---AI--Automation---Finance-Transformation_1215738-1 | hpe | Solution Architect – AI, Automation & Finance Transformation
+- [ ] https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Plano-TX-United-States/Project-Manager_JR-0093041-1 | kiongroup | Project Manager
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Boole-Program-Engineer_R2615880 | Applied Materials | RF Power Systems Test Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8549248002 | Databricks | Delivery Solutions Architect - Startups & Emerging Enterprise
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8870716002 | Databricks | Strategic Enterprise Account Executive, Healthcare
+- [ ] https://careers.datadoghq.com/detail/8144607/?gh_jid=8144607 | Datadog | Enterprise Sales Engineer - FED
+- [ ] https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822 | Datadog | Enterprise Sales Executive
+- [ ] https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284 | Datadog | Enterprise Sales Executive (FED)
+- [ ] https://careers.datadoghq.com/detail/6379544/?gh_jid=6379544 | Datadog | Enterprise Sales Executive (SLED)
+- [ ] https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132 | Datadog | Enterprise Security Sales Specialist
+- [ ] https://jobs.dropbox.com/listing/8207874?gh_jid=8207874 | Dropbox | Senior Financial Planning & Analysis Partner - Product & Growth
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Dallas-Texas-United-States-of-America/Enterprise-Account-Manager---Dallas--TX_1212161 | hpe | Enterprise Account Manager - Dallas, TX
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/OEM-Business-Planning---Strategy-Manager_1206024-1 | hpe | OEM Business Planning & Strategy Manager
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Solutions-Engineer---Infrastructure--Integration-and-Automation_1216130-3 | hpe | Solutions Engineer – Infrastructure, Integration and Automation
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/HPE-HPC---AI-Systems-Engineer-for-Integrated-Systems-Test_1197006 | hpe | Systems Test Engineer
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648 | hpe | Systems/Software Engineer I - Graduate
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Technical-architect---Sales-and-Solutions-Engineering_1216127 | hpe | Technical architect – Sales and Solutions Engineering
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Remote---USA/Technical-Business-Unit-Manager_J2451715-1 | jabil | Technical Business Unit Manager -Battery Cell Manufacturing Experience Required
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/San-Antonio-TX---7230-N-Loop-1604-E/Distribution-Coordinator-II_00647094 | jbhunt | Distribution Coordinator II
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/San-Antonio-TX---7230-N-Loop-1604-E/Manager-II--Distribution-Operations_00642627 | jbhunt | Manager II, Distribution Operations
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Principal-Product-Manager-Control-Plane_1215864-3 | hpe | Principal Product Manager Control Plane
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Principle-Program-Manager_J2467420-1 | jabil | Principal Program Manager
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Senior-Principal-Product-Manager_J2467779 | jabil | Senior Principal Product Manager
+- [ ] https://leidos.wd5.myworkdayjobs.com/external/job/San-Antonio-TX/Information-Systems-Security-Officer--ISSO-_R-00194551 | leidos | Information Systems Security Officer (ISSO)
+- [ ] https://leidos.wd5.myworkdayjobs.com/external/job/San-Antonio-TX/Systems-Security-Analyst_R-00194549 | leidos | Systems Security Analyst
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Field-Service-Customer-Engineer-II----C2-_R2624037-1 | Applied Materials | Field Service/Customer Engineer II - (C2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--2nd-Shift_R2629916 | Applied Materials | Manufacturing Technician II - (T2) 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-ll--T2--2nd-shift_R2629437 | Applied Materials | Manufacturing Technician ll (T2) 2nd shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/NPC-Engineer--CSG-Pilot_R2630392-1 | Applied Materials | NPC Engineer- CSG Pilot
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/NPC-Production--Planner-II--B2-_R2629665 | Applied Materials | NPC Production  Planner II (B2)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8756154002 | Databricks | Accounting Manager, Accounts Receivable
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8735545002 | Databricks | Delivery Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8687483002 | Databricks | Delivery Solutions Architect - Oil & Gas
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8654148002 | Databricks | Lead Engagement Manager, FDE - Communications, Media, Entertainment & Gaming
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8821959002 | Databricks | Manager, Delivery Solutions Architects - Financial Services
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8755470002 | Databricks | Manager, Field Engineering - Global Telecommunications 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8871486002 | Databricks | Named Hunter Account Executive - Digital Natives
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8422798002 | Databricks | Senior Manager, Global Premier Support
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8819053002 | Databricks | Senior Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8862137002 | Databricks | Solutions Architect - Digital Native Business (Fintech)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8637768002 | Databricks | Solutions Architect - Financial Services (Banking and Payments) 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8633741002 | Databricks | Solutions Architect - Public Sector (SLED)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8615016002 | Databricks | Solutions Architect - Retail, Consumer Goods, Travel & Hospitality 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6049142002 | Databricks | Solutions Architect - Retail, Travel & Hospitality 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8657065002 | Databricks | Sr. Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8592928002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8647670002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Retail
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002 | Databricks | Sr. Manager – Data & AI Support Engineering
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8782816002 | Databricks | Sr. Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8567961002 | Databricks | Sr. Solutions Architect - Financial Services (Hunter)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8221491002 | Databricks | Sr. Solutions Architect - Retail, Travel & Hospitality
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8431459002 | Databricks | Strategic Core Account Executive - CMEG - Telco 
+- [ ] https://careers.datadoghq.com/detail/8139662/?gh_jid=8139662 | Datadog | Developer Advocate - Service Management
+- [ ] https://careers.datadoghq.com/detail/7409175/?gh_jid=7409175 | Datadog | Major Account Manager (Switzerland)
+- [ ] https://careers.datadoghq.com/detail/8282140/?gh_jid=8282140 | Datadog | Manager II, Developer Advocacy
+- [ ] https://careers.datadoghq.com/detail/7722122/?gh_jid=7722122 | Datadog | Partner Solutions Architect (EMEA)
+- [ ] https://careers.datadoghq.com/detail/8095963/?gh_jid=8095963 | Datadog | Partner Solutions Architect (Pan-EMEA GSI)
+- [ ] https://careers.datadoghq.com/detail/8231877/?gh_jid=8231877 | Datadog | Regional Manager, Sales Engineering - Majors (West)
+- [ ] https://careers.datadoghq.com/detail/8113116/?gh_jid=8113116 | Datadog | Senior Capture Manager
+- [ ] https://careers.datadoghq.com/detail/7985840/?gh_jid=7985840 | Datadog | Senior Developer Advocate - Modern App Development
+- [ ] https://careers.datadoghq.com/detail/7993198/?gh_jid=7993198 | Datadog | Senior Product Security Engineer - AI Agents
+- [ ] https://careers.datadoghq.com/detail/8238455/?gh_jid=8238455 | Datadog | Senior Sales Engineer - AI Accounts
+- [ ] https://careers.datadoghq.com/detail/8105684/?gh_jid=8105684 | Datadog | Senior Sales Engineer - Bay Area
+- [ ] https://careers.datadoghq.com/detail/8144628/?gh_jid=8144628 | Datadog | Senior Sales Engineer - FED
+- [ ] https://careers.datadoghq.com/detail/7516279/?gh_jid=7516279 | Datadog | Senior Sales Engineer - Key Accounts
+- [ ] https://careers.datadoghq.com/detail/8238457/?gh_jid=8238457 | Datadog | Senior Sales Engineer - Majors (Central)
+- [ ] https://careers.datadoghq.com/detail/7917340/?gh_jid=7917340 | Datadog | Senior Sales Engineer - Majors (East)
+- [ ] https://careers.datadoghq.com/detail/8126596/?gh_jid=8126596 | Datadog | Senior Sales Engineer - Majors (West)
+- [ ] https://careers.datadoghq.com/detail/8142217/?gh_jid=8142217 | Datadog | Senior Sales Engineer - NorthCentral
+- [ ] https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240 | Datadog | Senior Security Sales Engineer
+- [ ] https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363 | Datadog | Strategic Account Executive
+- [ ] https://careers.datadoghq.com/detail/8021535/?gh_jid=8021535 | Datadog | Strategic Account Executive (FED)
+- [ ] https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034 | Datadog | Strategic Account Executive (SLED)
+- [ ] https://jobs.dropbox.com/listing/8159652?gh_jid=8159652 | Dropbox | Account Executive
+- [ ] https://jobs.dropbox.com/listing/8048847?gh_jid=8048847 | Dropbox | Business Development Manager, Strategic Partnerships
+- [ ] https://jobs.dropbox.com/listing/8137895?gh_jid=8137895 | Dropbox | Customer Evidence Manager
+- [ ] https://jobs.dropbox.com/listing/8186682?gh_jid=8186682 | Dropbox | GTM Readiness Manager
+- [ ] https://jobs.dropbox.com/listing/8038748?gh_jid=8038748 | Dropbox | Head of Field and Partner Marketing
+- [ ] https://jobs.dropbox.com/listing/8233086?gh_jid=8233086 | Dropbox | Scaled Customer Success Manager
+- [ ] https://jobs.dropbox.com/listing/8159670?gh_jid=8159670 | Dropbox | Senior Account Executive
+- [ ] https://jobs.dropbox.com/listing/8159659?gh_jid=8159659 | Dropbox | Senior Account Executive - LATAM
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Channel-Associate-Digital-Architect_1215979 | hpe | Channel Associate Digital Architect
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Commercial-Category-Manager_1207901 | hpe | Commercial Category Manager
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Compute-Engineering-Business-Operations-Manager_1215540 | hpe | Compute Engineering Business Operations Manager
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553 | hpe | Engineering Resolution Team Engineer Graduate
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Manager--Electrical-Hardware-Engineering---HPC-AI_1214634-1 | hpe | Manager, Electrical Hardware Engineering - HPC/AI
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Pricing-Specialist_1211971-1 | hpe | Pricing Specialist
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas/Resident-Engineer_1209583 | hpe | Resident Engineer
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Houston-Texas-United-States-of-America/Security-and-Managment-Category-Manager_1208766 | hpe | Security and Management Category Manager
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Houston-Texas-United-States-of-America/Master-Compliance-Engineer--EMC-Regulatory-and-Energy-Test-Engineer_1206688-2 | hpe | Senior Compliance Engineer- EMC Regulatory and Energy Test Engineer
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Senior-Thermal-Engineer--Houston--TX-_1214928 | hpe | Senior Thermal Engineer (Houston, TX)
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Houston-Texas-United-States-of-America/Territory-Account-Manager---Houston_1213797 | hpe | Territory Account Manager - Houston
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Thermal-Engineer--Direct-Liquid-Cooling----Houston--TX_1215575 | hpe | Thermal Engineer (Direct Liquid Cooling) - Houston, TX
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Dallas-Texas-United-States-of-America/Unstructured-Data-Account-Executive---Telco_1215380 | hpe | Unstructured Data Account Executive - Telco
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Austin-TX/Home-Health-Registered-Nurse_R-429455 | humana | Registered Nurse, Home Health
+- [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Texas/Senior-Storage-Engineer_R-433203 | humana | Senior Storage Engineer
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Work-at-Home---Texas/Senior-Pharmacy-Sales-Executive---Specialty_R-429248 | humana | Sr. Pharmacy Sales Executive - Specialty Oncology
+- [ ] https://intel.wd1.myworkdayjobs.com/external/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0287911 | intel | CPU Physical Design Engineer
+- [ ] https://intel.wd1.myworkdayjobs.com/external/job/US-Texas-Austin/CPU-Validation-Engineer_JR0288101 | intel | CPU Validation Engineer
+- [ ] https://intel.wd1.myworkdayjobs.com/external/job/US-Texas-Austin/Memory-Circuit-Design-Engineer_JR0287727 | intel | Memory Circuit Design Engineer
+- [ ] https://intel.wd1.myworkdayjobs.com/external/job/US-Texas-Austin/Senior-Out-of-Order-CPU-Architect_JR0282126 | intel | Senior Out-of-Order CPU Architect
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Associate-Strategic-Account-Manager_J2467620 | jabil | Associate Strategic Account Manager
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Remote---USA/Business-Development-Executive_J2467853 | jabil | Business Development Executive
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Lead-BIOS-Design-Engineer_J2456770 | jabil | Lead BIOS Design Engineer
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Lead-Design-Electrical-Engineer_J2456762 | jabil | Lead Design Electrical Engineer
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Lead-Design-Mechanical-Engineer_J2456764 | jabil | Lead Design Mechanical Engineer
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Lead-FPGA-Design-Engineer_J2456812 | jabil | Lead FPGA Design Engineer
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Senior-BIOS-Design-Engineer_J2456774 | jabil | Senior BIOS Design Engineer
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Senior-Design-Electrical-Engineer_J2456761 | jabil | Senior Design Electrical Engineer
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Social-Media---Digital-Marketing-Communications-Coordinator_J2467466 | jabil | Social Media & Digital Marketing Communications Coordinator
+- [ ] https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Plano-TX-United-States/Consultant-Coordinator_JR-0092983 | kiongroup | Consultant/Coordinator
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Austin-TX/Clinical-Laboratory-Technologist_2636547 | labcorp | Clinical Laboratory Technologist
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Austin-TX/Histotechnician_2635707 | labcorp | Histotechnician
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Austin-TX/Lab-Assistant_2615027 | labcorp | Lab Assistant
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Austin-TX/Phlebotomy-Site-Coordinator---Pediatric-Experience-Required_2631116 | labcorp | Phlebotomy Site Coordinator - Pediatric Experience Required
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Austin-TX/Phlebotomy-Territory-Manager_2630852-1 | labcorp | Phlebotomy Territory Manager
+- [ ] https://careers.datadoghq.com/detail/8195697/?gh_jid=8195697 | Datadog | Director, Enterprise Sales
+- [ ] https://careers.datadoghq.com/detail/8136510/?gh_jid=8136510 | Datadog | Director, Enterprise Sales Engineering - US Central
+- [ ] https://careers.datadoghq.com/detail/8212513/?gh_jid=8212513 | Datadog | Regional Vice President, Enterprise Sales, Public Sector - US State and Local
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Texas-United-States-of-America/Principal-Presales-Systems-Engineer_1215822-1 | hpe | Principal Presales Systems Engineer
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Principal-Services-Business-Strategy---Planning--Houston--TX-_1215641 | hpe | Principal Services Business Strategy & Planning (Houston, TX)
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/San-Antonio-TX/Bilingual-Medical-Assistant_R-426127 | humana | Bilingual Medical Assistant
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Houston-TX/Cardiology---APP_R-433060 | humana | Cardiology - APP
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Garland-TX/Center-Administration_R-430187 | humana | Center Administration
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/San-Antonio-TX/Clinical-Care-Nurse_R-432693 | humana | Clinical Care Nurse
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Grand-Prairie-TX/Clinical-Care-Nurse--RN-_R-432467 | humana | Clinical Care Nurse (RN)
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Fort-Worth-TX/Front-Office_R-432927 | humana | Front Office
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Big-Spring-TX/Home-Health-Bilingual-Licensed-Vocational-Nurse-Per-Diem_R-433824 | humana | Home Health Bilingual Licensed Vocational Nurse-Per Diem
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Lubbock-TX/Home-Health-Bilingual-Registered-Nurse-Per-Diem_R-433835 | humana | Home Health Bilingual Registered Nurse-Per Diem
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Lubbock-TX/Home-Health-Licensed-Vocational-Nurse-Per-Diem_R-433746-1 | humana | Home Health Licensed Vocational Nurse-Per Diem
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Beaumont-TX/Home-Health-Medical-Social-Worker-Per-Diem_R-432139 | humana | Home Health Medical Social Worker-Per Diem
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/San-Angelo-TX/Home-Health-Occupational-Therapist-Assistant-Per-Diem_R-433836 | humana | Home Health Occupational Therapist Assistant-Per Diem
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Victoria-TX/Home-Health-Physical-Therapist_R-423796 | humana | Home Health Physical Therapist
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Colorado-City-TX/Home-Health-Physical-Therapist-Assistant_R-426483 | humana | Home Health Physical Therapist Assistant
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/El-Paso-TX/Home-Health-Physical-Therapist-Assistant-Per-Diem_R-433828-1 | humana | Home Health Physical Therapist Assistant-Per Diem
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/San-Angelo-TX/Home-Health-Physical-Therapist-Assistant-PRN_R-424598-1 | humana | Home Health Physical Therapist Assistant-PRN
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Big-Spring-TX/Home-Health-Physical-Therapist-Per-Diem_R-433957 | humana | Home Health Physical Therapist-Per Diem
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Colorado-City-TX/Home-Health-Physical-Therapist-PRN_R-433834 | humana | Home Health Physical Therapist-PRN
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Big-Spring-TX/Home-Health-Registered-Nurse_R-433972 | humana | Home Health Registered Nurse
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Vernon-TX/Home-Health-Registered-Nurse-Per-Diem_R-433969 | humana | Home Health Registered Nurse-Per Diem
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Humble-TX/Home-Health-Registered-Nurse-PRN_R-433511 | humana | Home Health Registered Nurse-PRN
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/El-Paso-TX/Home-Health-Social-Worker_R-432916 | humana | Home Health Social Worker
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/San-Angelo-TX/Home-Health-Speech-Language-Pathologist-Per-Diem_R-428051 | humana | Home Health Speech Language Pathologist-Per Diem
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Big-Spring-TX/Home-Health-Speech-Language-Pathologist-PRN_R-424327 | humana | Home Health Speech Language Pathologist-PRN
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Arlington-TX/Lead-Medical-Assistant_R-426360 | humana | Lead Medical Assistant
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/San-Antonio-TX/Licensed-Practical-Nurse_R-432059 | humana | Licensed Practical Nurse
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Fort-Worth-TX/Manager-Clinic-Center-Administration_R-432503 | humana | Manager Clinic/Center Administration
+- [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Port-Arthur-TX/Medical-Assistant_R-430450 | humana | Medical Assistant
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/San-Antonio-TX/Nurse-Practitioner_R-432656 | humana | Nurse Practitioner
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Abilene-TX/Occupational-Therapist-Home-Health-Per-Diem_R-427482 | humana | Occupational Therapist Home Health-Per Diem
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Big-Spring-TX/Occupational-Therapist-Home-Health-PRN_R-424329 | humana | Occupational Therapist Home Health-PRN
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Arlington-TX/PRN-Physician_R-426797-1 | humana | Part-Time Primary Care Physician
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Humble-TX/Patient-Services-Coordinator-LPN_R-432816 | humana | Patient Services Coordinator LPN
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/El-Paso-TX/Patient-Services-Coordinator--LVN_R-432137 | humana | Patient Services Coordinator, LVN
+- [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/San-Antonio-TX/Physical-Therapy-Assistant_R-429279 | humana | Physical Therapy Assistant
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/DeSoto-TX/Primary-Care-Physician_R-419295 | humana | Primary Care Physician
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Fort-Worth-TX/Primary-Care-Physician-PRN_R-433675-1 | humana | Primary Care Physician PRN
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Houston-TX/Receptionist_R-427339 | humana | Receptionist
+- [ ] https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/San-Antonio-TX/Referral-and-Scheduling-Coordinator_R-432994-1 | humana | Referral and Scheduling Coordinator
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Dallas-TX---3140-Duncanville-Rd/Customer-Experience-Representative---ICS_00645390 | jbhunt | Customer Experience Representative - ICS
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Haslet-TX---1150-Intermodal-Parkway/Detail-Wash-Attendant_00647248 | jbhunt | Detail Wash Attendant
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Haslet-TX---1150-Intermodal-Parkway/Dispatcher--Weekends_00645202 | jbhunt | Dispatcher, Weekends
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Haslet-TX---1150-Intermodal-Parkway/Inspector_00640443 | jbhunt | Inspector
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Dallas-TX---3140-Duncanville-Rd/Manager-I--Brokerage_00637246 | jbhunt | Manager I, Brokerage
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Dallas-TX---W-Kiest-Blvd/Mobile-Technician-I_00647769 | jbhunt | Mobile Technician I
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Sherman-TX---407-Progress-Drive/Mobile-Technician-II_00642594 | jbhunt | Mobile Technician II
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Haslet-TX---1150-Intermodal-Parkway/Trailer-Technician-I_00628002 | jbhunt | Refrigeration Technician I
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Dallas-TX---3140-Duncanville-Rd/Business-Development-Manager_00619336 | jbhunt | Sales Development Manager - Dallas
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Houston-TX---Gellhorn-Dr/Tire-Technician_00644811 | jbhunt | Tire Technician
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Haslet-TX---1150-Intermodal-Parkway/Tractor-Technician-I_00635328 | jbhunt | Tractor Technician II
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Haslet-TX---1150-Intermodal-Parkway/Trailer-Technician-I_00642818 | jbhunt | Trailer Technician I
+- [ ] https://jbhunt.wd501.myworkdayjobs.com/careers/job/Converse-TX---FM-1516-N/Trailer-Technician-II_00641798 | jbhunt | Trailer Technician II
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Dallas-TX/Bilingual-Phlebotomist_2625840 | labcorp | Bilingual Phlebotomist
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/El-Paso-TX/Float-Phlebotomist_2631210 | labcorp | Float Phlebotomist
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Houston-TX/Histotechnician--Casual-as-Needed_2635773 | labcorp | Histotechnician- Casual as Needed
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Dallas-TX/Phlebotomist_2625370-1 | labcorp | Phlebotomist
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Waco-TX/Phlebotomist---Client-Office_2539785 | labcorp | Phlebotomist - Client Office
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Harlingen-TX/Specimen-Management-Specialist_2630701 | labcorp | Specimen Management Specialist
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Houston-TX/Specimen-Management-Specialist--Full-Time--1st-Shift_2628798-1 | labcorp | Specimen Management Specialist- Full Time- 1st Shift
+- [ ] https://labcorp.wd1.myworkdayjobs.com/external/job/Houston-TX/Specimen-Processor--Full-Time--3rd-Shift_2637202 | labcorp | Specimen Processor- Full Time- 3rd Shift
+- [ ] https://leidos.wd5.myworkdayjobs.com/external/job/San-Angelo-TX/Curriculum-Media-Developer_R-00193397 | leidos | Curriculum Media Developer
+- [ ] https://leidos.wd5.myworkdayjobs.com/external/job/San-Antonio-TX/ELINT-Warfare-Analyst--Consulting-Employee-_R-00194334 | leidos | ELINT Warfare Analyst (Consulting Employee)
+- [ ] https://leidos.wd5.myworkdayjobs.com/external/job/Fort-Worth-TX/Engineering-Planner---FAA-Background_R-00194084-1 | leidos | Engineering Planner - FAA Background
+- [ ] https://leidos.wd5.myworkdayjobs.com/external/job/Houston-TX/Lead-Substation-Engineer_R-00187492 | leidos | Lead Substation Engineer
+- [ ] https://leidos.wd5.myworkdayjobs.com/external/job/El-Paso-TX/Military-Family-Life-Counselor---CDC_R-00194438 | leidos | Military Family Life Counselor - CDC
+- [ ] https://leidos.wd5.myworkdayjobs.com/external/job/El-Paso-TX/Military-Family-Life-School-Counselor---Fort-Bliss--TX_R-00194434 | leidos | Military Family Life School Counselor - Fort Bliss, TX
+- [ ] https://leidos.wd5.myworkdayjobs.com/external/job/Goodfellow-Air-Force-Base-TX/Military-Family-Life-School-Counselor---San-Angelo--TX_R-00194422 | leidos | Military Family Life School Counselor - San Angelo, TX
+- [ ] https://leidos.wd5.myworkdayjobs.com/external/job/Fort-Worth-TX/Resource-Analyst---Primavera_R-00194360 | leidos | Resource Analyst - Primavera
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8024889?gh_jid=8024889 | Cloudflare | Principal Partner  Engineer, SAARC (Based in Bangalore)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8024849?gh_jid=8024849 | Cloudflare | Senior Principal, Sales Compensation Design & Strategy
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8569506002 | Databricks |  Lakebase Associate Director Specialist-MFG
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8632403002 | Databricks | Alliance RVP, McKinsey
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8628960002 | Databricks | Director, Field Engineering - Financial Services 
+- [ ] https://careers.datadoghq.com/detail/7984985/?gh_jid=7984985 | Datadog | Director, Security Channels (North America)
+- [ ] https://careers.datadoghq.com/detail/7584250/?gh_jid=7584250 | Datadog | Principal Partner Manager - Channels (GSI)
+- [ ] https://jobs.dropbox.com/listing/7862212?gh_jid=7862212 | Dropbox | Principal, Market & Competitive Intelligence Manager
+- [ ] https://jobs.dropbox.com/listing/8067362?gh_jid=8067362 | Dropbox | Vice President, Revenue Operations
+- [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Dallas-TX/Associate-Vice-President--Interoperability-Engineering_R-428824 | humana | Associate Vice President, Interoperability Engineering
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Director---Product-Engineering_J2456378 | jabil | Director - Product Engineering
+- [ ] https://job-boards.greenhouse.io/designedconveyorsystems/jobs/8012586003 | Designed Conveyor Systems | Sr. Software Analyst, Warehouse Execution & Control Systems (WES/WCS)
+- [ ] https://job-boards.greenhouse.io/designedconveyorsystems/jobs/8012581003 | Designed Conveyor Systems | Sr. Software Engineer, Warehouse Execution & Control Systems (WES/WCS)
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8071822 | DoorDash USA | Senior Associate, Strategy & Operations - Commerce Platform Logistics - Delivery Cost
+- [ ] https://job-boards.greenhouse.io/climatefirstbank/jobs/4439199009 | Climate First Bank | Systems Analyst 
+- [ ] https://job-boards.greenhouse.io/cobaltio/jobs/8886075002 | Cobalt | Senior Technical Product Manager 
+- [ ] https://www.codeandtheory.com/careers/8796066002?gh_jid=8796066002 | Code and Theory | Program Lead, Enterprise Transformation (US)
+- [ ] https://job-boards.greenhouse.io/codepath/jobs/5161803007 | CodePath | Senior Product Manager, Learner Platform Experience
+- [ ] https://job-boards.greenhouse.io/csciconsulting/jobs/5362864008 | CSCI Consulting | Implementation Integration Lead
+- [ ] https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5418186008 | Data Systems Analysts, Inc. | Program Manager - AVEVA PI System
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8267987 | DoorDash USA | Business Systems Analyst, Procure-to-Pay
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8193316 | DoorDash USA | Senior Manager : Tax Technology Implementations
+- [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Sr-Product-Manager---Collaboration_3156116-2 | hp | Planning Product Manager
+- [ ] https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Senior-Technical-Project-Manager---DevOps_JR1837 | irhythmtech | Senior Technical Project Manager - DevOps
+- [ ] https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Senior-Technical-Project-Manager_JR1802 | irhythmtech | Senior Technical Project Manager - Software Development
+- [ ] https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Red-River-Army-Depot-Texas/TACOM--RRAD---Computer-Systems-Analyst-II--Contingency-_R2130056-1 | kbr | TACOM (RRAD): Computer Systems Analyst II (Contingency)
+- [ ] https://levistraussandco.wd5.myworkdayjobs.com/external/job/Remote---USA/Lead-Technical-Product-Manager---Commerce-Platform_R-0157056 | levistraussandco | Lead Technical Product Manager – Commerce Platform
+- [ ] https://job-boards.greenhouse.io/cloverhealth/jobs/8268809 | Clover Health | Clinical Field Scheduling & Logistics Specialist
+- [ ] https://job-boards.greenhouse.io/connectwise/jobs/4739935005 | ‎ConnectWise | Brand Logistics Manager
+- [ ] https://careers.cookunity.com/open-roles?gh_jid=7496585003 | CookUnity | Fulfillment Lead
+- [ ] https://coreweave.com/careers/job?4721022006&board=coreweave&gh_jid=4721022006 | CoreWeave | Senior Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/correlationone/jobs/6104356004 | Correlation One | Teaching Assistant: Supply Chain Analyst
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8220865?gh_jid=8220865 | Crunchyroll, LLC | Supply Chain & Manufacturing Manager, Collectibles
+- [ ] https://job-boards.greenhouse.io/digisecuritysystems/jobs/5436386008 | Digi Security Systems | Project Manager - Security Systems (PMP)
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8065591 | DoorDash USA | Manager, Dasher & Logistics - Dasher Financial Strategy & Operations
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Data-Solutions---Data-Engineer_3164111 | hp | Data Architect, AI and Supply Chain Insights
+- [ ] https://huntsman.wd1.myworkdayjobs.com/huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Regional-Supply-Chain-Manager_J-020006 | huntsman | Regional Supply Chain Manager
+- [ ] https://huntsman.wd1.myworkdayjobs.com/huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Strategic-Distribution-Manager_J-020092 | huntsman | Strategic Distribution Manager
+- [ ] https://ineos.wd503.myworkdayjobs.com/ineoscareers/job/Bay-Street-Texas-City-TX/Power-Distribution-Technician_REQ-2966 | ineos | Power Distribution Technician
+- [ ] https://integer.wd1.myworkdayjobs.com/external/job/Remote---United-States/Supply-Chain-Excellence-Manager_R36150 | integer | Supply Chain Excellence Manager
+- [ ] https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Inventory---Cost-Accounting-Manager_JR1793 | irhythmtech | Inventory & Cost Accounting Manager
+- [ ] https://jas.wd1.myworkdayjobs.com/jascareers/job/United-States-of-America-Texas-El-Paso/Logistics-Manager_REQ-2026-12870 | jas | Logistics Manager
+- [ ] https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Austin---Pearson-Ranch/Supply-Chain-Field-Materials-Specialist_JR101361 | jpi | Supply Chain Field Materials Specialist
+- [ ] https://kimberlyclark.wd1.myworkdayjobs.com/equest/job/Paris-TX-USA/Logistics-Manager_884452-3 | kimberlyclark | Logistics Manager
+- [ ] https://job-boards.greenhouse.io/clenera/jobs/5264899007 | Clēnera, LLC | Pre-Construction Project Manager
+- [ ] https://job-boards.greenhouse.io/clenera/jobs/5264912007 | Clēnera, LLC | Project Manager, PV/BESS
+- [ ] https://job-boards.greenhouse.io/cleo/jobs/4742841005 | Cleo (US) | Product Manager 
+- [ ] https://job-boards.greenhouse.io/cleo/jobs/4730980005 | Cleo (US) | Senior Project Manager
+- [ ] https://www.codeandtheory.com/careers/8843433002?gh_jid=8843433002 | Code and Theory | Forward Deployed Product Manager 
+- [ ] https://www.codeandtheory.com/careers/8492812002?gh_jid=8492812002 | Code and Theory | Senior Project Manager, Adobe Experience Cloud (US)
+- [ ] https://job-boards.greenhouse.io/codeforamerica/jobs/7407338 | Code for America | Lead Product Manager 
+- [ ] https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4327511009 | Connections Health Solutions | Operations Project Manager (Contract)
+- [ ] https://job-boards.greenhouse.io/consensys/jobs/7903661 | Consensys | Senior Product Manager – Universal KYC (MetaMask Passport)
+- [ ] https://job-boards.greenhouse.io/cooksys/jobs/5442410008 | Cook Systems | Project Manager 
+- [ ] https://careers.cookunity.com/open-roles?gh_jid=7826633003 | CookUnity | Sr. Product Manager, Shopping Experience
+- [ ] https://careers.cookunity.com/open-roles?gh_jid=7764244003 | CookUnity | Staff Product Manager, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/credible/jobs/8105589 | Credible | Product Manager for Marketplace Lending, Contractor
+- [ ] https://job-boards.greenhouse.io/credible/jobs/8103384 | Credible | Senior Product Manager - Growth
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4992510008 | Cresta | Associate Forward Deployed Product Manager
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4738837008 | Cresta | Forward Deployed Product Manager, AI Agent
+- [ ] https://cribl.io/job-detail/?gh_jid=6178374004 | Cribl | Staff Product Manager - Metrics/Tracing
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8201542?gh_jid=8201542 | Crunchyroll, LLC | Senior Program Manager
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/8259617 | Customer.io | Product Manager, Agent
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/8126049 | Customer.io | Product Manager, Self-Serve
+- [ ] https://job-boards.greenhouse.io/datagrail/jobs/7790389003 | DataGrail | Senior Product Manager, Intelligence
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5389556008 | Datavant | Digital Program Manager
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5282423008 | Datavant | Sr. Marketing Program Manager
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5301310008 | Datavant | Sr. Product Manager, Legal & Insurance
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5247710008 | Datavant | Staff Product Manager, Legal & Insurance
+- [ ] https://job-boards.greenhouse.io/decimainternational/jobs/4721620006 | Decima International | Project Manager (Automation, BMS, and Energy Controls) (Remote)
+- [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5265580007 | Defense Unicorns | Product Manager
+- [ ] https://job-boards.greenhouse.io/designedconveyorsystems/jobs/7826394003 | Designed Conveyor Systems | Project Manager
+- [ ] https://job-boards.greenhouse.io/digible/jobs/6214657004 | Digible | Group Product Manager 
+- [ ] https://job-boards.greenhouse.io/digible/jobs/6143696004 | Digible | Senior Product Manager
+- [ ] https://www.csdisco.com/careers-listing?gh_jid=8860771002 | DISCO | Staff Product Manager, Legal Data
+- [ ] https://job-boards.greenhouse.io/distrokid/jobs/4323002009 | DistroKid | Growth Product Manager (Senior to Staff)
+- [ ] https://job-boards.greenhouse.io/dlrgroup/jobs/4475696008 | DLR Group | Project Manager, K-12 Education
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8237757 | DoorDash USA | Senior Product Manager, People Product
+- [ ] https://www.doppel.com/company/careers/jobs/4429650009?gh_jid=4429650009 | Doppel | Program Manager, GTM Enablement
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/FedRAMP-Project-Manager_3166179-1 | hp | FedRAMP Project Manager
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Principal-Financial-Analyst---Personal-Systems-Global-Supply-Chain_3169155 | hp | Principal Financial Analyst - Personal Systems Global Supply Chain
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Print-Marketing-Strategy-Business-Analyst_3164312 | hp | Print Marketing Strategy Business Analyst
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Product-Operations-and-Portfolio-Program-Manager_3169227 | hp | Product Operations and Portfolio Program Manager
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Product-Manager--WXP-Care-Packs_3167383 | hp | Software Product Manager- WXP Care Packs
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Program-Manager_3165505 | hp | Strategic Initiatives Program Manager Consumer and Gaming
+- [ ] https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Austin-TX/Product-Manager_R0037925 | hubinternational | Product Manager
+- [ ] https://huntsman.wd1.myworkdayjobs.com/huntsman/job/USA---Texas---Houston---Conroe/Project-Manager_J-019951 | huntsman | Project Manager
+- [ ] https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Austin-TX/Senior-Environmental-Project-Manager_R2603352 | icf | Senior Environmental Project Manager
+- [ ] https://icwgroup.wd5.myworkdayjobs.com/icw/job/Remote---USA/Senior-Product-Manager_JR101698 | icwgroup | Senior Product Manager
+- [ ] https://integer.wd1.myworkdayjobs.com/external/job/Remote---United-States/IT-Project-Manager-1_R36548 | integer | IT Project Manager-1
+- [ ] https://integer.wd1.myworkdayjobs.com/external/job/Remote---United-States/Symphony-Project-Manager-PMO-IT_R36871-1 | integer | Symphony Project Manager PMO/IT
+- [ ] https://intervarsity.wd1.myworkdayjobs.com/intervarsitychristianfellowshipcareers/job/Remote---USA/Marketing-Project-Manager--Development-_R0002087 | intervarsity | Marketing Project Manager (Development)
+- [ ] https://intervarsity.wd1.myworkdayjobs.com/intervarsitychristianfellowshipcareers/job/Remote---USA/Project-Manager-I_R0002130 | intervarsity | Project Manager I
+- [ ] https://invesco.wd1.myworkdayjobs.com/ivz/job/Houston-Texas/Product-Manager-Growth-Equities_R-14304 | invesco | Product Manager Growth Equities
+- [ ] https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Sr-Product-Manager---Clinician-Workflow_JR1736 | irhythmtech | Sr. Product Manager - Clinician Workflow
+- [ ] https://jas.wd1.myworkdayjobs.com/jascareers/job/United-States-of-America-Texas-Houston/Project-Manager_REQ-2026-12710 | jas | Project Manager
+- [ ] https://lifestance.wd5.myworkdayjobs.com/careers/job/USA-Remote/Lead--Operations-Strategy---Specialty-Services-Implementation_JR106411-1 | lifestance | Lead, Operations Strategy - Specialty Services Implementation
+- [ ] https://www.codeandtheory.com/careers/8613358002?gh_jid=8613358002 | Code and Theory | Director, Technology - Implementation (US)
+- [ ] https://www.codeandtheory.com/careers/8487624002?gh_jid=8487624002 | Code and Theory | Program Director, Enterprise Transformation (US)
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/7950813?gh_jid=7950813 | Crunchyroll, LLC | Principal Technical Program Manager, Enterprise Technology
+- [ ] https://job-boards.greenhouse.io/cssmerge/jobs/8864965002 | ATOMS Careers page | Enterprise Kitchen Onboarding Manager
+- [ ] https://job-boards.greenhouse.io/clearstreet/jobs/8241303 | Clear Street | Senior Product Designer — Design Systems
+- [ ] https://job-boards.greenhouse.io/cloverhealth/jobs/8161523 | Clover Health | Senior Manager, Actuarial AI & Enterprise Performance
+- [ ] https://job-boards.greenhouse.io/cobaltio/jobs/8743072002 | Cobalt | Senior GTM Systems & AI Specialist
+- [ ] https://job-boards.greenhouse.io/codeforamerica/jobs/8001846 | Code for America | Emerging Technology & AI Governance & Enablement Lead
+- [ ] https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8176715 | Collibra | Senior Technical Product Marketing Manager
+- [ ] https://www.comet.com/site/about-us/careers/job/?gh_jid=7999270003 | Comet | Technical Account Manager (TAM)
+- [ ] https://complyadvantage.com/careers/jobs/8820662002?gh_jid=8820662002 | ComplyAdvantage | Senior Product Marketing Manager - Platform & Data
+- [ ] https://job-boards.greenhouse.io/connectwise/jobs/4721151005 | ‎ConnectWise | IT Enterprise Data Architect
+- [ ] https://job-boards.greenhouse.io/connectwise/jobs/4730291005 | ‎ConnectWise | Technical Support Specialist II (Backup / Restore, Networking)
+- [ ] https://job-boards.greenhouse.io/cordance/jobs/5423762008 | Cordance | Technical Support Specialist
+- [ ] https://coreweave.com/careers/job?4703808006&board=coreweave&gh_jid=4703808006 | CoreWeave | Operations Accounting - Inventory Manager
+- [ ] https://coreweave.com/careers/job?4683042006&board=coreweave&gh_jid=4683042006 | CoreWeave | Staff Business Systems Engineer – Tax Technology
+- [ ] https://coreweave.com/careers/job?4713173006&board=coreweave&gh_jid=4713173006 | CoreWeave | Technical Deployment Lead - Central
+- [ ] https://job-boards.greenhouse.io/correlationone/jobs/6204149004 | Correlation One | Lead Instructor: Enterprise 
+- [ ] https://job-boards.greenhouse.io/cotullaeducation/jobs/5445747008 | Cotulla Education | Aviation Maintenance (A&P) Technical EducationTraining Manager
+- [ ] https://job-boards.greenhouse.io/counterpart/jobs/4727596005 | Counterpart | Product Operations Lead, Insurance Platform
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5437843008 | Cresta | Enterprise Solutions Engineer 
+- [ ] https://cribl.io/job-detail/?gh_jid=6147509004 | Cribl | Regional Sales Manager, Dallas/Fort Worth (Enterprise)
+- [ ] https://cribl.io/job-detail/?gh_jid=6115646004 | Cribl | Regional Sales Manager, NYC (Enterprise)
+- [ ] https://cribl.io/job-detail/?gh_jid=6217924004 | Cribl | Regional Sales Manager, SoCal (Enterprise)
+- [ ] https://cribl.io/job-detail/?gh_jid=6147586004 | Cribl | Revenue Strategy & Planning, Sr. Manager
+- [ ] https://cribl.io/job-detail/?gh_jid=6199340004 | Cribl | Solutions Engineer, Florida (Enterprise)
+- [ ] https://cribl.io/job-detail/?gh_jid=6196253004 | Cribl | Solutions Engineer, New York (Enterprise)
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8171662?gh_jid=8171662 | Crunchyroll, LLC | Senior CX Analytics Manager
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8255517?gh_jid=8255517 | Crunchyroll, LLC | Senior Manager, Global Engagement Strategy and Analytics
+- [ ] https://job-boards.greenhouse.io/csciconsulting/jobs/5450049008 | CSCI Consulting | Functional Analyst - Financial Management System Consolidation Analyst & Roadmap
+- [ ] https://job-boards.greenhouse.io/csciconsulting/jobs/5450055008 | CSCI Consulting | Systems/Technology Analyst - Financial Management System Consolidation Analysis & Roadmap
+- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/8263268 | Culture Amp | Senior Customer Success Manager, Enterprise
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/7991018 | Customer.io | Senior Manager, Data Science & Analytics
+- [ ] https://job-boards.greenhouse.io/datagrail/jobs/7980031003 | DataGrail | IT & Business Systems Manager
+- [ ] https://job-boards.greenhouse.io/dataiku/jobs/6145122004 | Dataiku | Sr Technical Account Manager - East
+- [ ] https://job-boards.greenhouse.io/datakindinc/jobs/8033831003 | DataKind | Data Integration Specialist (Contract-to-Hire Remote-US)
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5416285008 | Datavant | Atlassian Platform Architect
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5394511008 | Datavant | Manager, Enterprise Technical Leads
+- [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5265009007 | Defense Unicorns | Senior Technical Product Marketing Manager, Edge (SMM193)
+- [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5265018007 | Defense Unicorns | Senior Technical Product Marketing Manager, Edge (SMM194)
+- [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5206069007 | Defense Unicorns | Technical Lead - Autonomous & Unmanned Systems (FedD179)
+- [ ] https://job-boards.greenhouse.io/designedconveyorsystems/jobs/7584388003 | Designed Conveyor Systems | System Integration Manager-MHS
+- [ ] https://job-boards.greenhouse.io/dianahealth94/jobs/5201427008 | Diana Health | Senior Analyst, Financial Planning & Analysis
+- [ ] https://job-boards.greenhouse.io/digisecuritysystems/jobs/5427630008 | Digi Security Systems | Warehouse/Inventory Manager
+- [ ] https://www.csdisco.com/careers-listing?gh_jid=8742338002 | DISCO | Pricing & Performance Analytics Senior Manager
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7648545003 | DoiT | Data Platform Marketing Manager - SELECT by DoiT
+- [ ] https://job-boards.greenhouse.io/donorbox/jobs/4722769005 | Donorbox | Enterprise Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8225639 | DoorDash USA | Associate Manager, Sales Strategy & Planning
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8154443 | DoorDash USA | Engineering Manager, Proactive Security - Platform
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8203919 | DoorDash USA | Enterprise Support Specialist
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8220560 | DoorDash USA | Manager, Analytics, Customer Experience
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8076663 | DoorDash USA | Manager, Ecosystem Partnerships & Business Development
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8148519 | DoorDash USA | Senior Analyst, Sales Analytics
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8226916 | DoorDash USA | Senior Associate, AI Solutions Architect, Marketing Technology
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8237299 | DoorDash USA | Senior Associate, Creative Automation, Marketing Technology Operations
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8262782 | DoorDash USA | Senior Associate, QA Automation, Marketing Technology Operations
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8021654 | DoorDash USA | Senior Specialist - Partner Integrations - New Verticals
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8255974 | DoorDash USA | Sr. Enterprise Account Manager, DDfB
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8264397 | DoorDash USA | Sr. Manager, B2B, Marketing Technology
+- [ ] https://www.doppel.com/company/careers/jobs/4421611009?gh_jid=4421611009 | Doppel | Mid-Enterprise Customer Success Manager
+- [ ] https://www.doppel.com/company/careers/jobs/4332173009?gh_jid=4332173009 | Doppel | Technical Enablement Manager
+- [ ] https://job-boards.greenhouse.io/doximity/jobs/8262005 | Doximity | Business Intelligence Analyst (Contractor)
+- [ ] https://job-boards.greenhouse.io/drweng/jobs/8246705 | DRW  | Service Reliability Engineering Technical Lead  
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Business-Planning-Manager_3169082 | hp | Business Planning Manager
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Austin-Texas-United-States-of-America/Presales-Technical-Consultant_3159523 | hp | Presales Technical Consultant
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Senior-Manager--Supply-Planning_3166215-1 | hp | Senior Manager, Supply Planning
+- [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Technical-Accounting-Analyst_3159331-2 | hp | Technical Accounting Analyst
+- [ ] https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Houston-Texas/Technical-Sales-Manager_R-09368 | idexcorp | Technical Sales Manager
+- [ ] https://ijm.wd5.myworkdayjobs.com/careers-ijm/job/United-States---Remote/IT-Infrastructure-Specialist--Cloud-Platform_R-02505 | ijm | IT Infrastructure Specialist, Cloud Platform
+- [ ] https://ijm.wd5.myworkdayjobs.com/careers-ijm/job/United-States---Remote/Operations-Manager--Strategy---Integration_R-02626 | ijm | Operations Manager, Strategy & Integration
+- [ ] https://integer.wd1.myworkdayjobs.com/external/job/Remote---United-States/Senior-Quality-Manager--Technology_R36321 | integer | Senior Quality Manager, Technology
+- [ ] https://integraldiagnostics.wd105.myworkdayjobs.com/idx_careers/job/Remote/Technology-Applications-Specialist_JR101515 | integraldiagnostics | Technology Applications Specialist
+- [ ] https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-TX-Amarillo/Warehouse-Manager_REQ-9789 | interstate | Warehouse Manager
+- [ ] https://ipas.wd5.myworkdayjobs.com/ipas/job/US-NC-INTL-Remote/Network-Risk-Analyst_R1370 | ipas | Enterprise Risk Management Analyst
+- [ ] https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--MA--Remote/Enterprise-Account-Manager--ALM_J0108643 | ironmountain | Enterprise Account Manager, ALM
+- [ ] https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--TX--Dallas--2322-French-Settlement-Rd/Warehouse---Record-Center-Specialist_J0107700 | ironmountain | Warehouse / Record Center Specialist
+- [ ] https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US-TX-Grand-Prairie-1202-Avenue-R/Warehouse-Specialists_J0106857 | ironmountain | Warehouse Specialists
+- [ ] https://jci.wd5.myworkdayjobs.com/jci/job/Houston-Texas-United-States-of-America/Area-Systems-Leader--HVAC---Controls---Texas---Central-Plains_WD30281937 | jci | Area Systems Leader, HVAC & Controls - Texas & Central Plains
+- [ ] https://jci.wd5.myworkdayjobs.com/jci/job/Houston-Texas-United-States-of-America/HVAC-Controls-Systems-Team-Leader_WD30282265 | jci | HVAC Controls Systems Team Leader
+- [ ] https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/San-Antonio-TX/Warehouse-Manager--Night-Shift---San-Antonio_R-261009-2607 | johnsonbrothers | Warehouse Manager, Night Shift - San Antonio
+- [ ] https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/San-Antonio-TX/WMS-Specialist--Night-Shift_R-261009-2621 | johnsonbrothers | WMS Specialist, Night Shift
+- [ ] https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Houston-Texas/Control-Systems-Engineering--CSE--Lead_R2129161 | kbr | Control Systems Engineering (CSE) Lead
+- [ ] https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Houston-Texas/Lead-Accountant--SEC-Reporting---Technical-Accounting_R2130871 | kbr | Lead Accountant, SEC Reporting & Technical Accounting
+- [ ] https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Houston-Texas/Sr-Specialist--IT-Procurement--Software---Technology-_R2130413 | kbr | Sr. Specialist, IT Procurement (Software & Technology)
+- [ ] https://kimberlyclark.wd1.myworkdayjobs.com/equest/job/USA-TX-Dallas/Finance-Manager--Enterprise-Planning---Analysis_886678-2 | kimberlyclark | Finance Manager, Enterprise Planning & Analysis
+- [ ] https://kmkp.wd1.myworkdayjobs.com/careers/job/El-Paso-TX/Logistics-Specialist---Site--ICE-Transport-_R-2600407 | kmkp | Logistics Specialist - Site (ICE Transport)
+- [ ] https://job-boards.greenhouse.io/commercialrealestatecompany/jobs/5228492007 | Commercial Real Estate Company | Senior Project Manager
+- [ ] https://coreweave.com/careers/job?4696057006&board=coreweave&gh_jid=4696057006 | CoreWeave | Fleet Engineering Project Manager, Data Center
+- [ ] https://job-boards.greenhouse.io/dhpace/jobs/5439007008 | DH Pace | Project Manager - Commercial Entry Door Experience is a Plus
+- [ ] https://ineos.wd503.myworkdayjobs.com/ineoscareers/job/League-City-TX/Product-Manager_REQ-2950 | ineos | Product Manager
+- [ ] https://ineos.wd503.myworkdayjobs.com/ineoscareers/job/Independence-Pkwy-La-Porte-TX/Senior-Project-Manager_REQ-2986 | ineos | Senior Project Manager
+- [ ] https://insperity.wd12.myworkdayjobs.com/nsp/job/Kingwood-TX/Senior-Product-Manager---HRScale_JR102931 | insperity | Senior Product Manager - HRScale
+- [ ] https://integritymarketing.wd1.myworkdayjobs.com/integrity/job/Dallas-TX/Associate-Commissions-Business-Analyst_JR4893 | integritymarketing | Associate Commissions Business Analyst
+- [ ] https://jacksonlewis.wd1.myworkdayjobs.com/jacksonlewisbusinessandlegalprofessionalscareers/job/US---CA---San-Diego/Senior-eDiscovery-Project-Manager_R505-2026 | jacksonlewis | Senior eDiscovery Project Manager
+- [ ] https://kone.wd3.myworkdayjobs.com/careers/job/Dallas-TX/Construction-Project-Manager_R0663333-1 | kone | Construction Project Manager
+- [ ] https://learfield.wd5.myworkdayjobs.com/sidearm/job/Dallas-TX/Partner-Development-Business-Analyst_R101525 | learfield | Partner Development Business Analyst
+- [ ] https://learfield.wd5.myworkdayjobs.com/sidearm/job/Dallas-TX/Project-Manager--Implementation_R101423 | learfield | Project Manager, Implementation
+- [ ] https://leewardenergy.wd1.myworkdayjobs.com/leewardcareers/job/Dallas-TX/Project-Manager_JR790 | leewardenergy | Project Manager
+- [ ] https://job-boards.greenhouse.io/clarityinnovates/jobs/5260708007 | Clarity Innovations | Chief Product Manager
+- [ ] https://www.codeandtheory.com/careers/8858034002?gh_jid=8858034002 | Code and Theory | Associate Director, Forward Deployed Product Manager
+- [ ] https://colossal.com/careers/?gh_jid=6193877004 | Colossal Biosciences | Animal Husbandry Specialist, Herpetology & Fish
+- [ ] https://job-boards.greenhouse.io/constantcontact/jobs/8255896 | Constant Contact | Principal Product Manager - Vertical Partnerships
+- [ ] https://coreweave.com/careers/job?4718797006&board=coreweave&gh_jid=4718797006 | CoreWeave | Business Systems Engineer 
+- [ ] https://coreweave.com/careers/job?4715833006&board=coreweave&gh_jid=4715833006 | CoreWeave | Manager, Lease Operations Technical Accounting
+- [ ] https://coreweave.com/careers/job?4702199006&board=coreweave&gh_jid=4702199006 | CoreWeave | Senior Manager, Technical Accounting
+- [ ] https://job-boards.greenhouse.io/credible/jobs/8075638 | Credible | Principal Product Manager, Personal Loans
+- [ ] https://job-boards.greenhouse.io/dept/jobs/7397695 | DEPT® | Associate Director, Project Manager
+- [ ] https://huntelec.wd501.myworkdayjobs.com/huntelectric_careers/job/Georgetown-TX/Planning-and-Scheduling-Specialist_R-100657 | huntelec | Planning and Scheduling Specialist
+- [ ] https://ineos.wd503.myworkdayjobs.com/ineoscareers/job/Alvin-TX/Technical-Team-Lead--PP-Utilities_REQ-2840-1 | ineos | Technical Team Lead, PP/Utilities
+- [ ] https://insperity.wd12.myworkdayjobs.com/nsp/job/Kingwood-TX/Reporting-Integration-Analyst--HRScale_JR103160 | insperity | Reporting Integration Analyst, HRScale
+- [ ] https://integer.wd1.myworkdayjobs.com/external/job/Plano-TX/Solutions-Architect-IV---Data-Analytics_R33056 | integer | Solutions Architect IV - Data Analytics
+- [ ] https://integritymarketing.wd1.myworkdayjobs.com/integrity/job/Dallas-TX/Advisory-Platform-Consultant_JR4733 | integritymarketing | Advisory Platform Consultant
+- [ ] https://integritymarketing.wd1.myworkdayjobs.com/integrity/job/Dallas-TX/Financial-Planning---Analysis-Manager--Corporate_JR4669 | integritymarketing | Financial Planning & Analysis Manager- Corporate
+- [ ] https://integritymarketing.wd1.myworkdayjobs.com/integrity/job/Dallas-TX/Manager--People-Technology_JR3857 | integritymarketing | Manager, People Technology
+- [ ] https://integritymarketing.wd1.myworkdayjobs.com/integrity/job/Dallas-TX/Senior-GRC-Analyst--GRC-Technology-Lead_JR4701 | integritymarketing | Senior GRC Analyst, GRC Technology Lead
+- [ ] https://integritymarketing.wd1.myworkdayjobs.com/integrity/job/Dallas-TX/Senior-Manager--Oracle-EPM-Platforms_JR4732 | integritymarketing | Senior Manager, Oracle EPM Platforms
+- [ ] https://jacksonlewis.wd1.myworkdayjobs.com/jacksonlewisbusinessandlegalprofessionalscareers/job/US---IL---Chicago/Foundation-Platform-Manager_R419-2026 | jacksonlewis | Foundation Platform Manager
+- [ ] https://kodiakgas.wd12.myworkdayjobs.com/kodiakgascareers/job/TX---The-Woodlands-Corporate-HQ/Field-Technology-Support-Specialist_JR3767 | kodiakgas | Field Technology Support Specialist
+- [ ] https://leewardenergy.wd1.myworkdayjobs.com/leewardcareers/job/Dallas-TX/Manager--Financial-Reporting---Technical-Accounting_JR761 | leewardenergy | Manager, Financial Reporting & Technical Accounting
+- [ ] https://levistraussandco.wd5.myworkdayjobs.com/external/job/Remote---USA/Principal-Product-Manager--Consumer-Digital-Experience_R-0155765 | levistraussandco | Principal Product Manager, Consumer Digital Experience
+- [ ] https://job-boards.greenhouse.io/cssmerge/jobs/8828010002 | ATOMS Careers page | Procurement Manager
+- [ ] https://job-boards.greenhouse.io/clearwayjobs/jobs/5197453007 | Clearway Energy | Manager/Senior Manager, EPC Procurement
+- [ ] https://job-boards.greenhouse.io/cleo/jobs/4739273005 | Cleo (US) | Staff Application & Product Security Engineer 
+- [ ] https://job-boards.greenhouse.io/climatefirstbank/jobs/4437554009 | Climate First Bank | Data Analyst
+- [ ] https://job-boards.greenhouse.io/cloverhealth/jobs/7985986 | Clover Health | Data Analyst, Clinical Data Effectiveness
+- [ ] https://job-boards.greenhouse.io/cloverhealth/jobs/8159138 | Clover Health | Product Operations Manager, Member Experience
+- [ ] https://www.cockroachlabs.com/careers/job/?gh_jid=8055505 | Cockroach Labs | Marketing Operations Manager
+- [ ] https://careers.cookunity.com/open-roles?gh_jid=7780185003 | CookUnity | Senior Data Scientist, Retention & Product
+- [ ] https://job-boards.greenhouse.io/cordance/jobs/5396035008 | Cordance | Data Architect
+- [ ] https://job-boards.greenhouse.io/cordance/jobs/5440042008 | Cordance | IT Operations Manager
+- [ ] https://job-boards.greenhouse.io/correlationone/jobs/5988964004 | Correlation One | Lead Instructor: Aerospace Technician
+- [ ] https://job-boards.greenhouse.io/counterparthealth/jobs/7985988 | Counterpart Health | Data Analyst, Clinical Data Effectiveness 
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5398116008 | Cresta | Deal Strategy & Operations Manager
+- [ ] https://cribl.io/job-detail/?gh_jid=6018893004 | Cribl | Sr Revenue Operations Analyst
+- [ ] https://cribl.io/job-detail/?gh_jid=6188442004 | Cribl | Strategy & Operations Sr Manager
+- [ ] https://job-boards.greenhouse.io/csciconsulting/jobs/5434902008 | CSCI Consulting | SAP Functional Consultant - Materials Management
+- [ ] https://job-boards.greenhouse.io/csciconsulting/jobs/5434951008 | CSCI Consulting | SAP S/4HANA Defense & Security Functional Lead - SME
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5431927008 | Datavant | CDQI Audit Specialist
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5430043008 | Datavant | Health Information Specialist I - Miami, FL. - Onsite
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5421178008 | Datavant | Inpatient Audit Specialist PRN
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5399608008 | Datavant | Inpatient Audit Specialist PRN - Remote
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5368622008 | Datavant | Inpatient Audit Specialist- PRN
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5398515008 | Datavant | Outpatient Audit Specialist PRN - Remote
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5431343008 | Datavant | Profee Audit Specialist - FT
+- [ ] https://www.datavant.com/about/careers/open-roles/job?gh_jid=5265314008 | Datavant | ProFee Audit Specialist- PRN
+- [ ] https://job-boards.greenhouse.io/daymarkhealth/jobs/5438123008 | Daymark Health | IT Manager 
+- [ ] https://job-boards.greenhouse.io/decimainternational/jobs/4703824006 | Decima International | Construction Manager – Utility Power & Data Center Infrastructure (On-site) - South Padre Island, TX, or Amarillo, TX
+- [ ] https://job-boards.greenhouse.io/decimainternational/jobs/4690952006 | Decima International | Senior Project Estimator (Data Center Preconstruction) - Corsicana, TX, or Sweetwater, TX
+- [ ] https://job-boards.greenhouse.io/devrev/jobs/6144772004 | DevRev | Business Development Manager (Tech Alliances)
+- [ ] https://www.digicert.com/careers/?gh_jid=8756873002 | DigiCert | Trust Operations Analyst
+- [ ] https://job-boards.greenhouse.io/dlrgroup/jobs/5422344008 | DLR Group | Architectural BIM Technician
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8259455 | DoorDash USA | Associate Manager, Digital Ordering - Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8261297 | DoorDash USA | Associate Manager, Merchant Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8131068 | DoorDash USA | Associate Manager, Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7990832 | DoorDash USA | Data Analyst, In-Store
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8123086 | DoorDash USA | Engineering Manager, People Applications
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7812825 | DoorDash USA | Manager, Data Science
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8227346 | DoorDash USA | Manager, Sales Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8261844 | DoorDash USA | Regional Operations Manager - Drive (Parcel)
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7875403 | DoorDash USA | Senior Manager, Finance & Strategy - Digital Ordering - SaaS
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8200707 | DoorDash USA | Strategy & Operations Manager
+- [ ] https://boards.greenhouse.io/drivewealth/jobs/8034511003?gh_jid=8034511003 | DriveWealth | Security & Threat Operations Manager
+- [ ] https://job-boards.greenhouse.io/drweng/jobs/8189730 | DRW  | Data Analyst, Stewardship
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/HP-Industry-Solutions-Business-Operations_3168930 | hp | HP Industry Solutions Business Operations
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Austin-Texas-United-States-of-America/Manager--Software-Applications_3167423 | hp | Manager, Software Applications
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/SOM---Supplier-Operations-Manager_3168709 | hp | SOM - Supplier Operations Manager
+- [ ] https://ia.wd3.myworkdayjobs.com/professional_us/job/Waco-Texas/Insurance-Application-Analyst_JR10028054 | ia | Insurance Application Analyst
+- [ ] https://igsenergy.wd1.myworkdayjobs.com/igs/job/Ohio-Remote/Community-Solar-Operations-Analyst_R6373-1 | igsenergy | Community Solar Operations Analyst
+- [ ] https://igsenergy.wd1.myworkdayjobs.com/igs/job/Ohio-Remote/Lead--Residential-Solar-Service-Operations_R6348 | igsenergy | Lead, Residential Solar Service Operations
+- [ ] https://inizio.wd3.myworkdayjobs.com/cso/job/United-States---Remote/Medical-Information-Specialist-III_JR36521 | inizio | Medical Information Specialist III
+- [ ] https://integer.wd1.myworkdayjobs.com/external/job/Remote---United-States/Solutions-Architect-IV--Procurement_R36704 | integer | Solutions Architect IV, Procurement
+- [ ] https://integritymarketing.wd1.myworkdayjobs.com/integrity/job/Remote---United-States/Enrollment-Operations-Specialist_JR4762 | integritymarketing | Enrollment Operations Specialist
+- [ ] https://iqvia.wd1.myworkdayjobs.com/iqvia/job/San-Antonio-TX-United-States-of-America/Data-Entry-Specialist_R1528067-1 | iqvia | Data Entry Specialist
+- [ ] https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--CA--Remote/Operations-Excellence-Manager---W-L---3PL_J0108049 | ironmountain | Operations Excellence Manager - W&L | 3PL
+- [ ] https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--TX--Remote/Senior-Benefits-Operations-Analyst--Financial-Wellbeing--Leaves----Income-Protection_J0107086-1 | ironmountain | Senior Benefits Operations Analyst, Financial Wellbeing, Leaves, & Income Protection
+- [ ] https://jci.wd5.myworkdayjobs.com/jci/job/Irving-Texas-United-States-of-America/Pre-Construction-Field-Procurement-Manager_WD30280323 | jci | Pre-Construction Field Procurement Manager
+- [ ] https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/USA-Texas-Houston/Operations-Business-Support-Specialist_JR102995 | jd | Operations Business Support Specialist
+- [ ] https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Houston-Texas-United-States-of-America/Clinical-Sales-Specialist--Sports---Houston--TX---Johnson---Johnson-MedTech---Orthopaedics_R-103147 | jj | Clinical Sales Specialist, Sports – Houston, TX – Johnson & Johnson MedTech - Orthopaedics
+- [ ] https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Houston-Texas-United-States-of-America/Field-Clinical-Specialist--Houston--TX---J-J-MedTech--Circulatory-Restoration-_R-104320 | jj | Field Clinical Specialist (Houston, TX)- J&J MedTech (Circulatory Restoration)
+- [ ] https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Houston-Texas/People-Operations-Specialist_R2130869 | kbr | HR People Operations Specialist
+- [ ] https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/San-Antonio-Texas/Operations-Research-and-Data-Science-Manager_R2130591 | kbr | Operations Research and Data Science Manager
+- [ ] https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Houston-Texas/Specialist--IT-Software-Asset-Administration--SAM-_R2130641 | kbr | Specialist, IT Software Asset Administration (SAM)
+- [ ] https://laticrete.wd1.myworkdayjobs.com/laticreteinternational/job/Texas--Grand-Prairie---Plant/Lead-Quality-Control-Technician_R-26-2545 | laticrete | Lead Quality Control Technician
+- [ ] https://cribl.io/job-detail/?gh_jid=6224834004 | Cribl | Director, Solutions Engineering (Enterprise AMER)
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8257915?gh_jid=8257915 | Crunchyroll, LLC | Director, Lifecycle Technology & Operations
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Business-Planning-Manager---Chief-of-Staff_3169478 | hp | Business Planning Manager – Chief of Staff
+- [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Distinguished-Technologist---Principal-Architect--Platform-Security-and-Firmware-Systems_3168417-2 | hp | Distinguished Technologist - Principal Architect, Platform Security and Firmware Systems
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Principal-Enterprise-Architect_3168791 | hp | Principal Enterprise Architect
+- [ ] https://intapp.wd1.myworkdayjobs.com/intapp/job/Remote-United-States/Principal-EA-Engineering-Lead_R2025193-1 | intapp | Principal, Enterprise Applications Engineering Lead
+- [ ] https://invesco.wd1.myworkdayjobs.com/ivz/job/Houston-Texas/Senior-Principal-Solutions-Architect--Data-Governance_R-10779 | invesco | Senior Principal Solutions Architect, Data Platform
+- [ ] https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Principal-Software-Architect_JR1263 | irhythmtech | Principal System Architect - MedDevice
+- [ ] https://job-boards.greenhouse.io/cssmerge/jobs/8604754002 | ATOMS Careers page | Autonomous Operations Specialist, Equipment Operator
+- [ ] https://job-boards.greenhouse.io/cssmerge/jobs/8886410002 | ATOMS Careers page | Senior Operations Manager
+- [ ] https://job-boards.greenhouse.io/climatefirstbank/jobs/4330927009 | Climate First Bank | Director, Deposit Operations & Treasury Management
+- [ ] https://job-boards.greenhouse.io/cloverhealth/jobs/8089032 | Clover Health | Director of Engineering, Data Products
+- [ ] https://job-boards.greenhouse.io/comptechcomputertechnologies/jobs/5418209008 | CompTech Computer Technologies | IT Service Desk Specialist I
+- [ ] https://job-boards.greenhouse.io/comptechcomputertechnologies/jobs/5436910008 | CompTech Computer Technologies | IT Service Desk Specialist III
+- [ ] https://job-boards.greenhouse.io/conga/jobs/5252041007 | Conga | Staff Sales Operations Manager
+- [ ] https://job-boards.greenhouse.io/constantcontact/jobs/8249880 | Constant Contact | Director, MarTech Operations
+- [ ] https://coreweave.com/careers/job?4666800006&board=coreweave&gh_jid=4666800006 | CoreWeave | Manager, Data Center Operations Accounting
+- [ ] https://coreweave.com/careers/job?4717418006&board=coreweave&gh_jid=4717418006 | CoreWeave | People Business Partner- Data Center Operations
+- [ ] https://coreweave.com/careers/job?4715844006&board=coreweave&gh_jid=4715844006 | CoreWeave | Senior Credit & Collections Analyst
+- [ ] https://coreweave.com/careers/job?4710081006&board=coreweave&gh_jid=4710081006 | CoreWeave | Senior Financial Analyst, Data Center Finance
+- [ ] https://coreweave.com/careers/job?4715831006&board=coreweave&gh_jid=4715831006 | CoreWeave | Senior GBS Financial Operations Manager
+- [ ] https://job-boards.greenhouse.io/counterparthealth/jobs/8089034 | Counterpart Health | Director of Engineering, Data Products
+- [ ] https://job-boards.greenhouse.io/coverahealth/jobs/7801354003 | Covera Health | Manager/Director, Revenue Operations
+- [ ] https://job-boards.greenhouse.io/davisdevelopment/jobs/4727382005 | Davis Development | Grounds Specialist - Portrait at Painted Tree - McKinney, TX
+- [ ] https://job-boards.greenhouse.io/davisdevelopment/jobs/4727385005 | Davis Development | Housekeeping Specialist - Portrait at Painted Tree - McKinney, TX
+- [ ] https://job-boards.greenhouse.io/dhpace/jobs/5451087008 | DH Pace | Operations Manager-Must Have Commercial Door Experience
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8242303 | DoorDash USA | Senior Operations Specialist, Labs
+- [ ] https://hrone.wd1.myworkdayjobs.com/central_transport/job/CT-FORT-WORTH-TX/Lead-Trailer-Tech_JR131505 | hrone | Lead Trailer Tech
+- [ ] https://hrsystem.wd1.myworkdayjobs.com/careers/job/Houston-TX/Production-Technician_R0011050 | hrsystem | Production Technician
+- [ ] https://ijm.wd5.myworkdayjobs.com/careers-ijm/job/United-States---Remote/Director-of-Security-Operations--Programs_R-02504 | ijm | Director of Security Operations, Programs
+- [ ] https://ineos.wd503.myworkdayjobs.com/ineoscareers/job/Underwood-Dr-Pasadena-TX/Operations-Excellence-Data---Information-Coordinator_REQ-3024 | ineos | Operations Excellence Data & Information Coordinator
+- [ ] https://ineos.wd503.myworkdayjobs.com/ineoscareers/job/League-City-TX/US-Procurement-Manager_REQ-2726 | ineos | US Procurement Manager
+- [ ] https://integer.wd1.myworkdayjobs.com/external/job/Plano-TX/IT-Service-Delivery-Analyst_R36014 | integer | IT Service Delivery Analyst
+- [ ] https://integer.wd1.myworkdayjobs.com/external/job/Plano-TX/Senior-Manager--IT-Infrastructure_R34814 | integer | Senior Manager, IT Infrastructure
+- [ ] https://integritymarketing.wd1.myworkdayjobs.com/integrity/job/Dallas-TX/Compliance-Analyst--Audit-Assurance_JR4699 | integritymarketing | Compliance Analyst, Audit Assurance
+- [ ] https://integritymarketing.wd1.myworkdayjobs.com/integrity/job/Dallas-TX/Procurement-Process-Manager_JR4195 | integritymarketing | Procurement Process Manager
+- [ ] https://integritymarketing.wd1.myworkdayjobs.com/integrity/job/Dallas-TX/Strategic-Sourcing-Manager--IT-Category_JR4896 | integritymarketing | Strategic Sourcing Manager, IT Category
+- [ ] https://integritymarketing.wd1.myworkdayjobs.com/integrity/job/Dallas-TX/Workflow-Coordinator---Shared-Services-Site-Visit-Lead_JR4731 | integritymarketing | Workflow Coordinator - Onsite Visit Lead
+- [ ] https://intelogix.wd108.myworkdayjobs.com/external/job/Copperas-Cove-TX/Operations-Manager---Call-Center_JR101718 | intelogix | Operations Manager - Call Center
+- [ ] https://interiorlogicgroup.wd5.myworkdayjobs.com/careersatilg/job/Plano-TX/Senior-Credit-Analyst_R-8221 | interiorlogicgroup | Senior Credit & Collections Analyst
+- [ ] https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--TX--Dallas--4117-Pinnacle-Point-Drive/Imaging-Operations-Manager_J0108984 | ironmountain | Imaging Operations Manager
+- [ ] https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Irving-TX/Salesforce-Solution-Architech_R-104726 | jadeglobal | Salesforce Solution Architech
+- [ ] https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/San-Antonio-TX/Business-Operations-Analyst_R-260910-2380 | johnsonbrothers | Business Operations Analyst
+- [ ] https://kmkp.wd1.myworkdayjobs.com/tpgcareers/job/El-Paso-TX/Data-Preparation-Specialist_R-2600158 | kmkp | Data Preparation Specialist
+- [ ] https://kmkp.wd1.myworkdayjobs.com/tpgcareers/job/Weslaco-TX/UIP-Data-Collection-Specialist_R-2600622 | kmkp | UIP Data Collection Specialist
+- [ ] https://kodiakgas.wd12.myworkdayjobs.com/kodiakgascareers/job/TX---The-Woodlands-Corporate-HQ/Commercial-Applications-Specialist_JR3679 | kodiakgas | Commercial Applications Specialist
+- [ ] https://kodiakgas.wd12.myworkdayjobs.com/kodiakgascareers/job/TX---Midland-3919-N-FM-1788/Field-Service-Technician--Lead_JR3568-1 | kodiakgas | Field Service Technician, Lead
+- [ ] https://learfield.wd5.myworkdayjobs.com/learfield/job/Lubbock-TX/Senior-Business-Development-Manager---Texas-Tech-University_R101512-1 | learfield | Senior Business Development Manager - Texas Tech University
+- [ ] https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/San-Antonio-TX/Field-Operations-Technician_R30554 | ledcor | Field Operations Technician
