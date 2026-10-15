@@ -39,7 +39,13 @@ jobs:
           node --check score-selena-fit.mjs
           node --check plan-jd-batches.mjs
       - name: Start run session
-        run: rm -f data/current-run-jobs.jsonl
+        run: |
+          rm -f data/current-run-jobs.jsonl
+          rm -f data/latest-jd-read-results.jsonl
+          rm -f data/latest-jd-read-summary.json
+          rm -f data/latest-selena-fit-results.jsonl
+          rm -f data/latest-selena-fit-summary.json
+          rm -f data/latest-review-queue.jsonl
       - name: Run Career-Ops scanner
         shell: bash
         run: |
