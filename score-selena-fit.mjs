@@ -1,36 +1,69 @@
 #!/usr/bin/env node
 import {readFileSync,writeFileSync} from 'node:fs';
-const src='data/latest-jd-read-results.jsonl';
-const rows=readFileSync(src,'utf8').trim().split('\n').filter(Boolean).map(JSON.parse);
-const norm=s=>String(s||'').toLowerCase();
-function score(j){
-  const title=norm(j.title), jd=norm(j.jd_text), loc=norm(j.location);
-  let capability=0, role=0, domain=0, delivery=0, tools=0, level=0;
-  const reasons=[], risks=[];
-  const hit=(re,text=jd)=>re.test(text);
-  if(hit(/business systems|systems analyst|business analyst|product owner|technical product|program manager|project manager|implementation consultant|product operations/,title)){role=18;reasons.push('target_role');}
-  else if(hit(/product manager|program manager|project manager|systems|analyst|implementation/,title)){role=13;reasons.push('adjacent_role');}
-  else role=5;
-  if(hit(/supply chain|warehouse management|\bwms\b|inventory management|inventory control|logistics|fulfillment|distribution center/)){domain=18;reasons.push('supply_chain_domain');}
-  else if(hit(/operations|enterprise systems|business process/)){domain=10;reasons.push('operations_domain');}
-  if(hit(/requirements|business requirement|functional requirement|process flow|process improvement|stakeholder|cross.functional|uat|user acceptance|testing|agile|scrum/)){delivery=18;reasons.push('delivery_match');}
-  if(hit(/infor|kinaxis|\bsap\b|databricks|\bsql\b|power bi|erp|enterprise application|system implementation|integration|api|saas/)){tools=14;reasons.push('systems_tools');}
-  if(hit(/3pl|vendor|partner|external developer|implementation partner|cross.functional|stakeholder/)){capability+=8;reasons.push('partner_collaboration');}
-  if(hit(/5\+ years|6\+ years|7\+ years|five years|six years|seven years/)){level=9;} else level=12;
-  if(hit(/10\+ years|12\+ years|15\+ years|ten years|twelve years|fifteen years/)){level=3;risks.push('experience_gap');}
-  if(hit(/director|vice president|vp\b/,title)){level=Math.min(level,3);risks.push('level_too_high');}
-  if(hit(/software engineer|developer|architect|data scientist/,title)){risks.push('technical_role_mismatch');}
-  if(/remote.*(ontario|quebec|canada)|\bcanada\b/.test(loc)){risks.push('location_not_us');}
-  let total=role+domain+delivery+tools+capability+level;
-  if(risks.includes('technical_role_mismatch')) total-=15;
-  if(risks.includes('location_not_us')) total-=30;
-  total=Math.max(0,Math.min(100,total));
-  const fit=Math.round(total)/10;
-  return {...j,selena_fit_score:fit,selena_fit_band:fit>=9?'strong_apply':fit>=8?'high_review':fit>=7?'possible':'low',selena_fit_reasons:reasons,selena_fit_risks:risks};
+const rows=readFileSync('data/latest-jd-read-results.jsonl','utf8').trim().split('\n').filter(Boolean).map(JSON.parse);
+const profile=JSON.parse(readFileSync('data/selena-fit-profile.json','utf8'));
+const n=s=>String(s||'').toLowerCase();
+const has=(text,re)=>re.test(text);
+const cap=(x,max)=>Math.max(0,Math.min(max,x));
+function fit(j){
+  const title=n(j.title), jd=n(j.jd_text), text=title+' '+jd;
+  const dims={}, evidence=[], gaps=[];
+  const targetRole=/business systems|systems analyst|business analyst|product owner|technical product|program manager|implementation consultant|product operations|business intelligence/;
+  const adjacentRole=/product manager|project manager|operations manager|logistics specialist|inventory consultant/;
+  dims.role_function=has(title,targetRole)?2:has(title,adjacentRole)?1.4:0.6;
+
+  const sc=/supply chain|warehouse management|\bwms\b|inventory control|inventory management|logistics|fulfillment|distribution center|s&op/;
+  const enterprise=/enterprise system|business system|erp|system implementation|systems integration|operations technology/;
+  dims.domain=has(text,sc)?2:has(text,enterprise)?1.4:has(text,/operations|business process/)?0.8:0.3;
+
+  let resp=0;
+  if(has(jd,/requirements|functional requirement|business requirement|process flow|process improvement/))resp+=0.7;
+  if(has(jd,/stakeholder|cross.functional|partner|vendor/))resp+=0.5;
+  if(has(jd,/uat|user acceptance|testing|deployment|release|defect|backlog|agile|scrum/))resp+=0.5;
+  if(has(jd,/implementation|integration|transformation/))resp+=0.3;
+  dims.responsibilities=cap(resp,2);
+
+  let tech=0;
+  if(has(jd,/\binfor\b|kinaxis|\bsap\b|\bwms\b|\berp\b/))tech+=0.7;
+  if(has(jd,/databricks|\bsql\b|power bi|analytics|business intelligence/))tech+=0.4;
+  if(has(jd,/integration|api|enterprise application|saas/))tech+=0.4;
+  dims.skills_technology=cap(tech,1.5);
+
+  let senior=1.3;
+  if(has(jd,/10\+ years|11\+ years|12\+ years|15\+ years|ten years|twelve years|fifteen years/)){senior=0.4;gaps.push('major_experience_gap');}
+  else if(has(jd,/8\+ years|9\+ years|eight years|nine years/)){senior=0.9;gaps.push('seniority_stretch');}
+  if(has(title,/director|vice president|\bvp\b/)){senior=0.2;gaps.push('executive_scope');}
+  dims.seniority_scope=senior;
+
+  let transfer=0.8;
+  if(has(text,/supply chain|enterprise system|business system|implementation|integration/))transfer=1;
+  dims.transferability=transfer;
+
+  const occupationMismatch =
+    (has(title,/construction/)&&has(title,/project manager/)) ||
+    (has(title,/clinical/)&&has(title,/project manager/)) ||
+    (has(title,/hardware engineering|power engineer/)) ||
+    has(title,/software engineer|sales executive|account executive/);
+  if(occupationMismatch)gaps.push('occupation_mismatch');
+
+  if(has(jd,/registered nurse|medical license|clinical licensure|professional engineer license|licensed architect/))gaps.push('specialized_credential_gap');
+  if(has(jd,/people manager|manage a team of|direct reports/) && !has(title,/product owner|analyst/))gaps.push('people_management_requirement');
+
+  let score=Object.values(dims).reduce((a,b)=>a+b,0);
+  let gap='none';
+  if(gaps.includes('specialized_credential_gap')){gap='disqualifying';score=Math.min(score,5.9);}
+  else if(gaps.includes('occupation_mismatch')){gap='major';score=Math.min(score,6.9);}
+  else if(gaps.includes('major_experience_gap')){gap='major';score=Math.min(score,7.4);}
+  else if(gaps.length){gap='manageable';}
+  score=Math.round(score*10)/10;
+  if(dims.domain>=1.4)evidence.push('domain_transfer');
+  if(dims.responsibilities>=1.5)evidence.push('delivery_ownership');
+  if(dims.skills_technology>=1)evidence.push('systems_tools');
+  return {...j,fit_dimensions:dims,requirement_gap:gap,requirement_gaps:gaps,selena_fit_score:score,selena_fit_band:score>=9?'strong_apply':score>=8?'high_review':score>=7?'possible':'low',selena_fit_evidence:evidence};
 }
 const eligible=rows.filter(x=>x.fit_scoring_eligible&&x.full_jd_verified&&x.jd_text);
-const out=eligible.map(score).sort((a,b)=>b.selena_fit_score-a.selena_fit_score);
+const out=eligible.map(fit).sort((a,b)=>b.selena_fit_score-a.selena_fit_score);
 writeFileSync('data/latest-selena-fit-results.jsonl',out.map(JSON.stringify).join('\n')+(out.length?'\n':''));
-const summary={generated_at:new Date().toISOString(),eligible:eligible.length,scored:out.length,strong_apply:out.filter(x=>x.selena_fit_score>=9).length,high_review:out.filter(x=>x.selena_fit_score>=8&&x.selena_fit_score<9).length,possible:out.filter(x=>x.selena_fit_score>=7&&x.selena_fit_score<8).length,low:out.filter(x=>x.selena_fit_score<7).length};
+const summary={generated_at:new Date().toISOString(),profile_version:profile.profile_version,eligible:eligible.length,scored:out.length,strong_apply:out.filter(x=>x.selena_fit_score>=9).length,high_review:out.filter(x=>x.selena_fit_score>=8&&x.selena_fit_score<9).length,possible:out.filter(x=>x.selena_fit_score>=7&&x.selena_fit_score<8).length,low:out.filter(x=>x.selena_fit_score<7).length,major_or_disqualifying_gap:out.filter(x=>['major','disqualifying'].includes(x.requirement_gap)).length};
 writeFileSync('data/latest-selena-fit-summary.json',JSON.stringify(summary,null,2)+'\n');
 console.log(JSON.stringify(summary));
