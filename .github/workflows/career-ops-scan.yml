@@ -25,15 +25,14 @@ jobs:
         with:
           ref: codex/recreate-phase-1-and-phase-2-files
           fetch-depth: 0
-
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-
       - name: Install dependencies
         run: npm install --no-audit --no-fund
-
+      - name: Syntax-check JD batch runner
+        run: node --check fetch-jd-batch.mjs
       - name: Run Career-Ops scanner
         shell: bash
         run: |
@@ -42,25 +41,19 @@ jobs:
           else
             node scan.mjs --universe --universe-batch 250
           fi
-
-      - name: Show scan summary
+      - name: Read full JD — Batch 1
+        run: node fetch-jd-batch.mjs
+      - name: Show scan and JD summary
         shell: bash
         run: |
           git status --short
-          if [ -f data/scan-history.tsv ]; then
-            echo "scan-history rows:"
-            wc -l data/scan-history.tsv
-          fi
-
+          cat data/latest-jd-read-summary.json 2>/dev/null || true
       - name: Commit scan results to Selena branch
         shell: bash
         run: |
-          git add data/scan-history.tsv data/pipeline.md data/universe-cursor.json data/latest-jd-candidates.jsonl 2>/dev/null || true
-          if git diff --cached --quiet; then
-            echo "No scan changes to commit."
-            exit 0
-          fi
+          git add data/scan-history.tsv data/pipeline.md data/universe-cursor.json data/latest-jd-candidates.jsonl data/multi-source-discovery-results.json data/latest-jd-read-results.jsonl data/latest-jd-read-summary.json 2>/dev/null || true
+          if git diff --cached --quiet; then exit 0; fi
           git config user.name "career-ops-bot"
           git config user.email "career-ops-bot@users.noreply.github.com"
-          git commit -m "chore: update Career-Ops scan results"
+          git commit -m "chore: update Career-Ops scan and JD results"
           git push origin HEAD:codex/recreate-phase-1-and-phase-2-files
