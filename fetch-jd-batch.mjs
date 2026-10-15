@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import {readFileSync,writeFileSync,existsSync} from 'node:fs';
+import {readFileSync,writeFileSync,existsSync,appendFileSync} from 'node:fs';
 const batchArg=Number(process.argv.find(x=>x.startsWith('--batch='))?.split('=')[1]||1);
 const rows=readFileSync('data/latest-jd-candidates.jsonl','utf8').trim().split('\n').filter(Boolean).map(JSON.parse).filter(x=>x.fetch_batch===batchArg).slice(0,50);
 const clean=s=>String(s||'').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();
@@ -17,6 +17,16 @@ const resultPath='data/latest-jd-read-results.jsonl';
 const previous=existsSync(resultPath)?readFileSync(resultPath,'utf8').trim().split('\n').filter(Boolean).map(JSON.parse).filter(x=>x.fetch_batch!==batchArg):[];
 const combined=[...previous,...out];
 writeFileSync(resultPath,combined.map(JSON.stringify).join('\n')+'\n');
+
+// Durable JD archive: preserve one canonical fetched JD per job identity across runs.
+const archivePath='data/jd-history.jsonl';
+const norm=s=>String(s||'').trim().toLowerCase().replace(/\s+/g,' ');
+const jobKey=j=>{const company=String(j.company||'').trim().toLowerCase().replace(/[^a-z0-9]+/g,'');const id=String(j.job_id||j.requisition_id||j.id||'').trim().toLowerCase();return id?company+'::id::'+id:company+'::role::'+norm(j.title)+'::'+norm(j.location);};
+const archived=new Set();
+if(existsSync(archivePath)){for(const line of readFileSync(archivePath,'utf8').split('\n').filter(Boolean)){try{const x=JSON.parse(line);if(x.job_key)archived.add(x.job_key);}catch{}}}
+const fetchedAt=new Date().toISOString();
+const archiveRows=out.filter(x=>x.jd_fetch_status==='full'&&x.jd_text).map(x=>({...x,job_key:jobKey(x),jd_archived_at:fetchedAt})).filter(x=>!archived.has(x.job_key));
+if(archiveRows.length)appendFileSync(archivePath,archiveRows.map(JSON.stringify).join('\n')+'\n');
 const counts=out.reduce((a,x)=>(a[x.jd_fetch_status]=(a[x.jd_fetch_status]||0)+1,a),{});const relevanceCounts=out.reduce((a,x)=>(a[x.relevance_status||'unscored']=(a[x.relevance_status||'unscored']||0)+1,a),{});
 writeFileSync('data/latest-jd-read-summary.json',JSON.stringify({generated_at:new Date().toISOString(),attempted:out.length,status_counts:counts,full_jd_verified:out.filter(x=>x.full_jd_verified).length,relevance_counts:relevanceCounts,level_hard_negative:out.filter(x=>x.level_hard_negative).length,fit_scoring_eligible:out.filter(x=>x.fit_scoring_eligible).length},null,2)+'\n');
 console.log(JSON.stringify({attempted:out.length,counts,full:out.filter(x=>x.full_jd_verified).length,relevance:relevanceCounts,level_hard_negative:out.filter(x=>x.level_hard_negative).length,fit_eligible:out.filter(x=>x.fit_scoring_eligible).length}));
