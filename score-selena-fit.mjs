@@ -65,7 +65,7 @@ function fit(j){
   const systemsOwnership=has(jd,/own(?:s|ing)? (?:the )?(?:system|platform|application|product)|system roadmap|platform roadmap|application roadmap|product backlog/);
   const implementationWork=has(jd,/system implementation|implement(?:ing|ation)? (?:an? )?(?:enterprise )?(?:system|platform|application)|systems integration|integrat(?:e|ing|ion) (?:with|between|across).{0,80}(?:system|platform|application|api)|deployment.{0,60}(?:system|platform|application)/);
   const requirementsToSolution=has(jd,/(?:translate|transform|convert).{0,100}(?:business|functional|user) requirements.{0,120}(?:system|technical|solution|developer)|(?:business|functional) requirements.{0,100}(?:technical specification|system solution|system requirement)/);
-  const technicalDelivery=has(jd,/(?:partner|work|collaborate).{0,80}(?:product|engineering|developer|technology|it).{0,180}(?:requirements|backlog|prioriti|implementation|integration|deployment|release|ship)|(?:requirements|backlog).{0,180}(?:product|engineering|developer|technology|it)/);
+  const technicalDelivery=has(jd,/(?:partner|work|collaborate).{0,80}\b(?:product|engineering|developer|technology|it)\b.{0,180}\b(?:requirements|backlog|prioriti(?:ze|zation)|implementation|integration|deployment|release|ship)\b|\b(?:requirements|backlog)\b.{0,180}\b(?:product|engineering|developer|technology|it)\b/);
   const dataSolution=has(jd,/(?:build|develop|own|implement|design|deliver).{0,100}(?:bi |business intelligence|analytics solution|data platform|dashboard|reporting solution)/);
   const coreWorkMode=coreTitle||systemsOwnership||implementationWork||requirementsToSolution||technicalDelivery||dataSolution;
 
