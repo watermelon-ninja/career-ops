@@ -1096,3 +1096,143 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://jobs.ashbyhq.com/snowflake/0f4d6a2f-f88c-4cdf-9994-bd138413301c | Snowflake | Director, Partner Development Manager
 - [ ] https://jobs.ashbyhq.com/snowflake/db36ee47-9e2a-4016-a02c-ef4747696518 | Snowflake | Principal Solutions Architect - AI/ML - Services Delivery
 - [ ] https://jobs.ashbyhq.com/socure/66f9e73e-1eb8-45a7-a47a-d2095c73c3b4 | Socure | Principal Product Operations Manager
+
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Senior-Business-Systems-Analyst_333509 | caci | Senior Business Systems Analyst
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Senior-Technical-Product-Manager--Sr-TPM---Learning-Intelligence_REQ-4596 | cambiumlearning | Senior Technical Product Manager (Sr TPM), Learning Intelligence
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Senior-Technical-Project-Manager_REQ-4562 | cambiumlearning | Senior Technical Project Manager
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Senior-Technical-Project-Manager--ITS---Authoring-Systems-_REQ-4565 | cambiumlearning | Senior Technical Project Manager (ITS & Authoring Systems)
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Technical-Product-Manager_REQ-4622 | cambiumlearning | Technical Product Manager
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Technical-Project-Manager-I_REQ-4558 | cambiumlearning | Technical Project Manager I
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/opportunities/job/Remote/Technical-Project-Manager--SQL_REQ-1928 | cambiumlearning | Technical Project Manager/ SQL
+- [ ] https://jobs.ashbyhq.com/supabase/68a397e7-8a1a-4566-ae41-e8c61dd6ed93 | Supabase | Product Manager - Strategic Partner Integrations (Bay Area based)
+- [ ] https://cableone.wd1.myworkdayjobs.com/cable_one_external_careers/job/Remote-USA/Service-Delivery-Fulfillment-Specialist-l_R-107231 | cableone | Service Delivery Fulfillment Specialist l
+- [ ] https://calibercollision.wd1.myworkdayjobs.com/caliber/job/Lewisville-TX/Technology-Product-Manager_R0225618 | calibercollision | Technology Product Manager
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/CHE-Remote-Location/Kubernetes-Platform-Architect_R026834 | broadcom | Kubernetes Platform Architect
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Austin---River-Place-B7/Memory-System-Designer-and-Place-and-Route-Engineer_R027237 | broadcom | Memory System Designer and Place and Route Engineer
+- [ ] https://bullhorn.wd1.myworkdayjobs.com/bullhorncareers/job/Remote---NOAM/Program-Manager--AI-Agent---Support-Automation_JR1522 | bullhorn | Program Manager, AI Agent & Support Automation
+- [ ] https://bullhorn.wd1.myworkdayjobs.com/bullhorncareers/job/Remote---NOAM/Project-Manager--SaaS-Implementations-_JR1500 | bullhorn | Project Manager (SaaS Implementations)
+- [ ] https://cableone.wd1.myworkdayjobs.com/cable_one_external_careers/job/Remote-USA/Product-Manager---Voice_R-106376 | cableone | Product Manager (UCaas and VOIP)
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/opportunities/job/Remote/Program-Manager_REQ-1926 | cambiumlearning | Program Manager
+- [ ] https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Product-Manager--Growth-Strategy_R2485 | campaignmonitor | Product Manager, Growth Strategy
+- [ ] https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915 | campbellsoup | Business Analyst (Co-op), DA&AI
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Houston-TX/Fulfillment-Operations-Manager---PULSE_R1003009-1 | capitalone | Fulfillment Operations Manager - PULSE
+- [ ] https://jobs.ashbyhq.com/stedi/65b38320-75df-4386-b5e5-25b411e7a6a4 | Stedi | Product Manager
+- [ ] https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50 | Supabase | Product Manager - Auth
+- [ ] https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622 | Supabase | Product Manager - Realtime
+- [ ] https://jobs.ashbyhq.com/swans/92cccf95-5548-44f5-8044-8b2d926b766a | Swans | Implementation Consultant (CRM, Automation, Data, AI)
+- [ ] https://jobs.ashbyhq.com/tailor/eecdce4d-f714-4989-9c7e-75d34df59560 | Tailor | Associate Forward-Deployed Product Manager
+- [ ] https://jobs.ashbyhq.com/talkiatry/5cc505aa-ef66-46f8-986c-a2422407bc9b | Talkiatry | Senior Data Product Manager
+- [ ] https://jobs.ashbyhq.com/talkiatry/32cf96b4-f615-40d2-9d15-cf33cafc296c | Talkiatry | Senior Program Manager, Clinical Hiring- Trainee Programming & Events
+- [ ] https://jobs.ashbyhq.com/talkiatry/766e2f57-9855-4ad6-9c93-c8302869e3a3 | Talkiatry | Staff Product Manager, Growth
+- [ ] https://jobs.ashbyhq.com/tango/894e2103-681a-4975-add6-a78555d4ba9f | Tango | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/tapcheck/b960636f-c340-4c47-af7d-8beb308877a9 | Tapcheck | Senior Product Manager
+- [ ] https://brookshires.wd108.myworkdayjobs.com/bgc/job/TylerTX---1600-WSW-Loop-323/Inventory-Control-Analyst_JR9439 | brookshires | Inventory Control Analyst
+- [ ] https://brookshires.wd108.myworkdayjobs.com/bgc/job/ForneyTX---427-Pinson-Road/Inventory-Specialist_JR9180-1 | brookshires | Inventory Specialist
+- [ ] https://browserstack.wd3.myworkdayjobs.com/external/job/San-Francisco-Bay-Remote/Enterprise-Account-Manager_JR103209 | browserstack | Enterprise Account Manager
+- [ ] https://cableone.wd1.myworkdayjobs.com/cable_one_external_careers/job/Remote-USA/Manager--Enterprise-Sales-Engineering_R-107272 | cableone | Manager, Enterprise Sales Engineering
+- [ ] https://cableone.wd1.myworkdayjobs.com/cable_one_external_careers/job/Longview-TX/Warehouse-Specialist_R-107299 | cableone | Warehouse Specialist
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Offensive-Security-Technical-Lead_331687 | caci | Offensive Security Technical Lead
+- [ ] https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Logistics-Management-Specialist-IV_124023 | cae | Logistics Management Specialist IV
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Senior-Business-Intelligence-Analyst_REQ-4644 | cambiumlearning | Senior Business Intelligence Analyst
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Senior-Product-Finance---Analytics-Manager_REQ-4624 | cambiumlearning | Senior Product Finance & Analytics Manager
+- [ ] https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Sr-Manager--HR-Technology_Req-68780 | campbellsoup | Sr Manager, HR Technology
+- [ ] https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Workday-Integration-Analyst_Req-68755 | campbellsoup | Workday Integration Analyst
+- [ ] https://canadiansolar.wd5.myworkdayjobs.com/canadiansolar/job/Mesquite-TX/Logistics-Specialist_10001132 | canadiansolar | Logistics Specialist
+- [ ] https://canadiansolar.wd5.myworkdayjobs.com/canadiansolar/job/Mesquite-TX/Logistics-Warehouse-Specialist_10001303-1 | canadiansolar | Logistics Warehouse Specialist
+- [ ] https://canadiansolar.wd5.myworkdayjobs.com/canadiansolar/job/Mesquite-TX/Order-Fulfillment-Specialist-II--Manufacturing-_10001491 | canadiansolar | Order Fulfillment Specialist II (Manufacturing)
+- [ ] https://canadiansolar.wd5.myworkdayjobs.com/canadiansolar/job/Mesquite-TX/Warehouse-Specialist_10001503 | canadiansolar | Warehouse Specialist
+- [ ] https://jobs.ashbyhq.com/stedi/ce38fac7-b2a1-4e40-b1f3-c1df7fbd6506 | Stedi | Enrollment Systems & Operations
+- [ ] https://jobs.ashbyhq.com/stedi/0f71daf2-0281-4827-b21e-33274db590a7 | Stedi | Revenue Systems & Operations Engineer
+- [ ] https://jobs.ashbyhq.com/stellic/f284a871-901c-431a-8651-cb21c484ceec | Stellic | Platform Lead
+- [ ] https://jobs.ashbyhq.com/stepful/167a5ee6-8a44-478e-8af4-32571932c757 | Stepful | Clinical Site Coordinator, Surgical Technology Program
+- [ ] https://jobs.ashbyhq.com/supabase/577bdf6d-f34b-4b9e-8d6b-b96776675c94 | Supabase | Partner Operations & Systems Lead
+- [ ] https://jobs.ashbyhq.com/supabase/f52fd120-5fbe-4e0d-949d-01e217ec77d6 | Supabase | Technical Account Management (TAM) Leader
+- [ ] https://jobs.ashbyhq.com/swans/770ebec9-ade2-4b3f-bf69-09152646d40c | Swans | Business Intelligence Analyst
+- [ ] https://jobs.ashbyhq.com/t1energy/7b22845e-d73b-44f2-843b-240fe1edde53 | T1 Energy | HR Systems & Integrations Analyst 
+- [ ] https://jobs.ashbyhq.com/talentful/f9112b64-12ae-43bb-8c1d-69f05c31079b | Talentful | Technical Recruitment Manager 
+- [ ] https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Coppell-TX/Project-Manager_R80979 | brinks | Project Manager
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Data-Engineer-5--Insights-Platform_R1003328-1 | capitalone | Data Engineer 5, Insights Platform
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Full-stack-Engineer-4--Go---Kubernetes---Cloud-Operations-Resilience-Engineering-_R1002300-1 | capitalone | Full-stack Engineer 4 (Go & Kubernetes) (Enterprise Platforms Technology)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-I----T1--2nd-Shift_R2630190 | Applied Materials | Manufacturing Technician I - (T1) 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2-_R2630191 | Applied Materials | Manufacturing Technician II - (T2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--2nd-Shift_R2630642 | Applied Materials | Manufacturing Technician II - (T2) 2nd Shift
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Agile-Leader_R027309 | broadcom | Agile Leader
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Consultant---Databases_R027098-1 | broadcom | Consultant - Databases
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Consultant---Datacom_R027097-2 | broadcom | Consultant - Datacom
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Austin---River-Place-B7/DFT-Engineer_R026349-1 | broadcom | DFT Engineer
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Cybersecurity-Software-Engineer--ICB-5-_R026564-4 | broadcom | Mainframe Software Engineer
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-Remote-Location/Marketing-Operations-Manager_R026976 | broadcom | Marketing Operations Manager
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/Malaysia-Jitra-Remote-Location/Quality-Support-1_R027373 | broadcom | Quality Support 1
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Plano-Legacy-Drive-Suite-700/R-D-Engineer-Software-3_R026875 | broadcom | R&D Engineer Software
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-DC-Remote-Location/Senior-Federal-Account-Manager_R027223 | broadcom | Senior Federal Account Manager
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Senior-Software-Engineer--ICB3-_R026584 | broadcom | Senior Software Engineer
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Software-Engineer--ICB-4-_R027155 | broadcom | Software Engineer (ICB 4)
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Solution-Architect--Broadcom-Software_R027113 | broadcom | Solution Architect, Broadcom Software
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Remote---National/Dining-Specialist--Associate---Velocity-Black-UK--Remote-_R1003524-1 | capitalone | Dining Specialist, Associate - Velocity Black UK (Remote)
+- [ ] https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Coppell-TX/Org-Design---Workforce-Planning-Lead--Integration-Management-Office_R78754 | brinks | Org Design & Workforce Planning Lead- Integration Management Office
+- [ ] https://brookshires.wd108.myworkdayjobs.com/bgc/job/TylerTX---1600-WSW-Loop-323/Business-Systems-Manager_JR7483 | brookshires | Business Systems Manager
+- [ ] https://bullhorn.wd1.myworkdayjobs.com/bullhorncareers/job/Remote---NOAM/Principal-IT-Security-Project-Manager_JR1498 | bullhorn | Principal IT Security Project Manager
+- [ ] https://cadence.wd1.myworkdayjobs.com/external_careers/job/AUSTIN/Principal-Program-Manager_R56637 | cadence | Principal Program Manager
+- [ ] https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/System-Architect_124015-1 | cae | System Architect
+- [ ] https://calibercollision.wd1.myworkdayjobs.com/caliber/job/Lewisville-TX/Manager--Workday-Financial-Systems_R0225877 | calibercollision | Manager, Workday Financial Systems
+- [ ] https://jobs.ashbyhq.com/steadily/50191019-226e-4274-915f-e9e2da68cfa3 | Steadily | Principal Product Manager
+- [ ] https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Remote---United-States---US/Clinical-Trial-Manager--Clinical-Operations_R1603022 | bristolmyerssquibb | Clinical Trial Manager Associate, Clinical Operations
+- [ ] https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Remote---United-States---US/Senior-Manager--Medical-Operations_R1607355-1 | bristolmyerssquibb | Senior Manager, Medical Operations
+- [ ] https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/Dallas-Texas/Market-Operations-Manager_R2052593-1 | brookfield | Market Operations Manager
+- [ ] https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Remote/Sr-Applications-Analyst_JR-110438 | brownhealth | Sr Applications Analyst
+- [ ] https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Remote/Sr-Applications-Analyst---Grand-Central---Prelude_JR-114800 | brownhealth | Sr Applications Analyst - Grand Central & Prelude
+- [ ] https://cableone.wd1.myworkdayjobs.com/cable_one_external_careers/job/Remote-USA/Senior-GIS-Data-Analyst_R-107443 | cableone | Senior GIS Data Analyst
+- [ ] https://calibercollision.wd1.myworkdayjobs.com/caliber/job/Austin-TX/Technician-Apprentice-Program---Body-Apprentice_R0223485 | calibercollision | Technician Apprentice Program - Body Apprentice
+- [ ] https://calix.wd1.myworkdayjobs.com/external/job/Remote---USA/Application-Sales-Manager--SmartHome---MO-KS_R-11916 | calix | Application Sales Manager, SmartHome - MO/KS
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/opportunities/job/Remote/Data-Analyst_REQ-1921 | cambiumlearning | Data Analyst
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Data-Analyst-I_REQ-4633 | cambiumlearning | Data Analyst I
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Digital-Marketing-Specialist--PPC-SEO-_REQ-4588 | cambiumlearning | Digital Marketing Specialist (PPC/SEO)
+- [ ] https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Lead-Database-Administrator_REQ-4603 | cambiumlearning | Lead Database Administrator
+- [ ] https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Data-Solutions-Architect_Req-67261-1 | campbellsoup | Data Solutions Architect
+- [ ] https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---TX---Paris/Tech-IV-Team-Lead-Ops---Sauce-B-Crew--Questionnaire-Due-Prior-to-Thurs-at-Noon-_Req-67233 | campbellsoup | Tech IV Team Lead Ops - Sauce B Crew
+- [ ] https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---TX---Paris/Tech-IV-Team-Lead-Ops---Sauce-D-Crew--Questionnaire-Due-Prior-to-Thursday-at-Noon-_Req-67149 | campbellsoup | Tech IV Team Lead Ops- Sauce D Crew
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Principal-Associate--Learning-Program-Manager_R1002647-1 | capitalone | Principal Associate, Learning Program Manager
+- [ ] https://jobs.ashbyhq.com/stedi/5373688e-89fd-4d2e-9d8d-c92321a8139f | Stedi | Senior Manager, Revenue Accoounting & Operations
+- [ ] https://jobs.ashbyhq.com/stellic/ebc73b73-09f5-4cc2-a851-6961200bb011 | Stellic | Lead Data Engineer
+- [ ] https://jobs.ashbyhq.com/stellic/354b6e76-bcf8-482d-9086-58b0e24ce01f | Stellic | Tech Lead, Explore
+- [ ] https://jobs.ashbyhq.com/stellic/f08b6cd8-38e3-4003-a538-918e7b4138d2 | Stellic | Tech Lead, Plan
+- [ ] https://jobs.ashbyhq.com/stellic/28266f39-9c7b-4460-972c-fd12c5ba2aef | Stellic | Tech Lead, Progress
+- [ ] https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22 | Supabase | Senior Data Analyst - Marketing
+- [ ] https://jobs.ashbyhq.com/talkiatry/6b12e135-b6f9-4aab-8f7c-9620cbe3f6e5 | Talkiatry | Senior Manager, Marketing Operations
+- [ ] https://jobs.ashbyhq.com/talkiatry/0e6880af-3bd1-430f-a0d1-9ee1e4ba0751 | Talkiatry | Senior Product Data Scientist
+- [ ] https://jobs.ashbyhq.com/tapcheck/df009dfa-46c3-4f30-bc1f-282761433ecd | Tapcheck | Digital Customer Success Manager
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Frisco-TX/Caf-Ambassador---Stonebriar-Centre_R1003257 | capitalone | Café Ambassador - Stonebriar Centre
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Dealer-Lien-Perfection-Sr-Coordinator--Hybrid-_R1000560-2 | capitalone | Dealer Lien Perfection Sr. Coordinator (Hybrid)
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Katy-TX/Full-Time-Branch-Ambassador---Cinco-Ranch_R1002700-1 | capitalone | Full Time Branch Ambassador - Cinco Ranch
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Tyler-TX/Full-Time-Branch-Ambassador---Tyler_R1003064-2 | capitalone | Full Time Branch Ambassador - Tyler
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Full-stack-Engineer-4_R1003192-1 | capitalone | Full-stack Engineer 4
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Full-Stack-Engineer-4--Java--Kafka--AWS-_R1003137 | capitalone | Full-Stack Engineer 4 (Java, Kafka, AWS)
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Full-Stack-Engineer-4--Java--Python--AWS-_R1002799-1 | capitalone | Full-Stack Engineer 4 (Java, Python, AWS)
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Full-stack-Engineer-4--Java--Python--JavaScript-_R1002992-1 | capitalone | Full-stack Engineer 4 (Java, Python, JavaScript)
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Full-stack-Engineer-4--Java--TypeScript--AWS-_R1003281-1 | capitalone | Full-stack Engineer 4 (Java, TypeScript, AWS)
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Full-Stack-Engineer-5_R1001713-1 | capitalone | Full-Stack Engineer 5
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Inside-Sales-Representative--Business-Cards---Payments--Hybrid---Plano--Tx_R1003059-1 | capitalone | Inside Sales Representative, Business Cards & Payments (Hybrid), Plano, Tx
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Houston-TX/Lead-Account-Executive--PULSE_R1003139-1 | capitalone | Lead Account Executive- PULSE
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Manager--Counsel---Financial-Services--Hybrid-_R1003656-2 | capitalone | Manager, Counsel - Financial Services (Hybrid)
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Manager--Project-Management_R1003227-1 | capitalone | Manager, Project Management
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Senior-Associate--Loan-Documentation---Closing-Specialist_R1001526-1 | capitalone | Senior Associate, Loan Documentation & Closing Specialist
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Senior-Data-Analyst--Financial-Services-_R1003453-1 | capitalone | Senior Data Analyst (Financial Services)
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Senior-Manager--Full-stack-Engineer--Java--Golang--AWS-_R1003571 | capitalone | Senior Manager, Full-stack Engineer (Java, Golang, AWS)
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Sr-Associate--Product-Management---Auto_R1003188-1 | capitalone | Sr. Associate, Product Management - Auto
+- [ ] https://jobs.ashbyhq.com/stepful/e9fe0edf-1c32-4443-9cb7-b9c07f0b0f4a | Stepful | Program Director, Radiologic Technology
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Account-Director--Broadcom-Software_R027262 | broadcom | Account Director, Broadcom Software
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/CAN-Ontario-Remote-Location/Account-Director--Brocade-Storage-Networking_R027154 | broadcom | Account Director, Brocade Storage Networking
+- [ ] https://broadridge.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Production-Associate-Technician_JR1086536 | broadridge | Production Associate Technician
+- [ ] https://broadridge.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Production-Equipment-Technician---Onsite_JR1086530 | broadridge | Production Equipment Technician - Onsite
+- [ ] https://broadridge.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Production-Operations-Manager----On-Site-_JR1078193 | broadridge | Production Operations Manager - (On-Site)
+- [ ] https://brookshires.wd108.myworkdayjobs.com/bgc/job/RangerTX---300-TX-254-Loop/Operations-Manager_JR9310 | brookshires | Operations Manager
+- [ ] https://bwcterminals.wd12.myworkdayjobs.com/bwc/job/Houston-TX/Procurement-Specialist_R1995 | bwcterminals | Procurement Specialist
+- [ ] https://calibercollision.wd1.myworkdayjobs.com/caliber/job/Lewisville-TX/Process-Engineer_R0224685 | calibercollision | Process Engineer / Operations Specialist
+- [ ] https://canadiansolar.wd5.myworkdayjobs.com/canadiansolar/job/Mesquite-TX/Procurement-Data-Analyst_10001246 | canadiansolar | Procurement Data Analyst
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Director--Product-Management_R247519 | capitalone | Director, Product Management
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Director--Research---User-Intelligence--Auto-Finance_R1003195-1 | capitalone | Director, Research & User Intelligence, Auto Finance
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Principal-Associate--HR-Business-Partner---Financial-Services-Emerging-Talent_R1003218-1 | capitalone | Principal Associate, HR Business Partner - Financial Services Emerging Talent
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Principal-Process-Manager--Auto-_R1003409-1 | capitalone | Principal Process Manager (Auto)
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Principal-Risk-Specialist--Auto---Data-Risk-_R1002946-1 | capitalone | Principal Risk Specialist (Auto - Data Risk)
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Senior-Director-Software-Engineering---CTO_R1003160-1 | capitalone | Senior Director Software Engineering - CTO
+- [ ] https://jobs.ashbyhq.com/talkiatry/f13dbc0c-63b4-4e75-bf24-91f0c87ce3e5 | Talkiatry | General Manager/Director of Clinical Operations, Psychiatry  
