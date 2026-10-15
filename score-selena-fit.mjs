@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import {readFileSync,writeFileSync} from 'node:fs';
+import {readFileSync,writeFileSync,existsSync,appendFileSync} from 'node:fs';
 const rows=readFileSync('data/latest-jd-read-results.jsonl','utf8').trim().split('\n').filter(Boolean).map(JSON.parse);
 const profile=JSON.parse(readFileSync('data/selena-fit-profile.json','utf8'));
 const n=s=>String(s||'').toLowerCase();
@@ -66,6 +66,13 @@ function fit(j){
 const eligible=rows.filter(x=>x.fit_scoring_eligible&&x.full_jd_verified&&x.jd_text);
 const out=eligible.map(fit).sort((a,b)=>b.selena_fit_score-a.selena_fit_score);
 writeFileSync('data/latest-selena-fit-results.jsonl',out.map(JSON.stringify).join('\n')+(out.length?'\n':''));
+const processedPath='data/processed-jobs.jsonl';
+const existing=new Set();
+if(existsSync(processedPath)){for(const line of readFileSync(processedPath,'utf8').split('\n').filter(Boolean)){try{const x=JSON.parse(line);if(x.job_key)existing.add(x.job_key);}catch{}}}
+const key=j=>{const company=String(j.company||'').trim().toLowerCase().replace(/[^a-z0-9]+/g,'');const id=String(j.job_id||j.requisition_id||j.id||'').trim().toLowerCase();return id?company+'::id::'+id:company+'::role::'+String(j.title||'').trim().toLowerCase().replace(/\s+/g,' ')+'::'+String(j.location||'').trim().toLowerCase().replace(/\s+/g,' ');};
+const stamp=new Date().toISOString();
+const fresh=out.map(j=>({job_key:key(j),company:j.company,title:j.title,location:j.location,url:j.url,processed_at:stamp,outcome:'fit_scored',selena_fit_score:j.selena_fit_score,selena_fit_band:j.selena_fit_band,requirement_gap:j.requirement_gap})).filter(x=>!existing.has(x.job_key));
+if(fresh.length)appendFileSync(processedPath,fresh.map(JSON.stringify).join('\n')+'\n');
 const summary={generated_at:new Date().toISOString(),profile_version:profile.profile_version,eligible:eligible.length,scored:out.length,strong_apply:out.filter(x=>x.selena_fit_score>=9).length,high_review:out.filter(x=>x.selena_fit_score>=8&&x.selena_fit_score<9).length,possible:out.filter(x=>x.selena_fit_score>=7&&x.selena_fit_score<8).length,low:out.filter(x=>x.selena_fit_score<7).length,major_or_disqualifying_gap:out.filter(x=>['major','disqualifying'].includes(x.requirement_gap)).length};
 writeFileSync('data/latest-selena-fit-summary.json',JSON.stringify(summary,null,2)+'\n');
 console.log(JSON.stringify(summary));
