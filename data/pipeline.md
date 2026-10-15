@@ -2249,3 +2249,171 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://job-boards.greenhouse.io/archer56/jobs/7741890003 | Archer | Certification Applications Analyst
 - [ ] https://job-boards.greenhouse.io/appnovation/jobs/8783975002 | Appnovation Technologies |  Principal Technical Architect 
 - [ ] https://job-boards.greenhouse.io/appodeal/jobs/5147143008 | Appodeal | Independent Board Director (ML-Driven Product & Data Platform Leader)
+
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Lead-Technical-Program-Manager--ADM--Burnet--TX-_REQ-14877 | entegris | Lead Technical Program Manager, ADM (Burnet, TX)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Remote-TX/Lead-Technical-Program-Manager--ADM--Remote-_REQ-14878 | entegris | Lead Technical Program Manager, ADM (Remote)
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/EMS-Systems-Analyst-Sr_R2300-1 | ercot | EMS Systems Analyst Sr
+- [ ] https://job-boards.greenhouse.io/assetwatch/jobs/4734571005 | AssetWatch, Inc. | Salesforce Business Systems Analyst
+- [ ] https://ast-science.com/company/careers/?gh_jid=4684880005 | AST SpaceMobile | Product Manager – Spacecraft Systems (LEO Satellites)
+- [ ] https://ast-science.com/company/careers/?gh_jid=4562869005 | AST SpaceMobile | Technical Project Manager
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/ERP-Analysis-Sr_R2366-1 | ercot | Sr Workday Systems Analyst
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Manager-Sr-Manager---Grid-Implementation_R2440-1 | ercot | Manager/Sr Manager Grid Implementation
+- [ ] https://ast-science.com/company/careers/?gh_jid=4709318005 | AST SpaceMobile | Production Control Inventory Supervisor
+- [ ] https://ast-science.com/company/careers/?gh_jid=4709348005 | AST SpaceMobile | Senior Inventory Manager
+- [ ] https://ast-science.com/company/careers/?gh_jid=4711282005 | AST SpaceMobile | Warehouse Training Manager
+- [ ] https://boards.greenhouse.io/ardentmc/jobs/6980098?gh_jid=6980098 | Ardent | GIS Project Manager
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5818115004 | Arize AI | Senior AI Product Manager, Observability
+- [ ] https://job-boards.greenhouse.io/arlosolutionsllc/jobs/5241604007 | Arlo Solutions LLC | (737) Program Manager
+- [ ] https://job-boards.greenhouse.io/armada/jobs/5372132008 | Armada | Senior Product Manager, Federal
+- [ ] https://boards.greenhouse.io/array/jobs/4713067004?gh_jid=4713067004 | Array | Senior Product Manager 
+- [ ] https://www.asana.com/jobs/apply/8250135?gh_jid=8250135 | Asana | Enterprise Account Executive, Federal Civilian
+- [ ] https://www.asana.com/jobs/apply/8054355?gh_jid=8054355 | Asana | Strategic Enterprise Account Executive, Amazon
+- [ ] https://job-boards.greenhouse.io/atariinc/jobs/5419286008 | Atari, Inc. | Business Operations Product Manager
+- [ ] https://job-boards.greenhouse.io/atwellgroup/jobs/5121827007 | Atwell, LLC | Associate Project Manager - Land Development
+- [ ] https://job-boards.greenhouse.io/atwellgroup/jobs/5259506007 | Atwell, LLC | Associate Project Manager, Civil Engineering 
+- [ ] https://job-boards.greenhouse.io/atwellgroup/jobs/5111597007 | Atwell, LLC | Project Manager - Land Development
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Senior-Engineer--Control-Systems_REQ-14974 | entegris | Senior Engineer, Control Systems
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Manager-Large-Load-Planning_R2369-1 | ercot | Manager Large Load Planning
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/NERC-RC-System-Operator_R2501-1 | ercot | NERC RC System Operator
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Power-Systems-Modeling-Engineer_R2400-1 | ercot | Power Systems Modeling Engineer Sr
+- [ ] https://erm.wd3.myworkdayjobs.com/erm_experiencedprofessionals/job/Houston-Texas/Managing-Consultant--EHS-Compliance-Project-Manager_R00032342-2 | erm | Managing Consultant, EHS Compliance Project Manager
+- [ ] https://erm.wd3.myworkdayjobs.com/erm_experiencedprofessionals/job/Houston-Texas/Managing-Consultant--Environmental-Permitting-Project-Manager_R00032310 | erm | Managing Consultant, Environmental Permitting Project Manager
+- [ ] https://erm.wd3.myworkdayjobs.com/erm_experiencedprofessionals/job/Austin-Texas/Managing-Consultant--Scientist--Project-Manager-_R00032292-1 | erm | Managing Consultant, Scientist (Project Manager)
+- [ ] https://esab.wd5.myworkdayjobs.com/esabcareers/job/Denton-Texas-USA/Project-Manager--AMI_R0026019 | esab | Project Manager, AMI
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Project-Manager_R2293 | ercot | Project Manager
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Project-Manager-Sr_R2292 | ercot | Project Manager Sr
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Project-Manager-Sr_R2294 | ercot | Project Manager Sr.
+- [ ] https://boards.greenhouse.io/ardentmc/jobs/6980154?gh_jid=6980154 | Ardent | GIS Systems Architect
+- [ ] https://boards.greenhouse.io/ardentmc/jobs/8027085?gh_jid=8027085 | Ardent | Senior System Architect
+- [ ] https://ast-science.com/company/careers/?gh_jid=4715299005 | AST SpaceMobile | Partner Technical Lead - Japan
+- [ ] https://job-boards.greenhouse.io/atariinc/jobs/5399482008 | Atari, Inc. | Analytics Manager, Commercialization
+- [ ] https://job-boards.greenhouse.io/atlassand/jobs/8728092002 | Atlas Energy Solutions | Warehouse Manager
+- [ ] https://job-boards.greenhouse.io/atoms/jobs/8864964002 | Atoms | Enterprise Kitchen Onboarding Manager
+- [ ] https://job-boards.greenhouse.io/attainpartners/jobs/5444922008 | Attain Partners | Senior Consultant - ERP Finance
+- [ ] https://job-boards.greenhouse.io/attainpartners/jobs/5450165008 | Attain Partners | Technical Delivery Manager
+- [ ] https://job-boards.greenhouse.io/attainpartners/jobs/5449007008 | Attain Partners | Technology Services Technical Lead
+- [ ] https://job-boards.greenhouse.io/attainpartners/jobs/5434675008 | Attain Partners | Workday Integration Lead
+- [ ] https://job-boards.greenhouse.io/attaintalent/jobs/5438024008 | Attain Talent | Platform Architect – Data Focused
+- [ ] https://erm.wd3.myworkdayjobs.com/erm_experiencedprofessionals/job/Houston-Texas/Managing-Technical-Consultant--Remediation-Construction-and-Demolition-Manager_R00032346 | erm | Managing Technical Consultant, Remediation Construction and Demolition Manager
+- [ ] https://erpa.wd12.myworkdayjobs.com/erpa/job/USA-National-Remote/Workday-Integrations-Architect--Extend-Certification-Required-_R970 | erpa | Workday Integrations Architect (Extend Certification Required)
+- [ ] https://exactcare.wd1.myworkdayjobs.com/anewhealth_career_site/job/TX---Lewisville/Inventory-Specialist--8-00AM---4-30PM-ET-_R-108960 | exactcare | Inventory Specialist (8:00AM - 4:30PM ET)
+- [ ] https://exactcare.wd1.myworkdayjobs.com/anewhealth_career_site/job/OH---Remote/Lead--Enterprise-Application-Support_R-108969-1 | exactcare | Lead, Enterprise Application Support
+- [ ] https://faithtechnologies.wd1.myworkdayjobs.com/fti_manufacturing/job/TX---El-Paso/Inventory-Specialist_R12405-1 | faithtechnologies | Inventory Specialist
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Compliance-Analyst-Sr---Operations-and-Planning_R2376 | ercot | Compliance Analyst Sr - Operations and Planning
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Planning-Engineer--multiple-levels-_R2492-1 | ercot | Planning Engineer (multiple levels)
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Planning-Engineer-Lead_R2409-1 | ercot | Planning Engineer Lead
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Planning-Engineer-Lead_R2323-1 | ercot | Planning Engineer Lead - Dynamic Studies
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Planning-Engineer-Sr_R2412-1 | ercot | Planning Engineer Sr
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Power-Systems-Engineer-3---Grid-Analysis_R2426 | ercot | Power Systems Engineer 3 - Grid Analysis
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Power-Systems-Engineer-Sr---Grid-Analysis_R2228-1 | ercot | Power Systems Engineer Sr - Grid Analysis
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Senior-Systems-Reliability-Engineer_R2378-2 | ercot | Senior Systems Reliability Engineer
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Supervisor-Regional-Planning_R2408-1 | ercot | Supervisor Regional Planning
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Supervisor--Dynamic-Studies---System-Planning_R2490-2 | ercot | Supervisor, Dynamic Studies – System Planning
+- [ ] https://exos.wd501.myworkdayjobs.com/exoscareers/job/Houston-TX/Fitness-Program-Manager_26-1714 | exos | Fitness Program Manager
+- [ ] https://faithtechnologies.wd1.myworkdayjobs.com/fti_office/job/TX---El-Paso/Assistant-Electrical-Project-Manager_R7534-1 | faithtechnologies | Assistant Electrical Project Manager
+- [ ] https://faithtechnologies.wd1.myworkdayjobs.com/fti_engineering/job/TX---Fort-Stockton/EPC-Project-Manager_R12334-3 | faithtechnologies | EPC Project Manager
+- [ ] https://faithtechnologies.wd1.myworkdayjobs.com/fti_engineering/job/TX---Fort-Stockton/Senior-EPC-Project-Manager_R12333-1 | faithtechnologies | Senior EPC Project Manager
+- [ ] https://faithtechnologies.wd1.myworkdayjobs.com/fti_manufacturing/job/TX---El-Paso/Senior-Project-Manager_R11367-1 | faithtechnologies | Senior Project Manager
+- [ ] https://www.asana.com/jobs/apply/8161860?gh_jid=8161860 | Asana | Channel Account Executive, LATAM 
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Chemistry-Technician-III--2nd-Shift-_REQ-14646 | entegris | Chemistry Technician III (2nd Shift)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Engineer-Technician-II_REQ-14201 | entegris | Engineer Technician II
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Engineer-Technician-II---Nights_REQ-14142 | entegris | Engineer Technician II - Nights
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Engineer-Technician-II--CWW-Nights-_REQ-14202 | entegris | Engineer Technician II (CWW Nights)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Lead--Manufacturing-Engineering_REQ-11211 | entegris | Lead, Manufacturing Engineering (Distillation Engineer)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Manufacturing-Technician-II_REQ-14233 | entegris | Manufacturing Technician II
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Manufacturing-Technician-II--All-Shifts-_REQ-14185 | entegris | Manufacturing Technician II (All Shifts)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Manufacturing-Technician-II--Day-Shift-_REQ-14182 | entegris | Manufacturing Technician II (Day Shift)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Scientist-II--Production-Analytical-Chemist--1st-Shift-_REQ-14714 | entegris | Scientist II, Analytical Chemist (1st Shift)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Analytical-Chemist--2nd-Shift_REQ-12742 | entegris | Scientist II, Analytical Chemist (2nd Shift)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Scientist-II--Chemistry_REQ-12000 | entegris | Scientist II, Production Analytical Chemist (2nd Shift)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Senior-Engineer--Continuous-Improvement_REQ-13869 | entegris | Senior Engineer, Continuous Improvement
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Senior-Engineer--Facilities---Utilities_REQ-13738 | entegris | Senior Engineer, Facilities & Utilities
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Austin-TX/Senior-Mechanical-Engineer--Burnet--TX-_REQ-14522 | entegris | Senior Manufacturing Engineer (Burnet, TX)
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Principal--Grid-Interconnection_R2333-1 | ercot | Advisor - Grid Interconnection
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Applications-Developer-Sr_R2267-1 | ercot | EMS Applications Developer Sr.
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Applications-Developer---RIOO_R2338-1 | ercot | GMS Applications Developer - RIOO
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Grid-Applications-Developer_R2334-1 | ercot | Grid Applications Developer Sr
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Legal-Corporate-Counsel---Regulatory---Corporate-Counsel-Senior---Regulatory_R2371-1 | ercot | Legal Corporate Counsel - Regulatory / Corporate Counsel Senior - Regulatory
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Market-Operations-Engineer--Hybrid-_R2454-1 | ercot | Market Operations Engineer (Hybrid)
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Application-Engineer_R1983-1 | ercot | MMS Applications Engineer
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Resource-Forecasting---Analysis-Engineer_R2367-1 | ercot | Resource Forecasting & Analysis Engineer
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Senior-Regulatory-Counsel-or-Assistant-General-Counsel_R2506-1 | ercot | Senior Regulatory Counsel or Assistant General Counsel
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Sr-Manager---State-Policy-and-PUC-Relations_R2384-2 | ercot | Sr Manager - State Policy and PUC Relations
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Supervisor---Large-Generation-Interconnections_R2402-1 | ercot | Supervisor - Large Generation Interconnections
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Supervisor---Qualifying-Stability-Assessment_R2505-1 | ercot | Supervisor - Qualifying Stability Assessment
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Supervisor---Engineering--Large-Load-Batch-Studies-_R2382-1 | ercot | Supervisor Power Engineering - Large Load Batch Studies
+- [ ] https://job-boards.greenhouse.io/atlassand/jobs/8842405002 | Atlas Energy Solutions | Technical Maintenance Manager
+- [ ] https://job-boards.greenhouse.io/atlassand/jobs/8576553002 | Atlas Energy Solutions | Technical Training Lead – Power Generation
+- [ ] https://evonik.wd3.myworkdayjobs.com/external_careers/job/Pasadena-TX/Technical-Hub-Manager_R51497 | evonik | Technical Hub Manager
+- [ ] https://evonik.wd3.myworkdayjobs.com/external_careers/job/Spring-TX/Technical-Marketing-Manager-and-Regional-Head-HPC_R51371 | evonik | Technical Marketing Manager and Regional Head HPC
+- [ ] https://fanniemae.wd1.myworkdayjobs.com/fanniemaecareers/job/Plano-TX/Business-Intelligence---AI-Solutions-Analyst--Single-Family_JR2908 | fanniemae | Business Intelligence & AI Solutions Analyst- Single Family
+- [ ] https://fanniemae.wd1.myworkdayjobs.com/fanniemaecareers/job/Plano-TX/Lead-Business-Intelligence---AI-Solutions-Analyst---Single-Family_JR2952-1 | fanniemae | Lead Business Intelligence & AI Solutions Analyst – Single Family
+- [ ] https://job-boards.greenhouse.io/arlosolutionsllc/jobs/5256536007 | Arlo Solutions LLC | (765) Data Analyst (Healthcare Fraud)
+- [ ] https://job-boards.greenhouse.io/armada/jobs/5394646008 | Armada | Data Center Project Architect
+- [ ] https://job-boards.greenhouse.io/armada/jobs/5406390008 | Armada | Lead Data Center NOC Engineer
+- [ ] https://job-boards.greenhouse.io/armada/jobs/5427922008 | Armada | Senior Events Operations Manager 
+- [ ] https://job-boards.greenhouse.io/armada/jobs/5438347008 | Armada | Senior Sales Strategy & Operations Manager
+- [ ] https://boards.greenhouse.io/array/jobs/5777163004?gh_jid=5777163004 | Array | Channel Manager, Digital Banking Partners
+- [ ] https://boards.greenhouse.io/array/jobs/6210668004?gh_jid=6210668004 | Array | Digital Marketing Manager
+- [ ] https://boards.greenhouse.io/array/jobs/5154821004?gh_jid=5154821004 | Array | Senior Data Analyst
+- [ ] https://ast-science.com/company/careers/?gh_jid=4670176005 | AST SpaceMobile | Electronics Soldering Technician / PCBA Rework Specialist
+- [ ] https://ast-science.com/company/careers/?gh_jid=4718910005 | AST SpaceMobile | IT Asset Manager
+- [ ] https://ast-science.com/company/careers/?gh_jid=4661139005 | AST SpaceMobile | Launch Operations Mechanical Engineer Lead 
+- [ ] https://ast-science.com/company/careers/?gh_jid=4671136005 | AST SpaceMobile | Lead Spacecraft Mechanisms Engineering Technician
+- [ ] https://ast-science.com/company/careers/?gh_jid=4687456005 | AST SpaceMobile | Structural Technician Lead, 1st Shift, Site 2
+- [ ] https://job-boards.greenhouse.io/atlassand/jobs/8730678002 | Atlas Energy Solutions | IT SOX Manager
+- [ ] https://job-boards.greenhouse.io/atlassand/jobs/8476332002 | Atlas Energy Solutions | Operations Center Technician
+- [ ] https://job-boards.greenhouse.io/atoms/jobs/8828005002 | Atoms | Procurement Manager
+- [ ] https://job-boards.greenhouse.io/attainpartners/jobs/5405666008 | Attain Partners | Data Governance, Senior Manager
+- [ ] https://job-boards.greenhouse.io/attainpartners/jobs/5434673008 | Attain Partners | Workday Financials Data Conversion Lead
+- [ ] https://job-boards.greenhouse.io/auctane/jobs/7994354003 | Auctane  | Senior Data Analyst
+- [ ] https://erm.wd3.myworkdayjobs.com/erm_experiencedprofessionals/job/Houston-Texas/Managing-Consultant--Safe-and-Sustainable-Operations_R00032344 | erm | Managing Consultant, Safe and Sustainable Operations
+- [ ] https://erpa.wd12.myworkdayjobs.com/erpa/job/USA-National-Remote/Workday-HCM-Data-Conversion-Senior-Consultant_R1037 | erpa | Workday HCM Data Conversion Senior Consultant
+- [ ] https://exactcare.wd1.myworkdayjobs.com/anewhealth_career_site/job/OH---Remote/Pharmacy-Technician-Lead_R-109084 | exactcare | Pharmacy Technician Lead
+- [ ] https://exactcare.wd1.myworkdayjobs.com/anewhealth_career_site/job/NJ---Remote/Pharmacy-Technician--Call-Center-Operations-Trainer_R-108921-1 | exactcare | Pharmacy Technician, Call Center Operations Trainer
+- [ ] https://job-boards.greenhouse.io/attaintalent/jobs/5419986008 | Attain Talent | Director, Business Systems & Solution Architecture (D365 F&O)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Lead--Business-Development_REQ-12007-1 | entegris | Lead, Business Development
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Lead--Continuous-Improvement_REQ-14337 | entegris | Lead, Continuous Improvement
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Machine-Maintenance-Support_REQ-13844 | entegris | Machine Maintenance Support
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Machinist-I_REQ-13522 | entegris | Machinist I
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Machinist-II_REQ-13595 | entegris | Machinist II (1st Shift)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Machinist-III_REQ-14315 | entegris | Machinist III
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Maintaince-Technician_REQ-13418 | entegris | Maintenance Technician
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Maintenance-Technician-III_REQ-9400 | entegris | Maintenance Technician II (All Shifts)
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Maintenance-Technician-III--Days-6-am-to-2-30-pm--Mon-Fri_REQ-13133 | entegris | Maintenance Technician III, Days/6 am to 2:30 pm, Mon-Fri
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Process-Engineer-II_REQ-14324 | entegris | Manufacturing Engineer II - Special Processing
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Manufacturing-Technician-I_REQ-15351 | entegris | Manufacturing Technician I
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Material-Handling-I--Receiving_REQ-14754 | entegris | Material Handling I, Receiving
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Material-Handling-I--Reclamation_REQ-15108 | entegris | Material Handling I, Reclamation
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Scientist-II--Materials_REQ-14629 | entegris | Scientist II, Materials
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Senior-Specialist--Applications--EDM_REQ-13599 | entegris | Senior Specialist, Applications, EDM
+- [ ] https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/Sr-Research-Scientist_REQ-12472 | entegris | Sr. Research Scientist (Graphite/SiC)
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Armed-Physical-Security-Officer---Night-Shift_R2332-1 | ercot | Armed Physical Security Officer - Day Shift
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Client-Services-Account-Manager_R2283-1 | ercot | Client Services Account Manager
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Engineer---Dynamic-Studies--Large-Load-Batch-Interconnection_R2515-1 | ercot | Engineer – Dynamic Studies, Large Load Batch Interconnection
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Generation-Interconnection-Engineer_R2491-1 | ercot | Generation Interconnection Engineer
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Grid-Interconnections-Support-Engineer-2_R2517-1 | ercot | Grid Interconnections Engineer 2
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Generation-Interconnection-Engineer-3_R2375-1 | ercot | Grid Interconnections Engineer 3
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Manager---Engineering---Batch-Stability-Studies_R2344 | ercot | Manager - Engineering - Batch Stability Studies
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Manager---IAM-Solution-Delivery_R2396-1 | ercot | Manager - IAM Solution Delivery
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Manager---IT-Solutions-Architecture_R2509-1 | ercot | Manager - IT Solutions Architecture
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Manager---Release-Engineering-Services_R2407 | ercot | Manager - Release Engineering Services
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Market-Credit-Analyst_R2487 | ercot | Market Credit Analyst
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Operations-Engineer-Lead_R2481-1 | ercot | Operations Engineer Lead
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Operations-Engineer-Sr---Event-Analysis_R2466-1 | ercot | Operations Engineer Sr - Event Analysis
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Planning-Engineer-SR---Operations-Stability_R2096-1 | ercot | Operations Stability Engineer Senior
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Release-Analyst---CI-CD_R2201-1 | ercot | Release Train Engineer
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Senior-Application-Architect_R2510-1 | ercot | Senior Application Architect
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Senior-Cyber-Security-Analyst_R2499-1 | ercot | Senior Cyber Security Analyst
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Senior-SharePoint-Architect-Developer_R2337-2 | ercot | Senior SharePoint Architect/Developer
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Settlements-Analyst_R2480-1 | ercot | Settlements Analyst
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Supervisor---Dynamic-Model-Support_R2504-1 | ercot | Supervisor - Dynamic Model Support
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Supervisor---Economic-Analysis---Long-Term-Studies_R2464-2 | ercot | Supervisor - Economic Analysis & Long-Term Studies
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Supervisor---Engineering---Model-Maintenance_R2467-1 | ercot | Supervisor - Engineering - Model Maintenance
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Support---Site-Technician_R2403 | ercot | Support - Site Technician
+- [ ] https://job-boards.greenhouse.io/assetliving/jobs/6201122004 | Asset Living | Security Engineering and Operations Manager
+- [ ] https://job-boards.greenhouse.io/atoms/jobs/8886408002 | Atoms | Senior Operations Manager
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Director---Data-Products---AI-Strategy_R2424-1 | ercot | Director - Data Products & AI Strategy
+- [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Principal-Commercial-Operations_R2219-1 | ercot | Principal Commercial Operations
+- [ ] https://evonik.wd3.myworkdayjobs.com/external_careers/job/Houston-TX/Procurement-Business-Partner-Manager_R50911-1 | evonik | Procurement Business Partner Manager
+- [ ] https://exeterfinance.wd1.myworkdayjobs.com/external/job/Irving-TX/Data-Operations-Administrator-III_R5095 | exeterfinance | Data Operations Administrator III
