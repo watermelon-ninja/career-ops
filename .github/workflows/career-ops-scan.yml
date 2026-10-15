@@ -36,6 +36,8 @@ jobs:
           node --check fetch-jd-batch.mjs
           node --check score-selena-fit.mjs
           node --check plan-jd-batches.mjs
+      - name: Start run session
+        run: rm -f data/current-run-jobs.jsonl
       - name: Run Career-Ops scanner
         shell: bash
         run: |
