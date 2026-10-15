@@ -27,6 +27,7 @@ function fit(j){
   if(has(jd,/\binfor\b|kinaxis|\bsap\b|\bwms\b|\berp\b/))tech+=0.7;
   if(has(jd,/databricks|\bsql\b|power bi|analytics|business intelligence/))tech+=0.4;
   if(has(jd,/integration|api|enterprise application|saas/))tech+=0.4;
+  if(has(text,/business systems|enterprise systems|systems integration|system implementation/) && tech<0.8)tech+=0.4;
   dims.skills_technology=cap(tech,1.5);
 
   let senior=1.3;
@@ -43,7 +44,8 @@ function fit(j){
     (has(title,/construction/)&&has(title,/project manager/)) ||
     (has(title,/clinical/)&&has(title,/project manager/)) ||
     (has(title,/hardware engineering|power engineer/)) ||
-    has(title,/software engineer|sales executive|account executive/);
+    has(title,/software engineer|sales executive|account executive/) ||
+    (has(title,/land development|tenant improvement|mechanical/) && has(title,/project manager/));
   if(occupationMismatch)gaps.push('occupation_mismatch');
 
   if(has(jd,/registered nurse|medical license|clinical licensure|professional engineer license|licensed architect/))gaps.push('specialized_credential_gap');
