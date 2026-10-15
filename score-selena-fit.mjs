@@ -69,14 +69,19 @@ const eligible=rows.filter(x=>x.fit_scoring_eligible&&x.full_jd_verified&&x.jd_t
 const out=eligible.map(fit).sort((a,b)=>b.selena_fit_score-a.selena_fit_score);
 writeFileSync('data/latest-selena-fit-results.jsonl',out.map(JSON.stringify).join('\n')+(out.length?'\n':''));
 const processedPath='data/processed-jobs.jsonl';
+const runSessionPath='data/current-run-jobs.jsonl';
 const existing=new Set();
 if(existsSync(processedPath)){for(const line of readFileSync(processedPath,'utf8').split('\n').filter(Boolean)){try{const x=JSON.parse(line);if(x.job_key)existing.add(x.job_key);}catch{}}}
 const key=j=>{const company=String(j.company||'').trim().toLowerCase().replace(/[^a-z0-9]+/g,'');const id=String(j.job_id||j.requisition_id||j.id||'').trim().toLowerCase();return id?company+'::id::'+id:company+'::role::'+String(j.title||'').trim().toLowerCase().replace(/\s+/g,' ')+'::'+String(j.location||'').trim().toLowerCase().replace(/\s+/g,' ');};
 const stamp=new Date().toISOString();
 const fresh=out.map(j=>({job_key:key(j),company:j.company,title:j.title,location:j.location,url:j.url,processed_at:stamp,outcome:'fit_scored',selena_fit_score:j.selena_fit_score,selena_fit_band:j.selena_fit_band,requirement_gap:j.requirement_gap})).filter(x=>!existing.has(x.job_key));
-if(fresh.length)appendFileSync(processedPath,fresh.map(JSON.stringify).join('\n')+'\n');
-const freshKeys=new Set(fresh.map(x=>x.job_key));
-const freshOut=out.filter(j=>freshKeys.has(key(j)));
+if(fresh.length){
+  appendFileSync(processedPath,fresh.map(JSON.stringify).join('\n')+'\n');
+  appendFileSync(runSessionPath,fresh.map(JSON.stringify).join('\n')+'\n');
+}
+const runKeys=new Set();
+if(existsSync(runSessionPath)){for(const line of readFileSync(runSessionPath,'utf8').split('\n').filter(Boolean)){try{const x=JSON.parse(line);if(x.job_key)runKeys.add(x.job_key);}catch{}}}
+const freshOut=out.filter(j=>runKeys.has(key(j)));
 const summary={generated_at:new Date().toISOString(),profile_version:profile.profile_version,eligible:eligible.length,scored:out.length,new_this_run:freshOut.length,new_strong_apply:freshOut.filter(x=>x.selena_fit_score>=9).length,new_high_review:freshOut.filter(x=>x.selena_fit_score>=8&&x.selena_fit_score<9).length,strong_apply:out.filter(x=>x.selena_fit_score>=9).length,high_review:out.filter(x=>x.selena_fit_score>=8&&x.selena_fit_score<9).length,possible:out.filter(x=>x.selena_fit_score>=7&&x.selena_fit_score<8).length,low:out.filter(x=>x.selena_fit_score<7).length,major_or_disqualifying_gap:out.filter(x=>['major','disqualifying'].includes(x.requirement_gap)).length};
 writeFileSync('data/latest-selena-fit-summary.json',JSON.stringify(summary,null,2)+'\n');
 console.log(JSON.stringify(summary));
