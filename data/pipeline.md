@@ -2195,3 +2195,57 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://job-boards.greenhouse.io/altentechnologyusa/jobs/5266262007 | ALTEN Technology USA | Data Analyst / Architect
 - [ ] https://altruist.com/join-altruist/6180233004?gh_jid=6180233004 | Altruist | Manager, Trading Credit Risk (Margin & Options)
 - [ ] https://altruist.com/join-altruist/6181072004?gh_jid=6181072004 | Altruist | Senior Trading Credit Risk Analyst (Margin & Options)
+
+- [ ] https://job-boards.greenhouse.io/ampsortation/jobs/8001085003 | AMP: AI-Powered Sortation for Waste and Recycling | Project Manager, Strategic Planning & Execution
+- [ ] https://job-boards.greenhouse.io/apolloio/jobs/6131043004 | Apollo.io | Senior Business Systems Analyst II
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399225008 | Anthropic | Supply Chain Delivery Manager, Data Center Power & Cooling OFE
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183051008 | Anthropic | Anthropic Fellows Program, ML Systems & Reinforcement Learning
+- [ ] https://job-boards.greenhouse.io/antora/jobs/6205951004 | Antora Energy | Sr. Project Manager, Interconnection Projects & Grid Infrastructure Delivery
+- [ ] https://job-boards.greenhouse.io/apexcompanies/jobs/5420514008 | Apex Companies | Associate Project Manager - Wetland Scientist 
+- [ ] https://job-boards.greenhouse.io/apolloio/jobs/6140340004 | Apollo.io | Senior Product Manager, Expansion
+- [ ] https://job-boards.greenhouse.io/archera/jobs/5399617008 | Archera | Senior Product Manager, Core Product
+- [ ] https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5431081008 | American Institutes for Research | Technical Assistance Consultant, Healthcare Innovations
+- [ ] https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5447239008 | American Institutes for Research | Technical Assistance Consultant, Mathematics Intervention and MTSS
+- [ ] https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5447253008 | American Institutes for Research | Technical Assistance Consultant, Special Education (Part-Time)
+- [ ] https://job-boards.greenhouse.io/apolloio/jobs/6178932004 | Apollo.io | Partner Manager, AI Ecosystems
+- [ ] https://job-boards.greenhouse.io/apolloio/jobs/6220926004 | Apollo.io | People Systems and Solutions Manager
+- [ ] https://job-boards.greenhouse.io/appnovation/jobs/8783986002 | Appnovation Technologies | Staff Technical Architect
+- [ ] https://job-boards.greenhouse.io/archer56/jobs/7994523003 | Archer | Flight Test Planning Specialist
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows Program, AI Safety & Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183053008 | Anthropic | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5452403008 | Anthropic | Anthropic STEM Fellow
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432020008 | Anthropic | Capacity Deployment Lead - Data Center Operations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391983008 | Anthropic | Community Engagement Manager, Data Centers (Texas)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5447080008 | Anthropic | Conceptual Reasoning Fellow
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5406367008 | Anthropic | Cyber Evaluations Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5339199008 | Anthropic | Data Center Architect, CSA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5375371008 | Anthropic | Data Center Electrical Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439369008 | Anthropic | Data Center Global Repairs Program Support
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5375376008 | Anthropic | Data Center Mechanical Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399223008 | Anthropic | Energy Scheduling & Portfolio Lead
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391488008 | Anthropic | Head of State and Local Government Sales
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5205495008 | Anthropic | Incident Response Manager - Product & Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399158008 | Anthropic | Manufacturing Engineer - Data Center Hardware
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439804008 | Anthropic | Network Deployment and Maintenance Lead - Data Center Operations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5409569008 | Anthropic | New Product Introduction (NPI) Sourcing Manager, Data Center Power & Cooling
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399162008 | Anthropic | Product Engineer - Manufacturing Operations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399379008 | Anthropic | Reporting and Controls Lead, Data Center Capacity Delivery
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5418977008 | Anthropic | Security Engineer, Offensive Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5205704008 | Anthropic | Staff+ Software Engineer, Public Sector
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5435343008 | Anthropic | State and Local Affairs Lead, Midwest 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436615008 | Anthropic | State and Local Affairs Lead, West
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5398827008 | Anthropic | Transaction Manager
+- [ ] https://job-boards.greenhouse.io/apolloio/jobs/6178926004 | Apollo.io | Director, Data & Distribution Partnerships
+- [ ] https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5395911008 | American Institutes for Research | Digital Quality Measures Lead (Part-Time)
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8661326002 | Anaplan | Services Operations Manager
+- [ ] https://job-boards.greenhouse.io/antenna/jobs/6187761004 | Antenna | Senior Manager, Finance & Commercial Operations
+- [ ] https://job-boards.greenhouse.io/anteristech/jobs/5413298008 | Anteris Technologies | Sr Manager of Field Operations - North America
+- [ ] https://job-boards.greenhouse.io/aperiatechnologies/jobs/6223677004 | Aperia Technologies, Inc | Hardware Data Analyst - Remote
+- [ ] https://job-boards.greenhouse.io/apiphani/jobs/5145093007 | apiphani | Sap Innovation Architect
+- [ ] https://job-boards.greenhouse.io/apolloio/jobs/6178921004 | Apollo.io | Head of Partner Programs, Strategy and Operations
+- [ ] https://job-boards.greenhouse.io/apolloio/jobs/5813870004 | Apollo.io | Senior Data Scientist - Product
+- [ ] https://job-boards.greenhouse.io/appspace/jobs/6096866004 | Appspace | Digital Marketing Manager - Americas
+- [ ] https://job-boards.greenhouse.io/arcanaanalytics/jobs/4110676009 | Arcana Analytics | Data Analyst
+- [ ] https://job-boards.greenhouse.io/archer56/jobs/7741890003 | Archer | Certification Applications Analyst
+- [ ] https://job-boards.greenhouse.io/appnovation/jobs/8783975002 | Appnovation Technologies |  Principal Technical Architect 
+- [ ] https://job-boards.greenhouse.io/appodeal/jobs/5147143008 | Appodeal | Independent Board Director (ML-Driven Product & Data Platform Leader)

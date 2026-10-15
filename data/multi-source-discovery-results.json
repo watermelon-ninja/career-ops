@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T03:50:34.109Z",
+  "generated_at": "2026-10-15T04:08:41.908Z",
   "priority_company_count": 354,
   "discovery_model": "parallel_union",
   "note": "This run records operational source evidence only; pending sources have not yet been queried by dedicated connectors.",
@@ -609,8 +609,8 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 26
         },
         "official_careers": {
           "status": "pending",
@@ -1809,8 +1809,8 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 17
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -2079,8 +2079,8 @@
       "group": "industrial",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 1
+          "status": "attempted_no_new_candidates",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -10539,8 +10539,8 @@
       "group": "finance_health_local",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 7
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
