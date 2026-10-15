@@ -56,8 +56,8 @@ jobs:
               echo "Processing JD batch $B"
               node fetch-jd-batch.mjs --batch="$B"
               node score-selena-fit.mjs
-              COUNT=$(node -e "const fs=require('fs');const p='data/latest-selena-fit-results.jsonl';if(!fs.existsSync(p)){console.log(0);process.exit()}const a=fs.readFileSync(p,'utf8').trim().split('\\n').filter(Boolean).map(JSON.parse);console.log(a.filter(x=>x.selena_fit_score>=8).length)")
-              echo "Cumulative 8+ jobs: $COUNT"
+              COUNT=$(node -e "const fs=require('fs');const p='data/latest-selena-fit-summary.json';if(!fs.existsSync(p)){console.log(0);process.exit()}const s=JSON.parse(fs.readFileSync(p,'utf8'));console.log((s.new_strong_apply||0)+(s.new_high_review||0))")
+              echo "New-this-run 8+ jobs: $COUNT"
               if [ "$COUNT" -ge 30 ]; then
                 echo "Target reached; stopping JD batches early"
                 break
