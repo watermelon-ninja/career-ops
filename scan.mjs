@@ -350,6 +350,19 @@ function buildTitleFilter(titleFilter) {
   };
 }
 
+// ── Cheap hard-negative gate ────────────────────────────────────────
+// Title-only exclusions that are unambiguously below/outside Selena's target level.
+// Runs during discovery for every company, including Priority Companies.
+function levelHardNegative(title) {
+  const lower = String(title || '').toLowerCase().trim();
+  return [
+    /\b(warehouse|inventory)\s+(associate|worker)\b/,
+    /\b(material handler|picker|packer|forklift|order selector)\b/,
+    /\b(intern|internship|co-op|apprentice|trainee)\b/,
+    /\b(development program|rotational program)\b/
+  ].some(re => re.test(lower));
+}
+
 // ── Location filter ─────────────────────────────────────────────────
 // Optional. If `location_filter` is absent from portals.yml, all locations pass.
 // Semantics:
@@ -555,6 +568,7 @@ async function main() {
   let totalFound = 0;
   let totalFilteredTitle = 0;
   let totalFilteredLocation = 0;
+  let totalFilteredLevel = 0;
   let totalDupes = 0;
   const newOffers = [];
   const errors = [];
@@ -581,6 +595,11 @@ async function main() {
         // Priority-company discovery is intentionally high recall: generic titles
         // may hide supply-chain/systems relevance that is only visible in the JD.
         // General-universe jobs still use the cheap title gate.
+        // Hard negatives are universal and run before the permissive Priority Company title bypass.
+        if (levelHardNegative(job.title)) {
+          totalFilteredLevel++;
+          continue;
+        }
         if (!isPriorityCompany(job.company) && !titleFilter(job.title)) {
           totalFilteredTitle++;
           continue;
