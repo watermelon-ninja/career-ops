@@ -45,4 +45,7 @@ test('uses company x focused role/domain families for all priority companies', (
   assert.match(ibm.query, /"supply chain"/);
   assert.match(ibm.query, /warehouse/);
   assert.equal(ibm.status, 'pending');
+  assert.equal(ibm.company_batch, 1);
+  assert.equal(ibm.round, 2);
+  assert.equal(queries.find((q) => q.company === 'Company 26').company_batch, 2);
 });
