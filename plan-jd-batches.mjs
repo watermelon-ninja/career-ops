@@ -2,7 +2,7 @@
 import {readFileSync,existsSync} from 'node:fs';
 const target=Number(process.env.FIT_TARGET||30);
 const maxBatches=Number(process.env.MAX_JD_BATCHES||6);
-const batchSize=50;
+const batchSize=100;
 function readJsonl(path){if(!existsSync(path))return[];return readFileSync(path,'utf8').trim().split('\n').filter(Boolean).map(JSON.parse);}
 const candidates=readJsonl('data/latest-jd-candidates.jsonl');
 const processed=new Set(readJsonl('data/processed-jobs.jsonl').map(x=>x.job_key));
