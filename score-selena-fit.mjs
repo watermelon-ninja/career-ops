@@ -45,7 +45,9 @@ function fit(j){
     (has(title,/clinical/)&&has(title,/project manager/)) ||
     (has(title,/hardware engineering|power engineer/)) ||
     has(title,/software engineer|sales executive|account executive/) ||
-    (has(title,/land development|tenant improvement|mechanical/) && has(title,/project manager/));
+    (has(title,/land development|tenant improvement|mechanical|treatment plant|mission critical/) && has(title,/project manager/)) ||
+    (has(title,/hardware|test engineering/) && has(title,/program manager|project manager/)) ||
+    (has(title,/manufacturing operations/) && has(title,/project manager/));
   if(occupationMismatch)gaps.push('occupation_mismatch');
 
   if(has(jd,/registered nurse|medical license|clinical licensure|professional engineer license|licensed architect/))gaps.push('specialized_credential_gap');
@@ -73,6 +75,8 @@ const key=j=>{const company=String(j.company||'').trim().toLowerCase().replace(/
 const stamp=new Date().toISOString();
 const fresh=out.map(j=>({job_key:key(j),company:j.company,title:j.title,location:j.location,url:j.url,processed_at:stamp,outcome:'fit_scored',selena_fit_score:j.selena_fit_score,selena_fit_band:j.selena_fit_band,requirement_gap:j.requirement_gap})).filter(x=>!existing.has(x.job_key));
 if(fresh.length)appendFileSync(processedPath,fresh.map(JSON.stringify).join('\n')+'\n');
-const summary={generated_at:new Date().toISOString(),profile_version:profile.profile_version,eligible:eligible.length,scored:out.length,strong_apply:out.filter(x=>x.selena_fit_score>=9).length,high_review:out.filter(x=>x.selena_fit_score>=8&&x.selena_fit_score<9).length,possible:out.filter(x=>x.selena_fit_score>=7&&x.selena_fit_score<8).length,low:out.filter(x=>x.selena_fit_score<7).length,major_or_disqualifying_gap:out.filter(x=>['major','disqualifying'].includes(x.requirement_gap)).length};
+const freshKeys=new Set(fresh.map(x=>x.job_key));
+const freshOut=out.filter(j=>freshKeys.has(key(j)));
+const summary={generated_at:new Date().toISOString(),profile_version:profile.profile_version,eligible:eligible.length,scored:out.length,new_this_run:freshOut.length,new_strong_apply:freshOut.filter(x=>x.selena_fit_score>=9).length,new_high_review:freshOut.filter(x=>x.selena_fit_score>=8&&x.selena_fit_score<9).length,strong_apply:out.filter(x=>x.selena_fit_score>=9).length,high_review:out.filter(x=>x.selena_fit_score>=8&&x.selena_fit_score<9).length,possible:out.filter(x=>x.selena_fit_score>=7&&x.selena_fit_score<8).length,low:out.filter(x=>x.selena_fit_score<7).length,major_or_disqualifying_gap:out.filter(x=>['major','disqualifying'].includes(x.requirement_gap)).length};
 writeFileSync('data/latest-selena-fit-summary.json',JSON.stringify(summary,null,2)+'\n');
 console.log(JSON.stringify(summary));
