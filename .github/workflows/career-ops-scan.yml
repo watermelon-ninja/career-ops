@@ -1,6 +1,8 @@
 name: Career-Ops Scan
 
 on:
+  schedule:
+    - cron: "0 14 * * *" # Daily; ~8-9 AM Central depending on DST
   workflow_dispatch:
     inputs:
       company:
