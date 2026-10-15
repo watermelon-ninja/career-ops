@@ -247,3 +247,17 @@ Fallback: si solo tienes la URL ATS directa, navega primero al sitio web de la e
 - Ajustar keywords de filtrado según evolucionen los roles target
 - Añadir empresas a `tracked_companies` cuando interese seguirlas de cerca
 - Verificar `careers_url` periódicamente — las empresas cambian de plataforma ATS
+
+
+## Final cross-query catch-up when the target is short
+
+After ATS discovery, full-JD retrieval, and Selena Fit scoring, run `node last-chance-cross-query.mjs`. It compares the current run's `new_strong_apply` count against 30:
+
+- If the count is 30 or higher, it writes `status: target_met` and creates no queries.
+- If the count is lower, it writes a pending query plan for every configured priority company. The plan crosses four focused role/domain families: product × supply chain/logistics; business systems × ERP/WMS/SAP/Kinaxis; program/implementation × warehouse/logistics; and planning/analytics × S&OP/inventory/fulfillment.
+- Each company/family is queried once across official/public web and once against LinkedIn, Indeed, and Jobright indexes.
+- The plan is a queue for the scan agent, not evidence that those sources have been searched. The agent must execute each planned query with WebSearch, then update each query/source status to `queried_found`, `queried_zero`, `blocked`, or `query_error`. Leave unattempted work as `pending`; never treat pending/blocked/error as zero results.
+- Validate exact company identity and active job URL, merge cross-source records by official requisition ID first (then verified canonical URL), preserve distinct job IDs even where titles match, retrieve a substantive full JD, and only then run fit scoring. Count only new, non-rejected jobs with Selena Fit >= 9.0, `core_work_mode_gate: pass`, and a verified full JD. Do not lower the score threshold to close the gap.
+- If the goal remains short after all planned sources finish, report the actual qualifying count and the per-source completion state; do not label the search complete while queries remain pending.
+
+This catch-up uses the user's existing discovery target and profile. It does not change normal ATS discovery or fit scoring.
