@@ -677,11 +677,11 @@ async function main() {
   const rankedOffers=newOffers.map(o=>{const p=fetchPriority(o);return {...o,fetch_priority:p.score,fetch_priority_reasons:p.reasons};})
     .sort((a,b)=>b.fetch_priority-a.fetch_priority||a.company.localeCompare(b.company)||a.title.localeCompare(b.title));
   // One discovery round contributes at most 300 promising listings.
-  // Expensive downstream work should consume this pool in 50-job batches and stop
+  // Expensive downstream work should consume this pool in 100-job batches and stop
   // as soon as the qualified pool reaches 30. If it does not, start another
   // discovery round, excluding already-seen/processed jobs.
-  const POTENTIAL_POOL_SIZE=300;
-  const FETCH_BATCH_SIZE=50;
+  const POTENTIAL_POOL_SIZE=600;
+  const FETCH_BATCH_SIZE=100;
   const QUALIFIED_TARGET=30;
   const potentialPool=rankedOffers.slice(0,POTENTIAL_POOL_SIZE);
   const deferredOffers=rankedOffers.slice(POTENTIAL_POOL_SIZE);
@@ -747,7 +747,7 @@ async function main() {
   console.log(`Listing candidates:    ${newOffers.length}`);
   console.log(`Potential pool:         ${fetchQueue.length} / ${POTENTIAL_POOL_SIZE}`);
   console.log(`Deferred this round:    ${deferredOffers.length}`);
-  console.log(`Fetch batches (50):     ${Math.ceil(fetchQueue.length / FETCH_BATCH_SIZE)}`);
+  console.log(`Fetch batches (100):    ${Math.ceil(fetchQueue.length / FETCH_BATCH_SIZE)}`);
   console.log(`Qualified stop target:  ${QUALIFIED_TARGET}`);
   if (fetchQueue.length) console.log(`Top fetch priority:     ${fetchQueue[0].fetch_priority} — ${fetchQueue[0].company} | ${fetchQueue[0].title}`);
   console.log('Provider breakdown (boards / jobs / JD candidates / errors):');
