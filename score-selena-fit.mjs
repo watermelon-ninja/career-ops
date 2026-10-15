@@ -53,7 +53,10 @@ function fit(j){
   if(has(jd,/registered nurse|medical license|clinical licensure|professional engineer license|licensed architect/))gaps.push('specialized_credential_gap');
   if(has(jd,/people manager|manage a team of|direct reports/) && !has(title,/product owner|analyst/))gaps.push('people_management_requirement');
 
-  let capabilityScore=Object.values(dims).reduce((a,b)=>a+b,0);
+  // Capability excludes seniority: it measures whether Selena's underlying experience maps to the work.
+  // Rescale the five capability dimensions to a 10-point score.
+  const capabilityRaw=dims.role_function+dims.domain+dims.responsibilities+dims.skills_technology+dims.transferability;
+  let capabilityScore=capabilityRaw/8.5*10;
 
   // Domain-context correction: systems/technology work is Selena's core lane;
   // frontline/specialized operations should not score highly from generic operations keywords.
@@ -62,17 +65,16 @@ function fit(j){
   if(physicalOpsContext&&!systemsContext){capabilityScore=Math.min(capabilityScore,6.4);gaps.push('non_systems_operations_domain');}
 
   capabilityScore=Math.round(capabilityScore*10)/10;
-  let score=capabilityScore;
   let gap='none';
-  if(gaps.includes('specialized_credential_gap')){gap='disqualifying';score=Math.min(score,5.9);}
-  else if(gaps.includes('occupation_mismatch')){gap='major';score=Math.min(score,6.9);}
-  else if(gaps.includes('major_experience_gap')){gap='major';score=Math.min(score,7.4);}
-  else if(gaps.length){gap='manageable';}
-  score=Math.round(score*10)/10;
+  if(gaps.includes('specialized_credential_gap')) gap='disqualifying';
+  else if(gaps.includes('occupation_mismatch')) gap='major';
+  else if(gaps.includes('major_experience_gap')) gap='major';
+  else if(gaps.length) gap='manageable';
 
-  // Application Fit is separate from capability: seniority, career level and hard requirements
-  // affect whether Selena should apply, not whether she could perform the underlying work.
-  let applicationScore=score;
+  // Application Fit starts from capability and then applies seniority and hard-requirement alignment.
+  let applicationScore=capabilityScore;
+  if(gaps.includes('specialized_credential_gap')) applicationScore=Math.min(applicationScore,5.9);
+  if(gaps.includes('occupation_mismatch')) applicationScore=Math.min(applicationScore,6.9);
   if(gaps.includes('major_experience_gap')) applicationScore=Math.min(applicationScore,6.9);
   if(gaps.includes('executive_scope')) applicationScore=Math.min(applicationScore,5.9);
   if(has(title,/\b(jr\.?|junior|associate)\b/) && has(jd,/1.?3 years|1 to 3 years|one to three years/)) {
