@@ -58,11 +58,29 @@ function fit(j){
   const capabilityRaw=dims.role_function+dims.domain+dims.responsibilities+dims.skills_technology+dims.transferability;
   let capabilityScore=capabilityRaw/8.5*10;
 
-  // Domain-context correction: systems/technology work is Selena's core lane;
-  // frontline/specialized operations should not score highly from generic operations keywords.
-  const systemsContext=has(text,/business systems|enterprise systems|system implementation|systems integration|\bwms\b|\berp\b|\bsap\b|kinaxis|databricks|data platform|technical program|product owner/);
+  // Core Work Mode Gate: supply-chain domain overlap or use of WMS/ERP/SAP alone is
+  // not enough for an 8+ fit. Selena's core lane requires systems/product/implementation
+  // ownership, requirements-to-solution work, integration, technical delivery, or BI/data solutions.
+  const coreTitle=has(title,/business systems|systems analyst|business analyst|product owner|technical product|technical program|implementation consultant|business intelligence|data platform/);
+  const systemsOwnership=has(jd,/own(?:s|ing)? (?:the )?(?:system|platform|application|product)|system roadmap|platform roadmap|application roadmap|product backlog/);
+  const implementationWork=has(jd,/system implementation|implement(?:ing|ation)? (?:an? )?(?:enterprise )?(?:system|platform|application)|systems integration|integrat(?:e|ing|ion) (?:with|between|across).{0,80}(?:system|platform|application|api)|deployment.{0,60}(?:system|platform|application)/);
+  const requirementsToSolution=has(jd,/(?:translate|transform|convert).{0,100}(?:business|functional|user) requirements.{0,120}(?:system|technical|solution|developer)|(?:business|functional) requirements.{0,100}(?:technical specification|system solution|system requirement)/);
+  const technicalDelivery=has(jd,/(?:partner|work|collaborate).{0,80}(?:product|engineering|developer|technology|it).{0,180}(?:requirements|backlog|prioriti|implementation|integration|deployment|release|ship)|(?:requirements|backlog).{0,180}(?:product|engineering|developer|technology|it)/);
+  const dataSolution=has(jd,/(?:build|develop|own|implement|design|deliver).{0,100}(?:bi |business intelligence|analytics solution|data platform|dashboard|reporting solution)/);
+  const coreWorkMode=coreTitle||systemsOwnership||implementationWork||requirementsToSolution||technicalDelivery||dataSolution;
+
+  // Operational roles can still be relevant and transferable, but they should not reach
+  // high-review solely because they operate WMS/ERP or share supply-chain terminology.
+  const frontlineOpsLeadership=has(jd,/direct management|managers and supervisors|managers of managers|multi.shift/) &&
+    has(jd,/warehouse operations|distribution center operations|receiving|putaway|picking|shipping|shop floor|plant operations/);
+  const functionalOpsPrimary=has(title,/operations manager|production planning|wave planning|planning manager|procurement|sourcing|sales operations|finance operations/) &&
+    has(jd,/day.to.day|daily production plan|wave planning|workforce planning|labor planning|receiving|picking|shipping|fulfillment|vendor performance|procurement|billing|accounts receivable/);
   const physicalOpsContext=has(text,/frontline|shop floor|plant operations|chemical manufacturing|hazardous|process safety|shift team|store operations|field leadership/);
-  if(physicalOpsContext&&!systemsContext){capabilityScore=Math.min(capabilityScore,6.4);gaps.push('non_systems_operations_domain');}
+
+  if((physicalOpsContext||frontlineOpsLeadership)&&!coreWorkMode){
+    capabilityScore=Math.min(capabilityScore,6.4);
+    gaps.push('non_systems_operations_domain');
+  }
 
   capabilityScore=Math.round(capabilityScore*10)/10;
   let gap='none';
@@ -82,11 +100,19 @@ function fit(j){
     gaps.push('under_level_role');
     if(gap==='none') gap='manageable';
   }
+  // Core Work Mode Gate is an 8+ eligibility rule, not a blanket operations penalty.
+  // Functional operations/planning roles remain scoreable in the 7.x range when transferable,
+  // while direct frontline/DC leadership is capped more aggressively above.
+  if(functionalOpsPrimary&&!coreWorkMode){
+    applicationScore=Math.min(applicationScore,7.8);
+    gaps.push('core_work_mode_gate');
+    if(gap==='none') gap='manageable';
+  }
   applicationScore=Math.round(applicationScore*10)/10;
   if(dims.domain>=1.4)evidence.push('domain_transfer');
   if(dims.responsibilities>=1.5)evidence.push('delivery_ownership');
   if(dims.skills_technology>=1)evidence.push('systems_tools');
-  return {...j,fit_dimensions:dims,requirement_gap:gap,requirement_gaps:gaps,capability_fit_score:capabilityScore,application_fit_score:applicationScore,selena_fit_score:applicationScore,selena_fit_band:applicationScore>=9?'strong_apply':applicationScore>=8?'high_review':applicationScore>=7?'possible':'low',selena_fit_evidence:evidence};
+  return {...j,fit_dimensions:dims,core_work_mode_gate:coreWorkMode?'pass':'fail',core_work_mode_evidence:{core_title:coreTitle,systems_ownership:systemsOwnership,implementation:implementationWork,requirements_to_solution:requirementsToSolution,technical_delivery:technicalDelivery,data_bi_solution:dataSolution},requirement_gap:gap,requirement_gaps:gaps,capability_fit_score:capabilityScore,application_fit_score:applicationScore,selena_fit_score:applicationScore,selena_fit_band:applicationScore>=9?'strong_apply':applicationScore>=8?'high_review':applicationScore>=7?'possible':'low',selena_fit_evidence:evidence};
 }
 const eligible=rows.filter(x=>x.fit_scoring_eligible&&x.full_jd_verified&&x.jd_text);
 const out=eligible.map(fit).sort((a,b)=>b.selena_fit_score-a.selena_fit_score);
