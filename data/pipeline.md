@@ -2417,3 +2417,81 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Principal-Commercial-Operations_R2219-1 | ercot | Principal Commercial Operations
 - [ ] https://evonik.wd3.myworkdayjobs.com/external_careers/job/Houston-TX/Procurement-Business-Partner-Manager_R50911-1 | evonik | Procurement Business Partner Manager
 - [ ] https://exeterfinance.wd1.myworkdayjobs.com/external/job/Irving-TX/Data-Operations-Administrator-III_R5095 | exeterfinance | Data Operations Administrator III
+
+- [ ] https://www.avetta.com/careers/job?gh_jid=8005512003 | Avetta, LLC | Localization Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/axon/jobs/7661953003 | Axon | Sr Technical Program Manager I - Adoption and Enablement
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5440590008 | Backblaze External Website | Senior Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5422975008 | Backblaze External Website | Sr. Technical Program Manager (Security)
+- [ ] https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Senior-Technical-Product-Owner---Enterprise-Integrations_R-141353 | ferguson | Senior Technical Product Owner – Enterprise Integrations
+- [ ] https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Project-Manager--Product-Development---Technology-Delivery-_JR19026 | ferrovial | Project Manager (Product Development & Technology Delivery)
+- [ ] https://job-boards.greenhouse.io/axontalentcommunity/jobs/8014915003 | Join Our Talent Community | AfroTech 2026 Technical Program Manager, Software Deployments
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Stafford-Texas/Manager--Implementations-Delivery_R-10404178 | fiserv | Implementations Delivery Lead
+- [ ] https://job-boards.greenhouse.io/axon/jobs/6531695003 | Axon | Technical Program Manager, Software Deployments
+- [ ] https://fleetpride.wd1.myworkdayjobs.com/fleetpridecareer/job/Grapevine-Texas/Production-Warehouse-Lead---Manufacturing_REQ26-24285 | fleetpride | Production Warehouse Lead - Manufacturing
+- [ ] https://job-boards.greenhouse.io/automatticcareers/jobs/7482858 | Automattic Careers | Senior Product Manager, Payments
+- [ ] https://avantus.com/careers?gh_jid=8686250002 | Avantus | Project Manager, Construction
+- [ ] https://job-boards.greenhouse.io/axios/jobs/8261995 | Axios | Product Manager
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5210076008 | Backblaze External Website | Product Manager 
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5212473008 | Backblaze External Website | Staff Product Manager
+- [ ] https://job-boards.greenhouse.io/beaconbiosignals/jobs/4444366009 | Beacon Biosignals | Senior Product Manager, Web Apps
+- [ ] https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Project-Delivery-Manager_JR18087 | ferrovial | Assistant Project Manager
+- [ ] https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Product-Manager--Digital-Products--_JR19703 | ferrovial | Product Manager (Digital Products) 
+- [ ] https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Senior-Product-Manager--Remote-_R058709 | firstam | Senior Product Manager (Remote)
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Frisco-Texas/Senior-Cloud-Systems-Engineer_R-10403950 | fiserv | Senior Cloud Systems Engineer
+- [ ] https://job-boards.greenhouse.io/automatticcareers/jobs/7482826 | Automattic Careers | Senior Partner Manager, Enterprise
+- [ ] https://job-boards.greenhouse.io/automatticcareers/jobs/5442133 | Automattic Careers | Technical Account Manager, Newspack
+- [ ] https://job-boards.greenhouse.io/avride/jobs/4300720009 | Avride | Senior Frontend Engineer – Engineering Productivity Systems
+- [ ] https://job-boards.eu.greenhouse.io/baringa/jobs/4996725101 | Baringa | Consultant to Senior Consultant, US Power Markets & Analytics
+- [ ] https://job-boards.eu.greenhouse.io/baringa/jobs/4996708101 | Baringa | Manager, US Power Markets & Analytics
+- [ ] https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Integration-Specialist---Municipal-Metering--Remote-California--_R-140287 | ferguson | Integration Specialist - Municipal Metering (Remote California)
+- [ ] https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/IT-Manager---Platform-Engineering---Data-Science_R-138931 | ferguson | IT Manager - AI Platform Engineering & Data Science
+- [ ] https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Data-Analytics-Manager_JR18758-1 | ferrovial | Data Analytics Manager
+- [ ] https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/USA-Remote-Any/Senior-Technical-Officer--Emergency-Response-Analyst--Technical-Officer-III-_Requisition-2026201412 | fhi | Senior Technical Officer, Emergency Response Analyst (Technical Officer III)
+- [ ] https://fleetpride.wd1.myworkdayjobs.com/fleetpridecareer/job/Dallas-Texas/Senior-Solution-Architect--Cloud--DevSecOps---Platform-Engineering_REQ26-23762 | fleetpride | Senior Solution Architect, Cloud, DevSecOps & Platform Engineering
+- [ ] https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/El-Paso-TX/Sales-Project-Manager---Waterworks_R-140388 | ferguson | Sales Project Manager - Waterworks
+- [ ] https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/The-Woodlands-TX/Webber---Project-Manager---Energy_JR19211 | ferrovial | Webber - Project Manager - Energy
+- [ ] https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Houston-TX/Webber---Project-Manager---Heavy-Civil_JR15275 | ferrovial | Webber - Project Manager - Heavy Civil
+- [ ] https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/San-Antonio-TX/Webber-Project-Manager--Heavy-Civil_JR16564 | ferrovial | Webber-Project Manager- Heavy Civil
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Account-Manager-Sr---Austin--TX_R-10404144 | fiserv | Account Manager Sr - Austin, TX
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Account-Manager-Sr---Fort-Worth--TX_R-10404149 | fiserv | Account Manager Sr - Fort Worth, TX
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Account-Manager-Sr---San-Antonio--TX_R-10404150 | fiserv | Account Manager Sr - San Antonio, TX
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Stafford-Texas/Client-Support-Tier-2---Professional-II_R-10404444 | fiserv | Client Support Tier 2 - Professional II
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Stafford-Texas/Maintenance-Technician_R-10403871 | fiserv | Maintenance Technician
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Outside-Sales-Representative---DFW_R-10401320 | fiserv | Outside Sales Representative - DFW
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Outside-Sales-Consultant--Sauganash--IL_R-10401324 | fiserv | Outside Sales Representative -Houston Metro, Texas
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Outside-Sales-Consultant---Des-Plaines--IL_R-10403601 | fiserv | Outside Sales Representative BC-Houston, TX (Sat-Wed-Off Thu/Fri)
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Outside-Sale-Consultant---Gurnee-IL_R-10401307 | fiserv | Outside Sales Representative BC-Pasadena, TX (Sat-Wed-Off Thu/Fri)
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Outside-Sales-Consultant--Lombard--IL_R-10401300 | fiserv | Outside Sales Representative BC-SW Houston, TX (Sat-Wed-Off Thu/Fri)
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Outside-Sales-Representative-BC-Tomball--TX--Weekend-Coverage-_R-10396767 | fiserv | Outside Sales Representative BC-Tomball, TX (Sat-Wed-Off Thu/Fri)
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Sales-Representative-BC---San-Antonio--TX_R-10403678-1 | fiserv | Sales Representative BC - San Antonio, TX
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Sales-Representative-BC--Austin--TX_R-10403685 | fiserv | Sales Representative BC- Austin, TX
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Sales-Representative-BC-Lewisville--TX_R-10395356 | fiserv | Sales Representative BC-Lewisville, TX (Weekend Coverage)
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Stafford-Texas/Service-Management---Advisor-I_R-10404446 | fiserv | Service Management - Advisor I
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5428000008 | Backblaze External Website | Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/avride/jobs/4376067009 | Avride | Data Quality Analyst- Autonomous Vehicles 
+- [ ] https://job-boards.greenhouse.io/avride/jobs/4061854009 | Avride | Lead Data Scientist – Autonomous Driving
+- [ ] https://job-boards.greenhouse.io/avride/jobs/4376079009 | Avride | Lead Evaluation Engineer – Scenario Coverage & Datasets (Autonomous Driving)
+- [ ] https://job-boards.greenhouse.io/avride/jobs/4285015009 | Avride | Senior Manager – HR Operations
+- [ ] https://www.axiomlaw.com/careers/lawyers/available-positions/8647902002?gh_jid=8647902002 | Axiom Talent Platform | Legal Operations Specialist 
+- [ ] https://job-boards.greenhouse.io/axios/jobs/8262622 | Axios | IT Security Specialist
+- [ ] https://job-boards.greenhouse.io/bamboohr17/jobs/6004600004 | BambooHR | Sr. Digital Analyst II
+- [ ] https://job-boards.greenhouse.io/bayasystems/jobs/5295240008 | Baya Systems | Manager of Field Applications Engineering, USA
+- [ ] https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Information-Security-Manager---Network-Security_R-138907-1 | ferguson | Information Security Manager - Network Security
+- [ ] https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Lead-UniData-Software-Support-Engineer--Remote-_R-140701-1 | ferguson | Lead UniData Software Support Engineer (Remote)
+- [ ] https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Human-Resources-Operations-Specialist_JR19214 | ferrovial | Human Resources Operations Specialist
+- [ ] https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Senior-Project-Development-Manager---Energy-Storage-Technologies_JR19576-1 | ferrovial | Senior Project Development Manager - Energy Storage Technologies
+- [ ] https://fleetpride.wd1.myworkdayjobs.com/fleetpridecareer/job/Dallas-Texas/Data-Architect_REQ26-22089 | fleetpride | Data Architect
+- [ ] https://fleetpride.wd1.myworkdayjobs.com/fleetpridecareer/job/Dallas-Texas/Digital-Content-Marketing-Specialist_REQ26-24373-1 | fleetpride | Digital Content Marketing Specialist
+- [ ] https://fleetpride.wd1.myworkdayjobs.com/fleetpridecareer/job/Grapevine-Texas/Operations-Manger_REQ26-23489-1 | fleetpride | Operations Manager
+- [ ] https://avantus.com/careers?gh_jid=8846316002 | Avantus | Sr. Director, Project Valuation & Analytics
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5382622008 | Backblaze External Website | Director, Enterprise Systems & Architecture
+- [ ] https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-TX-SAT-6550/Associate-I--Production-Operations_JR0308759-1 | fis | Associate I, Production Operations
+- [ ] https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-TX-SAT-6550/Card-Production-Associate-I_JR0309478 | fis | Card Production Associate I
+- [ ] https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-TX-SAT-6550/Technician-I--Facilities-Maintenance_JR0309844 | fis | Technician I, Facilities/Maintenance
+- [ ] https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Pflugerville-TX/Field-Operations-Manager_R-140466 | ferguson | Operations Manager
+- [ ] https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Principal-Solutions-Architect---Master-Data--Product-Data---AI-Automation_R-141217 | ferguson | Principal Solutions Architect - Master Data, Product Data & AI Automation
+- [ ] https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Friendswood-TX/Procurement-Manager_JR18109 | ferrovial | FCW-SH99 JV - Procurement Manager
+- [ ] https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/The-Woodlands-TX/Webber---Procurement-Specialist---Corporate_JR19209 | ferrovial | Webber - Procurement Specialist - Corporate
+- [ ] https://fifththird.wd5.myworkdayjobs.com/53careers/job/Plano-TX/Financial-Center-Manager-Associate---Plano--TX--South-Coit-Road-Area-_R73631 | fifththird | Financial Center Manager Associate - Plano, TX (South Coit Road Area)
+- [ ] https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-TX/Credit-Products-Manager_20983 | flagstar | Credit Products Manager
+- [ ] https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-TX/Credit-Products-Specialist-II_19972 | flagstar | Credit Products Specialist II
