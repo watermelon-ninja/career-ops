@@ -387,7 +387,10 @@ function buildLocationFilter(locationFilter) {
     const foreignSignals = [
       'canada','canadian','europe','emea','germany','german','uk','united kingdom',
       'australia','india','mexico','philippines','poland','france','spain','italy',
-      'netherlands','ireland','singapore','japan','brazil','argentina'
+      'netherlands','ireland','singapore','japan','brazil','argentina',
+      'malaysia','costa rica','taipei','taiwan','riyadh','saudi arabia','sao paulo','são paulo',
+      'quebec','ontario','british columbia','alberta','manitoba','saskatchewan',
+      'nova scotia','new brunswick','newfoundland','prince edward island'
     ];
     const usSignals = ['united states','usa','u.s.',' us ','austin','texas',' tx','remote - us','us remote'];
     const clearlyForeign = foreignSignals.some(k => lower.includes(k));
