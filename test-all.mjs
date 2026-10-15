@@ -69,6 +69,7 @@ const scripts = [
   { name: 'dedup-tracker.mjs', expectExit: 0 },
   { name: 'merge-tracker.mjs', expectExit: 0 },
   { name: 'update-system.mjs check', expectExit: 0 },
+  { name: '--test last-chance-cross-query.test.mjs', expectExit: 0 },
 ];
 
 for (const { name, allowFail } of scripts) {
