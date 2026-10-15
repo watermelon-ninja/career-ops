@@ -75,7 +75,7 @@ jobs:
       - name: Commit scan results to Selena branch
         shell: bash
         run: |
-          git add data/scan-history.tsv data/pipeline.md data/universe-cursor.json data/latest-jd-candidates.jsonl data/multi-source-discovery-results.json data/latest-jd-read-results.jsonl data/latest-jd-read-summary.json data/latest-selena-fit-results.jsonl data/latest-selena-fit-summary.json data/processed-jobs.jsonl 2>/dev/null || true
+          git add data/scan-history.tsv data/pipeline.md data/universe-cursor.json data/latest-jd-candidates.jsonl data/multi-source-discovery-results.json data/latest-jd-read-results.jsonl data/latest-jd-read-summary.json data/latest-selena-fit-results.jsonl data/latest-selena-fit-summary.json data/processed-jobs.jsonl data/jd-history.jsonl 2>/dev/null || true
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "career-ops-bot"
           git config user.email "career-ops-bot@users.noreply.github.com"
