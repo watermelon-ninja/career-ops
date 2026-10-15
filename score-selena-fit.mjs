@@ -117,6 +117,25 @@ function fit(j){
 const eligible=rows.filter(x=>x.fit_scoring_eligible&&x.full_jd_verified&&x.jd_text);
 const out=eligible.map(fit).sort((a,b)=>b.selena_fit_score-a.selena_fit_score);
 writeFileSync('data/latest-selena-fit-results.jsonl',out.map(JSON.stringify).join('\n')+(out.length?'\n':''));
+
+// Human/ChatGPT review queue: deliberately broader than the final shortlist.
+// Machine score is triage only; no job enters the formal candidate sheet from this threshold alone.
+const REVIEW_QUEUE_THRESHOLD=7.3;
+const reviewQueue=out.filter(j=>j.selena_fit_score>=REVIEW_QUEUE_THRESHOLD).map(j=>({
+  company:j.company,
+  title:j.title,
+  location:j.location,
+  url:j.url,
+  machine_fit_score:j.selena_fit_score,
+  machine_fit_band:j.selena_fit_band,
+  core_work_mode_gate:j.core_work_mode_gate,
+  core_work_mode_evidence:j.core_work_mode_evidence,
+  requirement_gap:j.requirement_gap,
+  requirement_gaps:j.requirement_gaps,
+  jd_text:j.jd_text,
+  review_status:'pending_human_ai_review'
+}));
+writeFileSync('data/latest-review-queue.jsonl',reviewQueue.map(JSON.stringify).join('\n')+(reviewQueue.length?'\n':''));
 const processedPath='data/processed-jobs.jsonl';
 const runSessionPath='data/current-run-jobs.jsonl';
 const existing=new Set();
