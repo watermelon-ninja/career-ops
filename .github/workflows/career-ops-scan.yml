@@ -35,6 +35,7 @@ jobs:
         run: |
           node --check fetch-jd-batch.mjs
           node --check score-selena-fit.mjs
+          node --check plan-jd-batches.mjs
       - name: Run Career-Ops scanner
         shell: bash
         run: |
@@ -43,10 +44,26 @@ jobs:
           else
             node scan.mjs --universe --universe-batch 250
           fi
-      - name: Read full JD — Batch 1
-        run: node fetch-jd-batch.mjs
-      - name: Score Selena Fit
-        run: node score-selena-fit.mjs
+      - name: Read full JD and score until target
+        shell: bash
+        run: |
+          BATCHES=$(node plan-jd-batches.mjs | sed -n 's/^BATCHES=//p')
+          if [ -z "$BATCHES" ]; then
+            echo "No fresh batches to process"
+          else
+            IFS=',' read -ra IDS <<< "$BATCHES"
+            for B in "${IDS[@]}"; do
+              echo "Processing JD batch $B"
+              node fetch-jd-batch.mjs --batch="$B"
+              node score-selena-fit.mjs
+              COUNT=$(node -e "const fs=require('fs');const p='data/latest-selena-fit-results.jsonl';if(!fs.existsSync(p)){console.log(0);process.exit()}const a=fs.readFileSync(p,'utf8').trim().split('\\n').filter(Boolean).map(JSON.parse);console.log(a.filter(x=>x.selena_fit_score>=8).length)")
+              echo "Cumulative 8+ jobs: $COUNT"
+              if [ "$COUNT" -ge 30 ]; then
+                echo "Target reached; stopping JD batches early"
+                break
+              fi
+            done
+          fi
       - name: Show scan, JD and Fit summary
         shell: bash
         run: |
