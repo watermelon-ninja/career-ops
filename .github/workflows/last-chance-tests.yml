@@ -1,0 +1,27 @@
+name: Last-Chance Cross-Query Tests
+
+on:
+  push:
+    branches: [codex/last-chance-validation-clean]
+  pull_request:
+    branches: [main]
+    paths:
+      - 'last-chance-cross-query.mjs'
+      - 'last-chance-cross-query.test.mjs'
+      - 'package.json'
+      - '.github/workflows/last-chance-tests.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node --check last-chance-cross-query.mjs
+      - run: npm run test:last-chance

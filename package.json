@@ -15,7 +15,8 @@
     "rollback": "node update-system.mjs rollback",
     "liveness": "node check-liveness.mjs",
     "scan": "node scan.mjs",
-    "gemini:eval": "node gemini-eval.mjs"
+    "gemini:eval": "node gemini-eval.mjs",
+    "test:last-chance": "node --test last-chance-cross-query.test.mjs"
   },
   "keywords": [
     "ai",
