@@ -1236,3 +1236,299 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Principal-Risk-Specialist--Auto---Data-Risk-_R1002946-1 | capitalone | Principal Risk Specialist (Auto - Data Risk)
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Senior-Director-Software-Engineering---CTO_R1003160-1 | capitalone | Senior Director Software Engineering - CTO
 - [ ] https://jobs.ashbyhq.com/talkiatry/f13dbc0c-63b4-4e75-bf24-91f0c87ce3e5 | Talkiatry | General Manager/Director of Clinical Operations, Psychiatry  
+
+- [ ] https://jobs.ashbyhq.com/thumbtack/20b7b151-75bf-4265-995d-30c081e86b7d | Thumbtack | Product Manager, Pro Fulfillment
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Configuration-Systems-Analyst-III---CES_R14013 | caresource | Configuration Systems Analyst III - CES
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Encounters-Systems-Analyst-II_R13781 | caresource | Encounters Systems Analyst II
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Manager--Information-Technology---Encounters-IT--Transformation---Architecture-Focus-_R12962 | caresource | Manager, Information Technology – Encounters IT (Transformation & Architecture Focus)
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Project-Manager-I_R13831 | caresource | Project Manager I - Integration/Government Sponsored Healthcare Programs
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Systems-Analyst-III_R13052 | caresource | Systems Analyst III
+- [ ] https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Group-Product-Manager--Fortellis-Marketplace---API-Platform_JR9121-1 | cdk | Group Product Manager, Fortellis Marketplace & API Platform
+- [ ] https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Sr-Product-Manager--OEM-Integrations_JR9218-1 | cdk | Sr. Product Manager, OEM Integrations
+- [ ] https://jobs.ashbyhq.com/temporal/01e59346-2cf2-4123-8df1-c8a486eced72 | Temporal Technologies | Senior Product Manager, Hybrid Platform & Deployment Models
+- [ ] https://jobs.ashbyhq.com/tensorwave/aba90d60-9c9d-473f-9833-d2d12ac48f7f | TensorWave | Senior Technical Program Manager, Data Center Build and Design
+- [ ] https://jobs.ashbyhq.com/thumbtack/323602c6-082f-4c92-953d-642eccb0ed7f | Thumbtack | Product Manager, Pro Integrations & Foundations
+- [ ] https://jobs.ashbyhq.com/thumbtack/245a9552-23a1-439e-83c5-fd840961dcec | Thumbtack | Product Manager, Pro Integrations & Foundations 
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Commercial-Product-Manager_1664372 | centene | Commercial Product Manager
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Medicare-Compliance-Advisory-Project-Manager-II_1663754 | centene | Medicare Compliance Advisory Project Manager II
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Program-Manager-IV_1659294 | centene | Program Manager IV
+- [ ] https://chevron.wd5.myworkdayjobs.com/university/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-SCM-Development-Program--SCMDP--Full-Time_R000071090 | chevron | 2026-2027 Supply Chain Management Development Program (SCMDP) Full Time
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-El-Paso-Don-Haskins/Supply-Chain-Associate--Inventory---Purchasing-_20187710 | cardinalhealth | Supply Chain Associate (Inventory & Purchasing)
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Roanoke/Warehouse-Associate_20188994 | cardinalhealth | Warehouse Associate
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/contractor/job/TX-El-Paso-Don-Haskins/Warehouse-Associate---2nd-Shift--Contractor-Conversion-_20189285-1 | cardinalhealth | Warehouse Associate - 2nd Shift (Contractor Conversion)
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX---Fort-Worth---CAH-Home-Solutions-DC---Mark-IV/Warehouse-Associate---Night-Shift_20188592-1 | cardinalhealth | Warehouse Associate - Night Shift
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX---Fort-Worth---CAH-Home-Solutions-DC---Mark-IV/Warehouse-Associate---Weekend-Shift_20188757 | cardinalhealth | Warehouse Associate - Weekend Shift
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Roanoke/Warehouse-Associate--Part-Time--Flex-_20188693 | cardinalhealth | Warehouse Associate (Part-Time, Flex)
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX---Fort-Worth---CAH-Home-Solutions-DC---Mark-IV/Warehouse-Associate-II---Outbound_20189300 | cardinalhealth | Warehouse Associate II - Outbound
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX---Fort-Worth---CAH-Home-Solutions-DC---Mark-IV/Warehouse-Associate-II---Part-Time_20187971 | cardinalhealth | Warehouse Associate II - Part Time
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Grand-Prairie-Interstate-20/Warehouse-Associate--Floater_20188302 | cardinalhealth | Warehouse Associate, Floater
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Stafford-PHARM-DIST/Warehouse-Worker--Full-Time--Days-_20188161 | cardinalhealth | Warehouse Worker (Full Time, Days)
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Stafford-PHARM-DIST/Warehouse-Worker--Full-Time--Nights-_20189049-1 | cardinalhealth | Warehouse Worker (Full Time, Nights)
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Stafford-PHARM-DIST/Warehouse-Worker--Part-Time--Flex--Nights-_20189051 | cardinalhealth | Warehouse Worker (Part Time- Flex, Nights)
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/AI-Program-Manager_R13956 | caresource | AI Program Manager
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Product-Manager---Data-Migration_R13978 | caresource | Product Manager - Data Migration
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Product-Manager---Vendor-Oversight_R13979 | caresource | Product Manager - Vendor Oversight
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Midlothian/Automotive-Inventory-Associate_JR-150874-1 | carmax | Automotive Inventory Associate
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---San-Antonio---Live-Oak/Inventory-Associate_JR-186823 | carmax | Inventory Associate
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Dallas-Auction/Inventory-Associate--Auction-Services_JR-160790-1 | carmax | Inventory Associate, Auction Services
+- [ ] https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT16-CCS-Dallas-1901-N-Glenville-Drive-Richardson-TX-75081-USA/Area-Project-Manager-Lead---North-Texas_30216037 | carrier | Area Project Manager Lead – North Texas
+- [ ] https://cars.wd12.myworkdayjobs.com/cars/job/Remote---Quebec/Sr-Lead-Product-Owner_JR11375 | cars | Sr. Lead Product Owner
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Senior-Program-Manager_R0000397378 | cat | Senior Program Manager
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Data-Analyst-III--Healthcare-Analytics-_1648823 | centene | Data Analyst III Healthcare Analytics, Medical Economics
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Austin-5900-E-Ben-White-Blvd-10703/IT-Technical-Support-Specialist-IV_1664782-1 | centene | IT Technical Support Specialist IV
+- [ ] https://cgm.wd3.myworkdayjobs.com/cgm/job/Remote---United-States-of-America/Product-Manager_JR109379-1 | cgm | Product Manager
+- [ ] https://championx.wd1.myworkdayjobs.com/championx_external/job/USA--TX---Midland-Regional/Project-Manager_R00136807 | championx | Project Manager
+- [ ] https://jobs.ashbyhq.com/temporal/5d4ee2f8-8ff0-4271-9292-c78df24735aa | Temporal Technologies | Staff Product Manager,  Cloud Namespace & Capacity 
+- [ ] https://jobs.ashbyhq.com/temporal/7592248c-719a-485c-a1a9-9285f99ed56b | Temporal Technologies | Staff Product Manager, Core Primitives
+- [ ] https://jobs.ashbyhq.com/tensorwave/405c9c63-9302-433d-8e9b-b146d70e20aa | TensorWave | Construction Project Manager (Data Center)
+- [ ] https://jobs.ashbyhq.com/thumbtack/128256fa-c145-446b-9b2e-168f66ef92c8 | Thumbtack | Product Manager
+- [ ] https://jobs.ashbyhq.com/thumbtack/b99ba30b-4339-4323-ac3e-9b6b0e21bb83 | Thumbtack | Senior Program Manager, Vendor and Scaled Operations
+- [ ] https://jobs.ashbyhq.com/thumbtack/fcf5d9dd-4e9c-4947-880f-1e10a9c518ad | Thumbtack | Senior Program Manager, Vendor and Scaled Operations 
+- [ ] https://jobs.ashbyhq.com/tilthq/4ca36cc4-295f-4709-90a8-2a3baec8eac1 | Tilt Finance | Lead Product Manager, Growth
+- [ ] https://jobs.ashbyhq.com/tilthq/26ba4a8d-8963-407a-b9a6-d6d78341ec66 | Tilt Finance | Risk Operations Transformation Lead
+- [ ] https://jobs.ashbyhq.com/timely/c8e37006-5719-45b1-96da-e09e04cf1485 | Timely | Product Manager, Optimizer
+- [ ] https://cart.wd1.myworkdayjobs.com/cart/job/Dallas-TX-Fulfillment-Center/Fulfillment-Center-Supervisor-Manager--Future-Openings-_R-102004 | cart | Fulfillment Center Supervisor/Manager (Future Opportunities)
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Autonomy-Engineering-Integration-Specialist_R0000398576-1 | cat | Autonomy Engineering Integration Specialist
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Autonomy-Engineering-Specialist---Operator-Safety-Systems_R0000392586 | cat | Autonomy Engineering Specialist - Operator Safety Systems
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Safety-Systems-Software-Architect_R0000392581-1 | cat | Safety Systems Software Architect
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Technology-Strategy-Director_R0000398544 | cat | Technology Strategy Senior Manager
+- [ ] https://ccc.wd5.myworkdayjobs.com/ccc_external/job/Remote/Regional-Technical-Leader---North-Region--US-_R21390 | ccc | Regional Technical Leader - North Region (US)
+- [ ] https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Manager--Renewal-Platform-Specialist_JR9315 | cdk | Manager, Renewal Platform Specialist
+- [ ] https://centific.wd1.myworkdayjobs.com/centific_global/job/Remote-Work-Malaysia-Penang/Technical-Support-Specialist_JR106956-2 | centific | Technical Support Specialist
+- [ ] https://centific.wd1.myworkdayjobs.com/centific_global/job/Remote-Work-Malaysia-Penang/Technical-Support-Specialist--Japanese-Speaking-_JR108281 | centific | Technical Support Specialist (Japanese Speaking)
+- [ ] https://chevron.wd5.myworkdayjobs.com/jobs/job/Houston-Texas-United-States-of-America/Enterprise-Architect_R000071082 | chevron | Enterprise Architect
+- [ ] https://jobs.ashbyhq.com/teamdynamix/a9fda5e3-60a8-4fa1-927f-9702fe7c7f61 | TeamDynamix | Technical Consultant
+- [ ] https://jobs.ashbyhq.com/temporal/b656400a-bc30-4fc3-a117-b803ef42634f | Temporal Technologies | Senior Engineering Manager, Test Systems & Tooling
+- [ ] https://jobs.ashbyhq.com/temporal/053cfe55-570a-425f-b44e-e64b2c9b28f9 | Temporal Technologies | Senior Platform Architect - West
+- [ ] https://jobs.ashbyhq.com/tensorwave/7ad82426-20f9-41d6-9b63-dddd4efe0a97 | TensorWave | Senior Manager, Technical Program Management, Data Center Build and Design
+- [ ] https://jobs.ashbyhq.com/teza-technologies/b4043c0a-b69a-4e06-9d33-69c2663bf710 | Teza Technologies | Systematic Portfolio Manager,  Agriculture 
+- [ ] https://jobs.ashbyhq.com/teza-technologies/a4a5bc0e-1ea5-403d-a1e0-ad4c7f553751 | Teza Technologies | Systematic Portfolio Manager,  Energy
+- [ ] https://jobs.ashbyhq.com/tigerdata/8c701831-c4cf-4cc8-a9f0-0afa30474c08 | Tiger Data | Senior Platform Engineer - Postgres Specialist
+- [ ] https://jobs.ashbyhq.com/timely/2f0d645d-d5ab-4940-9a73-b8e089e5d4e9 | Timely | Data Integration Specialist
+- [ ] https://jobs.ashbyhq.com/tradeify/3d59f9a6-f784-457b-b68c-b820e4701e77 | Tradeify | Engineering Manager - Tradeify Platform
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-El-Paso-Butterfield/Manager--Financial-Planning-and-Analysis---Cost-Accounting_20188151 | cardinalhealth | Manager, Financial Planning and Analysis - Cost Accounting
+- [ ] https://ccsbts.wd12.myworkdayjobs.com/ccsbts/job/Houston-TX/Night-Project-Manager_JR102077 | ccsbts | Night Project Manager
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Director--Business-Transformation---PMO_1667105 | centene | Director, Business Transformation - PMO
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Director--Claims-Business-Implementation_1655670 | centene | Director, Claims Business Implementation
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5196149007?gh_jid=5196149007 | Anduril | Flight Test Operator
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5253771007?gh_jid=5253771007 | Anduril | Senior Product Sourcing Engineer, Counter Intrusion
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Engineering-Technician-II----T2--Compressed-Work-Week_R2630604 | Applied Materials | Engineering Technician II - (T2) Compressed Work Week
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Engineering-Technician-II----T2---Weekend-Compressed-Shift-Nights_R2629957 | Applied Materials | Engineering Technician II - (T2)- Weekend Compressed Shift Nights
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2-_R2630040 | Applied Materials | Manufacturing Technician II - (T2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--2nd-Shift_R2629265 | Applied Materials | Manufacturing Technician II - (T2) 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--2nd-Weekend-Shift_R2629962-1 | Applied Materials | Manufacturing Technician II - (T2) 2nd Weekend Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--2nd-Wknd-Shift_R2630179 | Applied Materials | Manufacturing Technician II - (T2) 2nd Wknd Shift
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Texas-FIELD-Houston-Metro/Consultant--Territory-Management---Home-Health---Diabetes_20188029 | cardinalhealth | Consultant, Territory Management - Home Health - Diabetes
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Round-Rock-PAM-Rehab-Hospital-of-Round-Rock/Pharmacy-Technician--Part-Time_20188673 | cardinalhealth | Pharmacy Technician, Part Time
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Round-Rock-PAM-Rehab-Hospital-of-Round-Rock/PRN-Inpatient-Pharmacy-Technician_20188750 | cardinalhealth | PRN Inpatient Pharmacy Technician
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Texas-Work-from-Home/Case-Manager_20189003 | cardinalhealth | Sr. Coordinator, Case Manager
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Austin-South/Apprentice-Automotive-Technician_JR-187304-1 | carmax | Apprentice Automotive Technician
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Austin---Killeen---Fort-Hood/Mechanical-Associate-V--Night-Shift-_JR-187977-1 | carmax | Mechanical Associate V (Night Shift)
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Austin-North/Overnight-Automotive-Detailer--M-Thurs-3-30pm-2am-_JR-182528 | carmax | Overnight Automotive Detailer (M-Thurs 3:30pm-2am)
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Austin---Killeen---Fort-Hood/Sr-Reconditioning-Associate-2nd-Shift_JR-185224 | carmax | Sr. Reconditioning Associate 2nd Shift
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Accountant-I_1664356 | centene | Accountant I
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MN/Associate-Actuary_1658007 | centene | Associate Actuary
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Authorization-Specialist-II_1668091 | centene | Authorization Specialist II
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-AR/Authorization-Specialist-III_1665513-1 | centene | Authorization Specialist III
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Business-Process-Consultant_1651209-1 | centene | Business Process Consultant
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Business-Solutions-Developer-III_1668368-1 | centene | Business Solutions Developer III
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Care-Coordinator-II_1662023 | centene | Care Coordinator II
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Care-Coordinator-II--Foster-Care-_1662336 | centene | Care Coordinator II (Foster Care)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IL/Care-Coordinator-III_1658232 | centene | Care Coordinator III
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-TX/Care-Management-Support-Coordinator-II_1663888-1 | centene | Care Management Support Coordinator II
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Care-Manager_1661839 | centene | Care Manager
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Care-Manager---Foster-Care--BH-_1663645-1 | centene | Care Manager - Foster Care (BH)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NJ/Care-Manager--Behavioral-Health-_1668459 | centene | Care Manager (Behavioral Health)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Care-Manager_1649663 | centene | Care Manager (BH - Foster Care)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-KY/Care-Manager--RN-_1665833 | centene | Care Manager (RN)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-WI/Care-Manager-Transition-of-Care_1665344 | centene | Care Manager Transition of Care
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-CA/Care-Manager-Transition-of-Care--RN-_1660337 | centene | Care Manager Transition of Care (RN)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MS/Care-Navigator_1666929 | centene | Care Navigator
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Care-Navigator----Foster-Care_1665219-1 | centene | Care Navigator -  Foster Care
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Care-Navigator---Foster-Care_1668845 | centene | Care Navigator - Foster Care
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Care-Navigator---OB_1668853 | centene | Care Navigator - OB
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-WI/Clinical-Appeals-Coordinator_1665704-1 | centene | Clinical Appeals Coordinator
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Clinical-Investigator--Behavioral-Health-_1668074 | centene | Clinical Investigator (Behavioral Health)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Clinical-Investigator-I--Special-Investigation-Unit-_1660463 | centene | Clinical Investigator I (Special Investigation Unit)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IN/Clinical-Pharmacist--Formulary---Quality-_1662658 | centene | Clinical Pharmacist (Formulary & Quality)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-PA/Clinical-Review-Nurse---Concurrent-Review_1658401 | centene | Clinical Review Nurse - Concurrent Review
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-TX/Coding-Quality-Specialist_1666338 | centene | Coding Quality Specialist
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-OH/Community-Relations--Specialist_1667696 | centene | Community Relations  Specialist
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NC/Community-Relations-Representative-I_1661676 | centene | Community Relations Representative I
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Community-Resource-Coordinator-II_1645100 | centene | Community Resource Coordinator II
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-AZ/Compliance-Officer--Arizona_1661674 | centene | Compliance Officer, Arizona
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-WA-State/Compliance-Officer--Washington_1661493 | centene | Compliance Officer, Washington
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Compliance-Oversight-Specialist--Non-Clinical-_1652159 | centene | Compliance Oversight Specialist (Non Clinical)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IL/Contract-Negotiator-IV_1667670 | centene | Contract Negotiator IV
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-TX/Contract-Negotiator-V_1655904 | centene | Contract Negotiator V
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/DRG-Reviewer_1651697-1 | centene | DRG Reviewer
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-PA/Dual-Eligible-Engagement-Specialist_1663367 | centene | Dual Eligible Engagement Specialist
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Finance-Analyst-III---Managed-Care_1657973 | centene | Finance Analyst III - Managed Care
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-CA/Grievance---Appeals-Coordinator-I_1659812 | centene | Grievance & Appeals Coordinator I
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NY/Health-Benefit-Rep--Bilingual-Spanish--Hindi--Bengali-_1655798 | centene | Health Benefit Rep (Bilingual Spanish, Hindi, Bengali)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/HEDIS-Quality-and-Audit-Analyst_1669192 | centene | HEDIS Quality and Audit Analyst
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/HEDIS-Specialist_1667870-1 | centene | HEDIS Specialist
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-OH/Home-Modification-Specialist_1665334 | centene | Home Modification Specialist
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Lead-Business-Solutions-Developer_1655696 | centene | Lead Business Solutions Developer
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-WA-State/Lead-Clinical-Appeals-Coordinator_1665328 | centene | Lead Clinical Appeals Coordinator
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-KS/Lead-External-Relations-Specialist_1655845 | centene | Lead External Relations Specialist
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IL/LTSS-Service-Care-Coordinator_1669430 | centene | LTSS Service Care Coordinator
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-KS/LTSS-Service-Care-Manager_1668084 | centene | LTSS Service Care Manager
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/San-Antonio-Texas78201/LTSS-Service-Care-Manager---Behavioral-Health_1653420 | centene | LTSS Service Care Manager - Behavioral Health
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-OH/Manager--Care-Management_1665348 | centene | Manager, Care Management
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Manager--Claims-Research---Analysis_1651795-1 | centene | Manager, Claims Research & Analysis
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Manager--Clinical-Quality-Training_1661278 | centene | Manager, Clinical Quality Training
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IN/Manager--Compliance_1662983 | centene | Manager, Compliance
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Manager--Compliance-Risk-Adjustment_1665306 | centene | Manager, Compliance Risk Adjustment
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Manager--External-Audit-Compliance_1649624 | centene | Manager, External Audit Compliance
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IL/Manager--Provider-Data-Management_1645155 | centene | Manager, Provider Data Management
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Manager--Quality-Improvement--HEDIS-Audit_1649737 | centene | Manager, Quality Improvement, HEDIS Audit
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Manager--Regulatory---Filing-Operations_1665208 | centene | Manager, Regulatory & Filing Operations
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-PA/Manager--Risk-Adjustment_1662941 | centene | Manager, Risk Adjustment
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Manager--Special-Investigation-Unit--SIU-_1655682 | centene | Manager, Special Investigation Unit (SIU)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-AZ/Pharmacy-Provider--Liaison_1668849 | centene | Pharmacy Provider  Liaison
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-AZ/Program-Specialist-II_1660343 | centene | Program Specialist II
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Provider-Data-Process-Owner_1664405 | centene | Provider Data Process Owner
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-TX/Provider-Engagement-Account-Manager_1655884-1 | centene | Provider Engagement Account Manager
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-PA/Provider-Engagement-Account-Manager--Northeast-PA-_1655843 | centene | Provider Engagement Account Manager (Northeast PA)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-TX/Provider-Engagement-Account-Manager--Northwest-TX-_1662241 | centene | Provider Engagement Account Manager (Northwest TX)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NY/Provider-Performance-Specialist-II_1661509 | centene | Provider Performance Specialist II
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NV/Provider-Quality-Liaison_1652177 | centene | Provider Quality Liaison
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-CA/Psychologist-Reviewer_1667106 | centene | Psychologist Reviewer
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-AZ/Quality-Care-Member-Advocate_1665330 | centene | Quality Care Member Advocate
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-WA-State/Quality-Improvement-Coordinator-II_1649640 | centene | Quality Improvement Coordinator II
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-KY/Quality-Practice-Advisor_1642835-1 | centene | Quality Practice Advisor
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NY/Retention-Field-Representative_1662679 | centene | Retention Field Representative
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NY/Retention-Representative_1656294 | centene | Retention Representative
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NY/Senior-Care-Manager_1666411-1 | centene | Senior Care Manager
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Senior-Compliance-and-Vendor-Management-Oversight-Specialist_1651838-1 | centene | Senior Compliance and Vendor Management Oversight Specialist
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Senior-Compliance-Corrections-Specialist_1642208 | centene | Senior Compliance Corrections Specialist
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-TX/Contract-Negotiator-III_1655900 | centene | Senior Contract Negotiator
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Senior-Curriculum-Designer_1646271 | centene | Senior Curriculum Designer
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Senior-HEDIS-Quality---Audit-Analyst_1653774 | centene | Senior HEDIS Quality & Audit Analyst
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Senior-Manager--Medicare-Strategy---Performance_1661318 | centene | Senior Manager, Medicare Strategy & Performance
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NJ/Senior-Provider-Engagement-Network-Specialist_1655809 | centene | Senior Provider Engagement Network Specialist
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-SC/Senior-SIU-Investigator_1661116-1 | centene | Senior SIU Investigator
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Senior-Trainer_1655851-1 | centene | Senior Trainer
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NY/Senior-UAS-LTSS-Assessor--RN-_1663257-1 | centene | Senior UAS LTSS Assessor (RN)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-OK/SIU-Investigator_1657028 | centene | SIU Investigator
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IA/Supervisor--Care-Management---LTSS_1663953-1 | centene | Supervisor, Care Management - LTSS
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Supervisor_1649622-1 | centene | Supervisor, Claims
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IN/Supervisor--Quality-Practice-Advisor_1656579 | centene | Supervisor, Quality Practice Advisor
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-KY/Transition-of-Care---RN-Care-Manager_1667427 | centene | Transition of Care - RN Care Manager
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NY/UAS-Senior-LTSS-Assessor--RN-_1663360 | centene | UAS Senior LTSS Assessor (RN)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Utilization-Review-Clinician---ABA_1653549-1 | centene | Utilization Review Clinician - ABA
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Utilization-Review-Clinician---Behavioral-Health_1668092 | centene | Utilization Review Clinician - Behavioral Health
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Vendor-Relations-Manager_1664307 | centene | Vendor Relations Manager
+- [ ] https://cecentertainment.wd5.myworkdayjobs.com/cec_careers/job/3300-Expressway-83-Bg1000-Mcallen-TX/Technical-Manager_R136934 | cecentertainment | Technical Manager
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479 | centene | Analytics Summer 2027 Intern (Graduate)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476 | centene | Technology Summer 2027 Intern (Undergraduate)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Vice-President--Clinical-Technology-UM-Portfolio-Management_1641747 | centene | Vice President, Clinical Technology UM Portfolio Management
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Vice-President--Contact-Center-Platforms_1651359 | centene | Vice President, Contact Center Platforms
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/VP--Enterprise-Product-Management---Enterprise-Integration---Platform-Modernization_1662674 | centene | VP, Enterprise Product Management - Enterprise Integration & Platform Modernization
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/VP--Enterprise-Product-Management---Member-Experience---Omnichannel-Engagement_1662671 | centene | VP, Enterprise Product Management - Member Experience & Omnichannel Engagement
+- [ ] https://jobs.ashbyhq.com/tenex/bbca1aa3-cdfe-495c-8739-3c3119bfdfd0 | TENEX.AI | Principal Product Manager - AI
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Claims-Provider-Data-Oversight-Manager_R13965 | caresource | Claims Provider Data Oversight Manager
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Program-Integrity-Data-Scientist-III_R13780 | caresource | Program Integrity Data Scientist III -  Experience supporting fraud detection, program integrity initiatives preferred
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Utilization-Management-Market-Operations-Manager---RN-Preferred---Must-live-in-Nevada---Must-hold-NV-license_R13504 | caresource | Utilization Management Market Operations Manager - RN Preferred - Must live in Nevada - Must hold NV license
+- [ ] https://carrier.wd5.myworkdayjobs.com/jobs/job/CAFLO-Carrier-Home-Florida-Remote-Location-Remote-City-FL-33412-USA/Sr-Solution-Architect---Data---AI_30217965 | carrier | Sr. Solution Architect , Data & AI
+- [ ] https://cars.wd12.myworkdayjobs.com/cars/job/Washington-DC-Remote/Client-Partner--Media---Digital-Solutions---Washington--DC-or-Boston--MA_JR11323 | cars | Client Partner, Media & Digital Solutions - Washington, DC or Boston, MA
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Autonomy-Application-Architect_R0000398780-1 | cat | Autonomy Application Architect
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Seguin-Texas/Production-Technician-II--Power-Generation---2nd-Shift_R0000394760 | cat | Production Technician II, Power Generation - 2nd Shift
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Seguin-Texas/Production-Technician-III--Power-Generation---1st-Shift_R0000396833 | cat | Production Technician III, Power Generation - 1st Shift
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Seguin-Texas/Production-Technician-III--Power-Generation---2nd-Shift_R0000390437 | cat | Production Technician III, Power Generation - 2nd Shift
+- [ ] https://catalight.wd1.myworkdayjobs.com/catalight/job/Remote/Senior-Data-Governance-Manager_JR1536-3 | catalight | Senior Data Governance Manager
+- [ ] https://cbh.wd12.myworkdayjobs.com/cherrybekaert/job/Austin-TX/Audit-Senior-Manager---Austin_JR101094-1 | cbh | Audit Senior Manager - Austin
+- [ ] https://championx.wd1.myworkdayjobs.com/championx_external/job/USA---Texas---Odessa/Field-Operations-Manager_R00136873 | championx | Field Operations Manager
+- [ ] https://championx.wd1.myworkdayjobs.com/championx_external/job/USA---Texas---Sugar-Land/Sensor-Operations-Analyst_R00136550 | championx | Sensor Operations Analyst
+- [ ] https://jobs.ashbyhq.com/technitask/c92e877f-faab-4885-894b-ce2fedded81a | Technitask | Sales Lead (SAP)
+- [ ] https://jobs.ashbyhq.com/tensorwave/d64c4e73-0c9f-42bc-8c71-4202e5df56c9 | TensorWave | Construction Project Engineer (Data Center)
+- [ ] https://jobs.ashbyhq.com/tensorwave/645a2eb4-a13f-4317-85c6-5f8e89d8e951 | TensorWave | Design Manager (Data Center)
+- [ ] https://jobs.ashbyhq.com/tessera-labs/b3013864-10ad-4be6-93e0-03c0e50e9ce9 | Tessera Labs | Contract Recruiter — SAP & Oracle Consultants
+- [ ] https://jobs.ashbyhq.com/thatgamecompany/72e1e06e-e50f-42b2-bc76-10f3d526b826 | thatgamecompany | Senior Data Analyst
+- [ ] https://jobs.ashbyhq.com/the-global-talent-co/953395f1-b3c1-40a0-89e0-2bae47b770e6 | The Global Talent Co. | Ecommerce Operations Lead
+- [ ] https://jobs.ashbyhq.com/thumbtack/a91c8c47-784d-4dd0-8ecf-91104a9da786 | Thumbtack | Manager, Data Engineering
+- [ ] https://jobs.ashbyhq.com/thumbtack/1defbc0d-71f7-4c08-919c-4eb49992727d | Thumbtack | Sr. Manager, Success Operations
+- [ ] https://jobs.ashbyhq.com/thumbtack/dcaf32e2-d39d-425c-8cb2-4c791b4be6a1 | Thumbtack | Success Operations Analyst I
+- [ ] https://jobs.ashbyhq.com/tigerdata/c5cc6bf7-7ec7-429b-bdab-96319944b226 | Tiger Data | Senior Engineering Manager, Database
+- [ ] https://jobs.ashbyhq.com/tillster/2cce082e-f0a5-46ef-be3f-0c5c3f0dfc07 | Tillster | Senior Data Analyst 
+- [ ] https://jobs.ashbyhq.com/tilthq/9d7151f1-c3f3-41a5-bf9b-dcee065dbd4b | Tilt Finance | Data Science Manager, LATAM
+- [ ] https://jobs.ashbyhq.com/tilthq/9b3ab857-2474-4495-afcb-f08d4610e6c3 | Tilt Finance | Senior Finance Lead, Credit Card
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-San-Antonio-PET/Chemical-Pharmaceutical--Quality-Assurance--NIGHTS-_20188595-1 | cardinalhealth | Chemical/Pharmaceutical, Quality Assurance (NIGHTS)
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Stafford-PHARM-DIST/Day-Shift-Supervisor--Full-Time-_20188046 | cardinalhealth | Day Shift Supervisor (Full Time)
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-San-Antonio-Nucl-Pharm-57/Delivery-Driver---Pharmacy-Services_20188946 | cardinalhealth | Delivery Driver - Pharmacy Services
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-El-Paso-Don-Haskins/Expeditor-II---3rd-Shift--Weekends-_20188474 | cardinalhealth | Expeditor II - 3rd Shift (Weekends)
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-El-Paso-Butterfield/Maintenance-Analyst_20188134-1 | cardinalhealth | Maintenance Analyst
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-El-Paso-Don-Haskins/Manufacturing-Operations-Manager_20188631-1 | cardinalhealth | Manufacturing Operations Manager
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Stafford-IDS/Pharmacist--Part-Time-Weekend_20189020-1 | cardinalhealth | Pharmacist, Part Time Weekend
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Houston-Nucl-pharm-55/Pharmacy-Delivery-Driver_20189174-1 | cardinalhealth | Pharmacy Delivery Driver
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-San-Antonio---PAM-Warm-Springs-Rehab/Pharmacy-Manager_20188981 | cardinalhealth | Pharmacy Manager
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Conroe-PAM-Voyages-of-Conroe/PRN-Hospital-Pharmacist_20188426 | cardinalhealth | PRN Hospital Pharmacist
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-Rio-Grande-City--Starr-Cty-Hsp/PRN-Hospital-Pharmacy-Technician_20188635 | cardinalhealth | PRN Hospital Pharmacy Technician
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-San-Antonio-PAM-Health-Rehab-NorthEast/PRN-Pharmacy-Technician_20188872 | cardinalhealth | PRN Pharmacy Technician
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-El-Paso-Don-Haskins/Supervisor-Quality-Engineering_20188897 | cardinalhealth | Supervisor Quality Engineering
+- [ ] https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/TX-San-Antonio-PET/Supervisor---Nuclear-Manufacturing_20188307 | cardinalhealth | Supervisor,  Nuclear Manufacturing
+- [ ] https://cardlytics.wd5.myworkdayjobs.com/cardlyticsexternalcareersite/job/Remote-US/Principal-Software-Engineer--Tech-Lead---Platform_JR100478 | cardlytics | Principal Software Engineer, Tech Lead - Platform
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---San-Marcos/ASE-Automotive-Technician---Up-to--7-500-Sign-On-Bonus-_JR-184706 | carmax | ASE Automotive Technician - Up to $7,500 Sign On Bonus!
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---College-Station/Auto-Repair-Specialist-I_JR-184324 | carmax | Auto Repair Specialist I
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Houston---Cypress-Fairbanks/Automotive-Technician_JR-144634 | carmax | Automotive Technician
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Dallas---Fort-Worth---Arlington/Automotive-Technician_JR-121763-1 | carmax | Automotive Technician - up to $2,500 sign-on bonus!
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---San-Marcos/Automotive-Technician---Up-to--5-000-Sign-On-Bonus-_JR-184704 | carmax | Automotive Technician - Up to $5,000 Sign On Bonus!
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Houston---Richmond/Automotive-Technician-2nd-Shift_JR-137955-1 | carmax | Automotive Technician - up to $7,500 sign-on bonus!
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Houston---Houston-North/Automotive-Technician---Mechanical-Associate---2nd-Shift_JR-105838 | carmax | Automotive Technician / Mechanical Associate
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Houston---SW-Freeway/Business-Operations-Associate_JR-187859 | carmax | Business Operations Associate
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---El-Paso/Business-Operations-Associate--Full-Time-_JR-170414-1 | carmax | Business Operations Associate (Full Time)
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Houston---SW-Freeway/Business-Operations-Associate-Part-Time_JR-187885 | carmax | Business Operations Associate Part Time
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Houston---Houston-North/Class-A-Commercial-Driver---Night-Shift_JR-187284 | carmax | Class A Commercial Driver - Night Shift
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---San-Antonio/Class-A-Commercial-Driver--Night-Shift-_JR-187757 | carmax | Class A Commercial Driver (Night Shift)
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Houston---Richmond/Class-A-Commercial-Driver--Night_JR-187536 | carmax | Class A Commercial Driver- Night
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---College-Station/Customer-Specialist_JR-106686-1 | carmax | Customer Specialist
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---College-Station/Customer-Specialist---Part-Time_JR-106687-1 | carmax | Customer Specialist - Part Time
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---NW-Ft-Worth/Customer-Specialist-in-Training_JR-148872 | carmax | Customer Specialist in Training
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Conroe/Customer-Specialist-Part-Time_JR-182517 | carmax | Customer Specialist-Part Time
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Houston---Richmond/Management-Assistant_JR-188066 | carmax | Management Assistant
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Houston---Gulf-Freeway/Overnight-Automotive-Detailer_JR-187463 | carmax | Overnight Automotive Detailer
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---San-Antonio/Overnight-Automotive-Detailer-Associate_JR-187596 | carmax | Overnight Automotive Detailer Associate
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Dallas---McKinney/Reconditioning-Associate_JR-134277 | carmax | Reconditioning Associate
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Tyler/Sales-Customer-Specialist_JR-076465 | carmax | Sales/Customer Specialist
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Dallas---Garland/Service-Operator-Part-time_JR-187878 | carmax | Service Operator-Part time
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---San-Marcos/Supply-Associate_JR-184709-1 | carmax | Supply Associate
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Dallas---Plano/Vehicle-Condition-Assessor_JR-187875 | carmax | Vehicle Condition Assessor
+- [ ] https://carrier.wd5.myworkdayjobs.com/jobs/job/CAFLO-Carrier-Home-Florida-Remote-Location-Remote-City-FL-33412-USA/Principal-Product-Strategy-Partner--Enterprise-Financial-Systems_30217457 | carrier | Principal Product Strategy Partner, Enterprise Financial Systems
+- [ ] https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Remote---California/Principal-Software-Architect--Platform-Engineering_JR30578-1 | chamberlain | Principal Software Architect, Platform Engineering
+- [ ] https://carmax.wd1.myworkdayjobs.com/external/job/TX---Dallas-Technology/Principal-Engineer--Cloud_JR-187955 | carmax | Principal Engineer, Cloud
+- [ ] https://cart.wd1.myworkdayjobs.com/cart/job/Longview-TX-Fulfillment-Center/Operations-Supervisor-Manager-Quality--Future-Opportunities_R-102396 | cart | Operations Supervisor/Manager/Quality, Future Opportunities
+- [ ] https://cart.wd1.myworkdayjobs.com/cart/job/Longview-TX-Fulfillment-Center/Senior-Operations-Manager_R-102559 | cart | Senior Operations Manager
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Director-Digital-Architecture---Robotics_R0000397725 | cat | Director Digital Architecture - Robotics
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Actuarial-Summer-2027-Intern--Undergraduate-_1660519 | centene | Actuarial Summer 2027 Intern (Undergraduate)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-CA/Behavioral-Health-Medical-Director_1654618 | centene | Behavioral Health Medical Director
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IL/Chief-Operating-Officer--Illinois-Health-Practice-Alliance_1639288 | centene | Chief Operating Officer, Illinois Health Practice Alliance
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Cloud-Security-Incident-Response-Analyst-Intern--Undergraduate---Summer-2027-_1667738-1 | centene | Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Contracts---Regulatory-Intern--Healthcare-Law-Student-Summer-2027-_1667771 | centene | Contracts & Regulatory Intern (Healthcare Law Student Summer 2027)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Corporate-Functions-Summer-2027-Intern--Undergraduate-_1660521 | centene | Corporate Functions Summer 2027 Intern (Undergraduate)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IN/Director---Pharmacy_1662093-1 | centene | Director,  Pharmacy
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Director--Clinical-Training_1646401-1 | centene | Director, Clinical Training
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-OR/Director--Health-Plan-Programs-and-Initiatives_1661018 | centene | Director, Health Plan Programs and Initiatives
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Director--Quality-Improvement--Digital-Quality-Measurement_1663165 | centene | Director, Quality Improvement, Digital Quality Measurement
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Director--Utilization-Management_1664296-1 | centene | Director, Utilization Management
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Finance-and-Accounting-Summer-2027-Intern--Undergraduate-_1660518 | centene | Finance and Accounting Summer 2027 Intern (Undergraduate)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/MBA-Summer-Intern--Graduate-_1660523 | centene | MBA Summer 2027 Intern (Graduate)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-GA/Medical-Director_1663867 | centene | Medical Director
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091 | centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Pharmacy-Grad-Summer-2027-Intern--Grad-_1663881 | centene | Pharmacy Grad Summer 2027 Intern (Grad)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Public-Health---Health-Administration-2027-Intern--Undergraduate-_1665735 | centene | Public Health & Health Administration 2027 Intern (Undergraduate)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Senior-Director--Business-Development-ICHRA_1653717 | centene | Senior Director, Business Development ICHRA
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Senior-Director--Contracting---Network-Development_1649757 | centene | Senior Director, Contracting & Network Development
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-TX/Senior-Director--Contracting---Network-Development_1655903 | centene | Senior Director, Contracting & Network Development.
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IN/Senior-Director--LTSS-Clinical-Care-Management_1667697 | centene | Senior Director, LTSS Clinical Care Management
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-CA/Senior-Director--Pharmacy_1642187 | centene | Senior Director, Pharmacy
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NH/Senior-Medical-Director--New-Hampshire_1656373-1 | centene | Senior Medical Director, New Hampshire
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Vice-President--AI-Context-Content-Management_1667535-1 | centene | Vice President, AI Context Content Management
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NY/Vice-President--Finance--FP-A-and-G-A-_1646844 | centene | Vice President, Finance (FP&A and G&A)
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Vice-President--ICHRA-Strategy--Product---Experience_1653099 | centene | Vice President, ICHRA Digital Product & Experience
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NC/Vice-President--Interoperability-Strategy-and-Operations_1651529 | centene | Vice President, Interoperability Strategy and Operations
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Vice-President--Member-Enrollment---Billing_1654057 | centene | Vice President, Member Enrollment & Billing
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Vice-President--Network-Development---Contracting_1662680 | centene | Vice President, Network Development & Contracting
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Vice-President--Product-Strategy_1653551 | centene | Vice President, Product Strategy
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/VP--Network-Development---Contracting---Sunshine-State-Health-Plan_1658424 | centene | VP, Network Development & Contracting - Sunshine State Health Plan
+- [ ] https://jobs.ashbyhq.com/tessera-labs/b3bd0562-b2eb-483a-8efc-b77bcda21afe | Tessera Labs | SAP Principal Delivery Architect

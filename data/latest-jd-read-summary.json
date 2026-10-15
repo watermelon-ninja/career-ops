@@ -1,9 +1,14 @@
 {
-  "generated_at": "2026-10-15T01:14:46.784Z",
+  "generated_at": "2026-10-15T01:21:55.849Z",
   "attempted": 50,
   "status_counts": {
-    "full": 28,
-    "partial": 22
+    "full": 50
   },
-  "full_jd_verified": 28
+  "full_jd_verified": 50,
+  "relevance_counts": {
+    "medium": 18,
+    "high": 29,
+    "low": 3
+  },
+  "fit_scoring_eligible": 47
 }
