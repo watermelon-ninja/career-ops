@@ -2,7 +2,7 @@ name: Career-Ops Scan
 
 on:
   schedule:
-    - cron: "0 14 * * *" # Daily; ~8-9 AM Central depending on DST
+    - cron: "0 5 * * *" # Daily; ~11 PM-midnight Central, ahead of the 3 AM semantic review
   workflow_dispatch:
     inputs:
       company:
@@ -20,7 +20,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 120
     steps:
       - name: Check out Selena Career-Ops branch
         uses: actions/checkout@v4
@@ -46,9 +46,9 @@ jobs:
           if [ -n "${{ inputs.company }}" ]; then
             node scan.mjs --company "${{ inputs.company }}"
           else
-            node scan.mjs --universe --universe-batch 250
+            node scan.mjs --universe --universe-batch 1000
           fi
-      - name: Read full JD and score until target
+      - name: Read full JD and score until review queue cap
         shell: bash
         run: |
           BATCHES=$(node plan-jd-batches.mjs | sed -n 's/^BATCHES=//p')
@@ -60,10 +60,10 @@ jobs:
               echo "Processing JD batch $B"
               node fetch-jd-batch.mjs --batch="$B"
               node score-selena-fit.mjs
-              COUNT=$(node -e "const fs=require('fs');const p='data/latest-selena-fit-summary.json';if(!fs.existsSync(p)){console.log(0);process.exit()}const s=JSON.parse(fs.readFileSync(p,'utf8'));console.log((s.new_strong_apply||0)+(s.new_high_review||0))")
-              echo "New-this-run 8+ jobs: $COUNT"
-              if [ "$COUNT" -ge 30 ]; then
-                echo "Target reached; stopping JD batches early"
+              COUNT=$(node -e "const fs=require('fs');const p='data/latest-review-queue.jsonl';if(!fs.existsSync(p)){console.log(0);process.exit()}console.log(fs.readFileSync(p,'utf8').split('\\n').filter(Boolean).length)")
+              echo "Semantic review queue: $COUNT / 500"
+              if [ "$COUNT" -ge 500 ]; then
+                echo "Review queue cap reached; stopping JD batches"
                 break
               fi
             done
