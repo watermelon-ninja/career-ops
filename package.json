@@ -17,7 +17,8 @@
     "scan": "node scan.mjs",
     "gemini:eval": "node gemini-eval.mjs",
     "sync:sheets": "node sheets-sync.mjs",
-    "scan:sync": "npm run scan && npm run sync:sheets"
+    "scan:sync": "npm run scan && npm run sync:sheets",
+    "test:last-chance": "node --test last-chance-cross-query.test.mjs"
   },
   "keywords": [
     "ai",
