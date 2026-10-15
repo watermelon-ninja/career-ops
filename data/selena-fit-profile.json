@@ -1,0 +1,25 @@
+{
+  "profile_version": 1,
+  "candidate": "Selena",
+  "experience_years": 6,
+  "target_families": [
+    "supply chain systems", "business systems analyst", "product owner",
+    "technical product manager", "program manager", "implementation consultant",
+    "product operations", "business intelligence"
+  ],
+  "evidence": {
+    "domain": ["supply chain", "warehouse operations", "inventory control", "WMS", "S&OP", "logistics", "3PL"],
+    "delivery": ["requirements", "process flows", "system requirements", "backlog", "SIT", "UAT", "deployment", "defect triage", "stakeholder management", "cross-functional delivery", "vendor coordination"],
+    "technology": ["Infor WMS", "Kinaxis Maestro", "SAP", "Databricks SQL", "Power BI", "Fivetran", "HVR", "Jira", "Azure DevOps"],
+    "scope": ["enterprise system implementation", "systems integration", "analytics", "process improvement", "operations technology"]
+  },
+  "hard_mismatch_families": ["construction project management", "clinical project management", "hardware engineering", "software engineering", "sales"],
+  "scoring_weights": {
+    "role_function": 2.0,
+    "domain": 2.0,
+    "responsibilities": 2.0,
+    "skills_technology": 1.5,
+    "seniority_scope": 1.5,
+    "transferability": 1.0
+  }
+}
