@@ -565,6 +565,19 @@ async function main() {
   // 3. Load dedup sets
   const seenUrls = loadSeenUrls();
   const seenCompanyRoles = loadSeenCompanyRoles();
+  const processedJobKeys = new Set();
+  const processedPath = 'data/processed-jobs.jsonl';
+  if (existsSync(processedPath)) {
+    for (const line of readFileSync(processedPath, 'utf-8').split('\n').filter(Boolean)) {
+      try { const x = JSON.parse(line); if (x.job_key) processedJobKeys.add(x.job_key); } catch {}
+    }
+  }
+  const jobKey = job => {
+    const company = String(job.company || '').trim().toLowerCase().replace(/[^a-z0-9]+/g,'');
+    const id = String(job.job_id || job.requisition_id || job.id || '').trim().toLowerCase();
+    if (id) return company + '::id::' + id;
+    return company + '::role::' + String(job.title || '').trim().toLowerCase().replace(/\s+/g,' ') + '::' + String(job.location || '').trim().toLowerCase().replace(/\s+/g,' ');
+  };
 
   // 4. Fetch all APIs
   const date = new Date().toISOString().slice(0, 10);
@@ -609,6 +622,10 @@ async function main() {
         }
         if (!locationFilter(job.location)) {
           totalFilteredLocation++;
+          continue;
+        }
+        if (processedJobKeys.has(jobKey(job))) {
+          totalDupes++;
           continue;
         }
         if (seenUrls.has(job.url)) {
