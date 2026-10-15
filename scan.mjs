@@ -392,10 +392,18 @@ function buildLocationFilter(locationFilter) {
       'quebec','ontario','british columbia','alberta','manitoba','saskatchewan',
       'nova scotia','new brunswick','newfoundland','prince edward island'
     ];
-    const usSignals = ['united states','usa','u.s.',' us ','austin','texas',' tx','remote - us','us remote'];
+    const usSignals = ['united states','usa','u.s.',' us ','austin','texas',' tx','remote - us','remote-us','us remote','remote u.s.'];
     const clearlyForeign = foreignSignals.some(k => lower.includes(k));
     const clearlyUS = usSignals.some(k => lower.includes(k));
     if (clearlyForeign && !clearlyUS) return false;
+
+    // Explicit country/region-qualified remote locations must prove US eligibility.
+    // Plain "Remote" or "Global" stays ambiguous and may continue to JD review.
+    const remoteQualified = /\bremote\b[\s,\-–—]*(?!$)(.+)/i.exec(location);
+    if (remoteQualified && !clearlyUS) {
+      const qualifier = remoteQualified[1].trim().toLowerCase();
+      if (qualifier && !/^(global|worldwide|anywhere)$/.test(qualifier)) return false;
+    }
 
     if (allow.length === 0) return true;
     return allow.some(k => lower.includes(k));
