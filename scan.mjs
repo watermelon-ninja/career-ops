@@ -27,6 +27,8 @@ const PIPELINE_PATH = 'data/pipeline.md';
 const APPLICATIONS_PATH = 'data/applications.md';
 const UNIVERSE_CURSOR_PATH = 'data/universe-cursor.json';
 const LATEST_CANDIDATES_PATH = 'data/latest-jd-candidates.jsonl';
+const PRIORITY_COMPANIES_PATH = 'priority-companies-expanded.yml';
+const DISCOVERY_RESULTS_PATH = 'data/multi-source-discovery-results.json';
 const UNIVERSE_URL = 'https://raw.githubusercontent.com/moonie0201/ats-directory/main/companies.jsonl';
 const UNIVERSE_BATCH = 100; // Rotate across the external directory; override with --universe-batch N
 
@@ -514,7 +516,14 @@ async function main() {
   }
 
   const config = parseYaml(readFileSync(PORTALS_PATH, 'utf-8'));
-  const priorityCompanies = config.tracked_companies || [];
+  const configuredCompanies = config.tracked_companies || [];
+  const priorityRegistry = existsSync(PRIORITY_COMPANIES_PATH)
+    ? (parseYaml(readFileSync(PRIORITY_COMPANIES_PATH, 'utf-8')).companies || [])
+    : [];
+  const normalizeCompany = value => String(value || '').toLowerCase().replace(/[^a-z0-9]+/g, '');
+  const priorityNameMap = new Map(priorityRegistry.map(x => [normalizeCompany(x.name), x.name]));
+  const isPriorityCompany = name => priorityNameMap.has(normalizeCompany(name));
+  const priorityCompanies = configuredCompanies;
   let extraCompanies = [];
   try { extraCompanies = await loadUniverse(args); }
   catch (error) { console.error(`ATS directory unavailable: ${error.message}; continuing with priority companies`); }
@@ -569,7 +578,10 @@ async function main() {
       if (type === 'workday' || type === 'smartrecruiters') console.log(`${type} board: ${company.name} — ${jobs.length} jobs returned`);
 
       for (const job of jobs) {
-        if (!titleFilter(job.title)) {
+        // Priority-company discovery is intentionally high recall: generic titles
+        // may hide supply-chain/systems relevance that is only visible in the JD.
+        // General-universe jobs still use the cheap title gate.
+        if (!isPriorityCompany(job.company) && !titleFilter(job.title)) {
           totalFilteredTitle++;
           continue;
         }
@@ -612,7 +624,7 @@ async function main() {
     if (/(austin|cedar park|round rock|texas|remote|united states|usa|u\.s\.)/.test(loc)) add(15,'preferred-location');
     if (/(intern|internship|principal|vp|vice president|director|chief|staff engineer)/.test(title)) {score-=25;reasons.push('seniority-risk');}
     // Configured priority-company listings get read earlier, but this never changes Fit.
-    if (priorityCompanies.some(c=>c.name.toLowerCase()===company)) add(10,'priority-company');
+    if (isPriorityCompany(company)) add(10,'priority-company');
     return {score:Math.max(0,Math.min(100,score)),reasons};
   }
   const rankedOffers=newOffers.map(o=>{const p=fetchPriority(o);return {...o,fetch_priority:p.score,fetch_priority_reasons:p.reasons};})
@@ -628,6 +640,41 @@ async function main() {
   const deferredOffers=rankedOffers.slice(POTENTIAL_POOL_SIZE);
   const fetchQueue=potentialPool.map((o,i)=>({...o,fetch_batch:Math.floor(i/FETCH_BATCH_SIZE)+1,fetch_rank:i+1}));
 
+
+  // 4c. Persist source-level discovery evidence for the entire priority registry.
+  // Companies without evidence remain pending; this file is a run result, while
+  // priority-companies-expanded.yml remains the single source of truth.
+  const priorityDiscovery = new Map(priorityRegistry.map(x => [x.name, {
+    company: x.name,
+    group: x.group || null,
+    sources: {
+      official_ats: { status: 'pending', jobs_discovered: 0 },
+      official_careers: { status: 'pending', jobs_discovered: 0 },
+      linkedin: { status: 'pending', jobs_discovered: 0 },
+      indeed: { status: 'pending', jobs_discovered: 0 },
+      jobright_aggregator: { status: 'pending', jobs_discovered: 0 },
+      public_web: { status: 'pending', jobs_discovered: 0 }
+    }
+  }]));
+  for (const o of newOffers) {
+    const canonical = priorityNameMap.get(normalizeCompany(o.company));
+    if (!canonical) continue;
+    const row = priorityDiscovery.get(canonical);
+    row.sources.official_ats.status = 'discovered';
+    row.sources.official_ats.jobs_discovered++;
+  }
+  const attemptedPriority = new Set(targets.filter(t => isPriorityCompany(t.name)).map(t => priorityNameMap.get(normalizeCompany(t.name))));
+  for (const canonical of attemptedPriority) {
+    const row = priorityDiscovery.get(canonical);
+    if (row && row.sources.official_ats.status === 'pending') row.sources.official_ats.status = 'attempted_no_new_candidates';
+  }
+  if (!dryRun) writeFileSync(DISCOVERY_RESULTS_PATH, JSON.stringify({
+    generated_at: new Date().toISOString(),
+    priority_company_count: priorityRegistry.length,
+    discovery_model: 'parallel_union',
+    note: 'This run records operational source evidence only; pending sources have not yet been queried by dedicated connectors.',
+    companies: [...priorityDiscovery.values()]
+  }, null, 2) + '\n', 'utf-8');
 
   // 5. Write results
   if (!dryRun && newOffers.length > 0) {
