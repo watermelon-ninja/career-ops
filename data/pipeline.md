@@ -2126,3 +2126,72 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-San-Antonio/Regional-Director_R-355177 | dollartree | Regional Director
 - [ ] https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/Houston-TX---OPIS/Sr-Data-Analyst_Job_Req_55481 | dowjones | Senior Data Analyst - Dow Jones Energy Product Management
 - [ ] https://driscoll.wd1.myworkdayjobs.com/dhs/job/Corpus-Christi-TX/HP-EPIC-Nursing-Informatics-Analyst-III_JR112476 | driscoll | HP EPIC Nursing Informatics Analyst III
+
+- [ ] https://www.benesch.com/job-openings/4342758007?gh_jid=4342758007 | Benesch | Geotechnical Project Manager 
+- [ ] https://boards.greenhouse.io/aloyoga/jobs/6203758004?gh_jid=6203758004 |  ALO | Manager, Logistics
+- [ ] https://job-boards.greenhouse.io/allencontrolsystems/jobs/5159519008 | Allen Control Systems | Supply Chain Manager
+- [ ] https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Texas-Houston/Medical-Education-Inventory-Specialist_R0034037 | enovis | Medical Education Inventory Specialist
+- [ ] https://boards.greenhouse.io/aloyoga/jobs/6111072004?gh_jid=6111072004 |  ALO | Senior Construction Project Manager
+- [ ] https://careers.airbnb.com/positions/8259504?gh_jid=8259504 | Airbnb | Engineering Manager, Payments (AirCover Insurance Platform)
+- [ ] https://careers.airbnb.com/positions/8259671?gh_jid=8259671 | Airbnb | Senior Manager, Technical Brand & Content
+- [ ] https://careers.airbnb.com/positions/7747259?gh_jid=7747259 | Airbnb | Senior Staff Machine Learning Engineer, Growth Platform Engineering
+- [ ] https://careers.airbnb.com/positions/8095365?gh_jid=8095365 | Airbnb | Senior Staff Software Engineer, Marketing Technology
+- [ ] https://careers.airbnb.com/positions/8197652?gh_jid=8197652 | Airbnb | Senior Systems Engineer, Tech Foundations
+- [ ] https://careers.airbnb.com/positions/8074897?gh_jid=8074897 | Airbnb | Staff Backend Engineer - Ads Platform
+- [ ] https://careers.airbnb.com/positions/8259526?gh_jid=8259526 | Airbnb | Staff Software Engineer, Payments (AirCover Insurance Platform)
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/6214074004 | Algolia | Project Manager, Business Transformation 
+- [ ] https://job-boards.greenhouse.io/align46/jobs/5204569007 | Align Communications | Electrical Project Manager (Data Center)
+- [ ] https://job-boards.greenhouse.io/align46/jobs/5232429007 | Align Communications | Field Project Manager - Data Center Liquid Cooling
+- [ ] https://job-boards.greenhouse.io/align46/jobs/5229152007 | Align Communications | Project Manager - Data Centers
+- [ ] https://www.benesch.com/job-openings/4513377007?gh_jid=4513377007 | Benesch | Project Manager - Railroad Civil Track Design
+- [ ] https://www.benesch.com/job-openings/4652926007?gh_jid=4652926007 | Benesch | Water Resources Project Manager 
+- [ ] https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Texas-Austin/Project-Manager---Operations_R0034295 | enovis | Project Manager - Operations
+- [ ] https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Remote-Location/Senior-Global-Product-Manager--Enabling-Technologies_R0033751 | enovis | Senior Global Product Manager, Enabling Technologies
+- [ ] https://boards.greenhouse.io/aloyoga/jobs/6209956004?gh_jid=6209956004 |  ALO | Production Planning Manager, DC
+- [ ] https://job-boards.eu.greenhouse.io/airship/jobs/4957523101 | Airship | Senior Technical Account Manager
+- [ ] https://job-boards.eu.greenhouse.io/airship/jobs/4857799101 | Airship | Technology Partnerships Manager  – Americas
+- [ ] https://aiven.io/careers/job/4970818101?gh_jid=4970818101 | Aiven | Technical Account Manager (OEM)
+- [ ] https://job-boards.greenhouse.io/allencontrolsystems/jobs/5049375008 | Allen Control Systems | Systems/Software Engineering Manager 
+- [ ] https://job-boards.greenhouse.io/allencontrolsystems/jobs/4934011008 | Allen Control Systems | Technical Operations Engineer
+- [ ] https://job-boards.greenhouse.io/allwebleads/jobs/8696896002 | AWL | Business Intelligence Analyst
+- [ ] https://www.benesch.com/job-openings/5189748007?gh_jid=5189748007 | Benesch | Railroad Technical Solution Services Specialist
+- [ ] https://careers.airbnb.com/positions/7755758?gh_jid=7755758 | Airbnb |  Senior Machine Learning Engineer, Payments
+- [ ] https://careers.airbnb.com/positions/8031901?gh_jid=8031901 | Airbnb | Data Scientist - Algorithms, Community Support
+- [ ] https://careers.airbnb.com/positions/8074955?gh_jid=8074955 | Airbnb | Operations Engineer, BizTech
+- [ ] https://careers.airbnb.com/positions/8249626?gh_jid=8249626 | Airbnb | Senior Software Engineer Guest & Host
+- [ ] https://careers.airbnb.com/positions/8250093?gh_jid=8250093 | Airbnb | Senior Software Engineer, Native Mobile 
+- [ ] https://careers.airbnb.com/positions/7107054?gh_jid=7107054 | Airbnb | Senior Staff Data Scientist, Guest & Host Marketplace AI
+- [ ] https://careers.airbnb.com/positions/7858738?gh_jid=7858738 | Airbnb | Senior Staff Machine Learning Engineer, Post Training
+- [ ] https://careers.airbnb.com/positions/7592146?gh_jid=7592146 | Airbnb | Senior Staff Machine Learning Engineer, Trust
+- [ ] https://careers.airbnb.com/positions/8017277?gh_jid=8017277 | Airbnb | Senior Staff Software Engineer, Guest & Host
+- [ ] https://careers.airbnb.com/positions/7818982?gh_jid=7818982 | Airbnb | Senior Staff Software Engineer, Trust
+- [ ] https://job-boards.greenhouse.io/alertmedia/jobs/8737814002 | AlertMedia | FP&A Manager 
+- [ ] https://job-boards.greenhouse.io/alertmedia/jobs/8837083002 | AlertMedia | IT Support Specialist
+- [ ] https://job-boards.greenhouse.io/alertmedia/jobs/8831397002 | AlertMedia | Partnership Manager
+- [ ] https://job-boards.greenhouse.io/alertmedia/jobs/8738628002 | AlertMedia | Senior FP&A Manager 
+- [ ] https://job-boards.greenhouse.io/alertmedia/jobs/8734551002 | AlertMedia | Senior Revenue Accountant
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/NPI-Supplier-Engineer-III_R2631049 | Applied Materials | NPI Supplier Engineer III
+- [ ] https://boards.greenhouse.io/aloyoga/jobs/6174204004?gh_jid=6174204004 |  ALO | Operations Manager, DC
+- [ ] https://job-boards.eu.greenhouse.io/airship/jobs/4929188101 | Airship | Information Security Architect
+- [ ] https://job-boards.greenhouse.io/airspace/jobs/6215914004 | Airspace | Operations Specialist I (Medical Device)
+- [ ] https://job-boards.greenhouse.io/airspace/jobs/6134266004 | Airspace | Operations Specialist I, Aerospace & Defense (US)
+- [ ] https://job-boards.greenhouse.io/airspace/jobs/6134408004 | Airspace | Operations Specialist II, Aerospace & Defense (US)
+- [ ] https://job-boards.greenhouse.io/airspace/jobs/6220777004 | Airspace | Operations Specialist III, Aerospace & Defense (US)
+- [ ] https://job-boards.greenhouse.io/alamarbiosciences/jobs/6145735004 | Alamar Biosciences | Manager, Sales Operations
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/6210792004 | Algolia | Senior Marketing Operations Manager 
+- [ ] https://job-boards.greenhouse.io/allybehaviorcenters/jobs/4314624009 | Ally Behavior Centers | Center Operations Manager in Training (COMiT)
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8658435002 | AlphaSense | Senior Analyst, Customer Success Operations
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8658094002 | AlphaSense | Senior Manager, Customer Success Operations
+- [ ] https://job-boards.greenhouse.io/alu/jobs/8213500 | ALU | Enrollment Operations & Process Lead
+- [ ] https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Texas-Austin/Manager--Base-Business---Enabling-Technologies_R0033605 | enovis | Engineering Manager, Sustaining- Enabling Technologies
+- [ ] https://boards.greenhouse.io/aloyoga/jobs/6005622004?gh_jid=6005622004 |  ALO | Operations Lead - Galleria Dallas
+- [ ] https://boards.greenhouse.io/aloyoga/jobs/6182639004?gh_jid=6182639004 |  ALO | Operations Lead - Shops at Clearfork
+- [ ] https://boards.greenhouse.io/aloyoga/jobs/6165284004?gh_jid=6165284004 |  ALO | Operations Lead - The Knox
+- [ ] https://boards.greenhouse.io/aloyoga/jobs/6213842004?gh_jid=6213842004 |  ALO | Operations Manager - Shops at Clearfork
+- [ ] https://job-boards.greenhouse.io/alertmedia/jobs/8784470002 | AlertMedia | RVP, Account Management
+- [ ] https://job-boards.greenhouse.io/alertmedia/jobs/8869720002 | AlertMedia | Vice President, Customer Success
+- [ ] https://job-boards.greenhouse.io/alliancedefendingfreedom/jobs/5440098008?gh_jid=5440098008 | Alliance Defending Freedom | Blackstone Program Director for Educational Operations
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8428321002 | AlphaSense | Director, Product Marketing – Premium Content & Data
+- [ ] https://job-boards.greenhouse.io/altentechnologyusa/jobs/5266262007 | ALTEN Technology USA | Data Analyst / Architect
+- [ ] https://altruist.com/join-altruist/6180233004?gh_jid=6180233004 | Altruist | Manager, Trading Credit Risk (Margin & Options)
+- [ ] https://altruist.com/join-altruist/6181072004?gh_jid=6181072004 | Altruist | Senior Trading Credit Risk Analyst (Margin & Options)
