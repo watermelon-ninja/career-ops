@@ -801,3 +801,166 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Supply-Chain-Project-Manager----B3-_R2628996 | Applied Materials | Supply Chain Project Manager - (B3)
 
 - [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager-II--Operations-Management--M2--Nights--MDP-Build_R2611314 | Applied Materials | Manager II, Operations Management (M2) 2nd Shift- MDP Build
+
+- [ ] https://baxter.wd1.myworkdayjobs.com/baxter/job/Fort-Worth-Texas/Supervisor--Logistics_JR-201865-1 | baxter | 3PL Analytics and Inventory Management Supervisor
+- [ ] https://bannerhealth.wd108.myworkdayjobs.com/careers/job/Remote-Arizona/Integration-Program-Manager_R4450674-1 | bannerhealth | Integration Program Manager
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Technical-Program-Manager---CRM_R26_0000002771 | bbinsurance | Technical Program Manager - CRM
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Texas/Technical-Project-Manager_R26_0000002205-1 | bbinsurance | Technical Project Manager
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Technical-Project-Manager---Retail-Data---AI-Products_R26_0000003131 | bbinsurance | Technical Project Manager – Retail Data & AI Products
+- [ ] https://bcbsnc.wd5.myworkdayjobs.com/bcbsnc/job/Remote-Flex---North-Carolina/Senior-Business-Systems-Analyst_RQ0019457-1 | bcbsnc | Senior Business Systems Analyst
+- [ ] https://jobs.ashbyhq.com/saronic/a144d9b9-08bd-4084-a5b9-ea458a72c250 | Saronic Technologies | Business Systems Analyst - Enterprise Applications
+- [ ] https://jobs.ashbyhq.com/saronic/6029aa77-cc86-4e06-a3b7-438bd2e2dece | Saronic Technologies | Program Manager, Mission Package Integration
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5084913007?gh_jid=5084913007 | Anduril | Senior Supply Chain Manufacturing Engineer, Casting 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5067380007?gh_jid=5067380007 | Anduril | Senior Supply Chain Manufacturing Engineer, Mechanical
+- [ ] https://baxter.wd1.myworkdayjobs.com/baxter/job/Houston-Texas/Inventory-Specialist---Houston--TX_JR-195605-1 | baxter | Inventory Specialist - Houston, TX
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Manager-Senior-Manager--Clinical-Supply-Chain_R36879 | beigene | Manager/Senior Manager, Clinical Supply Chain
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5239931007?gh_jid=5239931007 | Anduril | Supplier Industrialization Engineering, Electronics, Intelligence Systems
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5248798007?gh_jid=5248798007 | Anduril | Technical Recruiter, Hardware - Air Dominance and Strike (Contract)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5248807007?gh_jid=5248807007 | Anduril | Technical Recruiter, Software - Air Dominance and Strike (Contract)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Sustaining-Engineer_R2611203 | Applied Materials | Mechanical Design Systems Engineer - Robotics and Automation (E3)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Systems-Engineer-E3_R2621290 | Applied Materials | Systems Engineer E3
+- [ ] https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Remote---USA/Senior-Project-Manager_R023065 | barrywehmiller | Senior Project Manager
+- [ ] https://becu.wd1.myworkdayjobs.com/external/job/Remote-WA/Sr-Product-Manager---BU_R-13770 | becu | Sr Product Manager - BU
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Manager--Clinical-Biomarker-Operations-Projects_R29654 | beigene | Senior Project Manager, Clinical Biomarker
+- [ ] https://belron.wd3.myworkdayjobs.com/safelite_careers/job/OH---STATEWIDE-or-REMOTE/SR-Payroll-Business-Analyst_JR75144 | belron | SR. Payroll Business Analyst
+- [ ] https://jobs.ashbyhq.com/saronic/faedc1a5-99c2-41c8-a7ce-8329084b0224 | Saronic Technologies | Associate Product Manager
+- [ ] https://jobs.ashbyhq.com/saronic/b331c231-6e91-4046-a388-a61ddd2f3301 | Saronic Technologies | People Project Manager
+- [ ] https://jobs.ashbyhq.com/saronic/b774434d-16d8-4b08-bb61-254b6ee71634 | Saronic Technologies | Product Manager/Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/saronic/e3eca1a8-5c97-4659-9d68-cbf8b6247501 | Saronic Technologies | Program Manager, Marauder
+- [ ] https://jobs.ashbyhq.com/savvymoney/7c48f215-38b0-4c33-befa-8c90d5c5033f | SavvyMoney | Product Owner II - Offer Marketing (Dublin, CA or USA Remote)
+- [ ] https://jobs.ashbyhq.com/silver/c27a6417-2f53-40ee-84b5-69c8a08e30be | Silver.dev | Pasito (YC-S22) - Product Owner
+- [ ] https://baxter.wd1.myworkdayjobs.com/baxter/job/California-remote/Virtual-Sales-Enterprise-Territory-Manager_JR-210907-1 | baxter | Virtual Sales Enterprise Territory Manager
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Florida/Enterprise-Architect--Digital-Experience_R26_0000003539-1 | bbinsurance | Enterprise Architect, Digital Experience
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Enterprise-Solutions---Cloud-FinOps-Analyst_R26_0000003077 | bbinsurance | Enterprise Solutions - Cloud FinOps Analyst
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Texas/Technology-Risk---Compliance-Analyst_R26_0000001861 | bbinsurance | Technology Risk & Compliance Analyst
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Enterprise-Architect-II_R-50379 | bcbst | Enterprise Architect II
+- [ ] https://bdx.wd1.myworkdayjobs.com/external_career_site_usa/job/USA-TX---El-Paso---Northwestern-Dr/Quality-Systems-Lead_R-557538 | bdx | Quality Systems Lead
+- [ ] https://becu.wd1.myworkdayjobs.com/external/job/Remote-WA/Sr-Enterprise-Events-Manager_R-13774 | becu | Sr Enterprise Events Manager
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Manager--Global-Digital---Technology-System-Ownership_R37117 | beigene | Senior Manager, Global Digital & Technology System Ownership
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Manager--Global-Digital---Technology-Systems-Engineering_R37004 | beigene | Senior Manager, Global Digital & Technology Systems Engineering
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Manager--Global-Digital---Technology-Systems--Veeva-Administrator_R37118 | beigene | Senior Manager, Global Digital & Technology Systems, Veeva Administrator
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Manager--GxP-Computerized-Systems-Auditing_R36263 | beigene | Senior Manager, GxP Computerized Systems Auditing
+- [ ] https://belron.wd3.myworkdayjobs.com/safelite_careers/job/US---REMOTE/Sr-Manager--HR-Technology_JR73870-1 | belron | Sr. Manager, HR Technology
+- [ ] https://jobs.ashbyhq.com/sanity/5cdb9bd8-5fa7-4e89-bfa3-5a500cfed167 | Sanity | Senior Partner Solutions Engineer, Technical Partnerships
+- [ ] https://jobs.ashbyhq.com/saronic/d146d363-0183-4edf-8c47-352a03439933 | Saronic Technologies | Manager, Enterprise Technology
+- [ ] https://jobs.ashbyhq.com/saronic/3047298d-a9a7-45bc-9a5d-bfe9a8f1e40b | Saronic Technologies | Salesforce Business System Analyst
+- [ ] https://jobs.ashbyhq.com/saronic/1e3a3444-4218-4003-8442-660cc6163c9a | Saronic Technologies | Systems Architecture, Integration, and Test Engineer (Electrical and/or Software)
+- [ ] https://jobs.ashbyhq.com/saronic/85c2c8d6-4890-4440-be3d-72778b1948fe | Saronic Technologies | Systems Architecture, Integration, and Test Engineer (Mechanical)
+- [ ] https://jobs.ashbyhq.com/saronic/2331c410-d2f9-4320-967b-40e17c89b239 | Saronic Technologies | Systems Architecture, Integration, and Test Engineer (Test & Verification)
+- [ ] https://jobs.ashbyhq.com/saronic/3c9c69e9-c165-43bf-825c-f71d9d6aabed | Saronic Technologies | Technical Writer, Product Documentation
+- [ ] https://jobs.ashbyhq.com/second-front-systems/eae77c91-d34d-4eba-8dd4-07adb0d1a99d | Second Front Systems | Technical Product Marketing Manager
+- [ ] https://jobs.ashbyhq.com/semgrep/19862368-aa15-4b82-948f-ce67185e1a14 | Semgrep | Senior Technical Account Manager (APAC)
+- [ ] https://jobs.ashbyhq.com/sierra/a4376f1f-10bd-4804-899e-4b98b8245198 | Sierra | Enterprise Sales Leader 
+- [ ] https://jobs.ashbyhq.com/sierra/84c568d0-28ba-4a7d-829a-fa21b1ab2aaf | Sierra | Enterprise Sales Leader, Consumer Business Services
+- [ ] https://jobs.ashbyhq.com/sierra/7ffb9df7-d413-45b1-91a4-27702f26ef6d | Sierra | Enterprise Sales Leader, Healthcare
+- [ ] https://jobs.ashbyhq.com/sierra/675b6dab-6f04-4d9e-a6bd-c001f2784c0b | Sierra | Enterprise Sales Leader, Retail
+- [ ] https://jobs.ashbyhq.com/sift/42262d8e-9bbe-46ab-a774-294e8716e3ed | Sift | Senior Engineering Manager, ML Platform
+- [ ] https://jobs.ashbyhq.com/sift/21d81e86-dc49-4fd7-84bd-e855d18aebac | Sift | Technical Account Manager
+- [ ] https://barrywehmiller.wd1.myworkdayjobs.com/bwcareers/job/Fort-Worth-TX/Civil-Engineering-Project-Manager_R021433 | barrywehmiller | Civil Engineering Project Manager
+- [ ] https://barrywehmiller.wd1.myworkdayjobs.com/bwcareers/job/Abilene-TX/Project-Manager_R023016 | barrywehmiller | Project Manager
+- [ ] https://barrywehmiller.wd1.myworkdayjobs.com/bwcareers/job/Dallas-TX/Sr-Project-Manager_R021317-1 | barrywehmiller | Project Manager I
+- [ ] https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Houston-TX/Project-Manager-II_R021576 | barrywehmiller | Project Manager II
+- [ ] https://barrywehmiller.wd1.myworkdayjobs.com/bwcareers/job/San-Antonio-TX/Senior-Project-Manager_R021198 | barrywehmiller | Sr. Project Manager
+- [ ] https://jobs.ashbyhq.com/semperis/83c28adf-9572-4b2e-a9b4-1a28208619ff | Semperis | Product Manager- Permissions and Delegation
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5240399007?gh_jid=5240399007 | Anduril | Flight Test Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5247859007?gh_jid=5247859007 | Anduril | Flight Test Operator
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5214661007?gh_jid=5214661007 | Anduril | Recruiter, G&A - Legal (Contract)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5198717007?gh_jid=5198717007 | Anduril | Recruiter, Real Estate, Facilities & EHS (Contract)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5264876007?gh_jid=5264876007 | Anduril | Senior Aviation Maintenance Engineer - Advanced Effects
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5253766007?gh_jid=5253766007 | Anduril | Senior Product Sourcing Engineer, Counter Intrusion
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5242925007?gh_jid=5242925007 | Anduril | Senior Recruiter, Business Development
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5200998007?gh_jid=5200998007 | Anduril | Senior Security Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252471007?gh_jid=5252471007 | Anduril | Senior Security Engineer OT
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5249697007?gh_jid=5249697007 | Anduril | Senior Software Engineer, Strategic Defense (Active Clearance)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5090415007?gh_jid=5090415007 | Anduril | Senior Supplier Industrialization Engineer, Casting 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5090414007?gh_jid=5090414007 | Anduril | Senior Supplier Industrialization Engineer, Composites
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261454007?gh_jid=5261454007 | Anduril | Senior Supplier Industrialization Engineer, Core Tech Casting
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261440007?gh_jid=5261440007 | Anduril | Senior Supplier Industrialization Engineer, Core Tech Mechanical
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5176763007?gh_jid=5176763007 | Anduril | Senior Supplier Industrialization Engineer, Electrical
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5176765007?gh_jid=5176765007 | Anduril | Senior Supplier Industrialization Engineer, Electrical (Active Clearance)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5254411007?gh_jid=5254411007 | Anduril | Senior Supplier Industrialization Engineer, Electromagnetic Warfare
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5055818007?gh_jid=5055818007 | Anduril | Senior Supplier Industrialization Engineer, Mechanical 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5176757007?gh_jid=5176757007 | Anduril | Senior Supplier Industrialization Engineer, Propulsion Engines
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261442007?gh_jid=5261442007 | Anduril | Senior Supplier Manufacturing Engineer, Core Tech Mechanical
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5056468007?gh_jid=5056468007 | Anduril | Senior Supplier Manufacturing Engineer, Mechanical 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5246567007?gh_jid=5246567007 | Anduril | Senior Talent Acquisition Manager, RMS
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/ALD-Manufacturing-Engineering-Manager_R2629860 | Applied Materials | ALD Manufacturing Engineering Manager
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Buyer-IV_R2629153-1 | Applied Materials | Buyer III
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Configuration-Engineer-II_R2630216 | Applied Materials | Configuration Engineer II
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Customer-Support-Technician-II--ALD-_R2624946 | Applied Materials | Customer Support Technician II (ALD)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/CW---Engineering-Technician-II----T2-_R2630152-1 | Applied Materials | CW - Engineering Technician II - (T2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/CW--Material-Coordinator-Handler-III----O3-_R2629471 | Applied Materials | CW- Material Coordinator/Handler III - (O3)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/CW-Manufacturing-Technician-II----T2-_R2626074 | Applied Materials | CW-Manufacturing Technician II - (T2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Engineering-Technician-II----T2-_R2630158 | Applied Materials | Engineering Technician II - (T2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Engineering-Technician-II----T2--Weekend-Shift_R2630111 | Applied Materials | Engineering Technician II - (T2) Weekend Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Engineering-Technician-III----T3--Night-Shift_R2630039 | Applied Materials | Engineering Technician III - (T3) Night Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Engineering-Technician-IV----T4--2nd-Shift_R2629165 | Applied Materials | Engineering Technician IV - (T4) 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Field-Service-Engineer---Implant---Taylor--C3-_R2627866 | Applied Materials | Field Service Engineer - Implant - Taylor (C3)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Field-Service-Engineer_R2617348 | Applied Materials | Field Service Engineer III
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Field-Service-Engineer-III--C3----Process--Diagnostics----Control--PDC-_R2611522 | Applied Materials | Field Service Engineer III (C3)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager-II_R2628935 | Applied Materials | Manager II - 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager-IV--Field-Service-Engineer--M4-_R2517492 | Applied Materials | Manager IV, Field Service Engineer (M4)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-I----T1-_R2629974 | Applied Materials | Manufacturing Technician I - (T1)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-I----T1--2nd-Shift_R2630187 | Applied Materials | Manufacturing Technician I - (T1) 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2-_R2630120 | Applied Materials | Manufacturing Technician II - (T2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--2nd-Shift_R2630637 | Applied Materials | Manufacturing Technician II - (T2) 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--Weekend---F-M_R2629903 | Applied Materials | Manufacturing Technician II - (T2) Weekend - F-M
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--Weekend-Compressed-Shift_R2629978 | Applied Materials | Manufacturing Technician II - (T2) Weekend Compressed Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--Weekend-Compressed-Shift-Nights_R2629961 | Applied Materials | Manufacturing Technician II - (T2) Weekend Compressed Shift Nights
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--Weekend-F-M_R2629909 | Applied Materials | Manufacturing Technician II - (T2) Weekend F-M
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II---T2--Day-Shift_R2630043 | Applied Materials | Manufacturing Technician II- (T2) Day Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Material-Coordinator_R2629934 | Applied Materials | Material Coordinator
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Materials-Project-Management-B4_R2630165 | Applied Materials | Materials Project Management B4
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Operations-and-Customer-Quality-Engineer-II----E2-_R2630681 | Applied Materials | Operations and Customer Quality Engineer II - (E2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/PC-Planner-II_R2628085 | Applied Materials | PC Planner II
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Planner-II----B2-_R2629777 | Applied Materials | Planner II - (B2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Planner-II--B2-_R2618968 | Applied Materials | Planner II (B2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Quality-Control-II_R2629963-1 | Applied Materials | Quality Control II
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Supplier-Engineer-E4_R2625398 | Applied Materials | Supplier Engineer E4
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Principal-Clinical-Datawarehouse-Programmer_R35205 | beigene | Principal Clinical Datawarehouse Programmer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7887061003?gh_jid=7887061003 | Celonis | Account Executive - CPG
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7778127003?gh_jid=7778127003 | Celonis | Account Executive - Energy
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7799840003?gh_jid=7799840003 | Celonis | Account Executive - Federal
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7778135003?gh_jid=7778135003 | Celonis | Account Executive - Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7886119003?gh_jid=7886119003 | Celonis | Client Value Partner - High Tech Industry
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7800552003?gh_jid=7800552003 | Celonis | Lead Applied Value Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7731437003?gh_jid=7731437003 | Celonis | Lead Value Engineer - Energy
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7823937003?gh_jid=7823937003 | Celonis | Senior Value Engineer - Public Sector
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8002500003?gh_jid=8002500003 | Celonis | Strategic Account Executive - Manufacturing
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Data-Analytics---Business-Operations-Spring-Co-Op-or-Summer-Intern--Bachelor-s-Master-s--Austin--TX-_R2626381 | Applied Materials | 2027 Data Analytics & Business Operations Spring Co-Op or Summer Intern- Bachelor's/Master's (Austin, TX)
+- [ ] https://barrywehmiller.wd1.myworkdayjobs.com/bwcareers/job/Fort-Worth-TX/Director---Construction_R019949 | barrywehmiller | Project Executive, Controls Systems Integration (DC)
+- [ ] https://jobs.ashbyhq.com/saronic/62c77ff3-7e1f-420d-8ab5-db4f8f81bf0c | Saronic Technologies | Shipyard Integration Manager
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Florida/Data-Analyst-Lead_R26_0000003253 | bbinsurance | Data Analyst Lead
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Illinois/Data-Collection-Specialist--Part-time-_R26_0000003080 | bbinsurance | Data Collection Specialist (Part-time)
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Minnesota/Operations-Support-Specialist_R26_0000003573-1 | bbinsurance | Operations Support Specialist
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Web-Application-Architect_R26_0000003082 | bbinsurance | Web Application Architect
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/EIT-Engineering-Team-Lead_R-49147 | bcbst | EIT Engineering Team Lead
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Senior-EIT-Budget-Analyst_R-51636 | bcbst | Senior EIT Budget Analyst
+- [ ] https://bdx.wd1.myworkdayjobs.com/external_career_site_usa/job/USA-TX---El-Paso---Northwestern-Dr/Lead-Tech-Mechanical-Engineer_R-556394 | bdx | Lead Tech Mechanical Engineer
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Manager--R-D-Data-Steward_R34459 | beigene | Manager, R&D Data Steward
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Project-Data-Manager_R36886 | beigene | Project Data Manager
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Clinical-Data-Manager_R36885 | beigene | Senior Clinical Data Manager
+- [ ] https://jobs.ashbyhq.com/saronic/2f5fb058-0216-4029-a8c2-4dcd803a23bc | Saronic Technologies | Documentation Operations Lead
+- [ ] https://jobs.ashbyhq.com/saronic/903ae290-30cc-4874-968d-3c530317c911 | Saronic Technologies | IT Production Support Technician 
+- [ ] https://jobs.ashbyhq.com/saronic/c07e77a4-054f-41a5-911d-d866dcfe028a | Saronic Technologies | Mission Operations Engineer (Program)
+- [ ] https://jobs.ashbyhq.com/saronic/c2838c16-1097-4598-bbe6-78b99c1aeb8d | Saronic Technologies | Mission Operations Specialist (Product)
+- [ ] https://jobs.ashbyhq.com/saronic/b0b3302b-a6ea-4fe0-bef8-b4c045850dc4 | Saronic Technologies | Mission Operations Specialist (Program)
+- [ ] https://jobs.ashbyhq.com/saronic/9ca498e6-510d-4485-a8f3-d09fb81af7a7 | Saronic Technologies | Senior Program Coordinator, Mission Operations
+- [ ] https://jobs.ashbyhq.com/second-front-systems/c936d774-f297-4353-983f-c8697f9ec839 | Second Front Systems | Business Operations Specialist
+- [ ] https://jobs.ashbyhq.com/second-front-systems/48ac5133-5169-418c-adf0-ae4955e6ecdb | Second Front Systems | People Operations Specialist
+- [ ] https://jobs.ashbyhq.com/semgrep/b75ac9b5-1c27-4f5c-94d7-0eceba74de83 | Semgrep | Sales Solutions Engineer - Digital Native
+- [ ] https://jobs.ashbyhq.com/sewer-ai/f3039dc8-0ea7-4399-8e3d-b2d8bbba65fa | SewerAI Corporation | Revenue Operations Analyst
+- [ ] https://jobs.ashbyhq.com/silver/5cf8ef10-085c-4627-a719-23a30a08a314 | Silver.dev | Pasito (YC S22) - Security & IT Manager
+- [ ] https://jobs.ashbyhq.com/silver/a6752aed-a6ec-4081-82c9-8cdc9e285bbd | Silver.dev | Serie B - Fintech Company - Lead Engineering
+- [ ] https://jobs.ashbyhq.com/skimmer/88e163e1-b77f-48d1-9c1c-950afc806bab | Skimmer | Revenue Operations Analyst, Reporting & Data
+- [ ] https://bannerhealth.wd108.myworkdayjobs.com/careers/job/Remote-Arizona/Principal-Enterprise-Cloud-Architect_R4452430 | bannerhealth | Principal Enterprise Cloud Architect
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Associate-Director--Enterprise-Information-Architecture_R37207 | beigene | Associate Director, Enterprise Information Architecture
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Program-Management_R36447 | beigene | Director, Pharmaceutical/Biotechnology Program Management
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Quality-Analytical-Technical-Lead--Small-Molecule_R36362 | beigene | Director, Quality Analytical Technical Lead, Small Molecule
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5142328007?gh_jid=5142328007 | Anduril | Director, Business Development, Voyager - Navy
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5040203007?gh_jid=5040203007 | Anduril | Senior Director, Business Development, ECC Vehicle
+- [ ] https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Associate-Director--Digital-Clinical-Operations_R36753 | beigene | Associate Director, Digital Clinical Operations
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7812863003?gh_jid=7812863003 | Celonis | Client Director - Financial Services
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7478077003?gh_jid=7478077003 | Celonis | Client Value Partner (CVP) - Oil & Gas Industry
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7539033003?gh_jid=7539033003 | Celonis | Client Value Partner (CVP) - Utilities & Energy Industry
+- [ ] https://jobs.ashbyhq.com/serverobotics/dd03616c-cd2e-4db2-8c49-2ad4ea889e0b | Serve Robotics | VP of IT Infrastructure & Operations
