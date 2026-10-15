@@ -2039,3 +2039,90 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Store1062-El-Paso-TX/Specialist-Off-Field-Operations_202616334 | dickssportinggoods | Specialist Off Field Operations
 - [ ] https://distributionnow.wd5.myworkdayjobs.com/dnow_careers/job/US-TX-Tomball-24310-Tomball-Parkway/Application-Specialist_R08833 | distributionnow | Application Specialist
 - [ ] https://distributionnow.wd5.myworkdayjobs.com/dnow_careers/job/US-TX-Houston-7402-N-Eldridge-Pkwy/Litigation-and-Claims-Operations-Specialist_R08873 | distributionnow | Litigation and Claims Operations Specialist
+
+- [ ] https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Senior-Product-Manager--Fraud-Risk-Platforms_JR15262-1 | draftkings | Senior Product Manager, Fraud Risk Platforms
+- [ ] https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Senior-Technical-Program-Manager--Data_JR14539-1 | draftkings | Senior Technical Program Manager, Data
+- [ ] https://dow.wd1.myworkdayjobs.com/externalcareers/job/Freeport-TX-USA/Site-Logistics-Operations-Performance-Leader_R2068265 | dow | Site Logistics Operations Performance Leader
+- [ ] https://drinkpak.wd503.myworkdayjobs.com/drinkpak/job/Texas/Inventory-Specialist---Night-Shift----3000hr_JR101790 | drinkpak | Inventory Specialist | Day & Night Shift | $30.00hr
+- [ ] https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5453179008 | AffirmedRx, PBC | Business Analyst, Data Operations  
+- [ ] https://job-boards.greenhouse.io/ag1/jobs/5443880008 | AG1 | Senior Project Manager, Operations (Contract)
+- [ ] https://job-boards.eu.greenhouse.io/agency/jobs/4806558101 | Invisible Agency | Implementations Operations Agent
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Principal-Business-Systems-Analyst_R0061717 | empower | Principal Business Systems Analyst
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Principal-Technical-Business-Systems-Analyst_R0061762 | empower | Principal Technical Business Systems Analyst
+- [ ] https://job-boards.greenhouse.io/accuweather/jobs/8282204 | AccuWeather Careers | Client Systems Specialist 
+- [ ] https://job-boards.greenhouse.io/adswerveinc/jobs/5257468007 | Adswerve, Inc | Consultant, Analytics (Temp)
+- [ ] https://job-boards.greenhouse.io/adswerveinc/jobs/5245912007 | Adswerve, Inc | Senior Consultant 1, Analytics
+- [ ] https://dmainc.wd5.myworkdayjobs.com/dma/job/US---Remote/Consultant--Tax-Technology_REQ423 | dmainc | Consultant, Tax Technology
+- [ ] https://dmainc.wd5.myworkdayjobs.com/dma/job/US---Remote/Lead-Consultant--Tax-Technology_REQ365 | dmainc | Lead Consultant, Tax Technology
+- [ ] https://dmainc.wd5.myworkdayjobs.com/dma/job/US---Remote/Manager--Tax-Technology_REQ681 | dmainc | Manager, Tax Technology
+- [ ] https://dmainc.wd5.myworkdayjobs.com/dma/job/US---Remote/Manager--Tax-Technology_REQ680 | dmainc | SAP Manager, Tax Technology
+- [ ] https://dowjones.wd1.myworkdayjobs.com/news_corp_careers/job/Austin/Cyber-GRC-Analyst_Job_Req_53462 | dowjones | Cyber Security Analyst (Technical Solutions Delivery)
+- [ ] https://drinkpak.wd503.myworkdayjobs.com/drinkpak/job/Texas/Jr-Analyst--SAP-IT-Systems_JR101793 | drinkpak | Jr. Analyst, SAP IT Systems
+- [ ] https://duboischemicals.wd1.myworkdayjobs.com/external/job/Remote---US/Technical-Account-Manager_R102750 | duboischemicals | Paper Mill Technical Account Manager In Lewiston, ID
+- [ ] https://ehealthinsurance.wd5.myworkdayjobs.com/ehi/job/USA-Remote/Sr-Analytics---Insights-Analyst_R4305 | ehealthinsurance | Sr. Analytics & Insights Analyst
+- [ ] https://elanco.wd5.myworkdayjobs.com/external_career/job/TX---United-States/Technical-Consultant--Farm-Animal-Health-Cattle--Kansas-Texas-_R0026218-1 | elanco | Technical Consultant- Farm Animal Health Cattle (Kansas/Texas)
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Generative-AI-Enterprise-Architect_R0058973 | empower | Generative AI Enterprise Architect
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Ariba-Systems-Administrator_R0062761 | empower | Lead Ariba Systems Administrator
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Associate---Financial-Wellness-Planning---Advisory-Services_R0062517 | empower | Lead Associate - Financial Wellness Planning & Advisory Services
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Manager--Workplace-Planning-and-Advice---LMN_R0062703-1 | empower | Senior Manager, Workplace Planning and Advice – LMN
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Sr-Workplace-Planning-Consultant_R0062067 | empower | Senior Workplace Planning Consultant
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/TX-GRAND-PRAIRIE-2505-N-HWY-360-STE-200--300/Enterprise-Architect-Executive_JR200387 | elevancehealth | Enterprise Architect Executive
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/TX-AUSTIN-720-W-34TH-ST-STE-104/Family-Nurse-Practitioner---Paragon-Infusion-Centers_JR206857 | elevancehealth | Family Nurse Practitioner - Paragon Infusion Centers
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/TX-AUSTIN-720-W-34TH-ST-STE-104/Medical-Administrative-Assistant---Paragon-Infusion-Centers_JR208638 | elevancehealth | Medical Administrative Assistant - Paragon Infusion Centers
+- [ ] https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/Houston-TX---OPIS/Research-Analyst-I---Chemical-Market-Analytics_Job_Req_54978 | dowjones | Research Analyst I - Chemical Market Analytics
+- [ ] https://drivetime.wd1.myworkdayjobs.com/drivetime/job/5430-Lyndon-B-Johnson-Fwy-Suite-1200-Dallas-TX-75240/Senior-Analyst--Loan-Servicing-Analytics_R15399 | drivetime | Senior Analyst, Strategic Analytics
+- [ ] https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Dallas-TX/Executive-Assistant--Product---Technology-Orgs_R-003146 | dtn | Executive Assistant, Product & Technology Orgs
+- [ ] https://www.8am.com/openings/?gh_jid=4719548006 | 8am | Business Operations Manager, Partnerships
+- [ ] https://www.8am.com/openings/?gh_jid=4712410006 | 8am | Senior Customer Experience Operations Specialist
+- [ ] https://www.abclegal.com/job-openings/job?id=7998843003&gh_jid=7998843003 | ABC Legal Services | Regional Operations Manager, Process Server Network – Southwest 
+- [ ] https://www.actblue.com/careers/available-positions/?gh_jid=8641617002 | ActBlue | Senior Financial Operations Specialist
+- [ ] https://job-boards.greenhouse.io/acuitymd/jobs/5819631004 | AcuityMD | Data Program Associate
+- [ ] https://job-boards.greenhouse.io/acutechgroupinc/jobs/4627937006 | AcuTech Group, Inc. | Process Safety Consultant – AcuTech European Office
+- [ ] https://job-boards.greenhouse.io/acutechgroupinc/jobs/4627914006 | AcuTech Group, Inc. | Senior Process Safety Consultant – AcuTech European Office
+- [ ] https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4697644006 | Advanced Technology Services | Maintenance Technician CNC Specialist
+- [ ] https://job-boards.greenhouse.io/aegisventures/jobs/4707730006 | Aegis Ventures | Senior Manager, Customer & Commercial Operations
+- [ ] https://job-boards.greenhouse.io/aftership/jobs/6194316004 | AfterShip | Revenue Operations Manager 
+- [ ] https://www.agilityrobotics.com/about/job-post?gh_jid=6174258004 | Agility Robotics | Senior Manager, Commercial Operations
+- [ ] https://www.agilityrobotics.com/about/job-post?gh_jid=6174264004 | Agility Robotics | Senior Manager, Legal Operations
+- [ ] https://docgo.wd1.myworkdayjobs.com/docgo/job/Remote/Program-Operations-Coordinator---Temporary_R-6119 | docgo | Program Operations Coordinator - Temporary
+- [ ] https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Manager--Loyalty-Program-Operations_JR15271-1 | draftkings | Manager, Loyalty Program Operations
+- [ ] https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Revenue-Operations-Specialist_JR15193-1 | draftkings | Revenue Operations Specialist
+- [ ] https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Senior-Lead-Database-Reliability-Engineer_JR14624-1 | draftkings | Senior Lead Site Reliability Engineer, Database
+- [ ] https://dynata.wd108.myworkdayjobs.com/careers/job/Remote--USA/Senior--Lead--Data-Scientist--Graph---Forecasting-_REQ13742 | dynata | Senior  Lead  Data Scientist, Graph & Forecasting 
+- [ ] https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Texas---McKinney/Operations-and-Maintenance-Lead-Engineer_R00307238 | ecolab | Operations and Maintenance Lead Engineer
+- [ ] https://eisai.wd5.myworkdayjobs.com/eisai/job/United-States-Remote/Senior-Manager--Clinical-Data-Science_R4226 | eisai | Senior Manager, Clinical Data Science
+- [ ] https://elemica.wd501.myworkdayjobs.com/elemica_careers/job/NA_REMOTE/Manager--Sales-Operations_JR100098 | elemica | Manager, Sales Operations
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Brokerage-Operations-Processing-Specialist_R0059548 | empower | Brokerage Operations Processing Specialist
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Brokerage-Operations-Quality-Specialist_R0062706 | empower | Brokerage Operations Quality Specialist
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Data-Governance-Analyst_R0061687 | empower | Data Governance Analyst
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Analyst-Cloud-Financial-Operations_R0061689 | empower | Lead Analyst Cloud Financial Operations
+- [ ] https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Solutions-Architect---Emerging-Technologies--AI--GenAI--ML-_R0055705 | empower | Senior Solutions Architect - Emerging Technologies (AI, GenAI, ML)
+- [ ] https://job-boards.eu.greenhouse.io/agency/jobs/4969255101 | Invisible Agency | CVE & Application Security AI Task Auditor - Freelance AI Trainer Project
+- [ ] https://job-boards.eu.greenhouse.io/agency/jobs/4778239101 | Invisible Agency | Japanese Language Data Contributor (Multimodal) – Freelance AI Trainer Project
+- [ ] https://job-boards.eu.greenhouse.io/agency/jobs/4778241101 | Invisible Agency | Korean Language Data Contributor (Multimodal) – Freelance AI Trainer Project
+- [ ] https://job-boards.eu.greenhouse.io/agency/jobs/4797650101 | Invisible Agency | Operations Agent - Freelance Project
+- [ ] https://job-boards.eu.greenhouse.io/agency/jobs/4778242101 | Invisible Agency | Portuguese Language Data Contributor (Multimodal) – Freelance AI Trainer Project
+- [ ] https://job-boards.eu.greenhouse.io/agency/jobs/4778246101 | Invisible Agency | Spanish (Latin America) Language Data Contributor (Multimodal) – Freelance AI Trainer Project
+- [ ] https://acadia.com/en-us/careers/job-board/8859187002?gh_jid=8859187002 | Acadia Pharmaceuticals Inc. | Associate Director, Clinical Data Integration & AI Programming
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-Texarkana/Assistant-Manager-I_R-356961 | dollartree | Assistant Manager I
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-Garland/Assistant-Manager-I-1_R-356398 | dollartree | Assistant Manager I-1
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-Beaumont/Assistant-Manager-II_R-356942 | dollartree | Assistant Manager II
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-Beaumont/assistant-ops-manager-1522-1_R-356946 | dollartree | assistant ops manager 1522-1
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-Arlington/Customer-Service-Associate_R-356904 | dollartree | Customer Service Associate
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-Texarkana/Customer-Service-Associate-I_R-356969 | dollartree | Customer Service Associate I
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-Hereford/Merch-Asm_R-354548 | dollartree | Merch Asm
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-Grand-Prairie/Merchandising-Assistant-Manager_R-356939 | dollartree | Merchandising Assistant Manager
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-N-Richland-Hills/Seasonal-Store-Associate_R-346511 | dollartree | Seasonal Store Associate
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-Richardson/Store-Manager-Trainee_R-356155 | dollartree | Store Manager
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/TX-GRAND-PRAIRIE-2505-N-HWY-360-STE-200--300/Data-Science-Solutions-Lead_JR209206 | elevancehealth | Data Science Solutions Lead
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/TX-GRAND-PRAIRIE-2505-N-HWY-360-STE-200--300/Engineer-Lead_JR209197 | elevancehealth | Engineer Lead
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/TX-SAN-ANTONIO-4751-HAMILTON-WOLF-RD-STE-101/Pharmacy-Cust-Associate-I--US-_JR201190 | elevancehealth | Pharmacy Customer Associate I
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/TX-COPPELL-113-STATE-HWY-121-STE-110/Registered--Nurse--PRN----Paragon-Infusion-Centers_JR199761 | elevancehealth | Registered  Nurse (PRN) – Paragon Infusion Centers
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/TX-KYLE-844-KOHLERS-CROSSING-STE-230/Registered-Nurse--PRN-_JR208375 | elevancehealth | Registered Nurse (PRN)
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/TX-SAN-ANTONIO-8554-HUEBNER-RD-BLDG-1-STE-103/Registered-Nurse--PRN----Paragon-Infusion-Centers_JR209572 | elevancehealth | Registered Nurse (PRN) - Paragon Infusion Centers
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/TX-SAN-ANTONIO-1922-DRY-CREEK-WAY-STE-110--134/Registered-Nurse--PRN--Paragon-Infusion-Centers_JR208734 | elevancehealth | Registered Nurse (PRN) Paragon Infusion Centers
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/TX-SAN-ANTONIO-1922-DRY-CREEK-WAY-STE-110--134/Senior-Account-Executive---Paragon-Healthcare---San-Antonio--TX_JR206607 | elevancehealth | Senior Account Executive – Paragon Healthcare - San Antonio, TX
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-Orange/Internal-PT-Assistant-Manager_R-354445 | dollartree | Internal PT Assistant Manager
+- [ ] https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/TX-San-Antonio/Regional-Director_R-355177 | dollartree | Regional Director
+- [ ] https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/Houston-TX---OPIS/Sr-Data-Analyst_Job_Req_55481 | dowjones | Senior Data Analyst - Dow Jones Energy Product Management
+- [ ] https://driscoll.wd1.myworkdayjobs.com/dhs/job/Corpus-Christi-TX/HP-EPIC-Nursing-Informatics-Analyst-III_JR112476 | driscoll | HP EPIC Nursing Informatics Analyst III
