@@ -680,9 +680,9 @@ async function main() {
   // Expensive downstream work should consume this pool in 100-job batches and stop
   // as soon as the qualified pool reaches 30. If it does not, start another
   // discovery round, excluding already-seen/processed jobs.
-  const POTENTIAL_POOL_SIZE=600;
+  const POTENTIAL_POOL_SIZE=3000;
   const FETCH_BATCH_SIZE=100;
-  const QUALIFIED_TARGET=30;
+  const REVIEW_QUEUE_CAP=500;
   const potentialPool=rankedOffers.slice(0,POTENTIAL_POOL_SIZE);
   const deferredOffers=rankedOffers.slice(POTENTIAL_POOL_SIZE);
   const fetchQueue=potentialPool.map((o,i)=>({...o,fetch_batch:Math.floor(i/FETCH_BATCH_SIZE)+1,fetch_rank:i+1}));
