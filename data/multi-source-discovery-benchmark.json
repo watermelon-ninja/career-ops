@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "purpose": "Track multi-source discovery coverage independently from JD retrieval and Selena Fit.",
+  "sources": ["official_ats", "official_careers", "linkedin", "indeed", "jobright_aggregator", "public_web"],
+  "companies": [
+    {
+      "company": "Tesla",
+      "benchmark_status": "in_progress",
+      "discovery_sources": {
+        "official_ats": {"status": "unverified_inventory"},
+        "official_careers": {"status": "accessible_dynamic_inventory"},
+        "linkedin": {"status": "accessible_search_inventory_requires_employer_validation"},
+        "indeed": {"status": "accessible_search_inventory_pagination_unverified"},
+        "jobright_aggregator": {"status": "partial_single_job_discovery"},
+        "public_web": {"status": "accessible_supplementary"}
+      },
+      "jd_recovery": {"cross_source_recovery_demonstrated": true}
+    },
+    {
+      "company": "Google",
+      "benchmark_status": "in_progress",
+      "discovery_sources": {
+        "official_ats": {"status": "unverified_inventory"},
+        "official_careers": {"status": "accessible"},
+        "linkedin": {"status": "accessible"},
+        "indeed": {"status": "not_yet_benchmarked"},
+        "jobright_aggregator": {"status": "not_yet_benchmarked"},
+        "public_web": {"status": "accessible_supplementary"}
+      },
+      "jd_recovery": {"official_full_jd_demonstrated": true, "linkedin_full_jd_demonstrated": true}
+    }
+  ],
+  "required_metrics": [
+    "jobs_discovered",
+    "canonical_jobs_after_dedupe",
+    "unique_jobs_contributed",
+    "full_jds_recovered",
+    "stale_or_duplicate_count",
+    "satisfactory_fit_jobs"
+  ],
+  "rules": {
+    "discovery": "parallel_union",
+    "jd_retrieval": "ordered_fallback_stop_on_full",
+    "priority_title_filter": "permissive",
+    "fit_requires_full_jd": true
+  }
+}
