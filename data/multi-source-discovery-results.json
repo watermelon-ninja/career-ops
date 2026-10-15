@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:26:17.036Z",
+  "generated_at": "2026-10-15T09:34:33.106Z",
   "priority_company_count": 354,
   "discovery_model": "parallel_union",
   "note": "This run records operational source evidence only; pending sources have not yet been queried by dedicated connectors.",
@@ -9,7 +9,7 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "pending",
+          "status": "attempted_no_new_candidates",
           "jobs_discovered": 0
         },
         "official_careers": {
@@ -999,8 +999,8 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 7
         },
         "official_careers": {
           "status": "pending",
@@ -2469,8 +2469,8 @@
       "group": "industrial",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 13
         },
         "official_careers": {
           "status": "pending",
@@ -3579,8 +3579,8 @@
       "group": "industrial",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 44
         },
         "official_careers": {
           "status": "pending",
@@ -3609,8 +3609,8 @@
       "group": "industrial",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 7
         },
         "official_careers": {
           "status": "pending",
@@ -5109,7 +5109,7 @@
       "group": "supply_chain",
       "sources": {
         "official_ats": {
-          "status": "attempted_no_new_candidates",
+          "status": "pending",
           "jobs_discovered": 0
         },
         "official_careers": {
@@ -6579,8 +6579,8 @@
       "group": "consulting",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 16
         },
         "official_careers": {
           "status": "pending",
@@ -6969,8 +6969,8 @@
       "group": "consulting",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 62
         },
         "official_careers": {
           "status": "pending",
@@ -7809,7 +7809,7 @@
       "group": "retail",
       "sources": {
         "official_ats": {
-          "status": "pending",
+          "status": "attempted_no_new_candidates",
           "jobs_discovered": 0
         },
         "official_careers": {
@@ -8019,8 +8019,8 @@
       "group": "retail",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 91
         },
         "official_careers": {
           "status": "pending",
@@ -8649,7 +8649,7 @@
       "group": "finance_health_local",
       "sources": {
         "official_ats": {
-          "status": "pending",
+          "status": "attempted_no_new_candidates",
           "jobs_discovered": 0
         },
         "official_careers": {
@@ -8709,8 +8709,8 @@
       "group": "finance_health_local",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 17
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -8739,8 +8739,8 @@
       "group": "finance_health_local",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 3
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",

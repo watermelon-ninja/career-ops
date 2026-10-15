@@ -2495,3 +2495,517 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://fifththird.wd5.myworkdayjobs.com/53careers/job/Plano-TX/Financial-Center-Manager-Associate---Plano--TX--South-Coit-Road-Area-_R73631 | fifththird | Financial Center Manager Associate - Plano, TX (South Coit Road Area)
 - [ ] https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-TX/Credit-Products-Manager_20983 | flagstar | Credit Products Manager
 - [ ] https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-TX/Credit-Products-Specialist-II_19972 | flagstar | Credit Products Specialist II
+
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8144891 | Box | Business Systems Analyst III (Marketing)
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8231340 | Carvana | Logistics Associate
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Senior-Professional-Project-Manager---Aero-CMU_R5055032-1 | gevernova | Senior Professional Project Manager - Aero CMU
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Senior-Project-Manager---FACTS_R5050676-1 | gevernova | Senior Project Manager - FACTS
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Senior-Project-Manager---Steam-Power---Nuclear_R5051541-2 | gevernova | Senior Project Manager - Steam Power - Nuclear
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Service-Project-Manager---CIC--P-C---M-D_R5054390-1 | gevernova | Service Project Manager – CIC, P&C & M&D
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/Product-Manager---Feature-Rich-CMOS-Product-Line_JR-2603917 | globalfoundries | Product Manager — Feature‑Rich CMOS Product Line
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8261467 | Box | Large Enterprise Account Executive
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8282101 | Carvana | Graveyard Logistics Manager
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8265684 | Carvana | Logistics Manager
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Account-Executive-New-Logo-Acquisition--GBS-Large-Enterprise--HR-Practice-_110202 | gartner | Account Executive New Logo Acquisition, GBS Large Enterprise (HR Practice)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Large-Enterprise-Business-Development-Executive-GBS-Sales-Practice_105527-1 | gartner | Large Enterprise Business Development Executive GBS Sales Practice
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---Texas/Sales-Manager--Large-Enterprise---Austin--Houston_103174 | gartner | Sales Manager| Large Enterprise | Dallas, Houston
+- [ ] https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Safety-Management-System--SMS--Focal_R5040832-1 | geaerospace | Safety Management System (SMS) Focal
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Commercial-Platform-and-AI-Leader_R5054318-3 | gevernova | Commercial Platform and AI Leader
+- [ ] https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Embedded-Computing-Research-Engineer---Embedded-Systems_R5055045-3 | gevernova | Embedded Computing Research Engineer - Embedded Systems
+- [ ] https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/PAC-Technical-Support-Engineering_R5054880-2 | gevernova | PAC Technical Support Engineering
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Power-System-Protection-and-Control-Engineer_R5047181-2 | gevernova | Power System Protection and Control Engineer
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/Austin/Full-Stack-Engineer---Agentic-Platforms_JR-2603866 | globalfoundries | Full Stack Engineer - Agentic Platforms
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Business-Analyst_113018 | gartner | Business Analyst
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Business-Analyst--Conferences-Business-Solutions_114484 | gartner | Business Analyst, Conferences Business Solutions
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Product-Owner--Conferences_112069 | gartner | Product Owner, Conferences
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/VP--Analyst---Chief-Supply-Chain-Officer---Strategy--Technology---Transformation--Remote-US-_105282 | gartner | Senior Director Analyst - Supply Chain AI Strategy, Governance & Value Realization
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Account-Executive---GTS-Midsize-Enterprise_115097 | gartner | Account Executive - GTS Midsize Enterprise
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Account-Executive---Large-Enterprise---Dallas--TX_114203 | gartner | Account Executive | Large Enterprise | Dallas, TX
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Account-Executive-I-GTS-Midsize-Enterprise_114247 | gartner | Account Executive I GTS Midsize Enterprise
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Account-Executive--Conference-Sales--Enterprise---B2B-Sales-_114222 | gartner | Account Executive, Conference Sales (Enterprise / B2B Sales)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Manager--Event-Technology---AV-Operations_113610 | gartner | Manager, Event Technology & AV Operations
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Sales-Manager---Large-Enterprise---Houston--Austin-TX_110225-1 | gartner | Sales Manager | Large Enterprise | Dallas, Houston TX
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Sr-Director-Analyst-Enterprise-Leadership-Transformation--REMOTE-US-_113216 | gartner | Senior Director Analyst, Leadership Strategy, Frameworks, and Transformation (REMOTE US)
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8096813 | Box | GRC Controls Automation Engineer
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8193307 | Box | ISO 42001 Compliance Manager
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8237597 | Box | Senior Strategic Sourcing Partner
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8224026 | Box | Value Org Intelligence & Operations Senior Team Manager
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8257576 | Carvana | Automotive Supervisor (Wed -Sun)
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8265924 | Carvana | Commercial Sales Partner – ADESA
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8001462 | Carvana | Customer Delivery Driver
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8001468 | Carvana | Customer Service Delivery 
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8001464 | Carvana | Customer Service Vehicle Delivery Driver
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8078216 | Carvana | Full- time Car Detailer
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8257518 | Carvana | Line Lead, Automotive Quality Control (Wed - Sun)
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8241274 | Carvana | Manager, Market Operations
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8170716 | Carvana | Vending Machine, Full-Time Car Detailer
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---Texas/Account-Executive--GTS_114557-1 | gartner | Account Executive, GTS (Austin, TX)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---Texas/Account-Executive--LE--GBS_114275 | gartner | Account Executive, LE, GBS
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---Texas/Executive-Partner--CISO-SRM--Healthcare-_113882-1 | gartner | Executive Partner -CISO SRM (Healthcare)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Executive-Partner--CFO-Practice_110796 | gartner | Executive Partner, CFO Practice
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/High-Tech-Executive-Partner_103548 | gartner | High Tech Executive Partner
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---Texas/Senior-Account-Executive--GTS_111668 | gartner | Senior Account Executive, GTS (Dallas/Houston)
+- [ ] https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Dowty-Field-Services-Representative_R5041125 | geaerospace | Dowty Field Services Representative
+- [ ] https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/FLIGHT-DECK-Capability-Building-Partner_R5041475-1 | geaerospace | FLIGHT DECK Capability Building Partner
+- [ ] https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/GE-Turboshaft-Engines--T700----Depot-Subject-Matter-Expert-Shop-Floor--w-m-x-_R5040266 | geaerospace | GE Turboshaft Engines (T700) - Depot Subject Matter Expert Shop Floor (w/m/x)
+- [ ] https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Leader--US---Canada-Payroll_R5040008-1 | geaerospace | Leader, US & Canada Payroll
+- [ ] https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/T700-CT7-Depot-Subject-Matter-Expert---Quality---Repair-Engineering--w-m-x-_R5041101-2 | geaerospace | T700/CT7 Depot Subject Matter Expert – Quality / Repair Engineering (w/m/x)
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Customer-Application-Engineer_R5055033 | gevernova | Customer Application Engineer
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Customer-Portfolio-Manager_R5055377 | gevernova | Customer Portfolio Manager
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/EHSS-Engagement-Coordinator_R5055494-2 | gevernova | EHSS Engagement Coordinator
+- [ ] https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Experienced-Steam-Turbine-Mechanical-TFA--Nuclear-_R5055476-3 | gevernova | Experienced Steam Turbine Mechanical TFA (Nuclear)
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Experienced-Steam-Turbine-TFA--Nuclear-_R5055622-2 | gevernova | Experienced Steam Turbine TFA (Nuclear)
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/HVDC-Primary---Valve-Installation-Supervisor--all-genders-_R5055706-3 | gevernova | HVDC Primary & Valve Installation Supervisor (all genders)
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Lead-Commercial-Proposals-Manager-1_R5055073-3 | gevernova | Lead Commercial Proposals Manager-1
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Lead-Controls-Field-Engineer_R5055177-1 | gevernova | Lead Controls Field Engineer
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Lead-Generator-Diagnostic-and-Robotics-Specialist_R5054232-1 | gevernova | Lead Generator Diagnostic and Robotics Specialist
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Lead-Manufacturing-Specialist-1---Industrial-Project_R5052675-1 | gevernova | Lead Manufacturing Specialist 1 - Industrial Project
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Lead-P-C-Engineer_R5049586-3 | gevernova | Lead P&C Engineer
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Lead-Senior-Wind-Hub-Technician--OH-1--Bellevue--OH-_R5055739-1 | gevernova | Lead Senior Wind Hub Technician- OH 1 (Bellevue, OH)
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Lead-Senior-Wind-Hub-Technician-IL3--Charleston--IL-_R5050606 | gevernova | Lead Senior Wind Hub Technician-IL3 (Charleston, IL)
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Lead-Sourcing-Specialist-2---Buying-Procurement_R5055452-1 | gevernova | Lead Sourcing Specialist 2 - Buying/Procurement
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Field-Services-Technician---On-Site-Service--Vineyard--MA-_R5055024-1 | gevernova | Offshore Wind Technician (Vineyard, MA)
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/OSR--Steam-Turbine-Blader---Machinist_R5053124-1 | gevernova | OSR- Steam Turbine Blader / Machinist
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/OSS-Subject-Matter-Expert--SME-_R5054898-1 | gevernova | OSS Subject Matter Expert (SME)
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/OT-Cyber-Security-SME---ERCIS--M-F-D-_R5054833-2 | gevernova | OT Cyber Security SME - ERCIS (M/F/D)
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Outage-Manager_R5054247-1 | gevernova | Outage Manager
+- [ ] https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Product-Sales-Specialist_R5055525-2 | gevernova | Product Sales Specialist
+- [ ] https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/REN-Pr-Technician-III-WFO_R5050692-2 | gevernova | REN Pr_Technician III WFO
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Sales-Leader-Poland--Baltics---Eastern-Europe---Onshore-Wind_R5055825 | gevernova | Sales Leader Poland/ Baltics & Eastern Europe - Onshore Wind
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Senior-Commercial-Proposal-Manager---NAM_R5054553-1 | gevernova | Senior Commercial Proposal Manager - NAM
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Senior-End-User-Support-Engineer_R5055192-1 | gevernova | Senior End User Support Engineer
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Senior-Power-Transformers-Field-Specialist-3_R5048527-1 | gevernova | Senior Power Transformers Field Specialist 3
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Senior-Project-Site-Manager_R5050230-1 | gevernova | Senior Project Site Manager
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Site-Manager---Electrical-Infrastructure_R5054034-1 | gevernova | Site Manager - Electrical/Infrastructure
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Site-Manager--Bauleiter--all-genders--fr-Umspannwerks--Projekte_R5047494-2 | gevernova | Site Manager/ Bauleiter (all genders) für Umspannwerks- Projekte
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Sr-Project-Management-Manager---Project-Mgmt_R5055400 | gevernova | Sr Project Management Manager - Project Mgmt
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Sr-Sales-Manager-3---Digital-Solution-Architecture_R5048630-1 | gevernova | Sr Sales Manager 3 - Digital Solution Architecture
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Talent-Acquisition-Partner_R5055470-1 | gevernova | Talent Acquisition Partner
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Teamlead-EHS-Manager--Southern-Germany--Austria---Switzerland--m-w-d-_R5054401-1 | gevernova | Teamlead EHS Manager  Southern Germany, Austria & Switzerland (m/w/d)
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Wind-Hub-Technician--OH-1--Bellevue--OH-_R5055740-1 | gevernova | Wind Hub Technician- OH 1 (Bellevue, OH)
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/Device-Compact-Modeling-Engineer--2027-New-College-Graduate-_JR-2604318 | globalfoundries | Device Compact Modeling Engineer (2027 New College Graduate)
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Richardson/Emulation-Engineer_JR-2600733 | globalfoundries | Emulation Engineer (2026 New College Graduate)
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/Austin/Global-Real-Estate-Site-Manager_JR-2605481 | globalfoundries | Global Real Estate Site Manager
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/Austin/Microsoft-365-Copilot---Collaboration-Engineer_JR-2603876 | globalfoundries | Microsoft 365 Copilot & Collaboration Engineer
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/Austin/PLM-Lead_JR-2605828 | globalfoundries | PLM Lead
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Richardson/Principal-Engineer--Package-Co-Design_JR-2600795 | globalfoundries | Signal Integrity Engineer
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/Talent-Accelerator-Program--2027-New-College-Graduate-_JR-2604196-1 | globalfoundries | Talent Accelerator Program (2027 New College Graduate)
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/Talent-Acquisition-Specialist--Early-Talent---University-Recruiting--2026-New-College-Grad-_JR-2605810 | globalfoundries | Talent Acquisition Specialist, Early Talent & University Recruiting (2026 New College Grad)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Audit-Planning---Risk-Coverage-Expert--Director-Analyst--Remote-United-States-_110516 | gartner | Audit Planning & Risk Coverage Expert (Director/Analyst, Remote United States)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Accounting-Process-and-AI-Technology-Expert_110663 | gartner | Director Analyst - Accounting Technology and AI (Remote - U.S.)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Director--Analyst---AI-Technology-Economics_114338 | gartner | Director, Analyst - AI Technology Economics
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Executive-Partner--Chief-Marketing-Executives_85628-1 | gartner | Executive Partner, Technology Chief Marketing Executives
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Senior-Director-Analyst--AI-Strategy--Enterprise-Architecture-Insights_113053-1 | gartner | Senior Director Analyst, AI Strategy, Enterprise Architecture Insights
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Senior-Director--Analyst---Healthcare-Providers---RCM---Healthcare-AI-Technology--Remote---US-_113419 | gartner | Senior Director, Analyst - Healthcare Providers - RCM & Healthcare AI Technology (Remote - US)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Senior-Director--Analyst-CIO-Market-and-Technology-Platforms--Infrastructure-and-Operations---Remote-US_110899 | gartner | Senior Director, Analyst CIO Market and Technology Platforms, Infrastructure and Operations , Remote US
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Sr-Director-Analyst---AI-Technology-Economics_114339 | gartner | Sr Director Analyst - AI Technology Economics
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Sr-Director-Analyst---Integration-and-APIs-in-the-era-of-AI--Remote---US-_113567 | gartner | Sr Director Analyst - Integration and APIs in the era of AI (Remote - US)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Sr-Director-Analyst---Application-Security-and-Governance--Remote---US-_110840 | gartner | Sr Director Analyst – ERP Security Strategy (Remote - U.S.)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Sr-Director-Analyst--Analytics---AI_114720-1 | gartner | Sr Director Analyst- Analytics & AI
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---Texas/Sr-Director-Analyst--Data-Management-Platforms_114658-1 | gartner | Sr Director Analyst, Data Management Platforms
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---Texas/Sr-Director--Analyst-AI-Integration---API-Management-_108568 | gartner | Sr. Director, Analyst AI Integration & API Management- Software Development Advisory
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Regional-Director-Data-Centers---Power-Stability---Electrical-Systems_R5054385-1 | gevernova | Regional Director Data Centers - Power Stability & Electrical Systems
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/Austin/Senior-Technology-Transactions-Attorney---Semiconductor-Industry_JR-2600979 | globalfoundries | Deputy Director Technology Transactions
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8028378 | Carvana | Auto Body Repair Technician
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8256436 | Carvana | Auto Body Repair Technician - Blue Mound, TX - 2nd shift
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8224228 | Carvana | Auto Body Repair Technician - Hutchins, TX
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8239438 | Carvana | Auto Body Repair Technician - San Antonio - 2nd shift
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8177970 | Carvana | Auto Cosmetic Inspector - Blue Mound - 2nd shift
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8082415 | Carvana | Auto Interior Repair/Glass Repair Technician - 2nd shift - $4,000 Sign on Bonus
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8082363 | Carvana | Auto Painter - 2nd shift
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8177921 | Carvana | Auto Painter - Blue Mound
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8233771 | Carvana | Auto Painter - Hutchins, TX
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8082239 | Carvana | Auto Prepper - 2nd shift
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8223827 | Carvana | Automotive Mechanic Supervisor (3rd Shift) Post Production
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8243442 | Carvana | Automotive Mechanic Supervisor (Night Shift)
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8144315 | Carvana | Automotive Parts Associate
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8195802 | Carvana | Automotive Service Advisor
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8070631 | Carvana | Automotive Service Manager 
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8257790 | Carvana | Automotive State Inspector 
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8258838 | Carvana | Body Shop Manager - San Antonio (2nd shift)
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8167803 | Carvana | Brake and Tire Auto Technician
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8161864 | Carvana | Brake and Tire Technician
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8145036 | Carvana | Brake and Tire Technician (2nd Shift)
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8157781 | Carvana | Car Detailer
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8070331 | Carvana | CDL A Local Truck Driver
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8028976 | Carvana | Customer Advocate - Dealership Attendant
+- [ ] https://www.carvana.com/careers/apply?gh_jid=7947040 | Carvana | Customer Advocate , VM,  Market Operations
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8130962 | Carvana | Customer Service Delivery Advocate
+- [ ] https://www.carvana.com/careers/apply?gh_jid=7792867 | Carvana | Customer Service Delivery Driver
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8257266 | Carvana | Diagnostic Auto Mechanic - Post Production( Wednesday to Sunday 6am to 3pm ) 
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8248124 | Carvana | Entry Level Auto Painter/Prepper - Blue Mound, TX 
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8155300 | Carvana | Entry-level Auto Painter - Hutchins, TX
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8186068 | Carvana | Entry-level Auto Technician
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8262939 | Carvana | Entry-level Auto Technician (2nd shift)
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8144768 | Carvana | Entry-Level Automotive Detailer / Lot Attendant 
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8144492 | Carvana | Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8148561 | Carvana | Entry-Level Automotive Detailer / Lot Attendant Post Production
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8188632 | Carvana | Entry-Level Automotive Parts Associate
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8163092 | Carvana | Experienced Auto Body Repair Technician - San Antonio - $4,000 Bonus
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8140225 | Carvana | Experienced Auto Body Repair Technician - San Antonio - 2nd shift - $4,000 Bonus!
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8163074 | Carvana | Experienced Auto Painter - Blue Mound - 2nd shift - $6,000 Bonus
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8265107 | Carvana | Experienced Auto Painter - San Antonio, TX - 2nd shift - $6,000 Sign On Bonus
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8202075 | Carvana | Experienced Automotive Technician
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8180386 | Carvana | Experienced Automotive Technician (2nd Shift) 
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8223485 | Carvana | Experienced Automotive Technician (Post Production) 
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8237803 | Carvana | Experienced Diesel Technician - $2K-$4k Sign On Bonus 
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8082570 | Carvana | Experienced Heavy Body Technician - 2nd shift
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8248152 | Carvana | Experienced Paintless Dent Repair Technician - Blue Mound, TX - 2nd shift - $8,000 Sign On Bonus
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8234007 | Carvana | Experienced Paintless Dent Repair Technician - Hutchins, TX - $6,000 Sign On Bonus
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8237365 | Carvana | Full Time Customer Advocate, VM, Market Operations
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8259184 | Carvana | Lot Assistant - ADESA Hutchins
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8074559 | Carvana | Lot Driver - Part time - ADESA Dallas
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8233366 | Carvana | Lot Driver I -Part Time- ADESA Houston
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8246036 | Carvana | Master Service Technician
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8177890 | Carvana | Mid-Level Auto Interior Repair Technician - Blue Mound - 2nd shift - $4,000 Sign on Bonus
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8264898 | Carvana | Mid-Level Auto Painter - Blue Mound, TX
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8265076 | Carvana | Mid-Level Auto Painter - San Antonio, TX
+- [ ] https://www.carvana.com/careers/apply?gh_jid=7918686 | Carvana | Mid-Level Automotive Parts Associate
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8233958 | Carvana | Mid-Level Automotive Upholstery Repair Technician - Hutchins, TX
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8248137 | Carvana | Mid-Level Paintless Dent Repair Technician - Blue Mound, TX - 2nd shift - $6,000 Sign On Bonus
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8186403 | Carvana | Operations Manager - Day Shift
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8264956 | Carvana | Paintless Dent Repair Technician - Hutchins, TX
+- [ ] https://www.carvana.com/careers/apply?gh_jid=7683380 | Carvana | Part Time Customer Advocate, VM, Market Operations
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8238123 | Carvana | Parts Lead, Dealership Operations
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8241498 | Carvana | Post Production Experienced Automotive Technician  up to $6,000 Sign on bonus
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8189742 | Carvana | Production Manager - Houston 
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8089987 | Carvana | Quality Assurance Coordinator
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8258841 | Carvana | Reconditioning Manager - San Antonio (2nd shift)
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8237844 | Carvana | Security Associate - 2nd Shift
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8274127 | Carvana | Senior Automotive Technician
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8157158 | Carvana | Senior Operations Manager - 2nd Shift
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8142907 | Carvana | Senior Operations Manager - Night Shift
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8259187 | Carvana | Senior Operations Manager, Post Production - Dallas
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8212447 | Carvana | Site Leader - Houston
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8130984 | Carvana | Specialist II, Facilities, Property Operations
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8246037 | Carvana | Stellantis Certified Expert (Phase 3) – $10,000 Bonus
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8234081 | Carvana | Team Lead, Market Operations - Corpus Christi, TX
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8274164 | Carvana | Team Lead, Market Operations - Houston - Spring VM, TX
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8265185 | Carvana | Travel Driver Trainer
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8067640 | Carvana | Vehicle Delivery Driver
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8241552 | Carvana | Vehicle Inspector 
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Conference-Sales-Executive_100085-1 | gartner | Account Executive, Conference Sales
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Account-Executive--LE-GE--GTS_114419-1 | gartner | Account Executive, LE/GE, GTS
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Campaign-Marketing-Manager_114115 | gartner | Campaign Marketing Manager
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Client-Success-Partner_114488 | gartner | Client Success Partner
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Conference-Planner--Production-Experience---Marquee-Content_114117 | gartner | Conference Planner, Production Experience & Marquee Content
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Conference-Planner--Strategic-Account-Meetings_114238 | gartner | Conference Planner, Strategic Account Meetings
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Content-Manager_114918 | gartner | Content Manager
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Executive-Engagement---Growth-Manager_115033 | gartner | Executive Engagement & Growth Manager
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Recruiter_109360-1 | gartner | Recruiter
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Recruiting-Coordinator_113770-1 | gartner | Recruiting Coordinator
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Sr-Conference-Planner--Speaker-Sourcing---Management_114162 | gartner | Sr Planner, Conferences Executive Speaker Management
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/University-Recruiter_112154-1 | gartner | University Recruiter
+- [ ] https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Fort-Worth-TX-US-16/Advanced-Lead-Engineer---Commercial-Field-Service_R5041027-1 | geaerospace | Advanced Lead Engineer - Commercial Field Service
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-Dallas/Child-Care-Regional-Program-Specialist_36174 | guidehouse | Child Care Regional Program Specialist
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Consumer-Transaction-Monitoring-Investigator_44901 | guidehouse | Consumer Transaction Monitoring Investigator
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-Houston/Data-Scientist_44972 | guidehouse | Data Scientist
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/DLP-Pricing-Help-Desk_43834 | guidehouse | DLP Pricing Help Desk
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Helpdesk-Specialist-II_43744 | guidehouse | Helpdesk Specialist II
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Industrial-Security-Associate_44834 | guidehouse | Industrial Security Associate
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Manager--Payment-Posting_44926 | guidehouse | Manager, Payment Posting
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-Lewisville/Operations-Support-Specialist---Healthcare---Monday-through-Friday-Onsite_44870 | guidehouse | Operations Support Specialist - Healthcare - Monday through Friday Onsite
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-Lewisville/Patient-Access-Representative_44720 | guidehouse | Patient Access Representative
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-Lewisville/Patient-Access-Representative---Healthcare_44810 | guidehouse | Patient Access Representative - Healthcare
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Patient-Account-Representative---A-R-Follow-Up-Team_45197 | guidehouse | Patient Account Representative - A/R Follow Up Team
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-Lewisville/Patient-Account-Representative---A-R-Follow-up---Medicare--Medicaid--Commercial-Claims_40218 | guidehouse | Patient Account Representative - A/R Follow-up - Medicare, Medicaid, Commercial Claims
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Patient-Account-Representative---Diagnostic-Scheduling-Authorizations_44960 | guidehouse | Patient Account Representative – Diagnostic Scheduling Authorizations
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Supervisor---Hospital-A-R---Patient-Financial-Services_44971 | guidehouse | Supervisor | Hospital A/R - Patient Financial Services
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Team-Lead---Great-Start--HB-_45233 | guidehouse | Team Lead - Great Start (HB)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Director--Exhibitor-Planning---Performance_113017 | gartner | Director, Exhibitor Planning & Performance
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8211598 | Box | Director, Sales Development
+- [ ] https://www.carvana.com/careers/apply?gh_jid=8221575 | Carvana | Associate Director, Field Operations & Strategy
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---Texas/Associate-Director-Consulting---State-and-Local-Government_112654-1 | gartner | Associate Director Consulting - State and Local Government
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Corporate-Compliance---Ethics-Expert--Director--Analyst--Fully-remote-United-States-_113421 | gartner | Corporate Compliance & Ethics Expert (Director, Analyst- Fully remote United States)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Director-Analyst---CFO-Frontier-Insights_114451-1 | gartner | Director Analyst - CFO Frontier Insights
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Director--Gartner-Analyst--Data-Quality_107052 | gartner | Director, Analyst, Data Management for AI and Agentic Use Cases(Remote US)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Executive-Partner---Chief-Sales-Officer-Advisory_114532 | gartner | Executive Partner - Chief Sales Officer Advisory
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Executive-Partner--Chief-Product-Officers---High-Tech_113878 | gartner | Executive Partner, Chief Product Officers - High Tech
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Senior-Director-Analyst----Software-Engineering-for-AI-and-Agentic-Applications--Remote---US-_112559 | gartner | Senior Director Analyst  - Software Engineering for AI and Agentic Applications (Remote - U.S.)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Senior-Director-Analyst---Audit-Function-Strategy-Expert--Remote--US-_113566-1 | gartner | Senior Director Analyst - CAE and Audit Function Management Expert (Remote, US)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Senior-Principal-Analyst--AI-Cybersecurity--Remote-United-States_104968 | gartner | Senior Director, Analyst AI Cybersecurity Remote United States
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Sr-Director-Analyst_113806-1 | gartner | Sr Director Analyst
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Sr-Director-Analyst--Data-Management--Governance---AI--Remote-US-_113865 | gartner | Sr Director Analyst, Data Management, Governance & AI (Remote US)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---United-States/Sr-Director-Analyst--Direct-Procurement_114503-1 | gartner | Sr Director Analyst, Direct Procurement
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Sr-Director-Analyst--Semiconductor-NAND-Flash_114604 | gartner | Sr Director Analyst, Semiconductor NAND Flash
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---Texas/Sr-Director--Analyst---Tech-CEO-Business-and-Strategy-Advisor-on-AI-Orchestration--Tech-CEO-Research-Organization-_113334 | gartner | Sr Director, Analyst - Tech CEO Business and Strategy Advisor on AI Orchestration (Tech CEO Research Organization)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Remote---Texas/Sr-Director-Analyst--AI---Finance-Technology-Investigations--Remote---US-_111420 | gartner | Sr. Director Analyst, Finance AI Agent Architecture & Strategy (Remote - US)
+- [ ] https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/VP--Operations--Conferences_114204 | gartner | VP, Operations, Conferences
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Americas-Consulting-Director_R5055619-1 | gevernova | Americas Consulting Director
+- [ ] https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Sales-Director---Nuclear-Installed-Base-Demand-Creation_R5055774 | gevernova | Sales Director - Nuclear Installed Base Demand Creation
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Richardson/Principal-Attorney-Commercial-Agreements_JR-2602659 | globalfoundries | Principal Attorney Commercial Agreements
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Richardson/Sr-Principal-Engineer--IO---Interface-Expert_JR-2600485 | globalfoundries | Sr. Principal Analog Design Engineer
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Business-Process-Improvement---Internal-Controls-Specialist-Department-of-War--DOW----San-Antonio_45412 | guidehouse | Business Process Improvement & Internal Controls Specialist Department of War (DOW) - San Antonio
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/5281208008 | BGE, Inc | Senior Project Manager- Transportation Systems
+- [ ] https://boards.greenhouse.io/blacksky/jobs/8012426002?gh_jid=8012426002 | BlackSky | Senior Product Manager, Analytics
+- [ ] https://job-boards.greenhouse.io/bluewaterthinking/jobs/4720292006 | Blue Water Thinking | Project Manager, FEHRM Healthcare Technology Management - Deployment
+- [ ] https://job-boards.greenhouse.io/bluewaterthinking/jobs/4718084006 | Blue Water Thinking | Project Manager, FEHRM Healthcare Technology Management - Interoperability
+- [ ] https://job-boards.greenhouse.io/boulevard/jobs/4683617006 | Boulevard | Senior Product Manager, Developer Ecosystem
+- [ ] https://www.businessolver.com/careers/openings/?gh_jid=7532565 | Businessolver | Payroll Integrations Analyst II (New Client Implementations)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4707825006 | Chainguard | Senior Technical Program Manager 
+- [ ] https://job-boards.greenhouse.io/charterup/jobs/5434597008 | CharterUP | Project Manager, Enterprise Operations
+- [ ] https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Sr-Technical-Program-Manager_WD228502 | flextronics | Sr. Technical Program Manager
+- [ ] https://flowserve.wd1.myworkdayjobs.com/applied/job/Irving-Texas-US/IT-Business-Analyst--Enterprise-Applications_R-21018 | flowserve | IT Business Analyst, Enterprise Applications
+- [ ] https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/United-States-of-America-Remote/Technical-Implementation-Specialist_R-01030325 | freseniusglobal | Technical Implementation Specialist
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-Lackland-AFB/Technical-Program-Manager_RQ230303-1 | gdit | Technical Program Manager
+- [ ] https://haemonetics.wd5.myworkdayjobs.com/hae/job/US-Remote/R-D-Program-Manager--Enterprise-Software---Hybrid-Boston-_R10778 | haemonetics | R&D Program Manager (Enterprise Software)
+- [ ] https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/National-Remote/Sr-Systems-Analyst_R0055490 | hcsc | Sr Systems Analyst
+- [ ] https://job-boards.greenhouse.io/blytheco/jobs/4930227008 | Blytheco |  Acumatica Consultant- Manufacturing/Distribution
+- [ ] https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Strategic-Supply-Chain-Manager_WD226446 | flextronics | Strategic Supply Chain Manager
+- [ ] https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Program-Manager--Compliance-Platform-Strategy_2133646 | fmr | Program Manager, Compliance Platform Strategy
+- [ ] https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---Downtown/Trade-Finance-Business-Analyst-and-System-Liaison_R261733 | frostbank | Trade Finance Business Analyst and System Liaison
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Austin-Texas-United-States-of-America/Software-Engineering-Manager---Order-Fulfillment-Software-Factory_JR-202621108 | generalmotors | Software Engineering Manager - Order Fulfillment Software Factory
+- [ ] https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Coppell-Texas/Warehouse-Production-Lead_R-58315 | gfs | Warehouse Production Lead
+- [ ] https://gmh.wd12.myworkdayjobs.com/external_careers/job/Remote/SrApp-Analyst-Workday-Supply-Chain-Remote_25000582 | gmh | Workday Supply Chain Analyst
+- [ ] https://haier.wd3.myworkdayjobs.com/fpa_external_career_site/job/Lancaster-Texas-USA/Warehouse-Lead---Lancaster_REQ-25901-1 | haier | Warehouse Lead - Lancaster
+- [ ] https://haier.wd3.myworkdayjobs.com/fpa_external_career_site/job/Lancaster-Texas-USA/Warehouse-Lead---Spare-Parts_REQ-26221 | haier | Warehouse Lead - Spare Parts
+- [ ] https://hec.wd5.myworkdayjobs.com/hilcorp_energy_company/job/Houston-TX/XMLNAME-26-119B1---Sr-IT-Systems-Analyst--SAP-BASIS-and-Security-Administrator-_R006403-1 | hec | 26-119.B1 - Sr. IT Systems Analyst (SAP BASIS and Security Administrator)
+- [ ] https://henryschein.wd1.myworkdayjobs.com/external_careers/job/San-Antonio---Texas/Inventory-Specialist---San-Antonio_R135472 | henryschein | Inventory Specialist - San Antonio
+- [ ] https://job-boards.greenhouse.io/beyondtrust/jobs/7885465 | BeyondTrust | Sr Product Manager
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/5414600008 | BGE, Inc | PLA Project Manager
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/5190049008 | BGE, Inc | Project Manager - Construction Management
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/5217469008 | BGE, Inc | Project Manager - Land Development/MUD District
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/4607932008 | BGE, Inc | Senior Project Manager - Site Development - Civil Engineering (Commercial/Retail/Industrial - PE license required)
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/5367124008 | BGE, Inc | Senior Project Manager - Water/Wastewater/Pipe Networks/Lift & Pump Stations
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/5422241008 | BGE, Inc | Senior Project Manager – Residential Land Development
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/5357457008 | BGE, Inc | Senior Project Manager (PM or Sr PM) - W/WW/Drainage/Pipe Networks/Lift & Pump Stations
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/5054711008 | BGE, Inc | Senior Project Manager (Single-family, Residential, Master Planned) --Land/Site Development CIVIL ENGINEERING
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/5156512008 | BGE, Inc | Sr Environmental Scientist/Environmental Project Manager
+- [ ] https://job-boards.greenhouse.io/blueroseresearch/jobs/5579915004 | Blue Rose Research | Product Manager / Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/bluewaterthinking/jobs/4716257006 | Blue Water Thinking | Program Manager - Healthcare Transformation
+- [ ] https://job-boards.greenhouse.io/boulevard/jobs/4690572006 | Boulevard | Senior Product Manager - Commerce 
+- [ ] https://job-boards.greenhouse.io/boulevard/jobs/4699330006 | Boulevard | Senior Product Manager, AI Receptionist
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8209238 | Braze | Lead Product Manager, Banners & Content Cards
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8257792 | Braze | Senior Product Manager, Intelligence
+- [ ] https://job-boards.greenhouse.io/brph/jobs/4309984009 | BRPH | Construction Project Manager
+- [ ] https://job-boards.greenhouse.io/brph/jobs/4354964009 | BRPH | Project Manager - Aerospace & Defense
+- [ ] https://job-boards.greenhouse.io/brph/jobs/4436007009 | BRPH | Senior Construction Project Manager
+- [ ] https://www.businessolver.com/careers/openings/?gh_jid=6166816 | Businessolver | Implementation Project Manager II (Remote)  
+- [ ] https://www.businessolver.com/careers/openings/?gh_jid=8100099 | Businessolver | Product Manager (Remote)
+- [ ] https://caddell.com/job-application/?gh_jid=5289810008 | Caddell Construction | Assistant Project Manager - Governmental 
+- [ ] https://caddell.com/job-application/?gh_jid=5182693008 | Caddell Construction | Project Manager
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8788325002 | Calendly | Staff Product Manager, Intelligent Customer Experience
+- [ ] https://job-boards.greenhouse.io/calm/jobs/8815441002 | Calm.com | Growth Product Manager 
+- [ ] http://www.cannondesign.com/careers/?gh_jid=8544879002 | CannonDesign | Project Manager IV
+- [ ] https://job-boards.greenhouse.io/careerteam/jobs/4718061005 | Career Team | Business Analyst - Workforce Development Software
+- [ ] https://job-boards.greenhouse.io/careerteam/jobs/4742647005 | Career Team | Youth Program Manager
+- [ ] https://job-boards.greenhouse.io/carefeed/jobs/5283805008 | Carefeed | Senior Product Manager, Admissions
+- [ ] https://job-boards.greenhouse.io/centralreach/jobs/4430556009 | CentralReach | Sr. Product Manager - CR Essentials
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4712509006 | Chainguard | Senior Product Manager (AI CICD)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4720603006 | Chainguard | Senior Product Manager (Athena)
+- [ ] https://www.chargepoint.com/about/opportunities/job/?gh_jid=8807454002 | ChargePoint | Staff Product Manager, Fleet Software
+- [ ] https://job-boards.greenhouse.io/charlesriverassociates/jobs/7983867 | Charles River Associates | Product Manager/Agile Master, AI and Digital Products
+- [ ] https://flextronics.wd1.myworkdayjobs.com/crown_careers/job/USA-TX-Dallas/Business-Transformation-Leader---SAP-S-4HANA_WD230713 | flextronics | Business Transformation Leader - SAP S/4HANA
+- [ ] https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Program-Manager--CEC-Proposal-Management_WD226031-1 | flextronics | Program Manager, Proposals & Sales Enablement
+- [ ] https://flextronics.wd1.myworkdayjobs.com/crown_careers/job/USA-TX-Dallas/Project-Manager_WD229010 | flextronics | Project Manager
+- [ ] https://flextronics.wd1.myworkdayjobs.com/crown_careers/job/USA-TX-Dallas/Project-Manager---Fabrication_WD226228-2 | flextronics | Project Manager - Fabrication
+- [ ] https://flowserve.wd1.myworkdayjobs.com/applied/job/Houston-Texas-US/Project-Manager---Pump-Repair_R-19865 | flowserve | Project Manager
+- [ ] https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/Remote-TX/Senior-Transformation-Analyst--Data---Value_JR101003 | formfactor | Senior Transformation Analyst, Data & Value
+- [ ] https://freese.wd1.myworkdayjobs.com/freese_nichols_external/job/Fort-Worth-Texas/Transmissions-and-Utilities-Project-Manager_JR103747 | freese | Transmissions and Utilities Project Manager
+- [ ] https://freese.wd1.myworkdayjobs.com/freese_nichols_external/job/San-Antonio-Texas/Water-Resource-Design---Project-Manager_JR103647 | freese | Water Resource Design - Project Manager
+- [ ] https://freese.wd1.myworkdayjobs.com/freese_nichols_external/job/Dallas-Texas/Water-Wastewater-Transmission-and-Utilities-Project-Manager_JR103942 | freese | Water/Wastewater Transmission and Utilities Project Manager
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Cloud-Project-Manager_RQ228738-1 | gdit | Cloud Project Manager
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Lead-Business-Analyst_RQ207291-1 | gdit | Lead Business Analyst (Agile) ( Legacy IT solutions)
+- [ ] https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Remote/Clinical-Application--Specialist---Digital-Implementation-Services_R4047690-1 | gehc | Clinical Application  Specialist - Digital Implementation Services
+- [ ] https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Remote/Program-Manager--Quality--AIS_R4047142-1 | gehc | Program Manager, Quality, AIS
+- [ ] https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Remote/Project-Manager_R4046764 | gehc | Project Manager
+- [ ] https://ghc.wd1.myworkdayjobs.com/kaplan_careers/job/RemoteNationwide-USA/Project-Manager--Web-Marketing_JR258145 | ghc | Project Manager, Web Marketing
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-REMOTE/ESSM-Material-Program-Manager---Remote_01881913 | globalhr | ESSM Material Program Manager - Remote
+- [ ] https://gohealthuc.wd12.myworkdayjobs.com/external/job/Remote/Workforce-Scheduling-Program-Manager_JR112429 | gohealthuc | Workforce Scheduling Program Manager
+- [ ] https://goodrx.wd1.myworkdayjobs.com/careers/job/Remote-USA/Implementation-Manager---Data-Solutions_JR100665 | goodrx | Implementation Manager - Data Solutions
+- [ ] https://granite.wd1.myworkdayjobs.com/careers/job/Irving-Texas/Project-Manager--Heavy-Civil-Construction-_R0000008131 | granite | Project Manager (Heavy Civil Construction)
+- [ ] https://henryschein.wd1.myworkdayjobs.com/external_careers/job/United-States---Remote/Business-Analyst_R134304 | henryschein | Business Analyst
+- [ ] https://henryschein.wd1.myworkdayjobs.com/external_careers/job/United-States---Remote/Product-Manager--Handpiece--Small-Equipment---Rotary_R134392-1 | henryschein | Product Manager, Handpiece, Small Equipment & Rotary
+- [ ] https://job-boards.greenhouse.io/betterhelpcom/jobs/5385506008 | BetterHelp | Manager, Business Analytics & Insights
+- [ ] https://job-boards.greenhouse.io/betterhelpcom/jobs/5441405008 | BetterHelp | Senior Manager, Enterprise Sales
+- [ ] https://job-boards.greenhouse.io/beyondtrust/jobs/8178027 | BeyondTrust | Government Compliance Technical Specialist
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/5225065008 | BGE, Inc | Water Facilities Technical Leader (Pump Stations/Hydraulics/W/WW Conveyance/Piping Design)
+- [ ] https://bicyclehealth.com/careers-opportunities?gh_jid=6177470004 | Bicycle Health | Senior Strategic Financial Planning  Analyst
+- [ ] https://job-boards.greenhouse.io/billiontoone/jobs/4726748005 | BillionToOne | EMR Integration Specialist
+- [ ] https://job-boards.greenhouse.io/bluemoonmetals/jobs/4436615009 | Blue Moon Metals | Database & Geographic Information System (GIS) Geologist, Special Projects
+- [ ] https://job-boards.greenhouse.io/blytheco/jobs/5286401008 | Blytheco | Inside Sales Manager (ERP Software)
+- [ ] https://job-boards.greenhouse.io/blytheco/jobs/4142168008 | Blytheco | STAR Acumatica Consultant (ERP Training Program)
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8212006 | Braze | Account Manager, Emerging Enterprise
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8089838 | Braze | Lead, Technology Partners Product Marketing Manager
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8109995 | Braze | Senior Lead Systems Engineer, AI & Automation
+- [ ] https://job-boards.greenhouse.io/bridgebio/jobs/5179745007 | BridgeBio Pharma | Manager, Quality Systems and Risk Management
+- [ ] https://www.businessolver.com/careers/openings/?gh_jid=6346161 | Businessolver | Integrations Analyst I/II (Remote)  
+- [ ] https://www.businessolver.com/careers/openings/?gh_jid=8201170 | Businessolver | Senior Sales Consultant - Enterprise (Remote)
+- [ ] http://www.cannondesign.com/careers/?gh_jid=8620218002 | CannonDesign |  Project Technology V 
+- [ ] http://www.cannondesign.com/careers/?gh_jid=8620216002 | CannonDesign | Project Technology IV
+- [ ] https://job-boards.greenhouse.io/careaccess/jobs/4399324009 | Care Access | Manager, IT Systems Engineering
+- [ ] https://job-boards.greenhouse.io/caredxinc/jobs/4375859009 | CareDx, Inc. | Lead Finance Systems Administrator
+- [ ] https://job-boards.greenhouse.io/carrotfertility/jobs/6144245004 | Carrot | Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/censys/jobs/8752923002 | Censys | Enterprise Solutions Engineer, Texas
+- [ ] https://job-boards.greenhouse.io/centralreach/jobs/4411261009 | CentralReach | Technical Product Analyst
+- [ ] https://job-boards.greenhouse.io/ceribell/jobs/6206471004 | Ceribell, Inc | Manager of National Health Systems
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4694867006 | Chainguard | Senior Customer Success Manager, Enterprise - East
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4676419006 | Chainguard | Senior Customer Success Manager, Enterprise - West
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4710601006 | Chainguard | Senior Partner Manager - Technology Partnerships
+- [ ] https://www.chargepoint.com/about/opportunities/job/?gh_jid=8889103002 | ChargePoint | Technical Marketing Manager
+- [ ] https://job-boards.greenhouse.io/charlesriverassociates/jobs/8053945 | Charles River Associates | (2027 Bachelor's/Master's graduates) Cyber & Forensic Technology Consulting Analyst/Associate 
+- [ ] https://job-boards.greenhouse.io/charterup/jobs/5434581008 | CharterUP | Senior Enterprise Sourcing Specialist
+- [ ] https://flextronics.wd1.myworkdayjobs.com/crown_careers/job/USA-TX-Dallas/Estimating-Manager_WD221562 | flextronics | Technical Estimating Supervisor/Manager
+- [ ] https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/Farmers-Branch-TX/Supply-Chain-Data-Scientist_JR100869 | formfactor | Supply Chain Data Engineer
+- [ ] https://foundationccc.wd1.myworkdayjobs.com/fccc-careers/job/California-Remote/Marketing---Engagement-Coordinator--Enterprise---Procurement-Service_JR101380 | foundationccc | Outreach and Engagement Coordinator, Enterprise & Procurement Service
+- [ ] https://foundationccc.wd1.myworkdayjobs.com/fccc-careers/job/California-Remote/Product-Specialist--Technology-Solutions_JR101382 | foundationccc | Product Specialist, Technology Solutions
+- [ ] https://freese.wd1.myworkdayjobs.com/freese_nichols_external/job/Fort-Worth-Texas/Facilities-Master-Planning-Lead_JR103359 | freese | Senior Architect / Planner – Facilities Master Planning
+- [ ] https://fullsteam.wd1.myworkdayjobs.com/external/job/Remote---US/Accounting-Manager--Payments-and-Platform-Services-Revenue_JR102300 | fullsteam | Accounting Manager, Payments and Platform Services Revenue
+- [ ] https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Remote-USA/Senior-Business-Intelligence-Analyst---Enterprise-Analytics_R9559 | gaig | Senior Business Intelligence Analyst - Enterprise Analytics
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AWS-Technical-Lead-Sr-Java-Angular-Developer_RQ230150-1 | gdit | AWS Technical Lead/Sr. Java/Angular Developer
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Child-Support-Systems-APD-Budget-Review-Specialist_RQ230165-1 | gdit | Child Support Systems APD/Budget Review Specialist
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Child-Support-Systems-Certification-Specialist_RQ230060 | gdit | Child Support Systems Certification Specialist
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-Austin/Container-Platform-Lead_RQ230334 | gdit | Container Platform Lead
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Lead-Platform-Engineer_RQ229649-1 | gdit | Lead Platform Engineer
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-Lackland-AFB/Lead-Platform-Engineering-Architect_RQ230349-2 | gdit | Lead Platform Engineering Architect
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-Lackland-AFB/Lead-Systems-Engineering-Architect_RQ230336-1 | gdit | Lead Systems Engineering Architect
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Technical-Solutions-Manager_RQ229861-1 | gdit | Senior Technical Solutions Manager
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Technical-Training-Specialist--Videographer-_RQ230199-1 | gdit | Senior Technical Training Specialist (Videographer)
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Software-Development-Technical-Lead_RQ228363-1 | gdit | Software Development Technical Lead
+- [ ] https://graybar.wd1.myworkdayjobs.com/careers/job/Dallas-TX/Service-Center-Warehouse-Manager---Site-Leader_R262997-1 | graybar | Service Center Warehouse Manager - Site Leader
+- [ ] https://gtt.wd3.myworkdayjobs.com/external/job/US-Remote/Enterprise-Sales-Executive_R0012670 | gtt | Enterprise Account Manager
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Senior-Architect--Data-and-Analytics_JR_15050 | guidewire | Senior Architect, Data and Analytics
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Strategic-Analytics-Account-Manager_JR_15198 | guidewire | Strategic Analytics Account Manager
+- [ ] https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/National-Remote/Analytics-and-Reporting-Consultant_R0055988-2 | hcsc | Analytics and Reporting Consultant
+- [ ] https://hdsupply.wd1.myworkdayjobs.com/external/job/Flower-Mound-TX-US/Operations-Manager---Night_R26004196 | hdsupply | Distribution Manager - Night Shift
+- [ ] https://hdsupply.wd1.myworkdayjobs.com/external/job/TX198---Dallas_Mountain-Creek_FM/Inventory-Solutions-Specialist--VMI-_R26004446 | hdsupply | Inventory Solutions Specialist (VMI) - Dallas
+- [ ] https://hdsupply.wd1.myworkdayjobs.com/external/job/Flower-Mound-TX-US/Manager--Distribution---Weekend-Shift_R26003250 | hdsupply | Manager, Distribution - Day Shift
+- [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-HV-MX-Remote/Technical-Resource-Center-Analyst_R0146372 | hitachi | Technical Resource Center Analyst
+- [ ] https://hoganas.wd3.myworkdayjobs.com/careers/job/Remote---US/Technical-Sales-Manager_JR1425 | hoganas | Technical Sales Manager
+- [ ] https://job-boards.greenhouse.io/boloai/jobs/4421895009 | Bolo AI | Forward Deployed Product Manager
+- [ ] http://www.cannondesign.com/careers/?gh_jid=8585262002 | CannonDesign | Project Manager III
+- [ ] http://www.cannondesign.com/careers/?gh_jid=8571324002 | CannonDesign | Sr. Project Manager
+- [ ] https://job-boards.greenhouse.io/catamountconstructors/jobs/4435392009 | Catamount Constructors | Project Manager (Commercial)
+- [ ] https://job-boards.greenhouse.io/catamountconstructors/jobs/4204457009 | Catamount Constructors | Project Manager (Light Industrial)
+- [ ] https://job-boards.greenhouse.io/catamountconstructors/jobs/4207477009 | Catamount Constructors | Project Manager (Mission Critical)
+- [ ] https://job-boards.greenhouse.io/catamountconstructors/jobs/4207481009 | Catamount Constructors | Sr. Project Manager
+- [ ] https://job-boards.greenhouse.io/catamountconstructors/jobs/4371041009 | Catamount Constructors | Sr. Project Manager (Healthcare)
+- [ ] https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Garland-TX/Program-Manager--Product-Development_REQ37035 | flir | Program Manager, Product Development
+- [ ] https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Garland-TX/Senior-Program-Manager_REQ37036 | flir | Senior Program Manager
+- [ ] https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/IT-and-Digital-Product-Owner-III_R261781 | frostbank | IT and Digital Product Owner III
+- [ ] https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Product-Manager-I---Salesforce_R261125 | frostbank | Product Manager I - Salesforce
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Material-Program-Manager--Growth---Hybrid_01871392-1 | globalhr | Material Program Manager, Growth - Hybrid
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Program-Manager_01882024-1 | globalhr | Program Manager
+- [ ] https://hargroveepc.wd12.myworkdayjobs.com/hargrove_careers/job/Pasadena-TX/Project-Manager_2026-000797 | hargroveepc | Project Manager
+- [ ] https://hargroveepc.wd12.myworkdayjobs.com/hargrove_careers/job/Pasadena-TX/Project-Manager_2025-001071 | hargroveepc | Refining Project Manager
+- [ ] https://hitt.wd503.myworkdayjobs.com/hitt/job/Houston-TX/Commercial-Construction-Assistant-Project-Manager_JR102877 | hitt | Commercial Construction Assistant Project Manager
+- [ ] https://hitt.wd503.myworkdayjobs.com/hitt/job/Lubbock-TX/Commercial-Construction-Assistant-Project-Manager---Mission-Critical_JR102735 | hitt | Commercial Construction Assistant Project Manager - Mission Critical
+- [ ] https://hitt.wd503.myworkdayjobs.com/hitt/job/Houston-TX/Commercial-Construction-Project-Manager_JR102593 | hitt | Commercial Construction Project Manager
+- [ ] https://hitt.wd503.myworkdayjobs.com/hitt/job/Dallas-TX/Commercial-Construction-Project-Manager---Advanced-Manufacturing-Industrial_JR102629 | hitt | Commercial Construction Project Manager - Advanced Manufacturing/Industrial
+- [ ] https://hitt.wd503.myworkdayjobs.com/hitt/job/Dallas-TX/Commercial-Construction-Project-Manager---Interiors_JR102970 | hitt | Commercial Construction Project Manager - Interiors
+- [ ] https://hitt.wd503.myworkdayjobs.com/hitt/job/TempleTX/Project-Manager_JR102338 | hitt | Commercial Construction Project Manager - Mission Critical
+- [ ] https://hitt.wd503.myworkdayjobs.com/hitt/job/Houston-TX/Commercial-Construction-Senior-Project-Manager---Healthcare_JR100908 | hitt | Commercial Construction Senior Project Manager - Healthcare & Life Sciences
+- [ ] https://hitt.wd503.myworkdayjobs.com/hitt/job/Lubbock-TX/Commercial-Construction-Senior-Project-Manager---Mission-Critical_JR102606 | hitt | Commercial Construction Senior Project Manager - Mission Critical
+- [ ] https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Lead-Project-Manager_JR102483-1 | hmhw | Lead Project Manager
+- [ ] https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Dallas-TX/Aviation-Project-Manager-II_R-30627 | hntb | Aviation Project Manager II
+- [ ] https://brighthire.com/careers/?gh_jid=6210795004 | BrightHire | Staff/Principal Product Manager
+- [ ] https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Financial-Planning-Consultant---Westlake--TX_2128556-1 | fmr | Financial Planning Consultant - Westlake, TX
+- [ ] https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Senior-Manager--Data-Analytics---Insights_2130193-1 | fmr | Senior Manager, Data Analytics & Insights
+- [ ] https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Director-of-Engineering--Voice-Platform_2127337 | fmr | Voice Platform Technical Lead
+- [ ] https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Houston-TX/Wealth-Management-Planning-Consultant---Houston--TX_2136788 | fmr | Wealth Management Planning Consultant - Houston, TX
+- [ ] https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/Farmers-Branch-TX/Desktop-Systems-Specialist_JR101223 | formfactor | Desktop Systems Specialist
+- [ ] https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/Farmers-Branch-TX/New-Product-Introduction-Manufacturing-Systems-Coordinator_JR101172 | formfactor | New Product Introduction Manufacturing Execution Systems (MES) Coordinator
+- [ ] https://fortbendcountytx.wd5.myworkdayjobs.com/externalcareers/job/Richmond-TX/Applications-Programming-Supervisor---Information-Technology_JR1469-07-26 | fortbendcountytx | Applications Programming Supervisor - Information Technology
+- [ ] https://fortbendcountytx.wd5.myworkdayjobs.com/externalcareers/job/Richmond-TX/Enterprise-Systems-Manager---Information-Technology_JR1624-10-26 | fortbendcountytx | Enterprise Systems Manager - Information Technology
+- [ ] https://fortbendcountytx.wd5.myworkdayjobs.com/externalcareers/job/Richmond-TX/Systems-Programming-Supervisor---Information-Technology_JR1316-05-26 | fortbendcountytx | Systems Programming Supervisor - Information Technology
+- [ ] https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Houston-TX/Technical-Customer-Support-Specialist_R_00107325-1 | freudenberg | Technical Customer Support Specialist
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-REMOTE/Principal-Specialist--Material-Program-Manager_01867076 | globalhr | Principal Specialist, Material Program Manager
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Security-Integration-Manager--Growth-Projects---Remote_01881718 | globalhr | Security Integration Manager, Growth Projects - Remote
+- [ ] https://greif.wd5.myworkdayjobs.com/greif/job/Baytown-IBC-TX/Senior-Maintenance-Analyst---Steel-Tube-Line_034608 | greif | Tube Line Startup & Technical Specialist
+- [ ] https://hargroveepc.wd12.myworkdayjobs.com/hargrove_careers/job/Pasadena-TX/Mechanical---Piping-Technical-Specialist_2026-000774 | hargroveepc | Mechanical & Piping Technical Specialist
+- [ ] https://job-boards.greenhouse.io/betterhelpcom/jobs/5375553008 | BetterHelp | Clinical Operations Manager
+- [ ] https://job-boards.greenhouse.io/betterhelpcom/jobs/5379917008 | BetterHelp | Senior Manager, Psychiatric Operations
+- [ ] https://job-boards.greenhouse.io/bgeinc/jobs/5356354008 | BGE, Inc | Digital Delivery Manager – Bentley Technologies
+- [ ] https://job-boards.greenhouse.io/billiontoone/jobs/4735176005 | BillionToOne | Phlebotomy Operations Specialist
+- [ ] https://job-boards.greenhouse.io/blackbirdhealth/jobs/5433829008 | Blackbird Health |  Senior Manager of Strategic Credentialing and Network Operations
+- [ ] https://job-boards.greenhouse.io/bluestarfamilies/jobs/5452599008 | Blue Star Families | Digital Asset Specialist Consultant
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8283552 | Blueprint Technologies | IT Operations & Onboarding Coordinator
+- [ ] https://job-boards.greenhouse.io/boulevard/jobs/4712185006 | Boulevard | Support Operations Manager
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8238106 | Braze | Lead Solutions Engineer, POC Operations
+- [ ] https://job-boards.greenhouse.io/breezeway/jobs/5438660008 | Breezeway | Senior Customer Operations Lead
+- [ ] http://www.cannondesign.com/careers/?gh_jid=8858555002 | CannonDesign | Sr. Manager, HRIS & Operations
+- [ ] https://job-boards.greenhouse.io/careaccess/jobs/4451316009 | Care Access | Digital Quality & GxP Manager
+- [ ] https://job-boards.greenhouse.io/carrotfertility/jobs/6144265004 | Carrot | Sr. Manager, Data Engineering 
+- [ ] https://job-boards.greenhouse.io/casechek/jobs/4699754006 | Casechek | People Operations Manager
+- [ ] https://www.chronograph.pe/jobs/?gh_jid=5013760007 | Chronograph | Tech Lead, Product Engineering
+- [ ] https://job-boards.greenhouse.io/ciazumano/jobs/4681017005 | CI Azumano | Operations Manager, Government
+- [ ] https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Lead-Engineering-Technician_WD231020 | flextronics | Lead Engineering Technician
+- [ ] https://flextronics.wd1.myworkdayjobs.com/crown_careers/job/USA-TX-Dallas/Operations-Training-Manager_WD228061 | flextronics | Operations Training Manager
+- [ ] https://foundationccc.wd1.myworkdayjobs.com/fccc-careers/job/California-Remote/Fellow--C2C-Forward-Fellow-Program_JR101376 | foundationccc | C2C Forward Fellow, Data Programs
+- [ ] https://foundationccc.wd1.myworkdayjobs.com/fccc-careers/job/California-Remote/Data-and-Projects-Coordinator--Resource-Operations-and-Insights_JR101367 | foundationccc | Data and Projects Coordinator, Resource Operations and Insights
+- [ ] https://fox.wd1.myworkdayjobs.com/foxtvst_central/job/USA---TX---Dallas---400-N-Griffin-Street/Production-Automation-Technician_R50033799 | fox | Production Automation Technician
+- [ ] https://fox.wd1.myworkdayjobs.com/foxtvst_central/job/USA---TX---Dallas---400-N-Griffin-Street/Production-Technician_R50033798 | fox | Production Technician
+- [ ] https://fox.wd1.myworkdayjobs.com/foxtvst_central/job/Houston-Texas-USA/Regional-Digital-Sales-Manager_R50033772-2 | fox | Regional Digital Sales Manager
+- [ ] https://fullsteam.wd1.myworkdayjobs.com/external/job/Austin-TX/Digital-Marketing-Specialist_JR102255 | fullsteam | Digital Marketing Specialist
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Application-Developer---Programmer-Senior_RQ229901-1 | gdit | Application Developer / Programmer Senior
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Committee-Operations-Lead_RQ226466-1 | gdit | Committee Operations Lead
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Data-Architect---Active-Secret-Clearance_RQ229609-1 | gdit | Data Architect | Active Secret Clearance
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Data-Incident-and-Problem-Management-Analyst_RQ227199 | gdit | Data Incident and Problem Management Analyst
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Database-Administrator---Production-Support_RQ229836 | gdit | Database Administrator-  Production Support
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/IT-Operations-Manager_RQ228139 | gdit | IT Operations Manager
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/IT-Program-Consultant---PTOC_RQ230378 | gdit | IT Program Consultant - PTOC
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Microstrategy-Core-Application-Lead-_RQ230148-1 | gdit | Microstrategy Core Application Lead 
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-Austin/Server-Operations-Lead_RQ230337 | gdit | Server Operations Lead
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Sourcing-and-Procurement-Sr-Analyst_RQ230297-1 | gdit | Sourcing and Procurement Sr Analyst
+- [ ] https://geha.wd5.myworkdayjobs.com/gehacareers/job/Remote/Digital-Marketing-Channel-Specialist_R-005345 | geha | Digital Marketing Channel Specialist
+- [ ] https://geha.wd5.myworkdayjobs.com/gehacareers/job/Remote/Sr-Pharmacy-Performance---Operations-Specialist_R-005325 | geha | Sr. Pharmacy Performance & Operations Specialist
+- [ ] https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Remote/Clinical-Application-Specialist---General-Imaging--NYC-_R4047711 | gehc | Clinical Application Specialist - General Imaging (NYC)
+- [ ] https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Remote/Clinical-Application-Specialist---Anesthesia---Respiratory-Care_R4046473-1 | gehc | Clinical Application Specialist – Anesthesia & Respiratory Care - Sacramento, CA
+- [ ] https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Remote/Clinical-Application-Support-Specialist-II--RO_R4046974-1 | gehc | Clinical Application Support Specialist II- RO
+- [ ] https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Remote/Clinical-Applications-Specialist---Periop--Bilingual-_R4047595-1 | gehc | Clinical Applications Specialist - Periop (Bilingual)
+- [ ] https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Remote/Clinical-Operations-Support-Specialist---Salt-Lake-City-On-Site_R4047549 | gehc | Clinical Operations Support Specialist - Salt Lake City/On-Site
+- [ ] https://genpt.wd1.myworkdayjobs.com/careers/job/Houston-TX-USA/Operations-Manager_R26_0000034049 | genpt | Operations Manager
+- [ ] https://ghc.wd1.myworkdayjobs.com/framebridge_careers/job/San-Marcos-TX-USA/Art-Manufacturing-and-Mechanical-Production-Technician_JR257926 | ghc | Art Manufacturing and Mechanical Production Technician
+- [ ] https://ghc.wd1.myworkdayjobs.com/framebridge_careers/job/San-Marcos-TX-USA/IT-Support-Specialist---Manufacturing-Operations_JR259194 | ghc | IT Support Specialist – Manufacturing Operations
+- [ ] https://ghc.wd1.myworkdayjobs.com/kaplan_careers/job/RemoteNationwide-USA/Oracle-Fusion-Techno-Functional-Lead_JR242165 | ghc | Oracle Fusion Techno-Functional Lead
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-REMOTE/Cloud-Operations-Monitoring-Specialist--Remote---2nd-Shift-_01858378-1 | globalhr | Cloud Operations Monitoring Specialist (Remote - 2nd Shift)
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-REMOTE/Sr-Analyst--Procurement_01882085 | globalhr | Sr Analyst, Procurement
+- [ ] https://gmh.wd12.myworkdayjobs.com/external_careers/job/Remote/Sr-Application-Analyst-Epic-Clinical-Case-Management_R26003128 | gmh | Sr. Application Analyst Epic Clinical Case Management
+- [ ] https://grammy.wd5.myworkdayjobs.com/the_recording_academy_career_site/job/Remote/Digital-Member-Experience-Manager_JR100690 | grammy | Digital Member Experience Manager
+- [ ] https://gtt.wd3.myworkdayjobs.com/external/job/CZ-Remote/Service-Assurance-Engineer_R0014542 | gtt | Operations Engineer, Network Solutions
+- [ ] https://guardianpharmacy.wd5.myworkdayjobs.com/guardian_pharmacy/job/Arlington-Texas/Manager-Pharmacy-Operations_R16213-1 | guardianpharmacy | Manager Pharmacy Operations
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/AI-Business-Architect--Sales-Operations_JR_15178 | guidewire | AI Business Architect- Sales Operations
+- [ ] https://haemonetics.wd5.myworkdayjobs.com/hae/job/US-TX-Remote/Account-Manager--Interventional-Technologies---Houston-North--TX_R10979 | haemonetics | Account Manager, Interventional Technologies,  Houston North, TX
+- [ ] https://haemonetics.wd5.myworkdayjobs.com/hae/job/US-TX-Remote/Account-Manager--Interventional-Technologies--Austin--Texas_R10978-1 | haemonetics | Account Manager, Interventional Technologies, Austin, Texas
+- [ ] https://haemonetics.wd5.myworkdayjobs.com/hae/job/US-IL-Remote/Account-Manager--Interventional-Technoligies--Chicago--IL_R11064 | haemonetics | Account Manager, Interventional Technologies, Chicago, IL
+- [ ] https://haemonetics.wd5.myworkdayjobs.com/hae/job/US-CA-Remote/Account-Manager--Interventional-Technologies--Los-Angeles-CA_R10746 | haemonetics | Account Manager, Interventional Technologies, Los Angeles CA
+- [ ] https://haemonetics.wd5.myworkdayjobs.com/hae/job/GB-Remote/Clinical-Specialist---Interventional-Technologies--Vascular-Closure----London-based_R10875-1 | haemonetics | Clinical Specialist - Interventional Technologies (Vascular Closure) - London based
+- [ ] https://haemonetics.wd5.myworkdayjobs.com/hae/job/US-WA-DC-Remote/Clinical-Specialist--Interventional-Technologies---Washington-DC_R10991-1 | haemonetics | Clinical Specialist, Interventional Technologies - Washington DC
+- [ ] https://haemonetics.wd5.myworkdayjobs.com/hae/job/US-CA-Remote/Clinical-Specialist--Interventional-Technologies--San-Diego--CA_R11098 | haemonetics | Clinical Specialist, Interventional Technologies, San Diego, CA
+- [ ] https://haemonetics.wd5.myworkdayjobs.com/hae/job/US-CA-Remote/Sr-Clinical-Specialist--Interventional-Technologies--Los-Angeles---South_R10371 | haemonetics | Sr. Clinical Specialist, Interventional Technologies, Los Angeles - South
+- [ ] https://hagerty.wd5.myworkdayjobs.com/hagerty/job/USA-Remote/Engineering-Manager--Application-Architecture_R5286 | hagerty | Engineering Manager, Application Architecture
+- [ ] https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/National-Remote/Senior-Application-Architect---Azure-and-Databrick_R0055351-1 | hcsc | Senior Application Architect - Azure and Databrick
+- [ ] https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Remote/Vendor-Partner-Specialist---Contact-Center-Operations_R022128 | healthfirst | Vendor Partner Specialist - Contact Center Operations
+- [ ] https://henryschein.wd1.myworkdayjobs.com/external_careers/job/Wisconsin-United-States---Remote/Lead-Installation-Tech_R127844-1 | henryschein | Lead Installation Tech
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/TEXAS---VIRTUAL---TX01/Rental-Field-Operations-Manager---Dallas-Fort-Worth--TX_Req195779 | homedepot | Rental Field Operations Manager - Dallas/Fort Worth, TX
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8060682 | Braze | Director, CX Business Systems 
+- [ ] https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Associate-Principal-Engineer--Systems-Architecture_WD228498-1 | flextronics | Associate Principal Engineer, Systems Architecture
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-CARROLLTON-2816-CUST--2816-Commodore-Dr--COMMODORE-External-Site/Principal-Specialist--Supply-Chain-Management_01880496 | globalhr | Principal Specialist, Supply Chain Management
+- [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-HV-US-Remote-CO/Cloud-Solution-Architect_R0135468-1 | hitachi | Principal Cloud Platform Architect (Remote US)
+- [ ] https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Director--Derivatives-and-Liquid-Alternative-Investments-Product-Manager_2130917 | fmr | Director, Derivatives and Liquid Alternative Investments Product Manager
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8082282 | Blueprint Technologies | Principal Web Strategy & Digital Experience Lead
+- [ ] https://job-boards.greenhouse.io/botauto/jobs/5430794008 | Bot Auto | IT Operations Manager
+- [ ] https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Manager--Grant-Operations_2125234-2 | fmr | Manager- Grant Operations
+- [ ] https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Principal-Operating-Systems-Programmer_2110005 | fmr | Principal CICS Systems Programmer
+- [ ] https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Senior-Manager--Brokerage-Treasury-Operations_2133364-1 | fmr | Senior Manager, Brokerage Treasury Operations
+- [ ] https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/Farmers-Branch-TX/Manufacturing-Section-Manager---VPS-Operations_JR101168 | formfactor | Manufacturing Section Manager – VPS Operations
+- [ ] https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/Farmers-Branch-TX/Procurement-Sourcing-Manager_JR100836-1 | formfactor | Procurement Sourcing Manager
+- [ ] https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Houston-TX/Applications-Engineer-II-for-Connector-Products_R_00105819 | freudenberg | Applications Engineer II for Connector Products
+- [ ] https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Application-Security-Analyst-II---AI_R261393 | frostbank | Application Security Analyst II - AI
+- [ ] https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Consumer-Banking-Experience-Analyst-II---In-Branch-Digital-Journey_R261760 | frostbank | Consumer Banking Experience Analyst II - In-Branch Digital Journey
+- [ ] https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---Downtown/Digital-Marketing-Specialist_R260919 | frostbank | Digital Marketing Specialist
+- [ ] https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/IT-Category-Manager_R261614 | frostbank | IT Category Manager
+- [ ] https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---Downtown/Wealth-Advisors-Operations-Specialist-II_R261660 | frostbank | Wealth Advisors Operations Specialist II
+- [ ] https://gatewaystaff.wd5.myworkdayjobs.com/gwc/job/Southlake-TX/Campus-Operations-Manager_R4038 | gatewaystaff | Campus Operations Manager (Live Production)
+- [ ] https://gcatx.wd5.myworkdayjobs.com/careers/job/Central-Office-Houston-TX/Accounting---Audit-Manager_JR100180 | gcatx | Accounting & Audit Manager
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Information-Security-Analyst-Principal_RQ224758 | gdit | Information Security Analyst Principal
+- [ ] https://ghc.wd1.myworkdayjobs.com/csi_careers/job/RemoteNationwide-USA/Director-Pharmacy-Benefit-Manager_JR258409 | ghc | Director Pharmacy Benefit Manager
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-REMOTE/Principal-Specialist--Procurement_01880712 | globalhr | Principal Specialist, Procurement
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Program-Operations-Manager--Growth---Hybrid_01871413 | globalhr | Program Operations Manager, Growth - Hybrid
+- [ ] https://globelife.wd5.myworkdayjobs.com/globe-life-careers/job/McKinney-TX/Sr-Manager--IT-Audit--Hybrid-_JR101566 | globelife | Sr. Manager, IT Audit (Hybrid)
+- [ ] https://greif.wd5.myworkdayjobs.com/greif/job/Nacogdoches-TX/Lead-Plastic-Technician_035654-1 | greif | Lead Plastic Technician
+- [ ] https://hargroveepc.wd12.myworkdayjobs.com/tormod_careers/job/Virtual_TX/Datacenter-Cx-Specialist_2026-000999 | hargroveepc | Datacenter Cx Specialist
+- [ ] https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/TX---Richardson/Sr-Application-Architect---Hadoop_R0055729-1 | hcsc | Sr Application Architect - Hadoop
+- [ ] https://hec.wd5.myworkdayjobs.com/harvest_midstream/job/Houston-TX/XMLNAME-26-067B---SCADA-Real-Time-Application-Manager_R006335 | hec | 26-067.B - SCADA Real Time Application Manager
+- [ ] https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/HROC-Digital-Solutions-and-Innovation-Manager_JR10018055 | heidelbergmaterials | HROC Digital Solutions and Innovation Manager
+- [ ] https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Lead-Service-Engineer---Software---Digital-Solutions_JR102479 | hmhw | Lead Service Engineer - Software & Digital Solutions

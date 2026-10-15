@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-15T04:26:28.053Z",
+  "generated_at": "2026-10-15T09:35:18.188Z",
   "profile_version": 1,
-  "eligible": 160,
-  "scored": 160,
-  "new_this_run": 38,
-  "new_strong_apply": 0,
-  "new_high_review": 1,
-  "strong_apply": 0,
-  "high_review": 1,
-  "possible": 16,
-  "low": 143,
-  "major_or_disqualifying_gap": 2
+  "eligible": 261,
+  "scored": 261,
+  "new_this_run": 261,
+  "new_strong_apply": 3,
+  "new_high_review": 9,
+  "strong_apply": 3,
+  "high_review": 9,
+  "possible": 27,
+  "low": 222,
+  "major_or_disqualifying_gap": 11
 }
