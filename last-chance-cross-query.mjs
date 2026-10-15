@@ -13,8 +13,8 @@ import { readFileSync, writeFileSync } from 'node:fs';
 
 export const TARGET = 30;
 export const QUERY_FAMILIES = [
-  { id: 'product_supply_chain', roles: ['"product manager"', '"product owner"', '"technical product manager"'], domains: ['"supply chain"', 'warehouse', 'logistics', 'fulfillment'] },
   { id: 'business_systems_erp', roles: ['"business systems analyst"', '"systems analyst"', '"business analyst"'], domains: ['ERP', 'WMS', 'SAP', 'Kinaxis', '"enterprise systems"', 'integration'] },
+  { id: 'product_supply_chain', roles: ['"product manager"', '"product owner"', '"technical product manager"'], domains: ['"supply chain"', 'warehouse', 'logistics', 'fulfillment'] },
   { id: 'program_implementation', roles: ['"program manager"', '"implementation manager"', '"implementation consultant"', '"project manager"'], domains: ['"supply chain"', 'warehouse', 'logistics', 'distribution', 'fulfillment'] },
   { id: 'planning_analytics', roles: ['"supply chain analyst"', '"business intelligence"', '"data analyst"'], domains: ['"S&OP"', 'inventory', '"demand planning"', 'fulfillment', 'analytics'] }
 ];
@@ -47,16 +47,17 @@ export function countQualifyingFits(rows) {
 function orGroup(terms) { return `(${terms.join(' OR ')})`; }
 
 export function buildQueries(companies) {
-  return companies.flatMap((entry) => {
+  return companies.flatMap((entry, companyIndex) => {
     const company = typeof entry === 'string' ? entry : entry.name;
     if (!company) return [];
     const escaped = `"${company.replaceAll('"', '')}"`;
     const sourceGroup = orGroup(CATCHUP_SITES.map((site) => `site:${site}`));
-    return QUERY_FAMILIES.flatMap((family) => {
+    const companyBatch = Math.floor(companyIndex / 25) + 1;
+    return QUERY_FAMILIES.flatMap((family, familyIndex) => {
       const base = `${escaped} ${orGroup(family.domains)} ${orGroup(family.roles)}`;
       return [
-        { company, query_family: family.id, source_scope: 'official_and_public_web', query: base, status: 'pending' },
-        { company, query_family: family.id, source_scope: 'linkedin_indeed_jobright', query: `${sourceGroup} ${base}`, status: 'pending' }
+        { company, company_batch: companyBatch, round: familyIndex + 1, query_family: family.id, source_scope: 'official_and_public_web', query: base, status: 'pending' },
+        { company, company_batch: companyBatch, round: familyIndex + 1, query_family: family.id, source_scope: 'linkedin_indeed_jobright', query: `${sourceGroup} ${base}`, status: 'pending' }
       ];
     });
   });
@@ -83,6 +84,7 @@ export function createPlan({ summary, companies, target = TARGET, generatedAt = 
     initial_qualifying_count: qualifying,
     shortfall,
     query_method: 'company × focused domain family × related role family; run once unrestricted and once across LinkedIn/Indeed/Jobright indexes',
+    execution_policy: { company_batch_size: 25, queries_per_company_batch_per_round: 50, rounds: 'Run the next 25-company batch for one role/domain family, retrieve and score its JDs, then stop immediately if the target is reached. Continue to the next batch/round only while below target.' },
     sources: Object.fromEntries(['official_careers', 'linkedin', 'indeed', 'jobright_aggregator', 'public_web'].map((source) => [source, { status: shortfall ? 'pending' : 'not_needed', jobs_discovered: 0 }])),
     queries: shortfall ? buildQueries(companies) : []
   };
