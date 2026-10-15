@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-import {readFileSync,writeFileSync} from 'node:fs';
-const rows=readFileSync('data/latest-jd-candidates.jsonl','utf8').trim().split('\n').map(JSON.parse).filter(x=>x.fetch_batch===1).slice(0,50);
+import {readFileSync,writeFileSync,existsSync} from 'node:fs';
+const batchArg=Number(process.argv.find(x=>x.startsWith('--batch='))?.split('=')[1]||1);
+const rows=readFileSync('data/latest-jd-candidates.jsonl','utf8').trim().split('\n').filter(Boolean).map(JSON.parse).filter(x=>x.fetch_batch===batchArg).slice(0,50);
 const clean=s=>String(s||'').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();
 function gate(s){const t=clean(s);const a=/(responsibilit|duties|what you.ll do|what you will do|your role|what you'll own|what you will own|day.to.day|key accountabilit|the role)/i.test(t);const b=/(qualification|requirement|what you bring|what you'll bring|what you will bring|what we're looking for|what we are looking for|you have|experience|skills)/i.test(t);const rich=t.length>=2500;const substantial=t.length>=1200&&(a||b);return {jd_char_count:t.length,jd_has_role_content:a,jd_has_candidate_content:b,jd_fetch_status:(rich||(substantial&&a&&b))?'full':t.length>=300?'partial':'metadata_only'};}
 function levelHardNegative(j){const title=String(j.title||'').toLowerCase().trim();const rules=[[/\b(warehouse|inventory)\s+(associate|worker)\b/,'frontline_warehouse'],[/\b(material handler|picker|packer|forklift|order selector)\b/,'frontline_warehouse'],[/\b(intern|internship|co-op|apprentice|trainee)\b/,'student_or_trainee'],[/\b(development program|rotational program)\b/,'development_program']];for(const [re,reason] of rules){if(re.test(title))return {level_hard_negative:true,level_hard_negative_reason:reason};}return {level_hard_negative:false,level_hard_negative_reason:null};}
@@ -12,7 +13,10 @@ else if(j.source==='greenhouse-api'){const p=u.pathname.split('/').filter(Boolea
 else if(j.source==='ashby-api'){const p=u.pathname.split('/').filter(Boolean),x=await json('https://api.ashbyhq.com/posting-api/job-board/'+p[0]);const h=(x.jobs||[]).find(v=>String(v.jobUrl||'').includes(p[1]));body=h?.descriptionPlain||h?.descriptionHtml||h?.description||'';}
 else throw Error('unsupported_source');const g=gate(body);const rel=relevance(j,body);const lvl=levelHardNegative(j);return {...j,...g,...rel,...lvl,jd_text:clean(body),full_jd_verified:g.jd_fetch_status==='full',fit_scoring_eligible:g.jd_fetch_status==='full'&&rel.relevance_status!=='low'&&!lvl.level_hard_negative};}catch(e){return {...j,jd_fetch_status:'failed',full_jd_verified:false,jd_error:String(e.message||e)};}}
 const out=[];for(let i=0;i<rows.length;i+=5)out.push(...await Promise.all(rows.slice(i,i+5).map(one)));
-writeFileSync('data/latest-jd-read-results.jsonl',out.map(JSON.stringify).join('\n')+'\n');
+const resultPath='data/latest-jd-read-results.jsonl';
+const previous=existsSync(resultPath)?readFileSync(resultPath,'utf8').trim().split('\n').filter(Boolean).map(JSON.parse).filter(x=>x.fetch_batch!==batchArg):[];
+const combined=[...previous,...out];
+writeFileSync(resultPath,combined.map(JSON.stringify).join('\n')+'\n');
 const counts=out.reduce((a,x)=>(a[x.jd_fetch_status]=(a[x.jd_fetch_status]||0)+1,a),{});const relevanceCounts=out.reduce((a,x)=>(a[x.relevance_status||'unscored']=(a[x.relevance_status||'unscored']||0)+1,a),{});
 writeFileSync('data/latest-jd-read-summary.json',JSON.stringify({generated_at:new Date().toISOString(),attempted:out.length,status_counts:counts,full_jd_verified:out.filter(x=>x.full_jd_verified).length,relevance_counts:relevanceCounts,level_hard_negative:out.filter(x=>x.level_hard_negative).length,fit_scoring_eligible:out.filter(x=>x.fit_scoring_eligible).length},null,2)+'\n');
 console.log(JSON.stringify({attempted:out.length,counts,full:out.filter(x=>x.full_jd_verified).length,relevance:relevanceCounts,level_hard_negative:out.filter(x=>x.level_hard_negative).length,fit_eligible:out.filter(x=>x.fit_scoring_eligible).length}));
