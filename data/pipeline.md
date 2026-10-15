@@ -964,3 +964,135 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7478077003?gh_jid=7478077003 | Celonis | Client Value Partner (CVP) - Oil & Gas Industry
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7539033003?gh_jid=7539033003 | Celonis | Client Value Partner (CVP) - Utilities & Energy Industry
 - [ ] https://jobs.ashbyhq.com/serverobotics/dd03616c-cd2e-4db2-8c49-2ad4ea889e0b | Serve Robotics | VP of IT Infrastructure & Operations
+
+- [ ] https://jobs.ashbyhq.com/snowflake/34f83a57-280d-4ee6-9f99-bcc06d8ab4ea | Snowflake | Technical Program Manager
+- [ ] https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-USA/Product-Manager--Ecosystems---Technical-Allianace_JR101334 | bitsight | Product Manager, Ecosystems & Technical Alliance
+- [ ] https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-Portugal/Senior-Business-Systems-Analyst_JR101342-1 | bitsight | Senior Business Systems Analyst
+- [ ] https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Remote---Anywhere---USA/Project-Manager--Enterprise-Implementations_R0014542 | blackbaud | Project Manager, Enterprise Implementations
+- [ ] https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Remote---Anywhere---USA/Senior-Business-Systems-Analyst--Customer-Operations_R0014663 | blackbaud | Senior Business Systems Analyst, Customer Success Support
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---San-Antonio-TX/E-4B-Field-Service-Logistics-Representative---Associate_JR2026526461-2 | boeing | E-4B Field Service Logistics Representative - Associate
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Manager--Marketplace-Implementation_JR102868 | bigcommerce | Manager, Marketplace Implementation
+- [ ] https://jobs.ashbyhq.com/snowflake/079b5a33-2fcd-458e-b1ba-bde591bef4cd | Snowflake | Project Manager
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Lead-Software-Engineer---Search--Semantic-Platform-_JR102797 | bigcommerce | Lead Software Engineer,  Search (Semantic Platform)
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Technical-Support-Representative--US-_3100 | bigcommerce | Technical Support Representative - Remote
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Technical-Training-Content-Developer_JR102714-1 | bigcommerce | Technical Training Content Developer
+- [ ] https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-Portugal/Senior-Product-Manager---TPRM_JR101386-1 | bitsight | Senior Product Manager - TPRM
+- [ ] https://blattner.wd5.myworkdayjobs.com/blattnerenergy/job/RemoteTraveling-For-Evergreen-Reqs-Only/Construction-Project-Manager_R8341 | blattner | Construction Project Manager
+- [ ] https://bmc.wd1.myworkdayjobs.com/bmc/job/Remote/Senior-Business-Performance-Analyst_48785 | bmc | Senior Pharmacy Business Analyst
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Houston-TX/Experienced-or-Senior-System-Safety-Engineer_JR2026524696 | boeing | Experienced or Senior System Safety Engineer
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Randolph-AFB-TX/Quality-Systems-Specialist--Quality-Multi-Function-_JR2026523897 | boeing | Quality Systems Specialist (Quality Multi-Function)
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Houston-TX/Senior-ISS-System-Safety-Engineer_JR2026524356 | boeing | Senior ISS System Safety Engineer
+- [ ] https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/Customer-Reference--Program-Manager_R2026-0395 | bonterra | Customer Reference  Program Manager
+- [ ] https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/Implementation-Consultant_R2026-0262 | bonterra | Implementation Consultant
+- [ ] https://jobs.ashbyhq.com/skydio/a7297edb-3ab2-4cb1-a587-d5c01c2d6abd | Skydio | Aviation Regulatory Program Manager
+- [ ] https://jobs.ashbyhq.com/skydio/c9bc66c4-b813-4ed8-b513-c77ccad59ccf | Skydio | Program Manager, Major Deployments
+- [ ] https://jobs.ashbyhq.com/snowflake/89588286-28f8-495c-99d6-cfe4a169c006 | Snowflake | Account Executive, Enterprise Acquisition
+- [ ] https://jobs.ashbyhq.com/snowflake/8bbbd764-cdd6-4f53-8a3f-096902f2d966 | Snowflake | Enterprise Account Executive
+- [ ] https://jobs.ashbyhq.com/snowflake/67efc76a-fd66-4fa8-b2a6-473baaf31249 | Snowflake | Enterprise Account Executive, Observe
+- [ ] https://jobs.ashbyhq.com/snowflake/b93dd7ef-bb2b-4cc5-aef6-19576a7157fb | Snowflake | Solution Engineer, Enterprise Acquisition
+- [ ] https://jobs.ashbyhq.com/socure/57073148-1411-4e7e-acd6-4938586bd396 | Socure | Program Manager, Org Effectiveness & Insights
+- [ ] https://jobs.ashbyhq.com/socure/36d7c361-a369-4de5-a3f8-5cfeb108237a | Socure | Sr. Program Manager, Performance Management
+- [ ] https://jobs.ashbyhq.com/southgeeks/48dfa4c8-0150-4245-ac91-6fcfaf0c7162 | South Geeks | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/spoton/acd89b4f-bef1-4219-8f6f-3461c4fce3f3 | SpotOn | Product Manager (Owner Experiences)
+- [ ] https://jobs.ashbyhq.com/stacker/72cd427b-f958-4ef4-a90b-9c7527a309b7 | Stacker | Lead Product Manager, GEO
+- [ ] https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Remote---Anywhere---USA/Enterprise-Architect_R0014148 | blackbaud | Enterprise Architect
+- [ ] https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Remote---Anywhere---USA/AI-Platform-Technical-Lead_R0014405-1 | blackbaud | Senior Manager, Enterprise AI Platform
+- [ ] https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Remote---Anywhere---USA/Senior-Solutions-Consultant--Higher-Education-Student-Information-Systems--SIS-_R0014628 | blackbaud | Senior Solutions Consultant, Higher Education Student Information Systems (SIS)
+- [ ] https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Remote---Anywhere---USA/System-Architect--Awareness-to-Revenue_R0014537 | blackbaud | System Architect, Awareness to Revenue
+- [ ] https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Remote---Costa-Rica/Technical-Success-Support--Specialist_R0013696 | blackbaud | Technical Success Support, Specialist
+- [ ] https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Remote---Costa-Rica/Technical-Support-Specialist---Web---Configurable-Solutions_R0014239 | blackbaud | Technical Support Specialist - Web & Configurable Solutions
+- [ ] https://bpinternational.wd3.myworkdayjobs.com/bpprivateexternalcareerssite/job/United-States-of-America---Texas---Houston/Graduate---Technology---Procurement---Houston--TX_RQ115641-1 | bpinternational | Graduate – Technology - Procurement – Houston, TX
+- [ ] https://bpinternational.wd3.myworkdayjobs.com/bpcareers/job/United-States-of-America---Remote/Manager--Market-Intelligence---Commercial-Analytics_RQ116732 | bpinternational | Manager, Market Intelligence & Commercial Analytics
+- [ ] https://brambles.wd5.myworkdayjobs.com/brambles_careers/job/Field-Based-Remote---FL-USA/Senior-Manager--Global-HR-Systems_JR25229 | brambles | Senior Manager, Global HR Systems
+- [ ] https://bridgeigp.wd1.myworkdayjobs.com/bigc/job/Remote/Analyst---Corporate-Yardi-System-Administrator_JR104966 | bridgeigp | Analyst - Corporate Yardi System Administrator
+- [ ] https://jobs.ashbyhq.com/skydio/18fabe54-7291-4dfa-9fd7-b4d5d2879a32 | Skydio | Manager, Technical Support
+- [ ] https://jobs.ashbyhq.com/skydio/42b0f6bf-a5c8-416a-80f3-f357964b2955 | Skydio | Manager, Technical Support National Security
+- [ ] https://jobs.ashbyhq.com/skydio/4538c882-3ff9-479a-8400-caa9b8506066 | Skydio | Strategic Account Manager – Enterprise Security
+- [ ] https://jobs.ashbyhq.com/skydio/3ac81a34-b7fe-4142-9d29-12bcc1376182 | Skydio | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/snappy/a7867fc5-a57d-4390-9af5-cd2894247ad7 | Snappy | Enterprise Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/socure/96c259ba-5175-47dd-8328-160aed01ab97 | Socure | Senior Business Systems Engineer – Product & Engineering Platforms
+- [ ] https://jobs.ashbyhq.com/socure/f8038aea-368e-4128-beba-c146d5a49d9d | Socure | Technical Content Marketing Manager
+- [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Van-Horn-TX/Technician---Mechanical-Integration---All-Shifts-All-Levels_R67234-1 | blueorigin | Technician - Mechanical Integration | All Shifts All Levels
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5112586007?gh_jid=5112586007 | Anduril | Flight Test Operator
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5253759007?gh_jid=5253759007 | Anduril | Senior Product Sourcing Engineer, Counter Intrusion
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5246569007?gh_jid=5246569007 | Anduril | Senior Talent Acquisition Manager, RMS
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Engineering-Technician-II----T2-_R2630159-1 | Applied Materials | Engineering Technician II - (T2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Engineering-Technician-II--T2---Weekend-Compressed-Shift-Nights_R2629956 | Applied Materials | Engineering Technician II (T2)- Weekend Compressed Shift Nights
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-I----T1--2nd-Shift_R2630181 | Applied Materials | Manufacturing Technician I - (T1) 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2-_R2630122 | Applied Materials | Manufacturing Technician II - (T2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--2nd-Shift_R2630641-1 | Applied Materials | Manufacturing Technician II - (T2) 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--Weekend---F-M_R2629907 | Applied Materials | Manufacturing Technician II - (T2) Weekend - F-M
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--Weekend-Compressed-Shift_R2629976 | Applied Materials | Manufacturing Technician II - (T2) Weekend Compressed Shift
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Lead-Infrastructure-Engineer_JR102847 | bigcommerce | Lead Infrastructure Engineer
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Lead-Software-Engineer---AI-Solutions_JR102269 | bigcommerce | Lead Software Engineer - AI
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Lead-Software-Engineer_JR102872-1 | bigcommerce | Lead Software Engineer-Backend (PHP)
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Manager--Customer-Success-Management_JR102856 | bigcommerce | Manager, Customer Success Management
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Manager--Data-Engineering_JR102873 | bigcommerce | Manager, Data Engineering
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Senior-Manager--Infrastructure-Engineering_JR102866 | bigcommerce | Senior Manager, Infrastructure Engineering
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Senior-Manager--Revenue-Operations_JR102871-1 | bigcommerce | Senior Manager, Revenue Operations
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Staff-Software-Engineer_JR102845 | bigcommerce | Staff Software Engineer
+- [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Central-Texas/Solar-Technician--All-Levels-_R72391 | blueorigin | Solar Technician (All Levels)
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Dallas-TX/Associate-Procurement-Agent_JR2026525397 | boeing | Associate Procurement Agent
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Coppell-TX/Associate-Shipping-Receiving-Specialist_JR2026519539 | boeing | Associate Shipping/Receiving Specialist
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Dallas-TX/Associate-Wheel-and-Brake-Technician_JR2026524555-1 | boeing | Associate Wheel and Brake Technician
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Dallas-TX/Associate-Wheel-and-Brake-Technician-Assembler_JR2026518530 | boeing | Associate Wheel and Brake Technician Assembler
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---San-Antonio-TX/B-52-Field-Service-Rep---Defense_JR2026521257-3 | boeing | B-52 Field Service Rep - Defense
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382 | boeing | Entry-Level Software Engineer–Developer
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Experienced-Real-Time-Software-Engineer---Simulation_JR2026523364-1 | boeing | Experienced Real-Time Software Engineer - Simulation
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Coppell-TX/Experienced-Shipping-Receiving-Clerk-Specialist_JR2026517303 | boeing | Experienced Shipping/Receiving Clerk Specialist
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Lead-Software-Engineer-Developer---DevSecOps_JR2026523369 | boeing | Lead Software Engineer Developer - DevSecOps
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---San-Antonio-TX/Senior-Test---Evaluation-Lab-Tech_JR2026526003-1 | boeing | Senior Test & Evaluation Lab Tech
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/United-States---Remote/Software-Certification-Engineers--Senior--Lead--or-Expert---Virtual-_JR2026517973 | boeing | Software Certification Engineers (Senior, Lead, or Expert) (Virtual)
+- [ ] https://jobs.ashbyhq.com/snowflake/9321b73a-1bc9-41d2-96fb-d4ec1818f046 | Snowflake | AI Solutions Specialist
+- [ ] https://jobs.ashbyhq.com/snowflake/6871df54-d22b-4417-bf49-322deea4ad29 | Snowflake | Business Development & Capture - PubSec
+- [ ] https://jobs.ashbyhq.com/snowflake/dd539240-7018-4918-a9f3-f49963ab6b8e | Snowflake | Commercial Account Executive - Acquisition 
+- [ ] https://jobs.ashbyhq.com/snowflake/ecd08904-f188-4336-bf8c-f75f97df1a02 | Snowflake | Data Engineering Solutions Specialist 
+- [ ] https://jobs.ashbyhq.com/snowflake/06210ca6-b608-4087-8796-ea85f5ca84df | Snowflake | Enteprise Account Executive, Acquisition - Malaysia
+- [ ] https://jobs.ashbyhq.com/snowflake/a4a787f7-75f3-43d9-b46b-3441817abacb | Snowflake | Expansion Account Executive - Life Sciences, Belgium
+- [ ] https://jobs.ashbyhq.com/snowflake/9ba51355-d486-4d17-bc41-e1c1ed57e93d | Snowflake | Federal Partner Development Manager
+- [ ] https://jobs.ashbyhq.com/snowflake/4a3d512a-3833-40a3-830d-167051e86625 | Snowflake | Manager, Data Cloud Partners – Retail, CPG, and Manufacturing
+- [ ] https://jobs.ashbyhq.com/snowflake/1dc688b3-90b1-4c83-89b8-fee512638de1 | Snowflake | Partner Development Manager, Financial Services DCP Partners
+- [ ] https://jobs.ashbyhq.com/snowflake/a9a18bcd-638b-41f1-bd6c-be1c3be15aca | Snowflake | Partner Development Manager, SAP AMER
+- [ ] https://jobs.ashbyhq.com/snowflake/59b0a754-fecd-4156-9f28-1caa9cd99509 | Snowflake | Senior Solution Engineer
+- [ ] https://jobs.ashbyhq.com/snowflake/3e456510-bf29-4dbf-9a27-33a8ace8a44a | Snowflake | Senior Solution Engineer, Financial Services 
+- [ ] https://jobs.ashbyhq.com/snowflake/080606f5-8a95-49d1-b604-c4780cb50e09 | Snowflake | Senior Solution Engineer, Retail & Consumer Goods 
+- [ ] https://jobs.ashbyhq.com/snowflake/afaaccae-b713-4432-9c04-cc8b1be52d59 | Snowflake | Senior Solutions Engineer, Observe
+- [ ] https://jobs.ashbyhq.com/snowflake/ef881134-59a9-42f4-ba77-f5e7a9ddaf89 | Snowflake | Solution Engineer
+- [ ] https://jobs.ashbyhq.com/snowflake/440ec976-a307-4575-abab-554aef8151a4 | Snowflake | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/snowflake/7e7eb6a8-fc30-46dd-b9d7-c881447b04c9 | Snowflake | Solutions Architect, Observe
+- [ ] https://jobs.ashbyhq.com/snowflake/631f5d58-a2e7-4717-9892-3e0fa8c3b464 | Snowflake | Staff Designated Support Engineer
+- [ ] https://jobs.ashbyhq.com/snowflake/cdebc456-bb4f-4cc7-84fc-dccb8499a8f6 | Snowflake | Strategic Account Executive, Majors Acquisition
+- [ ] https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Vice-President--Technology-Partnerships_JR102766 | bigcommerce | Vice President, Technology Partnerships
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Chief-Architect--System-Architecting--Requirements---Interfaces-_JR2026496827 | boeing | Chief Architect (System Architecting, Requirements & Interfaces)
+- [ ] https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/Principal-Product-Manager_R2026-0366-1 | bonterra | Principal Product Manager
+- [ ] https://braunintertec.wd5.myworkdayjobs.com/brauninterteccareers/job/Dallas-TX/Geotechnical-Project-Engineer_R4982 | braunintertec | Geotechnical Project Engineer
+- [ ] https://jobs.ashbyhq.com/socure/fa5d826d-18e1-4ce1-b103-204a5701a701 | Socure | Principal Product Manager
+- [ ] https://bestfriends.wd1.myworkdayjobs.com/bestfriendscareers/job/Remote/Manager--Embed-Project-Operations--Travel-Based-role-_JR100927 | bestfriends | Manager, Embed Project Operations (Travel Based role)
+- [ ] https://betmgminc.wd5.myworkdayjobs.com/betmgm/job/Remote-New-Jersey/Compliance-Data-Analyst_JR100802 | betmgminc | Compliance Data Analyst
+- [ ] https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Senior-IT-Architect--Veeva-Domain_REQ23952-1 | biibhr | Senior IT Architect, Veeva Domain
+- [ ] https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Sr-Clinical-Data-Manager--WCH_REQ24317 | biibhr | Sr Clinical Data Manager, WCH
+- [ ] https://biotechne.wd5.myworkdayjobs.com/biotechne/job/US---Pennsylvania---Remote/Field-Applications-Scientist--Immunoassay-Specialist--PA-_JR101941 | biotechne | Field Applications Scientist, Immunoassay Specialist (PA)
+- [ ] https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-USA/Global-Digital-Marketing-Manager_JR101433-1 | bitsight | Global Digital Marketing Manager
+- [ ] https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Remote---Anywhere---USA/Senior-Manager--Data-Protection-Services_R0014343 | blackbaud | Manager, Data Protection Services
+- [ ] https://blattner.wd5.myworkdayjobs.com/blattnercompany/job/RemoteTraveling-For-Corporate-Use-Only/Procurement-Manager---Gas-Power-Generation_R8451 | blattner | Procurement Manager - Gas Power Generation
+- [ ] https://blattner.wd5.myworkdayjobs.com/blattnercompany/job/RemoteTraveling-For-Corporate-Use-Only/Manager---Quality_R7768 | blattner | Quality Manager - Field Operations
+- [ ] https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Remote---Newfield-New-Jersey/Sr-Operations-Manager_JR-22566 | bloomenergy | Sr. Operations Manager (Vineland, Cumberland County, NJ)
+- [ ] https://bpinternational.wd3.myworkdayjobs.com/bpprivateexternalcareerssite/job/United-States-of-America---Texas---Offshore/Production-Technician_RQ063702 | bpinternational | Production Technician
+- [ ] https://bpinternational.wd3.myworkdayjobs.com/bpcareers/job/United-States-of-America---Texas---Houston/Senior-Area-Facing-Data-Manager_RQ116423 | bpinternational | Senior Area Facing Data Manager
+- [ ] https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA---Full-Remote---BDI/Associate-Clinical-Applications-Specialist--Cardiology---Bracco-Diagnostics-Inc_JR100413 | bracco | Associate Clinical Applications Specialist, Cardiology - Bracco Diagnostics Inc
+- [ ] https://bracco.wd103.myworkdayjobs.com/braccocareers/job/CHN---Full-Remote/MEDICAL-INFORMATION-SPECIALIST_JR100370 | bracco | MEDICAL INFORMATION SPECIALIST
+- [ ] https://bridgestone.wd5.myworkdayjobs.com/external/job/019917-Austin-Parmer/Automotive-Lead-Technician_2026_21493 | bridgestone | Automotive Lead Technician
+- [ ] https://jobs.ashbyhq.com/skydio/099a7705-2cbe-48a2-af37-f108b347c5cb | Skydio | Marketing Operations Manager (Contract)
+- [ ] https://jobs.ashbyhq.com/skydio/384a0790-d08c-4476-8518-bd0caca725b2 | Skydio | Sr. Operations Specialist – Launch Team
+- [ ] https://jobs.ashbyhq.com/socure/e9d0206e-69c5-4e4e-8176-453a3a8ee54e | Socure | Pre-Sales Solution Consultant, Big Tech/AI
+- [ ] https://jobs.ashbyhq.com/sparrow/75978af5-c662-4377-9327-1d60eea77987 | Sparrow | Clinical Operations Manager
+- [ ] https://jobs.ashbyhq.com/standardbots/75e22912-268d-4d2a-9531-986fb5ba34cd | Standard Bots | Applications Engineering Manager (West Coast)
+- [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Van-Horn-TX/Senior-Manager--Test-Operations_R69377-1 | blueorigin | Senior Manager, Test Operations
+- [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Van-Horn-TX/Technician---Test---Launch-Ops--I-C-_R67236 | blueorigin | Technician - Test & Launch Ops (I&C)
+- [ ] https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Associate-Director--Country---Site-Operations-FSP-Oversight-Manager_REQ24231-1 | biibhr | Associate Director, Country & Site Operations FSP Oversight Manager
+- [ ] https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Principal-IT-Analyst---Veeva-RIM_REQ24306 | biibhr | Principal IT Analyst - Veeva RIM
+- [ ] https://billgosling.wd5.myworkdayjobs.com/global/job/US---Remote/Director--AI-Data-Operations_REQ-00030959 | billgosling | Director, AI Data Operations
+- [ ] https://boydcorp.wd12.myworkdayjobs.com/boyd_careers/job/Remote-Ohio/Director--Global-Data-Center-Sales-Operations_R-103408-1 | boydcorp | Director, Global Data Center Sales Operations
+- [ ] https://jobs.ashbyhq.com/snowflake/0f4d6a2f-f88c-4cdf-9994-bd138413301c | Snowflake | Director, Partner Development Manager
+- [ ] https://jobs.ashbyhq.com/snowflake/db36ee47-9e2a-4016-a02c-ef4747696518 | Snowflake | Principal Solutions Architect - AI/ML - Services Delivery
+- [ ] https://jobs.ashbyhq.com/socure/66f9e73e-1eb8-45a7-a47a-d2095c73c3b4 | Socure | Principal Product Operations Manager
