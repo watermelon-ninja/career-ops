@@ -95,3 +95,35 @@ jobs:
             data/selena-jd-candidates.jsonl
             data/selena-jd-read-results.jsonl
           if-no-files-found: warn
+
+
+  general-market:
+    name: General market discovery
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+      - run: npm install --ignore-scripts
+      - name: Broad Selena market discovery
+        run: node selena-general-scan.mjs --since 7 --limit 100
+      - name: General-search summary
+        if: always()
+        run: |
+          echo "--- pipeline rows ---"
+          if [ -f data/pipeline.md ]; then wc -l data/pipeline.md; else echo 0; fi
+          echo "--- scan history ---"
+          if [ -f data/scan-history.tsv ]; then tail -20 data/scan-history.tsv; else echo "no scan history"; fi
+      - uses: actions/upload-artifact@v6
+        if: always()
+        with:
+          name: selena-general-market
+          path: |
+            data/pipeline.md
+            data/scan-history.tsv
+            data/cache/ats-full-checkpoint.json
+          if-no-files-found: warn
