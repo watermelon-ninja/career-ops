@@ -74,7 +74,8 @@
     "postinstall": "node -e \"process.exit(['','0','false'].includes((process.env.PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD||'').toLowerCase())?1:0)\" || npx playwright install chromium || npx playwright install chromium",
     "manifesto": "node manifesto.mjs",
     "scan:selena:target": "node selena-scan.mjs",
-    "test:selena": "node tests/selena-title-mode.test.mjs"
+    "test:selena": "node tests/selena-title-mode.test.mjs",
+    "scan:selena:general": "node selena-general-scan.mjs"
   },
   "keywords": [
     "ai",
