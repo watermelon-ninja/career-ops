@@ -117,6 +117,7 @@ function initialLedger(all) {
       filtered_location: 0,
       candidates_for_full_jd: 0,
       relocation_candidates: 0,
+      remote_candidates: 0,
       full_jds_read: 0,
       full_jds_failed: 0,
       candidates_remaining_unread: 0,
@@ -154,6 +155,7 @@ function summarize(ledger) {
     filtered_location: sum('filtered_location'),
     candidates_for_full_jd: sum('candidates_for_full_jd'),
     relocation_candidates: sum('relocation_candidates'),
+    remote_candidates: sum('remote_candidates'),
     full_jds_read: sum('full_jds_read'),
     full_jds_failed: sum('full_jds_failed'),
     candidates_remaining_unread: sum('candidates_remaining_unread'),
@@ -382,11 +384,16 @@ async function main() {
       && (!relocationReceipt || relocationScan?.status !== 0);
     const amazonRemoteFailed = normalizeName(company.name) === 'amazon'
       && (!amazonRemoteReceipt || amazonRemoteScan?.status !== 0);
+    const amazonProviderCapped = normalizeName(company.name) === 'amazon'
+      && (
+        Number(receipt?.found || 0) >= 2000
+        || Number(amazonRemoteReceipt?.found || 0) >= 2000
+      );
     // Upstream's Google provider is deliberately first-page-per-query because
     // Google robots.txt disallows paginated result URLs. Treat that as PARTIAL,
     // never as exhaustive COMPLETE, even when every configured query succeeds.
     const boundedProvider = normalizeName(company.name) === 'google';
-    const status = errors.length || scan.status !== 0 || relocationFailed || amazonRemoteFailed || boundedProvider
+    const status = errors.length || scan.status !== 0 || relocationFailed || amazonRemoteFailed || amazonProviderCapped || boundedProvider
       ? 'partial'
       : 'complete';
     updateCompany(ledger, company.name, {
@@ -406,9 +413,11 @@ async function main() {
         ? (
             boundedProvider
               ? 'google_provider_bounded_first_page_per_query'
-              : errors.map(e => e.error || String(e)).join('; ')
-                || scan.stderr.trim().slice(0, 1000)
-                || (amazonRemoteFailed ? 'amazon_remote_provider_failed' : `scanner_exit_${scan.status}`)
+              : amazonProviderCapped
+                ? 'amazon_provider_hit_2000_posting_safety_cap'
+                : errors.map(e => e.error || String(e)).join('; ')
+                  || scan.stderr.trim().slice(0, 1000)
+                  || (amazonRemoteFailed ? 'amazon_remote_provider_failed' : `scanner_exit_${scan.status}`)
           )
         : null,
     });
