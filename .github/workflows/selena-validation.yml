@@ -46,3 +46,45 @@ jobs:
           if [ -f data/selena-jd-read-results.jsonl ]; then wc -l data/selena-jd-read-results.jsonl; else echo 0; fi
           echo "--- coverage after JD smoke ---"
           node -e "const x=require('./data/selena-company-coverage.json'); console.log(JSON.stringify(x.summary,null,2))"
+
+
+  target-scan:
+    name: Target batch ${{ matrix.label }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - { label: "001-045", start: 1, end: 45 }
+          - { label: "046-090", start: 46, end: 90 }
+          - { label: "091-134", start: 91, end: 134 }
+          - { label: "135-178", start: 135, end: 178 }
+          - { label: "179-222", start: 179, end: 222 }
+          - { label: "223-266", start: 223, end: 266 }
+          - { label: "267-310", start: 267, end: 310 }
+          - { label: "311-354", start: 311, end: 354 }
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+      - run: npm install --ignore-scripts
+      - name: Resolve and scan target-company batch
+        run: node selena-scan.mjs --start ${{ matrix.start }} --end ${{ matrix.end }} --resolve
+      - name: Batch summary
+        if: always()
+        run: |
+          if [ -f data/selena-company-coverage.json ]; then
+            node -e "const x=require('./data/selena-company-coverage.json'); const rows=x.companies.filter(c=>c.index>=${{ matrix.start }}&&c.index<=${{ matrix.end }}); console.log(JSON.stringify({range:'${{ matrix.label }}',summary:{complete:rows.filter(x=>(x.discovery_status||x.status)==='complete').length,partial:rows.filter(x=>(x.discovery_status||x.status)==='partial').length,blocked:rows.filter(x=>(x.discovery_status||x.status)==='blocked').length,pending:rows.filter(x=>(x.discovery_status||x.status)==='pending').length,postings_discovered:rows.reduce((n,x)=>n+(+x.postings_discovered||0),0),jd_candidates:rows.reduce((n,x)=>n+(+x.candidates_for_full_jd||0),0)}},null,2))"
+          fi
+      - uses: actions/upload-artifact@v6
+        if: always()
+        with:
+          name: selena-target-${{ matrix.label }}
+          path: |
+            data/selena-company-coverage.json
+            data/selena-jd-candidates.jsonl
+          if-no-files-found: warn
