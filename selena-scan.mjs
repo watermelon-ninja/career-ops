@@ -334,7 +334,10 @@ async function main() {
       const remoteEntry = {
         ...entry,
         amazon: {
-          category_type: 'Work from Home',
+          // Amazon's public search accepts Work From Home as a location
+          // query; category_type is not a documented search facet and
+          // previously fell through to a 2,000-row global slice.
+          loc_query: 'Work From Home',
           normalized_country_code: ['USA'],
         },
       };
