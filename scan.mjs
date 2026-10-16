@@ -315,6 +315,10 @@ export function buildTitleFilterWithOverrides(titleFilter, overridesMap) {
   // engine, but do not require a positive title keyword before location/JD
   // inspection. Global negative terms still apply so obvious occupations can be
   // removed cheaply. The default remains byte-for-byte compatible.
+  if (mode === 'allow_all') {
+    return () => true;
+  }
+
   if (mode === 'negative_only') {
     return (title) => {
       const lower = String(title ?? '').toLowerCase();
