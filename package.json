@@ -75,7 +75,8 @@
     "manifesto": "node manifesto.mjs",
     "scan:selena:target": "node selena-scan.mjs",
     "test:selena": "node tests/selena-title-mode.test.mjs",
-    "scan:selena:general": "node selena-general-scan.mjs"
+    "scan:selena:general": "node selena-general-scan.mjs",
+    "read:selena:jds": "node selena-jd-read.mjs"
   },
   "keywords": [
     "ai",
