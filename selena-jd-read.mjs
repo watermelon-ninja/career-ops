@@ -74,6 +74,13 @@ function updateLedger(queue) {
     company.full_jds_read = rows.filter(q => q.jd_status === 'read').length;
     company.full_jds_failed = rows.filter(q => q.jd_status === 'failed').length;
     company.candidates_remaining_unread = rows.filter(q => q.jd_status === 'pending').length;
+    // JD-read state is intentionally independent from discovery coverage.
+    // A company may be discovery=partial while every discovered JD is read.
+    if (rows.length === 0) company.jd_read_status = 'not_started';
+    else if (company.candidates_remaining_unread > 0) company.jd_read_status = 'partial';
+    else if (company.full_jds_read === 0 && company.full_jds_failed > 0) company.jd_read_status = 'failed';
+    else if (company.full_jds_failed > 0) company.jd_read_status = 'partial';
+    else company.jd_read_status = 'complete';
   }
   const companies = ledger.companies || [];
   const sum = key => companies.reduce((n, c) => n + (Number(c[key]) || 0), 0);
