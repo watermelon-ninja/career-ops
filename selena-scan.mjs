@@ -30,7 +30,10 @@ const PORTALS_PATH = process.env.SELENA_TARGET_PORTALS
   || path.join(CODE_ROOT, 'config/selena-target-portals.yml');
 const RELOCATION_PORTALS_PATH = process.env.SELENA_RELOCATION_PORTALS
   || path.join(CODE_ROOT, 'config/selena-relocation-portals.yml');
-const RELOCATION_COMPANIES = new Set(['google', 'apple', 'microsoft']);
+// Nationwide relocation is enabled only where the source adapter can bound the
+// search honestly. Google has query-scoped nationwide discovery; Apple and
+// Microsoft remain pending dedicated nationwide adapters.
+const RELOCATION_COMPANIES = new Set(['google']);
 const LEDGER_PATH = process.env.SELENA_COVERAGE_LEDGER
   || path.join(CODE_ROOT, 'data/selena-company-coverage.json');
 const JD_QUEUE_PATH = process.env.SELENA_JD_QUEUE
@@ -392,7 +395,8 @@ async function main() {
     // Upstream's Google provider is deliberately first-page-per-query because
     // Google robots.txt disallows paginated result URLs. Treat that as PARTIAL,
     // never as exhaustive COMPLETE, even when every configured query succeeds.
-    const boundedProvider = normalizeName(company.name) === 'google';
+    const boundedProvider = normalizeName(company.name) === 'google'
+      || normalizeName(company.name) === 'apple';
     const status = errors.length || scan.status !== 0 || relocationFailed || amazonRemoteFailed || amazonProviderCapped || boundedProvider
       ? 'partial'
       : 'complete';
@@ -412,7 +416,11 @@ async function main() {
       blocker: status === 'partial'
         ? (
             boundedProvider
-              ? 'google_provider_bounded_first_page_per_query'
+              ? (
+                  normalizeName(company.name) === 'google'
+                    ? 'google_provider_bounded_first_page_per_query'
+                    : 'apple_provider_bounded_pagination_requires_coverage_confirmation'
+                )
               : amazonProviderCapped
                 ? 'amazon_provider_hit_2000_posting_safety_cap'
                 : errors.map(e => e.error || String(e)).join('; ')
