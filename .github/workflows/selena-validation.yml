@@ -51,7 +51,7 @@ jobs:
   target-scan:
     name: Target batch ${{ matrix.label }}
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 180
     strategy:
       fail-fast: false
       matrix:
@@ -74,6 +74,12 @@ jobs:
       - run: npm install --ignore-scripts
       - name: Resolve and scan target-company batch
         run: node selena-scan.mjs --start ${{ matrix.start }} --end ${{ matrix.end }} --resolve
+      - name: Read all discovered full-JD candidates
+        timeout-minutes: 150
+        run: |
+          node selena-jd-read.mjs
+          echo "--- full JD results ---"
+          if [ -f data/selena-jd-read-results.jsonl ]; then wc -l data/selena-jd-read-results.jsonl; else echo 0; fi
       - name: Batch summary
         if: always()
         run: |
@@ -87,4 +93,5 @@ jobs:
           path: |
             data/selena-company-coverage.json
             data/selena-jd-candidates.jsonl
+            data/selena-jd-read-results.jsonl
           if-no-files-found: warn
