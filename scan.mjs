@@ -303,16 +303,28 @@ export function buildTitleFilterOverrides(overrides) {
 //     buildTitleFilter(titleFilter) — the mechanism is a strict no-op for
 //     everyone not explicitly listed.
 export function buildTitleFilterWithOverrides(titleFilter, overridesMap) {
-  const base = buildTitleFilter(titleFilter);
-  const overrides = overridesMap instanceof Map ? overridesMap : new Map();
-  if (overrides.size === 0) return (title) => base(title);
-
   const normalize = (arr) => (Array.isArray(arr) ? arr : [])
     .filter(k => typeof k === 'string')
     .map(k => k.trim().toLowerCase())
     .filter(k => k.length > 0)
     .map(compileKeyword);
   const negative = normalize(titleFilter?.negative);
+  const mode = String(titleFilter?.mode ?? 'positive').trim().toLowerCase();
+
+  // Selena exhaustive target-company lane: keep the upstream scanner/provider
+  // engine, but do not require a positive title keyword before location/JD
+  // inspection. Global negative terms still apply so obvious occupations can be
+  // removed cheaply. The default remains byte-for-byte compatible.
+  if (mode === 'negative_only') {
+    return (title) => {
+      const lower = String(title ?? '').toLowerCase();
+      return !negative.some(m => m(lower));
+    };
+  }
+
+  const base = buildTitleFilter(titleFilter);
+  const overrides = overridesMap instanceof Map ? overridesMap : new Map();
+  if (overrides.size === 0) return (title) => base(title);
 
   return (title, companySlug) => {
     if (base(title)) return true;
@@ -4079,7 +4091,8 @@ async function main() {
   const config = rawConfig && typeof rawConfig === 'object' ? rawConfig : {};
   const companies = Array.isArray(config.tracked_companies) ? config.tracked_companies : [];
   const boards = Array.isArray(config.job_boards) ? config.job_boards : [];
-  const titleFilter = buildTitleFilter(config.title_filter);
+  const titleFilterOverrides = buildTitleFilterOverrides(config?.title_filter_overrides);
+  const titleFilter = buildTitleFilterWithOverrides(config.title_filter, titleFilterOverrides);
 
   // Seniority tier classifier integration
   let classifyTier = null;
@@ -5024,6 +5037,28 @@ async function main() {
       duplicates: totalDupes,
       added: verifiedOffers.length,
       added_urls: verifiedOffers.map(offer => offer.url),
+      offers: verifiedOffers.map(offer => ({
+        company: offer.company,
+        title: offer.title,
+        url: offer.url,
+        location: offer.location || null,
+        postedAt: offer.postedAt || null,
+        source: offer.source || null,
+      })),
+      filtered_by: {
+        title: totalFilteredTitle,
+        declared_field: totalFilteredDeclaredField,
+        tier: totalFilteredTier,
+        location: totalFilteredLocation,
+        posting_age: totalFilteredPostingAge,
+        posted_date: totalFilteredPostedDate,
+        salary: totalFilteredSalary,
+        content: totalFilteredContent,
+        country_eligibility: totalFilteredCountryEligibility,
+        blacklist: totalFilteredBlacklist,
+        visa: totalFilteredVisa,
+        cooldown: totalFilteredCooldown,
+      },
       errors: errors.map(({ company, error }) => ({ company, error })),
       unverified_zero: unverifiedZeroTargets,
       dry_run: dryRun,
