@@ -19,6 +19,7 @@ const general = buildTitleFilterWithOverrides({
 }, new Map());
 
 assert.equal(general('Product Manager'), true);
+assert.equal(general('Product Operations Manager'), true);
 assert.equal(general('Business Systems Analyst'), true);
 assert.equal(general('Business Transformation Lead'), false);
 assert.equal(general('Supply Chain Transformation Manager'), true);
