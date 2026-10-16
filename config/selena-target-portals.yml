@@ -1,0 +1,80 @@
+# Selena exhaustive target-company lane.
+# discover-ats.mjs appends resolved ATS mappings to tracked_companies.
+# This lane intentionally has NO positive title requirement.
+# Full 354 batch validation trigger
+# Target lane remains location-first; semantic scoring happens after JD retrieval.
+title_filter:
+  # Target-company lane is location-first: do not discard any posting by title
+  # before JD retrieval / semantic review.
+  mode: allow_all
+  positive: []
+  negative: []
+
+# Recall-first location net. Precise Texas-eligible remote validation happens
+# after the full JD is fetched; do not reject ambiguous provider metadata here.
+location_filter:
+  allow:
+    - "Austin"
+    - "Cedar Park"
+    - "Round Rock"
+    - "Georgetown"
+    - "Pflugerville"
+    - "Leander"
+    - "Remote"
+
+
+tracked_companies:
+  # Native upstream providers that discover-ats.mjs cannot infer from a generic
+  # company name. Keep these explicit so Selena's target lane actually reaches
+  # the provider modules already shipped by Career-Ops.
+  - name: "Google"
+    enabled: true
+    provider: google
+    google:
+      location: "Austin, Texas, United States"
+      queries:
+        - "supply chain"
+        - "business systems"
+        - "business analyst"
+        - "product manager"
+        - "product owner"
+        - "program manager"
+        - "technical program manager"
+        - "implementation"
+        - "integration"
+        - "operations"
+
+
+
+
+  - name: "Microsoft"
+    enabled: true
+    provider: eightfold
+    api: "https://microsoft.eightfold.ai/careers?domain=microsoft.com"
+    domain: "microsoft.com"
+    max_pages: 300
+
+  - name: "Apple"
+    enabled: true
+    provider: apple
+    careers_url: "https://jobs.apple.com/en-us/search?location=austin-AST"
+    apple:
+      location: "Austin, Texas"
+      max_pages: 80
+
+  - name: "Tesla"
+    enabled: true
+    provider: tesla
+    careers_url: "https://www.tesla.com/careers/search/?location=Austin&site=US&state=TX"
+    tesla:
+      location: "Austin, Texas"
+
+  - name: "Amazon"
+    enabled: true
+    provider: amazon
+    careers_url: "https://www.amazon.jobs/en/"
+    amazon:
+      loc_query: "Austin, Texas"
+      normalized_country_code:
+        - "USA"
+# Full-JD trigger: target discovery + complete candidate retrieval

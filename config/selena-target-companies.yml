@@ -1,0 +1,372 @@
+# Selena target-company universe
+# This file DRIVES the exhaustive target-company lane. It is not a score boost.
+# Every company must receive a coverage-ledger record on each exhaustive cycle.
+
+version: 3
+policy:
+  target_company_count: 354
+  target_company_membership_is_score_boost: false
+  exhaustive_target_lane: true
+  target_lane_title_positive_gate: false
+  location_first: true
+  full_jd_before_fit_score: true
+  excluded_companies:
+    - General Motors
+    - GM
+
+# Source list migrated from the prior Selena Career-Ops branch.
+companies:
+  - {name: "Google", group: tech, scan_status: unmapped}
+  - {name: "Microsoft", group: tech, scan_status: unmapped}
+  - {name: "Apple", group: tech, scan_status: unmapped}
+  - {name: "Amazon", group: tech, scan_status: unmapped}
+  - {name: "Meta", group: tech, scan_status: unmapped}
+  - {name: "Oracle", group: tech, scan_status: unmapped}
+  - {name: "IBM", group: tech, scan_status: unmapped}
+  - {name: "Cisco", group: tech, scan_status: unmapped}
+  - {name: "Dell Technologies", group: tech, scan_status: unmapped}
+  - {name: "NVIDIA", group: tech, scan_status: unmapped}
+  - {name: "Salesforce", group: tech, scan_status: unmapped}
+  - {name: "Adobe", group: tech, scan_status: unmapped}
+  - {name: "ServiceNow", group: tech, scan_status: unmapped}
+  - {name: "Workday", group: tech, scan_status: unmapped}
+  - {name: "Atlassian", group: tech, scan_status: unmapped}
+  - {name: "Databricks", group: tech, scan_status: unmapped}
+  - {name: "Snowflake", group: tech, scan_status: unmapped}
+  - {name: "Cloudflare", group: tech, scan_status: unmapped}
+  - {name: "Palantir", group: tech, scan_status: unmapped}
+  - {name: "OpenAI", group: tech, scan_status: unmapped}
+  - {name: "Anthropic", group: tech, scan_status: unmapped}
+  - {name: "Scale AI", group: tech, scan_status: unmapped}
+  - {name: "Datadog", group: tech, scan_status: unmapped}
+  - {name: "MongoDB", group: tech, scan_status: unmapped}
+  - {name: "Elastic", group: tech, scan_status: unmapped}
+  - {name: "Confluent", group: tech, scan_status: unmapped}
+  - {name: "Red Hat", group: tech, scan_status: unmapped}
+  - {name: "GitLab", group: tech, scan_status: unmapped}
+  - {name: "HubSpot", group: tech, scan_status: unmapped}
+  - {name: "Intuit", group: tech, scan_status: unmapped}
+  - {name: "Autodesk", group: tech, scan_status: unmapped}
+  - {name: "Zoom", group: tech, scan_status: unmapped}
+  - {name: "Dropbox", group: tech, scan_status: unmapped}
+  - {name: "Box", group: tech, scan_status: unmapped}
+  - {name: "Okta", group: tech, scan_status: unmapped}
+  - {name: "Zscaler", group: tech, scan_status: unmapped}
+  - {name: "CrowdStrike", group: tech, scan_status: unmapped}
+  - {name: "Palo Alto Networks", group: tech, scan_status: unmapped}
+  - {name: "Fortinet", group: tech, scan_status: unmapped}
+  - {name: "Splunk", group: tech, scan_status: unmapped}
+  - {name: "Twilio", group: tech, scan_status: unmapped}
+  - {name: "DocuSign", group: tech, scan_status: unmapped}
+  - {name: "Asana", group: tech, scan_status: unmapped}
+  - {name: "Notion", group: tech, scan_status: unmapped}
+  - {name: "Canva", group: tech, scan_status: unmapped}
+  - {name: "Figma", group: tech, scan_status: unmapped}
+  - {name: "Samsara", group: tech, scan_status: unmapped}
+  - {name: "Toast", group: tech, scan_status: unmapped}
+  - {name: "Procore", group: tech, scan_status: unmapped}
+  - {name: "Veeva Systems", group: tech, scan_status: unmapped}
+  - {name: "UiPath", group: tech, scan_status: unmapped}
+  - {name: "Nutanix", group: tech, scan_status: unmapped}
+  - {name: "Pure Storage", group: tech, scan_status: unmapped}
+  - {name: "NetApp", group: tech, scan_status: unmapped}
+  - {name: "HPE", group: tech, scan_status: unmapped}
+  - {name: "HP Inc.", group: tech, scan_status: unmapped}
+  - {name: "Lenovo", group: tech, scan_status: unmapped}
+  - {name: "Indeed", group: tech, scan_status: unmapped}
+  - {name: "LinkedIn", group: tech, scan_status: unmapped}
+  - {name: "Uber", group: tech, scan_status: unmapped}
+  - {name: "Airbnb", group: tech, scan_status: unmapped}
+  - {name: "Expedia Group", group: tech, scan_status: unmapped}
+  - {name: "Netflix", group: tech, scan_status: unmapped}
+  - {name: "Disney", group: tech, scan_status: unmapped}
+  - {name: "Electronic Arts", group: tech, scan_status: unmapped}
+  - {name: "Roku", group: tech, scan_status: unmapped}
+  - {name: "TikTok", group: tech, scan_status: unmapped}
+  - {name: "Reddit", group: tech, scan_status: unmapped}
+  - {name: "Pinterest", group: tech, scan_status: unmapped}
+  - {name: "Applied Materials", group: industrial, scan_status: unmapped}
+  - {name: "AMD", group: industrial, scan_status: unmapped}
+  - {name: "Samsung Electronics", group: industrial, scan_status: unmapped}
+  - {name: "NXP Semiconductors", group: industrial, scan_status: unmapped}
+  - {name: "Intel", group: industrial, scan_status: unmapped}
+  - {name: "Texas Instruments", group: industrial, scan_status: unmapped}
+  - {name: "Qualcomm", group: industrial, scan_status: unmapped}
+  - {name: "Micron Technology", group: industrial, scan_status: unmapped}
+  - {name: "KLA", group: industrial, scan_status: unmapped}
+  - {name: "Lam Research", group: industrial, scan_status: unmapped}
+  - {name: "Tokyo Electron", group: industrial, scan_status: unmapped}
+  - {name: "ASML", group: industrial, scan_status: unmapped}
+  - {name: "Infineon Technologies", group: industrial, scan_status: unmapped}
+  - {name: "GlobalFoundries", group: industrial, scan_status: unmapped}
+  - {name: "Silicon Labs", group: industrial, scan_status: unmapped}
+  - {name: "Cirrus Logic", group: industrial, scan_status: unmapped}
+  - {name: "Synopsys", group: industrial, scan_status: unmapped}
+  - {name: "Cadence Design Systems", group: industrial, scan_status: unmapped}
+  - {name: "Arm", group: industrial, scan_status: unmapped}
+  - {name: "Broadcom", group: industrial, scan_status: unmapped}
+  - {name: "Marvell Technology", group: industrial, scan_status: unmapped}
+  - {name: "Analog Devices", group: industrial, scan_status: unmapped}
+  - {name: "Microchip Technology", group: industrial, scan_status: unmapped}
+  - {name: "Skyworks Solutions", group: industrial, scan_status: unmapped}
+  - {name: "onsemi", group: industrial, scan_status: unmapped}
+  - {name: "Wolfspeed", group: industrial, scan_status: unmapped}
+  - {name: "Western Digital", group: industrial, scan_status: unmapped}
+  - {name: "Seagate Technology", group: industrial, scan_status: unmapped}
+  - {name: "Entegris", group: industrial, scan_status: unmapped}
+  - {name: "Ultra Clean Holdings", group: industrial, scan_status: unmapped}
+  - {name: "Ichor Holdings", group: industrial, scan_status: unmapped}
+  - {name: "Teradyne", group: industrial, scan_status: unmapped}
+  - {name: "Keysight Technologies", group: industrial, scan_status: unmapped}
+  - {name: "National Instruments", group: industrial, scan_status: unmapped}
+  - {name: "Flex", group: industrial, scan_status: unmapped}
+  - {name: "Jabil", group: industrial, scan_status: unmapped}
+  - {name: "Celestica", group: industrial, scan_status: unmapped}
+  - {name: "Sanmina", group: industrial, scan_status: unmapped}
+  - {name: "Benchmark Electronics", group: industrial, scan_status: unmapped}
+  - {name: "Plexus", group: industrial, scan_status: unmapped}
+  - {name: "Foxconn", group: industrial, scan_status: unmapped}
+  - {name: "Pegatron", group: industrial, scan_status: unmapped}
+  - {name: "Compal Electronics", group: industrial, scan_status: unmapped}
+  - {name: "Emerson", group: industrial, scan_status: unmapped}
+  - {name: "Schneider Electric", group: industrial, scan_status: unmapped}
+  - {name: "Siemens", group: industrial, scan_status: unmapped}
+  - {name: "Honeywell", group: industrial, scan_status: unmapped}
+  - {name: "Rockwell Automation", group: industrial, scan_status: unmapped}
+  - {name: "Eaton", group: industrial, scan_status: unmapped}
+  - {name: "ABB", group: industrial, scan_status: unmapped}
+  - {name: "GE Vernova", group: industrial, scan_status: unmapped}
+  - {name: "GE Aerospace", group: industrial, scan_status: unmapped}
+  - {name: "Boeing", group: industrial, scan_status: unmapped}
+  - {name: "Lockheed Martin", group: industrial, scan_status: unmapped}
+  - {name: "RTX", group: industrial, scan_status: unmapped}
+  - {name: "Northrop Grumman", group: industrial, scan_status: unmapped}
+  - {name: "General Dynamics", group: industrial, scan_status: unmapped}
+  - {name: "Anduril", group: industrial, scan_status: unmapped}
+  - {name: "Firefly Aerospace", group: industrial, scan_status: unmapped}
+  - {name: "SpaceX", group: industrial, scan_status: unmapped}
+  - {name: "Blue Origin", group: industrial, scan_status: unmapped}
+  - {name: "Saronic", group: industrial, scan_status: unmapped}
+  - {name: "Caterpillar", group: industrial, scan_status: unmapped}
+  - {name: "Deere & Company", group: industrial, scan_status: unmapped}
+  - {name: "Cummins", group: industrial, scan_status: unmapped}
+  - {name: "Trane Technologies", group: industrial, scan_status: unmapped}
+  - {name: "Johnson Controls", group: industrial, scan_status: unmapped}
+  - {name: "Carrier Global", group: industrial, scan_status: unmapped}
+  - {name: "3M", group: industrial, scan_status: unmapped}
+  - {name: "DuPont", group: industrial, scan_status: unmapped}
+  - {name: "Corning", group: industrial, scan_status: unmapped}
+  - {name: "Parker Hannifin", group: industrial, scan_status: unmapped}
+  - {name: "TE Connectivity", group: industrial, scan_status: unmapped}
+  - {name: "Bosch", group: industrial, scan_status: unmapped}
+  - {name: "Aptiv", group: industrial, scan_status: unmapped}
+  - {name: "Rivian", group: industrial, scan_status: unmapped}
+  - {name: "Toyota", group: industrial, scan_status: unmapped}
+  - {name: "Ford Motor Company", group: industrial, scan_status: unmapped}
+  - {name: "Tesla", group: industrial, scan_status: unmapped}
+  - {name: "Ericsson", group: industrial, scan_status: unmapped}
+  - {name: "Canon", group: industrial, scan_status: unmapped}
+  - {name: "SAP", group: supply_chain, scan_status: unmapped}
+  - {name: "Kinaxis", group: supply_chain, scan_status: unmapped}
+  - {name: "Blue Yonder", group: supply_chain, scan_status: unmapped}
+  - {name: "Manhattan Associates", group: supply_chain, scan_status: unmapped}
+  - {name: "Infor", group: supply_chain, scan_status: unmapped}
+  - {name: "Coupa", group: supply_chain, scan_status: unmapped}
+  - {name: "E2open", group: supply_chain, scan_status: unmapped}
+  - {name: "project44", group: supply_chain, scan_status: unmapped}
+  - {name: "FourKites", group: supply_chain, scan_status: unmapped}
+  - {name: "OMP", group: supply_chain, scan_status: unmapped}
+  - {name: "Descartes Systems Group", group: supply_chain, scan_status: unmapped}
+  - {name: "GXO Logistics", group: supply_chain, scan_status: unmapped}
+  - {name: "C.H. Robinson", group: supply_chain, scan_status: unmapped}
+  - {name: "Ryder", group: supply_chain, scan_status: unmapped}
+  - {name: "XPO", group: supply_chain, scan_status: unmapped}
+  - {name: "RXO", group: supply_chain, scan_status: unmapped}
+  - {name: "J.B. Hunt", group: supply_chain, scan_status: unmapped}
+  - {name: "Schneider National", group: supply_chain, scan_status: unmapped}
+  - {name: "Werner Enterprises", group: supply_chain, scan_status: unmapped}
+  - {name: "Old Dominion Freight Line", group: supply_chain, scan_status: unmapped}
+  - {name: "FedEx", group: supply_chain, scan_status: unmapped}
+  - {name: "UPS", group: supply_chain, scan_status: unmapped}
+  - {name: "DHL", group: supply_chain, scan_status: unmapped}
+  - {name: "Maersk", group: supply_chain, scan_status: unmapped}
+  - {name: "Kuehne+Nagel", group: supply_chain, scan_status: unmapped}
+  - {name: "DSV", group: supply_chain, scan_status: unmapped}
+  - {name: "CEVA Logistics", group: supply_chain, scan_status: unmapped}
+  - {name: "GEODIS", group: supply_chain, scan_status: unmapped}
+  - {name: "Expeditors International", group: supply_chain, scan_status: unmapped}
+  - {name: "Flexport", group: supply_chain, scan_status: unmapped}
+  - {name: "Arrive Logistics", group: supply_chain, scan_status: unmapped}
+  - {name: "Uber Freight", group: supply_chain, scan_status: unmapped}
+  - {name: "ShipBob", group: supply_chain, scan_status: unmapped}
+  - {name: "Stord", group: supply_chain, scan_status: unmapped}
+  - {name: "Symbotic", group: supply_chain, scan_status: unmapped}
+  - {name: "AutoStore", group: supply_chain, scan_status: unmapped}
+  - {name: "Dematic", group: supply_chain, scan_status: unmapped}
+  - {name: "KION Group", group: supply_chain, scan_status: unmapped}
+  - {name: "Swisslog", group: supply_chain, scan_status: unmapped}
+  - {name: "Körber Supply Chain", group: supply_chain, scan_status: unmapped}
+  - {name: "Zebra Technologies", group: supply_chain, scan_status: unmapped}
+  - {name: "RF-SMART", group: supply_chain, scan_status: unmapped}
+  - {name: "Tecsys", group: supply_chain, scan_status: unmapped}
+  - {name: "SPS Commerce", group: supply_chain, scan_status: unmapped}
+  - {name: "Boomi", group: supply_chain, scan_status: unmapped}
+  - {name: "MuleSoft", group: supply_chain, scan_status: unmapped}
+  - {name: "Informatica", group: supply_chain, scan_status: unmapped}
+  - {name: "Fivetran", group: supply_chain, scan_status: unmapped}
+  - {name: "Alteryx", group: supply_chain, scan_status: unmapped}
+  - {name: "Qlik", group: supply_chain, scan_status: unmapped}
+  - {name: "Celonis", group: supply_chain, scan_status: unmapped}
+  - {name: "Accenture", group: consulting, scan_status: unmapped}
+  - {name: "Deloitte", group: consulting, scan_status: unmapped}
+  - {name: "Capgemini", group: consulting, scan_status: unmapped}
+  - {name: "KPMG", group: consulting, scan_status: unmapped}
+  - {name: "PwC", group: consulting, scan_status: unmapped}
+  - {name: "EY", group: consulting, scan_status: unmapped}
+  - {name: "Cognizant", group: consulting, scan_status: unmapped}
+  - {name: "Infosys", group: consulting, scan_status: unmapped}
+  - {name: "EPAM Systems", group: consulting, scan_status: unmapped}
+  - {name: "Slalom", group: consulting, scan_status: unmapped}
+  - {name: "Wipro", group: consulting, scan_status: unmapped}
+  - {name: "Tata Consultancy Services", group: consulting, scan_status: unmapped}
+  - {name: "HCLTech", group: consulting, scan_status: unmapped}
+  - {name: "NTT DATA", group: consulting, scan_status: unmapped}
+  - {name: "CGI", group: consulting, scan_status: unmapped}
+  - {name: "Booz Allen Hamilton", group: consulting, scan_status: unmapped}
+  - {name: "Leidos", group: consulting, scan_status: unmapped}
+  - {name: "SAIC", group: consulting, scan_status: unmapped}
+  - {name: "Guidehouse", group: consulting, scan_status: unmapped}
+  - {name: "West Monroe", group: consulting, scan_status: unmapped}
+  - {name: "Publicis Sapient", group: consulting, scan_status: unmapped}
+  - {name: "Thoughtworks", group: consulting, scan_status: unmapped}
+  - {name: "Perficient", group: consulting, scan_status: unmapped}
+  - {name: "Protiviti", group: consulting, scan_status: unmapped}
+  - {name: "RSM US", group: consulting, scan_status: unmapped}
+  - {name: "BDO USA", group: consulting, scan_status: unmapped}
+  - {name: "Bain & Company", group: consulting, scan_status: unmapped}
+  - {name: "Boston Consulting Group", group: consulting, scan_status: unmapped}
+  - {name: "McKinsey & Company", group: consulting, scan_status: unmapped}
+  - {name: "Kearney", group: consulting, scan_status: unmapped}
+  - {name: "Oliver Wyman", group: consulting, scan_status: unmapped}
+  - {name: "Gartner", group: consulting, scan_status: unmapped}
+  - {name: "Genpact", group: consulting, scan_status: unmapped}
+  - {name: "Globant", group: consulting, scan_status: unmapped}
+  - {name: "Walmart", group: retail, scan_status: unmapped}
+  - {name: "Target", group: retail, scan_status: unmapped}
+  - {name: "The Home Depot", group: retail, scan_status: unmapped}
+  - {name: "Costco", group: retail, scan_status: unmapped}
+  - {name: "H-E-B", group: retail, scan_status: unmapped}
+  - {name: "Whole Foods Market", group: retail, scan_status: unmapped}
+  - {name: "Nike", group: retail, scan_status: unmapped}
+  - {name: "PepsiCo", group: retail, scan_status: unmapped}
+  - {name: "Procter & Gamble", group: retail, scan_status: unmapped}
+  - {name: "Unilever", group: retail, scan_status: unmapped}
+  - {name: "Colgate-Palmolive", group: retail, scan_status: unmapped}
+  - {name: "Lowe's", group: retail, scan_status: unmapped}
+  - {name: "Best Buy", group: retail, scan_status: unmapped}
+  - {name: "Chewy", group: retail, scan_status: unmapped}
+  - {name: "Wayfair", group: retail, scan_status: unmapped}
+  - {name: "Kroger", group: retail, scan_status: unmapped}
+  - {name: "Albertsons", group: retail, scan_status: unmapped}
+  - {name: "Walgreens Boots Alliance", group: retail, scan_status: unmapped}
+  - {name: "CVS Health", group: retail, scan_status: unmapped}
+  - {name: "Dollar General", group: retail, scan_status: unmapped}
+  - {name: "Dollar Tree", group: retail, scan_status: unmapped}
+  - {name: "TJX Companies", group: retail, scan_status: unmapped}
+  - {name: "Ross Stores", group: retail, scan_status: unmapped}
+  - {name: "Macy's", group: retail, scan_status: unmapped}
+  - {name: "Nordstrom", group: retail, scan_status: unmapped}
+  - {name: "Gap Inc.", group: retail, scan_status: unmapped}
+  - {name: "Lululemon", group: retail, scan_status: unmapped}
+  - {name: "YETI", group: retail, scan_status: unmapped}
+  - {name: "Tractor Supply", group: retail, scan_status: unmapped}
+  - {name: "AutoZone", group: retail, scan_status: unmapped}
+  - {name: "O'Reilly Automotive", group: retail, scan_status: unmapped}
+  - {name: "CarMax", group: retail, scan_status: unmapped}
+  - {name: "Carvana", group: retail, scan_status: unmapped}
+  - {name: "eBay", group: retail, scan_status: unmapped}
+  - {name: "Etsy", group: retail, scan_status: unmapped}
+  - {name: "Shopify", group: retail, scan_status: unmapped}
+  - {name: "Instacart", group: retail, scan_status: unmapped}
+  - {name: "DoorDash", group: retail, scan_status: unmapped}
+  - {name: "Coca-Cola", group: retail, scan_status: unmapped}
+  - {name: "Keurig Dr Pepper", group: retail, scan_status: unmapped}
+  - {name: "Kraft Heinz", group: retail, scan_status: unmapped}
+  - {name: "General Mills", group: retail, scan_status: unmapped}
+  - {name: "Mondelez International", group: retail, scan_status: unmapped}
+  - {name: "Nestlé USA", group: retail, scan_status: unmapped}
+  - {name: "Mars", group: retail, scan_status: unmapped}
+  - {name: "Hershey", group: retail, scan_status: unmapped}
+  - {name: "Tyson Foods", group: retail, scan_status: unmapped}
+  - {name: "Hormel Foods", group: retail, scan_status: unmapped}
+  - {name: "Sysco", group: retail, scan_status: unmapped}
+  - {name: "US Foods", group: retail, scan_status: unmapped}
+  - {name: "Visa", group: finance_health_local, scan_status: unmapped}
+  - {name: "Charles Schwab", group: finance_health_local, scan_status: unmapped}
+  - {name: "PayPal", group: finance_health_local, scan_status: unmapped}
+  - {name: "Block", group: finance_health_local, scan_status: unmapped}
+  - {name: "Stripe", group: finance_health_local, scan_status: unmapped}
+  - {name: "Fiserv", group: finance_health_local, scan_status: unmapped}
+  - {name: "FIS", group: finance_health_local, scan_status: unmapped}
+  - {name: "Global Payments", group: finance_health_local, scan_status: unmapped}
+  - {name: "Mastercard", group: finance_health_local, scan_status: unmapped}
+  - {name: "American Express", group: finance_health_local, scan_status: unmapped}
+  - {name: "JPMorgan Chase", group: finance_health_local, scan_status: unmapped}
+  - {name: "Bank of America", group: finance_health_local, scan_status: unmapped}
+  - {name: "Wells Fargo", group: finance_health_local, scan_status: unmapped}
+  - {name: "Citi", group: finance_health_local, scan_status: unmapped}
+  - {name: "Capital One", group: finance_health_local, scan_status: unmapped}
+  - {name: "Goldman Sachs", group: finance_health_local, scan_status: unmapped}
+  - {name: "Morgan Stanley", group: finance_health_local, scan_status: unmapped}
+  - {name: "USAA", group: finance_health_local, scan_status: unmapped}
+  - {name: "Progressive", group: finance_health_local, scan_status: unmapped}
+  - {name: "Liberty Mutual", group: finance_health_local, scan_status: unmapped}
+  - {name: "Travelers", group: finance_health_local, scan_status: unmapped}
+  - {name: "State Farm", group: finance_health_local, scan_status: unmapped}
+  - {name: "The Hartford", group: finance_health_local, scan_status: unmapped}
+  - {name: "Allstate", group: finance_health_local, scan_status: unmapped}
+  - {name: "Berkshire Hathaway", group: finance_health_local, scan_status: unmapped}
+  - {name: "UnitedHealth Group", group: finance_health_local, scan_status: unmapped}
+  - {name: "Optum", group: finance_health_local, scan_status: unmapped}
+  - {name: "Cigna", group: finance_health_local, scan_status: unmapped}
+  - {name: "Elevance Health", group: finance_health_local, scan_status: unmapped}
+  - {name: "Humana", group: finance_health_local, scan_status: unmapped}
+  - {name: "Centene", group: finance_health_local, scan_status: unmapped}
+  - {name: "McKesson", group: finance_health_local, scan_status: unmapped}
+  - {name: "Cencora", group: finance_health_local, scan_status: unmapped}
+  - {name: "Cardinal Health", group: finance_health_local, scan_status: unmapped}
+  - {name: "Medtronic", group: finance_health_local, scan_status: unmapped}
+  - {name: "Abbott", group: finance_health_local, scan_status: unmapped}
+  - {name: "Thermo Fisher Scientific", group: finance_health_local, scan_status: unmapped}
+  - {name: "Boston Scientific", group: finance_health_local, scan_status: unmapped}
+  - {name: "Stryker", group: finance_health_local, scan_status: unmapped}
+  - {name: "Becton Dickinson", group: finance_health_local, scan_status: unmapped}
+  - {name: "Johnson & Johnson", group: finance_health_local, scan_status: unmapped}
+  - {name: "Pfizer", group: finance_health_local, scan_status: unmapped}
+  - {name: "Merck & Co.", group: finance_health_local, scan_status: unmapped}
+  - {name: "Amgen", group: finance_health_local, scan_status: unmapped}
+  - {name: "Eli Lilly", group: finance_health_local, scan_status: unmapped}
+  - {name: "Gilead Sciences", group: finance_health_local, scan_status: unmapped}
+  - {name: "Moderna", group: finance_health_local, scan_status: unmapped}
+  - {name: "Quest Diagnostics", group: finance_health_local, scan_status: unmapped}
+  - {name: "Labcorp", group: finance_health_local, scan_status: unmapped}
+  - {name: "HCA Healthcare", group: finance_health_local, scan_status: unmapped}
+  - {name: "Ascension", group: finance_health_local, scan_status: unmapped}
+  - {name: "Baylor Scott & White Health", group: finance_health_local, scan_status: unmapped}
+  - {name: "St. David's HealthCare", group: finance_health_local, scan_status: unmapped}
+  - {name: "Austin Regional Clinic", group: finance_health_local, scan_status: unmapped}
+  - {name: "Q2 Holdings", group: finance_health_local, scan_status: unmapped}
+  - {name: "SolarWinds", group: finance_health_local, scan_status: unmapped}
+  - {name: "SailPoint", group: finance_health_local, scan_status: unmapped}
+  - {name: "Texas Mutual Insurance", group: finance_health_local, scan_status: unmapped}
+  - {name: "TransPak", group: finance_health_local, scan_status: unmapped}
+  - {name: "ERCOT", group: finance_health_local, scan_status: unmapped}
+  - {name: "Lower Colorado River Authority", group: finance_health_local, scan_status: unmapped}
+  - {name: "Austin Energy", group: finance_health_local, scan_status: unmapped}
+  - {name: "SHI International", group: finance_health_local, scan_status: unmapped}
+  - {name: "Bazaarvoice", group: finance_health_local, scan_status: unmapped}
+  - {name: "BigCommerce", group: finance_health_local, scan_status: unmapped}
+  - {name: "WP Engine", group: finance_health_local, scan_status: unmapped}
+  - {name: "AlertMedia", group: finance_health_local, scan_status: unmapped}
+  - {name: "NinjaOne", group: finance_health_local, scan_status: unmapped}
+  - {name: "Planview", group: finance_health_local, scan_status: unmapped}
