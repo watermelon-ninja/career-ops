@@ -9,13 +9,12 @@ const exhaustive = buildTitleFilterWithOverrides({
 
 assert.equal(exhaustive('Business Transformation Lead'), true);
 assert.equal(exhaustive('Enterprise Applications Manager'), true);
-assert.equal(exhaustive('Business Transformation Lead'), true);
 assert.equal(exhaustive('Supply Chain Transformation Manager'), true);
 assert.equal(exhaustive('Senior Software Engineer'), false);
 assert.equal(exhaustive('Registered Nurse'), false);
 
 const general = buildTitleFilterWithOverrides({
-  positive: ['product', 'business analyst', 'systems'],
+  positive: ['product', 'business analyst', 'systems', 'supply chain'],
   negative: ['software engineer'],
 }, new Map());
 
