@@ -1,0 +1,81 @@
+name: Selena Full Discovery
+
+on:
+  push:
+    branches:
+      - selena/upstream-base-filters
+    paths:
+      - .github/workflows/selena-full-discovery.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  target-354:
+    name: 354 target-company discovery
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - run: npm install --ignore-scripts
+      - name: Run 354-company target lane
+        shell: bash
+        run: |
+          mkdir -p data
+          set +e
+          node selena-scan.mjs --start 1 --end 354 --resolve 2>&1 | tee data/selena-target-run.log
+          code=${PIPESTATUS[0]}
+          echo "scan_exit_code=$code" >> "$GITHUB_STEP_SUMMARY"
+          exit 0
+      - name: Summarize target coverage
+        if: always()
+        shell: bash
+        run: |
+          if [ -f data/selena-company-coverage.json ]; then
+            node -e "const x=require('./data/selena-company-coverage.json'); console.log(JSON.stringify(x.summary,null,2))" | tee data/selena-target-summary.json
+          fi
+      - name: Upload target discovery state
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: selena-target-354
+          path: |
+            data/selena-company-coverage.json
+            data/selena-jd-candidates.jsonl
+            data/selena-target-run.log
+            data/selena-target-summary.json
+          if-no-files-found: warn
+
+  general:
+    name: General-market discovery
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - run: npm install --ignore-scripts
+      - name: Run general lane
+        shell: bash
+        run: |
+          mkdir -p data
+          set +e
+          node selena-general-scan.mjs 2>&1 | tee data/selena-general-run.log
+          code=${PIPESTATUS[0]}
+          echo "scan_exit_code=$code" >> "$GITHUB_STEP_SUMMARY"
+          exit 0
+      - name: Upload general discovery state
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: selena-general
+          path: |
+            data/selena-general-run.log
+            data/latest-scan.json
+            data/latest-scan.jsonl
+          if-no-files-found: warn
