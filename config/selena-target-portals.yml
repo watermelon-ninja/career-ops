@@ -1,0 +1,36 @@
+# Selena exhaustive target-company lane.
+# discover-ats.mjs appends resolved ATS mappings to tracked_companies.
+# This lane intentionally has NO positive title requirement.
+title_filter:
+  mode: negative_only
+  positive: []
+  negative:
+    - "software engineer"
+    - "software developer"
+    - "nurse"
+    - "physician"
+    - "driver"
+    - "warehouse associate"
+    - "sales representative"
+    - "account executive"
+    - "intern"
+    - "internship"
+
+# Recall-first location net. Precise Texas-eligible remote validation happens
+# after the full JD is fetched; do not reject ambiguous provider metadata here.
+location_filter:
+  allow:
+    - "Austin"
+    - "Cedar Park"
+    - "Round Rock"
+    - "Georgetown"
+    - "Pflugerville"
+    - "Leander"
+    - "Texas"
+    - "TX"
+    - "Remote"
+    - "United States"
+    - "USA"
+    - "U.S."
+
+tracked_companies: []
