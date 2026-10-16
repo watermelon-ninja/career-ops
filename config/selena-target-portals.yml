@@ -28,4 +28,33 @@ location_filter:
     - "Leander"
     - "Remote"
 
-tracked_companies: []
+
+tracked_companies:
+  # Native upstream providers that discover-ats.mjs cannot infer from a generic
+  # company name. Keep these explicit so Selena's target lane actually reaches
+  # the provider modules already shipped by Career-Ops.
+  - name: "Google"
+    enabled: true
+    provider: google
+    google:
+      location: "Austin, Texas, United States"
+      queries:
+        - "supply chain"
+        - "business systems"
+        - "business analyst"
+        - "product manager"
+        - "product owner"
+        - "program manager"
+        - "technical program manager"
+        - "implementation"
+        - "integration"
+        - "operations"
+
+  - name: "Amazon"
+    enabled: true
+    provider: amazon
+    careers_url: "https://www.amazon.jobs/en/"
+    amazon:
+      loc_query: "Austin, Texas"
+      normalized_country_code:
+        - "USA"
