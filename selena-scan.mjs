@@ -28,6 +28,9 @@ const TARGETS_PATH = process.env.SELENA_TARGET_COMPANIES
   || path.join(CODE_ROOT, 'config/selena-target-companies.yml');
 const PORTALS_PATH = process.env.SELENA_TARGET_PORTALS
   || path.join(CODE_ROOT, 'config/selena-target-portals.yml');
+const RELOCATION_PORTALS_PATH = process.env.SELENA_RELOCATION_PORTALS
+  || path.join(CODE_ROOT, 'config/selena-relocation-portals.yml');
+const RELOCATION_COMPANIES = new Set(['google', 'apple', 'microsoft']);
 const LEDGER_PATH = process.env.SELENA_COVERAGE_LEDGER
   || path.join(CODE_ROOT, 'data/selena-company-coverage.json');
 const JD_QUEUE_PATH = process.env.SELENA_JD_QUEUE
@@ -113,6 +116,7 @@ function initialLedger(all) {
       filtered_title_negative: 0,
       filtered_location: 0,
       candidates_for_full_jd: 0,
+      relocation_candidates: 0,
       full_jds_read: 0,
       full_jds_failed: 0,
       candidates_remaining_unread: 0,
@@ -149,6 +153,7 @@ function summarize(ledger) {
     filtered_title_negative: sum('filtered_title_negative'),
     filtered_location: sum('filtered_location'),
     candidates_for_full_jd: sum('candidates_for_full_jd'),
+    relocation_candidates: sum('relocation_candidates'),
     full_jds_read: sum('full_jds_read'),
     full_jds_failed: sum('full_jds_failed'),
     candidates_remaining_unread: sum('candidates_remaining_unread'),
@@ -245,6 +250,7 @@ async function main() {
   }
 
   const portalDoc = readYaml(PORTALS_PATH);
+  const relocationPortalDoc = existsSync(RELOCATION_PORTALS_PATH) ? readYaml(RELOCATION_PORTALS_PATH) : {};
   const tracked = Array.isArray(portalDoc.tracked_companies) ? portalDoc.tracked_companies : [];
   const trackedByName = new Map(tracked.map(x => [normalizeName(x?.name), x]));
   let queue = loadQueue();
@@ -284,6 +290,26 @@ async function main() {
     });
     const receipt = lastJsonObject(scan.stdout);
 
+    // Google / Apple / Microsoft get a second, nationwide relocation pass.
+    // It is intentionally broad-title-gated rather than exhaustive nationwide:
+    // the local Austin/remote pass above is exhaustive, while this extension
+    // prevents thousands of clearly unrelated US postings from consuming full-JD reads.
+    let relocationReceipt = null;
+    let relocationScan = null;
+    if (RELOCATION_COMPANIES.has(normalizeName(company.name))) {
+      const relocationOnePortal = {
+        ...relocationPortalDoc,
+        tracked_companies: [entry],
+        job_boards: [],
+      };
+      const relocationPath = path.join(TMP_DIR, `portal-relocation-${company._index}.yml`);
+      writeFileSync(relocationPath, yaml.dump(relocationOnePortal, { noRefs: true, lineWidth: 140 }), 'utf-8');
+      relocationScan = runNode('scan.mjs', ['--dry-run', '--json', '--quiet'], {
+        CAREER_OPS_PORTALS: relocationPath,
+      });
+      relocationReceipt = lastJsonObject(relocationScan.stdout);
+    }
+
     if (!receipt) {
       updateCompany(ledger, company.name, {
         index: company._index,
@@ -297,21 +323,33 @@ async function main() {
       continue;
     }
 
-    const offers = Array.isArray(receipt.offers) ? receipt.offers : [];
+    const localOffers = Array.isArray(receipt.offers) ? receipt.offers : [];
+    const relocationOffers = Array.isArray(relocationReceipt?.offers) ? relocationReceipt.offers : [];
+    const offersByUrl = new Map();
+    for (const offer of [...localOffers, ...relocationOffers]) {
+      if (offer?.url) offersByUrl.set(offer.url, offer);
+    }
+    const offers = [...offersByUrl.values()];
     queue = upsertQueue(queue, offers, company.name, runId);
     writeQueue(queue);
 
-    const errors = Array.isArray(receipt.errors) ? receipt.errors : [];
-    const status = errors.length || scan.status !== 0 ? 'partial' : 'complete';
+    const errors = [
+      ...(Array.isArray(receipt.errors) ? receipt.errors : []),
+      ...(Array.isArray(relocationReceipt?.errors) ? relocationReceipt.errors : []),
+    ];
+    const relocationFailed = RELOCATION_COMPANIES.has(normalizeName(company.name))
+      && (!relocationReceipt || relocationScan?.status !== 0);
+    const status = errors.length || scan.status !== 0 || relocationFailed ? 'partial' : 'complete';
     updateCompany(ledger, company.name, {
       index: company._index,
       group: company.group || null,
       status,
       last_checked_at: now,
-      postings_discovered: Number(receipt.found || 0),
+      postings_discovered: Math.max(Number(receipt.found || 0), Number(relocationReceipt?.found || 0)),
       filtered_title_negative: Number(receipt.filtered_by?.title || 0),
       filtered_location: Number(receipt.filtered_by?.location || 0),
       candidates_for_full_jd: offers.length,
+      relocation_candidates: relocationOffers.length,
       candidates_remaining_unread: offers.length,
       blocker: status === 'partial'
         ? (errors.map(e => e.error || String(e)).join('; ') || scan.stderr.trim().slice(0, 1000) || `scanner_exit_${scan.status}`)
@@ -320,7 +358,7 @@ async function main() {
     writeLedger(ledger);
 
     console.log(
-      `[${company._index}/${all.length}] ${company.name}: ${status.toUpperCase()} | raw=${receipt.found || 0} | title-=${receipt.filtered_by?.title || 0} | location-=${receipt.filtered_by?.location || 0} | JD queue=${offers.length}`
+      `[${company._index}/${all.length}] ${company.name}: ${status.toUpperCase()} | raw=${Math.max(Number(receipt.found || 0), Number(relocationReceipt?.found || 0))} | title-=${receipt.filtered_by?.title || 0} | location-=${receipt.filtered_by?.location || 0} | relocation=${relocationOffers.length} | JD queue=${offers.length}`
     );
   }
 
