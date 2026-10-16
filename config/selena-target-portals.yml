@@ -52,6 +52,14 @@ tracked_companies:
 
 
 
+
+  - name: "Microsoft"
+    enabled: true
+    provider: eightfold
+    api: "https://microsoft.eightfold.ai/careers?domain=microsoft.com"
+    domain: "microsoft.com"
+    max_pages: 300
+
   - name: "Apple"
     enabled: true
     provider: apple
