@@ -3537,3 +3537,462 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://kodiakgas.wd12.myworkdayjobs.com/kodiakgascareers/job/TX---Midland-3919-N-FM-1788/Field-Service-Technician--Lead_JR3568-1 | kodiakgas | Field Service Technician, Lead
 - [ ] https://learfield.wd5.myworkdayjobs.com/learfield/job/Lubbock-TX/Senior-Business-Development-Manager---Texas-Tech-University_R101512-1 | learfield | Senior Business Development Manager - Texas Tech University
 - [ ] https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/San-Antonio-TX/Field-Operations-Technician_R30554 | ledcor | Field Operations Technician
+
+- [ ] https://mckesson.wd3.myworkdayjobs.com/covermymeds_external_careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Sr-Product-Manager--Data-Platforms---Analytics---Healthcare_JR0154323 | mckesson | Sr Product Manager, Data Platforms & Analytics - Healthcare
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Sr-Business-Analyst---Finance-Systems_JR0151602-1 | mckesson | Sr. Business Analyst - Finance Systems
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8011615 | Flexport | Analyst, Transportation & Supply Chain Strategy
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Software-Engineer_JR0148631 | mckesson | WMS Digital Software Engineer
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/WMS-Software-Engineer_JR0151605-1 | mckesson | WMS Software Engineer
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7787885003 | Fivetran | Staff Product Manager - dbt v2
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7894333003 | Fivetran | Staff Product Manager, Developer Experience
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Systems-Engineer_R2631327 | Applied Materials | Systems Engineer
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7790795003 | Fivetran | Account Executive, Enterprise
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7994731003 | Fivetran | Analyst, GTM Analytics
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7992087003 | Fivetran | Compensation & Analytics Partner
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8014678003 | Fivetran | Growth Marketing Strategy & Planning Manager
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8009201003 | Fivetran | GTM Strategy & Planning Manager
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7998877003 | Fivetran | Lead Sales Engineer, Enterprise
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7994710003 | Fivetran | Senior Analyst, GTM Analytics
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7875706003 | Fivetran | Senior Sales Engineer, Enterprise
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8003005003 | Fivetran | Senior Solutions Architect, Enterprise
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4735537005 | Flex | Senior Staff Software Engineer, Partner Integrations 
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/7896356 | Flexport | Enterprise Account Executive 
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8213955 | Flexport | Senior IT Systems Engineer 
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8164901 | Flexport | Senior Systems Engineer (Identity and Access)
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/El-Paso-TX-E-El-Paso-1146/Part-Time---Fulfillment-Associate---Flexible_JR-02679548 | lowes | Part Time - Fulfillment Associate - Flexible
+- [ ] https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Great-Britain-Tamworth-B78-1TX/Inventory-Administrator_R200516-2 | maersk | Inventory Administrator
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-WA-Remote/Health-System-Account-Liaison---WA_JR0151779 | mckesson | Health System Account Liaison - WA
+- [ ] https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-TX-Irving/Lead--Technology-Integration_JR0155013-2 | mckesson | Lead, Technology Integration
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Sr-Analyst--Consensus-Demand-Planning----Channel-Lead-_JR0154841 | mckesson | Sr. Analyst, Consensus Demand Planning – (Channel Lead)
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Sr-Analyst--Customer-Demand-Planning_JR0154769 | mckesson | Sr. Analyst, Customer Demand Planning
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256999007?gh_jid=5256999007 | Anduril | Senior Computer Vision Engineer
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--2nd-Shift_R2629915 | Applied Materials | Manufacturing Technician II - (T2) 2nd Shift
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7997315&gh_jid=7997315 | Elastic | Inside Account Executive (Hunter)
+- [ ] https://jobs.elastic.co/jobs?gh_jid=8233841&gh_jid=8233841 | Elastic | Sales Development Representative - Austin, TX
+- [ ] https://jobs.elastic.co/jobs?gh_jid=8246143&gh_jid=8246143 | Elastic | Senior Manager, Regional Sales - Mid-Market AI Natives
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7792160003 | Fivetran | Business Development Representative (Austin)
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7792166003 | Fivetran | Commercial Solutions Architect - Texas
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7796439003 | Fivetran | Customer Solutions Architect
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8016899003 | Fivetran | Engineering Manager, Metadata
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7805078003 | Fivetran | Global Alliance Lead, Capgemini
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8010210003 | Fivetran | Lead Cloud Onboarding Architect
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7985969003 | Fivetran | Lead Company Operations Manager
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8008322003 | Fivetran | Partner Solutions Architect
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8005548003 | Fivetran | Pricing & Order Operations Analyst
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7806295003 | Fivetran | Senior Pricing Data Scientist
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810466003 | Fivetran | Senior R&D Software Engineer, Fivetran AI
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8017186003 | Fivetran | Senior Software Engineer - Orchestration
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7811996003 | Fivetran | Staff R&D Software Engineer, Fivetran AI
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7999916003 | Fivetran | Staff Solutions Engineer
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8015055003 | Fivetran | Web Strategy & Optimization Lead
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4739069005 | Flex | Join our Talent Community!
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4743803005 | Flex | Senior Software Development Engineer in Test (SDET)
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4732764005 | Flex | Senior Software Engineer, Backend 
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4722531005 | Flex | Staff Product Designer (Contract)
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/7384202 | Flexport | Customs Specialist
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8160593 | Flexport | Global Aid Account Manager
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8221466 | Flexport | Global Operations Associate
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8198155 | Flexport | Global Operations Specialist
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/7904839 | Flexport | Operations Associate - Join Our Talent Community
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/7909078 | Flexport | Operations Specialist - Join Our Talent Community 
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8120697 | Flexport | Senior Sales Manager - Account Management
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8164847 | Flexport | Senior Security Engineer, Detection & Response 
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/7643567 | Flexport | Senior Trade Advisory Manager
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8160591 | Flexport | Trucking Procurement Manager
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Round-Rock-TX-0778/Full-Time---Loader-Cart-Associate---Opening_JR-02679187 | lowes | Full Time - Loader/Cart Associate - Opening
+- [ ] https://maersk.wd3.myworkdayjobs.com/maersk_manual/job/USA-Texas-Houston-77381/Client-Manager--Strategic-Accounts_R193877-1 | maersk | Client Manager, Strategic Accounts
+- [ ] https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-Texas-Humble-77338/Dispatcher_R179218 | maersk | Dispatcher
+- [ ] https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/United-States-of-AmericaTexasCoppell75019/Driver-Helper--LSO-FLC-_R195340-1 | maersk | Driver Helper [LSO FLC]
+- [ ] https://maersk.wd3.myworkdayjobs.com/maersk_manual/job/USA-Texas-Humble-77338/Field-Sales-Executive---Specialized-LTL--IAH_R195534-1 | maersk | Field Sales Executive - Specialized LTL- IAH
+- [ ] https://maersk.wd3.myworkdayjobs.com/maersk_manual/job/United-States-of-AmericaTexasDallas75227/Field-Sales-Executive--DFW_R173998-2 | maersk | Field Sales Executive- DFW
+- [ ] https://maersk.wd3.myworkdayjobs.com/pt_careers/job/United-States-of-AmericaTexasCedar-Hill75104/Maintenance-Mechanic_R198767 | maersk | Maintenance Mechanic
+- [ ] https://maersk.wd3.myworkdayjobs.com/maersk_manual/job/United-States-of-AmericaTexasBaytown77235/Material-Handling-Equipment-Operator--FLO-FLC-_R194432 | maersk | Material Handling Equipment Operator [FLO FLC]
+- [ ] https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/United-States-of-AmericaTexasCoppell75019/Office-Associate_R198967-1 | maersk | Office Associate
+- [ ] https://maersk.wd3.myworkdayjobs.com/maersk_manual/job/United-States-of-AmericaTexasCedar-Hill75104/Office-General_R200073 | maersk | Office General
+- [ ] https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/United-States-of-AmericaTexasSan-Antonio78264/Customer-Experience-Partner---JCB_R197809-1 | maersk | Senior Customer Experience Partner - JCB
+- [ ] https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-Texas-Houston-77381/Senior-Project-Coordinator_R189692-1 | maersk | Senior Project Coordinator
+- [ ] https://maersk.wd3.myworkdayjobs.com/pt_careers/job/United-States-of-Americas-Texas-Brookshire-77423/Supervisor--Operations_R194032-2 | maersk | Supervisor, Operations
+- [ ] https://mars.wd3.myworkdayjobs.com/external/job/USA-Texas-Waco/Maintenance-Technician_R168204-1 | mars | Maintenance Technician
+- [ ] https://mars.wd3.myworkdayjobs.com/external/job/USA-Texas-Dallas/Scientific-Services-Veterinarian--Dallas-Territory_R162325-1 | mars | Scientific Services Veterinarian- Dallas Territory
+- [ ] https://mars.wd3.myworkdayjobs.com/external/job/USA-Texas-Temple/Senior-Controls-Technician_R160738-1 | mars | Senior Controls/PLC Technician
+- [ ] https://mars.wd3.myworkdayjobs.com/external/job/USA-Texas-Waco/Team-Member-Machine-Operator---223-Day-223-Night-Shifts_R162633-1 | mars | Team Member/Machine Operator - 223 Day/223 Night Shifts
+- [ ] https://mars.wd3.myworkdayjobs.com/external/job/USA-Texas-Waco/Team-Member-Machine-Operator---8-Hour-Rotation-Shift_R162632-1 | mars | Team Member/Machine Operator - 8 Hour Rotation Shift
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-CO-Remote/Account-Executive--Ambulatory-Care_JR0150559 | mckesson | Account Executive, Ambulatory Care
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-WA-Remote/Account-Executive--Seattle--Tacoma-WA_JR0149703 | mckesson | Account Executive, Seattle, Tacoma WA
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-IA-Remote/Account-Manager---Post-Acute-Care_JR0153009 | mckesson | Account Manager - Post Acute Care
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-ME-Remote/Account-Manager--Post-Acute-Care--Maine-_JR0146595 | mckesson | Account Manager, Post Acute Care (Maine)
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Fort-Worth/Agent-Tuner_JR0152353-1 | mckesson | Agent Operator
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-NY-Remote/Area-Sales-Manager--Ambulatory-Care--Upstate-New-York_JR0153586 | mckesson | Area Sales Manager, Ambulatory Care, Upstate New York
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Remote/Biologics-Payer-Audit-and-Accreditation-Specialist_JR0153494 | mckesson | Biologics Payer Audit and Accreditation Specialist
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Business-License-Analyst_JR0155405 | mckesson | Business License Analyst
+- [ ] https://mckesson.wd3.myworkdayjobs.com/scri_careers/job/USA-TN-Remote/Clinical-Trial-Central-Screener_JR0154873 | mckesson | Clinical Trial Central Screener
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Compensation-Consultant_JR0155374 | mckesson | Compensation Consultant
+- [ ] https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-Remote/Data-Scientist_JR0152158-2 | mckesson | Data Scientist
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Corpus-Christi/Delivery-Professional---Bulk_JR0154723 | mckesson | Delivery Professional - Bulk
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Houston/Delivery-Professional---Bulk-Truck_JR0155056 | mckesson | Delivery Professional - Bulk Truck
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Corpus-Christi/Delivery-Professional---Parcel-Van_JR0154764 | mckesson | Delivery Professional - Parcel Van
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Grapevine/Delivery-Professional-Line-Haul-Tractor-Trailer_JR0154619 | mckesson | Delivery Professional Line Haul Tractor Trailer
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-AZ-Remote/Diagnostic-Sales-Consultant--Arizona_JR0152255 | mckesson | Diagnostic Sales Consultant, Arizona
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Conroe/Facilities-Representative_JR0154712 | mckesson | Facilities Representative
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-CA-Remote/Field-Reimbursement-Manager_JR0152827 | mckesson | Field Reimbursement Manager
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Remote/Field-Reimbursement-Services_JR0155016 | mckesson | Field Reimbursement Services
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-CA-Remote/Field-Service-Rep---Sacramento_JR0152944 | mckesson | Field Service Rep - Sacramento
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Lead-Cyber-Intelligence-Analyst_JR0154970-1 | mckesson | Lead Cyber Intelligence Analyst
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Lead-Workforce-Intelligence-Consultant_JR0153417 | mckesson | Lead Workforce Intelligence Consultant
+- [ ] https://mckesson.wd3.myworkdayjobs.com/scri_careers/job/USA-TX-Dallas/Manager-of-Clinical-Research-Support_JR0154091 | mckesson | Manager of Clinical Research Support
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Manager--Indirect-Tax---Sales-and-Use-Tax-Compliance_JR0153517 | mckesson | Manager, Indirect Tax - Sales and Use Tax Compliance
+- [ ] https://mckesson.wd3.myworkdayjobs.com/scri_careers/job/USA-TN-Remote/Medical-Writer---Remote-US_JR0153366-1 | mckesson | Medical Writer - Remote US
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Conroe/Night-Shift-Operations-Supervisor_JR0154686 | mckesson | Night Shift Operations Supervisor
+- [ ] https://mckesson.wd3.myworkdayjobs.com/ontada_careers/job/USA-TX-Remote/Oncology-Clinical-Data-Quality-Lead_JR0155422 | mckesson | Oncology Clinical Data Quality Lead
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Grapevine/Parcel-Van-Driver-Professional_JR0155051 | mckesson | Parcel Van Driver Professional
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Penetration-Testing-Engineer_JR0154348 | mckesson | Penetration Testing Engineer
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-OH-Remote/Post-Acute-Care-Field-Sales--Cleveland-OH_JR0146596 | mckesson | Post Acute Care Field Sales, Cleveland OH
+- [ ] https://mckesson.wd3.myworkdayjobs.com/scri_careers/job/USA-TN-Remote/Regulatory-Affairs-Coordinator_JR0155199 | mckesson | Regulatory Affairs Coordinator
+- [ ] https://mckesson.wd3.myworkdayjobs.com/scri_careers/job/USA-TX-Dallas/Sr-Research-Nurse_JR0153042 | mckesson | Research Nurse Blood Cancer
+- [ ] https://mckesson.wd3.myworkdayjobs.com/scri_careers/job/USA-TN-Remote/Research-Quality-Manager_JR0154704 | mckesson | Research Quality Manager
+- [ ] https://mckesson.wd3.myworkdayjobs.com/scri_careers/job/USA-TN-Remote/Research-Regulatory-Affairs-Specialist_JR0155280 | mckesson | Research Regulatory Affairs Specialist
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Senior-Pricing-Manager--Strategic-Accounts_JR0155193 | mckesson | Senior Pricing Manager, Strategic Accounts
+- [ ] https://mckesson.wd3.myworkdayjobs.com/covermymeds_external_careers/job/USA-TX-Irving/Sr-Manager--Pharmacy---Pharmacist-in-Charge--PIC-_JR0155682 | mckesson | Sr Manager, Pharmacy / Pharmacist-in-Charge (PIC)
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Sr-Analyst--Statistical-Forecast---Accuracy_JR0154847-1 | mckesson | Sr. Analyst, Statistical Forecast & Accuracy
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/Work-at-Home---Texas-USA-WTXA/Sr-Associate--Field-Support-Technician-Engineering_JR0154611 | mckesson | Sr. Associate, Field Support Technician/Engineering-Remote/US
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Sr-Business-Solutions-Analyst_JR0153196 | mckesson | Sr. Business Solutions Analyst
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-DE-Remote/Sr-Clinical-Pharmacist--Oncology-_JR0155530 | mckesson | Sr. Clinical Pharmacist (Oncology)
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Sr-Specialist--Field-Support-Engineering_JR0151093-1 | mckesson | Sr. Field Support Engineer (Executive Support)
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Sr-HR-Enablement-Specialist_JR0155358 | mckesson | Sr. HR Enablement Specialist
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Sr-Manager--Segment-Strategy---Generics_JR0153369 | mckesson | Sr. Manager, Corporate Strategy (Pharmaceutical)
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Talent-Advisor_JR0154719 | mckesson | Talent Advisor
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Houston-Texas-United-States-of-America/Clinical-Market-Development-Specialist--Houston-TX-_R79315-2 | medtronic | Clinical Market Development Specialist (Houston TX)
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/El-Paso-Texas-United-States-of-America/Clinical-Specialist--Cranial---Spinal-Technologies---El-Paso--TX_R79358-1 | medtronic | Clinical Specialist, Cranial & Spinal Technologies - El Paso, TX
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lubbock-Texas-United-States-of-America/Clinical-Specialist--Cranial---Spinal-Technologies---Lubbock--TX_R79257-1 | medtronic | Clinical Specialist, Cranial & Spinal Technologies - Lubbock, TX
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Houston-Texas-United-States-of-America/Clinical-Specialist--Pain-Interventions----Houston--TX_R77911-1 | medtronic | Clinical Specialist, Pain Interventions  - Houston, TX
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Dallas-Texas-United-States-of-America/Clinical-Specialist--Pain-Interventions---Dallas--TX_R78740-1 | medtronic | Clinical Specialist, Pain Interventions - Dallas, TX
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Dallas-Texas-United-States-of-America/Sales-Representative--SVI_R79724-1 | medtronic | Sales Representative, SVI
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Houston-Texas-United-States-of-America/Senior-Monitoring-Sales-Representative--Acute-Care-and-Monitoring--Houston-_R78022-2 | medtronic | Senior Monitoring Sales Representative, Acute Care and Monitoring (Houston)
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Houston-Texas-United-States-of-America/Therapy-Expansion-Leader----Houston---San-Antonio_R77006-1 | medtronic | Therapy Expansion Leader  - Houston / San Antonio
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Dallas-Texas-United-States-of-America/Vascular-Therapy-Development-Specialist---Dallas--TX_R76518-2 | medtronic | Vascular Therapy Development Specialist - Dallas, TX
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8012116003 | Fivetran | Enterprise Sales Director 
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7994507003 | Fivetran | Principal Analyst, GTM Analytics (Costa Rica)
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Director--Customer-Facing-Demand-Planning_JR0153449-1 | mckesson | Director, Customer Facing Demand Planning
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Director--EDI-Integration_JR0152240 | mckesson | Director, EDI Integration
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Senior-Director--CGAT-Technology-Center-of-Excellence_JR0155497-1 | mckesson | Senior Director, CGAT Technology Center of Excellence
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Sr-Director--Enterprise-Compliance-Effectiveness---Experience_JR0154913 | mckesson | Sr. Director, Enterprise Compliance Effectiveness & Experience
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/LPS---Houston-TX-4500/Branch-General-Manager---Bench_JR-02676775 | lowes | Branch General Manager
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Missouri-City-TX-3027/Full-Time---Merchandising-Service-Associate---Plant-Service-Lead---Day_JR-02673211-1 | lowes | Full Time - Merchandising Service Associate - Plant Service Lead - Day
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Gun-Barrel-City-TX-1801/Full-Time---Receiver-Stocker---Overnight_JR-02679499 | lowes | Full Time - Receiver/Stocker - Overnight
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Richardson-TX-2779/Full-Time---Sales-Associate---Electrical---Lighting---Day_JR-02679394 | lowes | Full Time - Sales Associate - Electrical & Lighting - Day
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Dallas-TX-N-Dallas-0515/Full-Time---Sales-Associate---Hardware---Day_JR-02678369 | lowes | Full Time - Sales Associate - Hardware - Day
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Dallas-TX-NE-Dallas-1780/Full-Time---Sales-Associate---Inside-Lawn---Garden---Day_JR-02678879 | lowes | Full Time - Sales Associate - Inside Lawn & Garden - Day
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/N-Fort-Worth-TX-3518/Full-Time---Sales-Associate---Plumbing---Closing_JR-02678731 | lowes | Full Time - Sales Associate - Plumbing - Closing
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/San-Antonio-TX-NWC-San-Antonio-1155/Full-Time---Sales-Associate---Tools---Day_JR-02678151 | lowes | Full Time - Sales Associate - Tools - Day
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Odessa-TX-2962/Full-Time---Sales-Specialist---Cabinets---Day_JR-02657625-1 | lowes | Full Time - Sales Specialist - Cabinets - Day
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Garland-TX-0611/Full-Time---Sales-Specialist---Millwork---Day_JR-02678211-1 | lowes | Full Time - Sales Specialist - Millwork - Day
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Denton-TX-0183/Part-Time---Receiver-Stocker---Flexible_JR-02678004 | lowes | Part Time - Receiver/Stocker - Flexible
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Fort-Worth-TX-Lake-Worth-1582/Sales-Floor-Dept-Supervisor---Building-Materials_JR-02678660-1 | lowes | Sales Floor Dept Supervisor - Building Materials
+- [ ] https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/Kyle-TX-2961/Sr-Account-Manager_JR-02677954-1 | lowes | Sr. Account Manager
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7796447003 | Fivetran | Commercial Sales Director
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7796453003 | Fivetran | Customer Sales Director
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7991106003 | Fivetran | Regional Vice President
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7991786003 | Fivetran | Senior Internal Communications Manager
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7991787003 | Fivetran | Senior Internal Communications Manager 
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Director-FP-A-HQ---IT-Operating-Expense_JR0154821 | mckesson | Director FP&A-HQ & IT Operating Expense
+- [ ] https://mckesson.wd3.myworkdayjobs.com/scri_careers/job/USA-TN-Remote/Director-of-Research-Site-Partnership_JR0155380 | mckesson | Director of Research Site Partnership
+- [ ] https://mckesson.wd3.myworkdayjobs.com/scri_careers/job/USA-TN-Remote/Director--Accounting---Nashville--TN_JR0154655 | mckesson | Director, Accounting - Nashville, TN
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/Work-at-Home---Texas-USA-WTXA/Director--Surgery-Center-Sales--Central_JR0154787 | mckesson | Director, Surgery Center Sales, Central
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-CA-Remote/Field-VP--Portfolio-Partnerships--West_JR0144822 | mckesson | Field VP, Portfolio Partnerships, West
+- [ ] https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-TX-Irving/Principal--M-A-Delivery-Service-Leader---Infrastructure_JR0150191 | mckesson | Principal, M&A Delivery Service Leader - Infrastructure
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Senior-Director--Revenue-Cycle-Finance_JR0155286 | mckesson | Senior Director, Revenue Cycle Finance
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Fort-Worth-Texas-United-States-of-America/Director-of-Identity-and-Access-Management--IAM-_R76412-1 | medtronic | Director of Identity and Access Management (IAM)
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Houston-Texas-United-States-of-America/Senior-Principal-CoreValve-Therapy-Consultant---Houston_R78499-1 | medtronic | Senior Principal CoreValve Therapy Consultant - Houston
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/McAllen-Texas-United-States-of-America/Vascular-Sr-Principal-Sales-Rep---McAllen_R79730-1 | medtronic | Vascular Sr. Principal Sales Rep - McAllen
+- [ ] https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4403274009 | Fanatics Collectibles | Senior Product Manager, Supply Chain Technology
+- [ ] https://job-boards.greenhouse.io/fictiv/jobs/8814735002 | Fictiv | Inventory Planning Manager
+- [ ] https://www.edgeconnex.com/company/careers/?gh_jid=5105850007 | EdgeConneX | Technical Program Manager, Engineering
+- [ ] https://job-boards.greenhouse.io/efficientcomputer/jobs/4370905009 | Efficient Computer | Hardware Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/efficientcomputer/jobs/4426413009 | Efficient Computer | Software Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/elend/jobs/4292081009 | eLEND | Technical Product Manager 
+- [ ] https://job-boards.greenhouse.io/enchargeai36/jobs/4376670009 | EnCharge AI | Technical Program Manager - Embedded Software
+- [ ] https://job-boards.greenhouse.io/engine/jobs/8007031003 | Engine | Senior Technical Product Manager
+- [ ] https://eosits.com/company/careers/?gh_jid=8687320002 | EOS https://app2.greenhouse.io/job_boards/4008206002/settings | Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/fluxon/jobs/4227085005 | Fluxon | Senior Technical Project Manager
+- [ ] https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Technical-Project-Manager--Data_JR100198 | lucyrx | Technical Project Manager, Data
+- [ ] https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Remote/Marketing-Automation-Systems-Analyst_REQ-11106-1 | neogen | Marketing Automation Systems Analyst
+- [ ] https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Remote/Software-Product-Manager---Integrated-Systems_REQ-11136 | neogen | Software Product Manager - Integrated Systems
+- [ ] https://careers.empowerpharmacy.com/jobs/?gh_jid=4444579009 | Empower Pharmacy | Manager, Enterprise Platforms - Supply Chain & Operations
+- [ ] https://job-boards.greenhouse.io/ever/jobs/5447351008 | Ever | Automotive Inventory and Merchandising Manager
+- [ ] https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4383360009 | Fanatics Collectibles | Fulfillment and Post Production Operator
+- [ ] https://job-boards.greenhouse.io/fanaticscommerce/jobs/4336972009 | Fanatics Commerce | Team Lead Fulfillment Nights/Days - Operations
+- [ ] https://job-boards.greenhouse.io/fictiv/jobs/8783499002 | Fictiv | Customer Site Inventory Specialist - Austin, TX
+- [ ] https://fingerprint.com/careers/jobs/apply/?gh_jid=6188236004 | Fingerprint | Senior Data Warehouse Engineer
+- [ ] https://livenation.wd503.myworkdayjobs.com/lnexternalsite/job/Irving-TX-USA/Special-Events-LN-Venues--Logistics-Manager---Toyota-Music-Factory_JR-93577 | livenation | Special Events LN Venues, Logistics Manager - Toyota Music Factory
+- [ ] https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/IN---Haryana---Remote/Assistant-Manager--Logistics_R79036 | lonza | Assistant Manager, Logistics
+- [ ] https://lsi.wd3.myworkdayjobs.com/arxada_careers/job/US---Morristown-NJ---REMOTE/Account-Manager_R53965 | lsi | Account Manager-Industrial Water & Distribution
+- [ ] https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Greenville-Texas/Manager--Supply-Chain_R15302 | menasha | Manager, Supply Chain
+- [ ] https://mitsubishichemicalgroup.wd3.myworkdayjobs.com/mccgroupcareers/job/LaPorte-Texas/Advanced-Specialist---Logistics---Inventory-Control_JR_0001193 | mitsubishichemicalgroup | Advanced Specialist – Logistics & Inventory Control
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Project-Manager--Enterprise-PMO---Special-Projects_R26_5188 | my7elevenhr | Project Manager, Enterprise PMO / Special Projects
+- [ ] https://www.zipline.com/open-roles/7807637003?gh_jid=7807637003 | Zipline | Logistics Specialist (SkillBridge)
+- [ ] https://job-boards.greenhouse.io/dynamisinc/jobs/4708572006 | Dynamis, Inc. | Project Manager
+- [ ] https://job-boards.greenhouse.io/ebanx/jobs/7566225003 | EBANX | Product Manager | South Cone
+- [ ] https://job-boards.greenhouse.io/edged_infrastructure/jobs/4403902009 | Edged Infrastructure | Finance / Commercial Project Manager
+- [ ] https://job-boards.greenhouse.io/efficientcomputer/jobs/4254539009 | Efficient Computer | Senior Product Manager - Software
+- [ ] https://job-boards.greenhouse.io/electrosoft/jobs/4436513009 | Electrosoft | ServiceNow Business Analyst
+- [ ] https://job-boards.greenhouse.io/energyexemplarllc/jobs/5189638008 | Energy Exemplar | Senior Product Manager (Insights)
+- [ ] https://job-boards.greenhouse.io/energysolutions/jobs/5187621007 | Energy Solutions - USA | Energy Efficiency Project Manager I (Remote - US)
+- [ ] https://job-boards.greenhouse.io/energyhub/jobs/8743172002 | EnergyHub | Lead Product Manager
+- [ ] https://job-boards.greenhouse.io/engine/jobs/8006849003 | Engine | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7992538003 | Engine | Senior Product Manager, Applied AI
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7999646003 | Engine | Senior Product Manager, Growth
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7780685003 | Engine | Staff Program Manager
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4720761005 | Ensono | Senior Product Manager - AI-Led Mainframe Managed Services
+- [ ] https://job-boards.greenhouse.io/eplusinc/jobs/4401121009 | ePlus Technology, inc. |  Senior Business Analyst, Professional Services (Req #1417)
+- [ ] https://expel.com/about/career-listing/8706149002?gh_jid=8706149002 | Expel | Product Manager, Detection Pipeline
+- [ ] https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4403768009 | Fanatics Collectibles | Associate Product Manager, Baseball
+- [ ] https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4302597009 | Fanatics Collectibles | Innovation Product Manager
+- [ ] https://job-boards.greenhouse.io/fictiv/jobs/8615127002 | Fictiv | Staff Strategic Program Manager (Monterrey, México)
+- [ ] https://job-boards.greenhouse.io/fictiv/jobs/8614076002 | Fictiv | Strategic Program Manager
+- [ ] https://www.fglife.com/about/careers/apply.html?gh_jid=7776767003 | Fidelity & Guaranty Life Insurance Company | Product Owner
+- [ ] https://www.fglife.com/about/careers/apply.html?gh_jid=7893824003 | Fidelity & Guaranty Life Insurance Company | Sr. Business Analyst
+- [ ] https://job-boards.greenhouse.io/fleetio/jobs/5183181007 | Fleetio | Product Manager, Growth
+- [ ] https://job-boards.greenhouse.io/flodesk/jobs/5432433008 | Flodesk | Sr. Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/fluxon/jobs/4019922005 | Fluxon | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/fluxon/jobs/4742919005 | Fluxon | Senior Program Manager
+- [ ] https://job-boards.greenhouse.io/forgen/jobs/5141563007 | Forgen | Assistant Project Manager
+- [ ] https://job-boards.greenhouse.io/forgen/jobs/5202164007 | Forgen | Construction Project Manager
+- [ ] https://job-boards.greenhouse.io/forgen/jobs/5203341007 | Forgen | Project Manager
+- [ ] https://lnw.wd5.myworkdayjobs.com/sciplayexternalcareerssite/job/Austin-Texas/Game-Economy---Monetization-Manager_R323037 | lnw | Product Manager, Economy
+- [ ] https://lnw.wd5.myworkdayjobs.com/sciplayexternalcareerssite/job/Austin-Texas/Monetization-Analyst_R322871 | lnw | Product Manager, LiveOps
+- [ ] https://magnitudesoftware.wd1.myworkdayjobs.com/external/job/USA---Remote/Senior-Product-Manager-_REQ001213 | magnitudesoftware | Senior Product Manager,
+- [ ] https://marathonhealth.wd501.myworkdayjobs.com/marathon-health-careers/job/Remote/Data-Product-Owner_JR109043 | marathonhealth | Data Product Owner
+- [ ] https://marmon.wd501.myworkdayjobs.com/marmon_careers/job/USA_KS_Remote/Track-Services-Project-Manager---Estimating---Kansas_JR0000046292 | marmon | Track Services-Project Manager & Estimating - Kansas
+- [ ] https://marmon.wd501.myworkdayjobs.com/marmon_careers/job/USA_WI_Remote/Project-Manager---Estimating---Illinois_JR0000042935 | marmon | Track Services-Project Manager & Estimating - Wisconsin
+- [ ] https://merit.wd503.myworkdayjobs.com/merit/job/Remote---USA/Clinical-Training-and-Education-Manager--Endo-_JR117259 | merit | Program Manager, Medical Education
+- [ ] https://mhs.wd1.myworkdayjobs.com/careers/job/Remote-United-States/Associate-Project-Manager--LPS_R9611 | mhs | Associate Project Manager, LPS
+- [ ] https://modivcare.wd1.myworkdayjobs.com/careers/job/Remote/Product-Manager-I_JR103974 | modivcare | Product Manager I
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Texas-US-Offsite/Federal-Project-Manager---DoD_R69430-1 | motorolasolutions | Federal Project Manager - DoD
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Texas-US-Offsite/Field-Readiness-Product-Manager_R67759 | motorolasolutions | Field Readiness Product Manager
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Texas-Remote-Work/Senior-Project-Manager---US-Remote_R69690 | motorolasolutions | Senior Project Manager - US Remote
+- [ ] https://ms.wd5.myworkdayjobs.com/external/job/Dallas-Texas-United-States-of-America/Program-Manager--Corporate-Real-Estate_PT-JR044142-1 | ms | Program Manager, Corporate Real Estate
+- [ ] https://mtb.wd5.myworkdayjobs.com/wtexternal/job/Remote-USA/Appian-Forward-Deployed-Product-Owner_R90589-2 | mtb | Appian Forward Deployed Product Owner
+- [ ] https://mtb.wd5.myworkdayjobs.com/wtexternal/job/Remote-USA/Appian-Forward-Deployed-Product-Owner--Bond-Management-_R90555 | mtb | Appian Forward Deployed Product Owner (Bond Management)
+- [ ] https://mtb.wd5.myworkdayjobs.com/restructure/job/Remote-USA/Senior-Escrow-Product-Manager_R87540-1 | mtb | Senior Escrow Product Manager
+- [ ] https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Project-Manager-Sr_JR84294 | multicare | Project Manager Sr
+- [ ] https://mydpr.wd5.myworkdayjobs.com/11212017/job/Texas/Concrete-Project-Manager---Traveler_JR-16418 | mydpr | Concrete Project Manager - Traveler
+- [ ] https://mydpr.wd5.myworkdayjobs.com/11212017/job/Texas/Project-Manager---Division-7---Traveler_JR-16425 | mydpr | Project Manager - Division 7 - Traveler
+- [ ] https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Senior-Product-Manager_JR102012 | nabancard | Senior Product Manager
+- [ ] https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/United-States---Remote/Associate-State-Product-Manager---Personal-Lines_100298 | nationwide | Associate State Product Manager - Personal Lines
+- [ ] https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/United-States---Remote/State-Product-Manager---Personal-Lines_097045 | nationwide | State Product Manager - Personal Lines
+- [ ] https://ncr.wd1.myworkdayjobs.com/ext_us/job/IRVING-TX-USA/Product-Manager--Payments-Hardware---Deployment_R0158764 | ncr | Product Manager, Payments Hardware & Deployment
+- [ ] https://ncr.wd1.myworkdayjobs.com/ext_us/job/TEXAS-VIRTUAL-USA/Project-Manager-for-Service-Delivery---Atlanta--GA_R0157711 | ncr | Project Manager for Service Delivery - Atlanta, GA
+- [ ] https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Remote/Project-Manager-II_R23206 | nelnet | Project Manager II
+- [ ] https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Remote/Senior-Product-Manager_R23085 | nelnet | Senior Product Manager
+- [ ] https://careers.empowerpharmacy.com/jobs/?gh_jid=4361419009 | Empower Pharmacy | Principal Technical Product Manager
+- [ ] https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas/job/United-States-of-America-Remote/Principal-Business-Systems-Analyst--Oracle-Supply-plan_R19440 | mksinst | Principal Business Systems Analyst, Oracle Supply plan (ASCP)-Remote
+- [ ] https://modmed.wd501.myworkdayjobs.com/modmed12/job/Remote---USA/Director--Implementation-Services--Enterprise_R4635-1 | modmed | Director, Implementation Services, Enterprise
+- [ ] https://job-boards.greenhouse.io/expertnetwork/jobs/6203795004 | Correlation One Expert Network | Lead Instructor: Enterprise 
+- [ ] https://job-boards.greenhouse.io/echodynecorp/jobs/4687051006 | Echodyne Corp | Solutions Engineering Integration Specialist
+- [ ] https://www.enterprisedb.com/careers/job-openings?gh_jid=7805777003 | EDB | Senior Technical Account Manager
+- [ ] https://www.enterprisedb.com/careers/job-openings?gh_jid=7991280003 | EDB | Technical Account Manager
+- [ ] https://www.elationhealth.com/about-us/careers/?gh_jid=8128196 | Elation Health | Enterprise Customer Success Manager
+- [ ] https://www.elationhealth.com/about-us/careers/?gh_jid=7873662 | Elation Health | Technical Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/elitetechnology/jobs/5382525008 | Elite Technology | AI Technology Lead
+- [ ] https://job-boards.greenhouse.io/emoneyadvisor/jobs/4415265009 | eMoney Advisor | Enterprise Retention Marketing Manager
+- [ ] https://careers.empowerpharmacy.com/jobs/?gh_jid=4360998009 | Empower Pharmacy | Order Processing & Fulfillment Technician 503B (1st shift)
+- [ ] https://careers.empowerpharmacy.com/jobs/?gh_jid=4404570009 | Empower Pharmacy | Order Processing & Fulfillment Technician 503B (2nd shift)
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7720764003 | Engine | Manager, Product Analytics
+- [ ] https://job-boards.greenhouse.io/engine/jobs/8002725003 | Engine | Sr. Partner Success Manager, Technology Partners
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4738657005 | Ensono | Expert Mainframe Systems Programmer - IMS Physical
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4723374005 | Ensono | Mainframe Systems Programmer - CICS
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740849005 | Ensono | Mainframe Systems Programmer - CICS & WAS
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740795005 | Ensono | Mainframe Systems Programmer - DB2 Physical
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740845005 | Ensono | Mainframe Systems Programmer - Network
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740995005 | Ensono | Mainframe Systems Programmer - Storage
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740793005 | Ensono | Manager, Mainframe Systems Programming
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4723362005 | Ensono | Senior CICS Mainframe Systems Programmer
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740799005 | Ensono | Senior Mainframe Systems Programmer - Adabas
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740843005 | Ensono | Senior Mainframe Systems Programmer - Automation
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740801005 | Ensono | Senior Mainframe Systems Programmer - Datacom
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740847005 | Ensono | Senior Mainframe Systems Programmer - Hardware
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740839005 | Ensono | Senior Mainframe Systems Programmer - IMS Phyical
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4707873005 | Ensono | Senior Mainframe Systems Programmer - ISV
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740837005 | Ensono | Senior Mainframe Systems Programmer - MQ
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740445005 | Ensono | Senior Mainframe Systems Programmer - Storage
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740841005 | Ensono | Senior Mainframe Systems Programmer - z/OS
+- [ ] https://job-boards.greenhouse.io/eplusinc/jobs/4242760009 | ePlus Technology, inc. | Identity & Access Management – Lead Technical Sales Architect (Req #1260)
+- [ ] https://job-boards.greenhouse.io/eudia/jobs/4356563009 | Eudia | Business Lead, Enterprise Defense Industrial Base
+- [ ] https://job-boards.greenhouse.io/eve/jobs/4438618009 | Eve | Revenue Enablement Manager, Enterprise & Strategic Sales
+- [ ] https://job-boards.greenhouse.io/evergreennephrology/jobs/4735190005 | Evergreen Nephrology | Senior Analyst, Reporting & Analytics
+- [ ] https://job-boards.greenhouse.io/evergreenservicesgroup/jobs/4732841005 | Evergreen Services Group | Technical Accounting Manager
+- [ ] https://job-boards.greenhouse.io/evolver/jobs/4448781009 | Evolver | Technology Procurement & Commercial Operations Lead
+- [ ] https://job-boards.greenhouse.io/examplecorpsandbox/jobs/6742399 | Example Corp | Autonomous Systems Engineer, Motion Planning
+- [ ] https://expel.com/about/career-listing/8849699002?gh_jid=8849699002 | Expel | Technical Account Manager
+- [ ] https://job-boards.greenhouse.io/extend/jobs/6206957004 | Extend | Account Manager, Enterprise Growth Strategy
+- [ ] https://job-boards.greenhouse.io/extend/jobs/6211386004 | Extend | Manager, Analytics Engineering
+- [ ] https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4391518009 | Fanatics Collectibles | Digital Print Systems Manager
+- [ ] https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4391130009 | Fanatics Collectibles | Manufacturing Systems Manager
+- [ ] https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4406208009 | Fanatics Collectibles | Security Technology Deployment Specialist
+- [ ] https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4209093009 | Fanatics Collectibles | Senior Analyst Business Systems 
+- [ ] https://job-boards.greenhouse.io/fetch/jobs/4433775009 | Fetch | Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/fetch/jobs/4433721009 | Fetch | Business Intelligence Analyst – Member Experience & Operations
+- [ ] https://www.fglife.com/about/careers/apply.html?gh_jid=7992503003 | Fidelity & Guaranty Life Insurance Company | Manager, HR Systems
+- [ ] https://job-boards.greenhouse.io/figure/jobs/8594600002 | Figure Lending | Senior Manager of SEC Reporting & Technical Accounting 
+- [ ] https://job-boards.greenhouse.io/focuspartnerswealth/jobs/6109513004 | Focus Partners Wealth | Advisor Platform Specialist
+- [ ] https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5253470007 | Lantern | Senior Data Warehouse Engineer
+- [ ] https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Virtual---Texas/Lead-Solutions-Systems-Architect_JR-111818 | littelfuse | Lead Solutions Systems Architect
+- [ ] https://livenation.wd503.myworkdayjobs.com/lnexternalsite/job/Work-From-Home---Texas/Category-Manager---Technology_JR-93187 | livenation | Category Manager - Technology
+- [ ] https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/REMOTE-USA-Home-Based/Business-Development-Manager--Systems_R322978 | lnw | Business Development Manager, Systems
+- [ ] https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Senior-Financial-Analyst--Underwriting-and-Analytics_JR100171 | lucyrx | Senior Financial Analyst, Underwriting and Analytics
+- [ ] https://lummustechnology.wd501.myworkdayjobs.com/lummustechnology/job/Houston---Texas/Senior-Director--Global-Finance-Planning---Analysis_JR100221 | lummustechnology | Global Finance Planning & Analysis Leader
+- [ ] https://magnitudesoftware.wd1.myworkdayjobs.com/external/job/USA---Remote/Enterprise-Account-Manager_REQ000281 | magnitudesoftware | Enterprise Account Manager
+- [ ] https://magnitudesoftware.wd1.myworkdayjobs.com/external/job/USA---Remote/Enterprise-Solutions-Engineer_REQ000284 | magnitudesoftware | Enterprise Solutions Engineer
+- [ ] https://medline.wd5.myworkdayjobs.com/medline/job/OPS--Wilmer-TX-B06/Warehouse-Manager_R2617034 | medline | Warehouse Manager
+- [ ] https://merative.wd12.myworkdayjobs.com/external_career_site/job/Remote--United-States/Curam-Technical-Consultant_JR01565 | merative | Curam Technical Consultant
+- [ ] https://merative.wd12.myworkdayjobs.com/external_career_site/job/Remote--United-States/Product-Marketing-Manager_JR01577 | merative | Product Marketing Manager – Life Sciences Analytics & Real-World Data 
+- [ ] https://merative.wd12.myworkdayjobs.com/external_career_site/job/Remote--United-States/Senior-Curam-Technical-Consultant_JR01488 | merative | Senior Curam Technical Consultant
+- [ ] https://merative.wd12.myworkdayjobs.com/external_career_site/job/Remote--United-States/Technical-Product-Support-Consultant--Curam_JR01740 | merative | Technical Product Support Consultant- Curam
+- [ ] https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America---Illinois---Remote/Account-Manager--Enterprise_R6818-1 | mimecast | Account Manager, Enterprise
+- [ ] https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Texas-Remote/Enterprise-Services-Architect---Professional---Managed-Services_R012571 | mitel | Enterprise Services Architect
+- [ ] https://modivcare.wd1.myworkdayjobs.com/careers/job/Remote/Platform-Architect_JR103800 | modivcare | Platform Architect
+- [ ] https://modivcare.wd1.myworkdayjobs.com/careers/job/Remote/Senior-Manager--Client-Data-and-Application-Integrations_JR103963 | modivcare | Senior Manager, Client Data and Application Integrations
+- [ ] https://modmed.wd501.myworkdayjobs.com/modmed12/job/Remote---USA/Manager--CS-Operations-Reporting---Analytics_R4924 | modmed | Manager, CS Operations Reporting & Analytics
+- [ ] https://morsco.wd5.myworkdayjobs.com/reece_careers/job/TX---Granbury/Warehouse-Lead_REQ-17150 | morsco | Warehouse Lead
+- [ ] https://morsco.wd5.myworkdayjobs.com/reece_careers/job/TX---Lubbock/Warehouse-Lead-Plumbing_REQ-16952 | morsco | Warehouse Lead-Plumbing
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Texas-Remote-Work/Technical-Sales-Manager---Central-West_R68502 | motorolasolutions | Technical Sales Manager - Central/West
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Texas-Remote-Work/Video-Systems-Manager---US-Remote_R69039 | motorolasolutions | Video Systems Manager - US Remote
+- [ ] https://ms.wd5.myworkdayjobs.com/external/job/Dallas-Texas-United-States-of-America/Business-Information-Analytics-Manager_PT-JR041605 | ms | Business Analytics Manager
+- [ ] https://ms.wd5.myworkdayjobs.com/external/job/Dallas-Texas-United-States-of-America/Global-Occupancy-Planning-Leader_PT-JR044143 | ms | Global Occupancy Planning Leader
+- [ ] https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---REMOTE---REMOTE/Time-Zone-Support-Milking-Product-Senior-Specialist-Expert_R391300-1 | msd | Global Dairy Technology Support Specialist
+- [ ] https://msiexpress.wd5.myworkdayjobs.com/msi_express_external_careers/job/Grand-Prairie-TX/Supply-Chain-Manager---1st-Shift_R-101914 | msiexpress | Supply Chain Manager - 1st Shift
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Senior-Architect_R26_3747 | my7elevenhr | .  Senior Solution Architect – Supply Chain & Logistics
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Senior-Manager--Demand-Chain-Product_R26_5195-1 | my7elevenhr | Senior Manager, Supply Chain Product
+- [ ] https://mydpr.wd5.myworkdayjobs.com/11212017/job/Abilene-TX/Associate-Manager---Warehouse_JR-16839 | mydpr | Associate Manager - Warehouse
+- [ ] https://myhrabc.wd5.myworkdayjobs.com/global/job/Remote-USA/Application-Developer-Technical-Lead_R2512817 | myhrabc | Application Developer Technical Lead
+- [ ] https://myhrabc.wd5.myworkdayjobs.com/global/job/Roanoke-TX/Lead-Warehouse--Days-_R2616232 | myhrabc | Lead Warehouse (Days)
+- [ ] https://myhrabc.wd5.myworkdayjobs.com/global/job/Remote-USA/Managing-Consultant--Health-System-Solutions_R2617022-1 | myhrabc | Managing Consultant, Health System Solutions
+- [ ] https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Corporate-Counsel--Product--Privacy--Cybersecurity--AI-and-Technology-Compliance-_JR101921 | nabancard | Corporate Counsel (Product, Privacy, Cybersecurity, AI and Technology Compliance)
+- [ ] https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/POS-Technical-Support-Specialist_JR101989 | nabancard | POS Technical Support Specialist
+- [ ] https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Senior-Manager--Data-Analytics_JR102061 | nabancard | Senior Manager, Data Analytics
+- [ ] https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Remote/Global-Technical-Marketing-Specialist---Food-Safety_REQ-11140 | neogen | Global Technical Marketing Specialist - Food Safety
+- [ ] https://www.zipline.com/open-roles/7823799003?gh_jid=7823799003 | Zipline | Ground Systems Service Operations - Electrician (SkillBridge)
+- [ ] https://www.zipline.com/open-roles/7823800003?gh_jid=7823800003 | Zipline | Ground Systems Service Operations - Lead (SkillBridge)
+- [ ] https://www.zipline.com/open-roles/7823798003?gh_jid=7823798003 | Zipline | Ground Systems Service Operations - Technician (SkillBridge)
+- [ ] https://careers.empowerpharmacy.com/jobs/?gh_jid=4371140009 | Empower Pharmacy | Talent Acquisition Program Manager - Remote
+- [ ] https://www.fiveanddone.com/careers/?gh_jid=4670785008 | Five & Done | Senior Business Analyst
+- [ ] https://www.fiveanddone.com/careers/?gh_jid=4670857008 | Five & Done | Senior Project Manager
+- [ ] https://www.five9.com/about/careers/job-detail?gh_jid=6225834004 | Five9 | Senior Project Manager
+- [ ] https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Houston-TX/Senior-IT-Project-Manager_R79810 | lonza | Senior IT Project Manager
+- [ ] https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Houston-TX/Sr-Program-Manager_R78429 | lonza | Sr. Program Manager
+- [ ] https://memorialhermann.wd5.myworkdayjobs.com/external/job/Home-Office---TX/Senior-Digital-Product-Manager---Ambulatory-Virtual-Health_100187502-1 | memorialhermann | Senior Digital Product Manager - Ambulatory Virtual Health
+- [ ] https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/DALLAS-TX/Assistant-Project-Manager---Multifamily_R-2695 | mosscm | Assistant Project Manager - Multifamily
+- [ ] https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/MCKINNEY-TX/Project-Manager_R-2107 | mosscm | Project Manager
+- [ ] https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/MCKINNEY-TX/Senior-Project-Manager_R-1876 | mosscm | Senior Project Manager
+- [ ] https://motiva.wd1.myworkdayjobs.com/motivacareers/job/Port-Arthur-TX/Engineering-Project-Manager_4450 | motiva | Engineering Project Manager
+- [ ] https://motiva.wd1.myworkdayjobs.com/motivacareers/job/Port-Arthur-TX/Sr-Engineering-Project-Manager_4473 | motiva | Sr. Engineering Project Manager
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Digital-Product-Manager-III---Demand-Chain_R26_3714 | my7elevenhr | Digital Product Manager - Demand Chain
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Program-Manager_R26_5246-1 | my7elevenhr | Program Manager
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Senior-Digital-Product-Manager_R26_3919 | my7elevenhr | Senior Digital Product Manager
+- [ ] https://mydpr.wd5.myworkdayjobs.com/11212017/job/Dallas-TX/Project-Manager_JR-16432-1 | mydpr | Project Manager
+- [ ] https://mydpr.wd5.myworkdayjobs.com/11212017/job/Burlington-TX/Project-Manager---SPW_JR-16755 | mydpr | Project Manager - SPW
+- [ ] https://mydpr.wd5.myworkdayjobs.com/11212017/job/Abilene-TX/Sr-Project-Manager_JR-17138 | mydpr | Sr Project Manager
+- [ ] https://mydpr.wd5.myworkdayjobs.com/11212017/job/Abilene-TX/Sr-Electrical-Project-Manager-1_JR-16290 | mydpr | Sr. Electrical Project Manager-1
+- [ ] https://mydpr.wd5.myworkdayjobs.com/11212017/job/Abilene-TX/Sr-Electrical-Project-Manager-2_JR-16291 | mydpr | Sr. Electrical Project Manager-2
+- [ ] https://mydpr.wd5.myworkdayjobs.com/11212017/job/Abilene-TX/Sr-Electrical-Project-Manager-3_JR-16292 | mydpr | Sr. Electrical Project Manager-3
+- [ ] https://mydpr.wd5.myworkdayjobs.com/11212017/job/Abilene-TX/Sr-Electrical-Project-Manager-4_JR-16293 | mydpr | Sr. Electrical Project Manager-4
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4738800005 | Ensono | Principal Project Manager
+- [ ] https://www.esri.com/careers/5199110007?gh_jid=5199110007 | Esri | Account Manager – Architecture & Urban Planning
+- [ ] https://www.esri.com/careers/5227532007?gh_jid=5227532007 | Esri | Sr. Partner Manager – System Integrators 
+- [ ] https://memorialhermann.wd5.myworkdayjobs.com/external/job/Home-Office---TX/Sr-Analyst--Workforce-Analytics--Remote-_100186404 | memorialhermann | Sr. Workforce Analytics Analyst (Remote)
+- [ ] https://meowwolf.wd1.myworkdayjobs.com/meowwolf/job/Grapevine-TX/Lead-Exhibition-Technical-Engineer_JR102613 | meowwolf | Lead Exhibition Technical Engineer
+- [ ] https://mobility.wd503.myworkdayjobs.com/mobility/job/Virtual-TX/Sr-Technical-Dealer-Support-Specialist_568 | mobility | Sr. Technical Dealer Support Specialist
+- [ ] https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Planning-Analyst_R-26-20102 | moog | Planning Analyst
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Allen-TX-TX139/Premier-Services-Technical-Manager_R69217 | motorolasolutions | Premier Services Technical Manager
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Allen-TX-TX139/Senior-Technical-Support-Manager---Envysion--Hybrid-_R68770-1 | motorolasolutions | Senior Technical Support Manager - Envysion (Hybrid)
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Allen-TX-TX139/Technical-Support-Analyst--Hybrid-_R67849 | motorolasolutions | Technical Support Analyst (Hybrid)
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Allen-TX-TX139/Technical-Support-Specialist--Hybrid-_R69189 | motorolasolutions | Technical Support Specialist (Hybrid)
+- [ ] https://ms.wd5.myworkdayjobs.com/private/job/Dallas-Texas-United-States-of-America/Director--Project-Manager---Business-Transformation-Services_PT-JR040845 | ms | Director, Project Manager - Business Transformation Services
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Manager--Strategic-Planning_R26_5471 | my7elevenhr | Manager, Strategic Planning
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Senior-Marketing-Manager--Loyalty-Analytics_R26_5658-1 | my7elevenhr | Senior Marketing Manager, Loyalty Analytics
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Senior-Strategic-Planning-Analyst_R26_5464 | my7elevenhr | Senior Strategic Planning Analyst
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Senior-Technical-R-D-Manager--Private-Brands_R26_2807 | my7elevenhr | Senior Technical R&D Manager, Private Brands
+- [ ] https://neighborlybrands.wd1.myworkdayjobs.com/neighborly/job/Irving-TX/Marketing-Operations-Manager_JR0003987 | neighborlybrands | Technical Campaign Operations Manager
+- [ ] https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5240874007 | eClinical Solutions | Clinical Data Manager (Contract)
+- [ ] https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5232190007 | eClinical Solutions | External Data Specialist (Contract)
+- [ ] https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5223747007 | eClinical Solutions | Senior Clinical Data Manager
+- [ ] https://job-boards.greenhouse.io/eclipse/jobs/4981191008 | Eclipse | Data Scientist (AI Data & LLM Specialist)
+- [ ] https://job-boards.greenhouse.io/efficientcomputer/jobs/4137172009 | Efficient Computer | Lead Digital Verification Engineer
+- [ ] https://job-boards.greenhouse.io/elend/jobs/4425946009 | eLEND | Audit Resolution Specialist 
+- [ ] https://job-boards.greenhouse.io/elitetechnology/jobs/5439062008 | Elite Technology | Tech Lead Engineer 
+- [ ] https://job-boards.greenhouse.io/emoneyadvisor/jobs/4330835009 | eMoney Advisor | Senior Client Service Operations Specialist 
+- [ ] https://job-boards.greenhouse.io/endeavourinspiredinfrastructure/jobs/4301661009 | Endeavour. Inspired Infrastructure. | IT Infrastructure & Operations Manager
+- [ ] https://job-boards.greenhouse.io/engine/jobs/8016877003 | Engine | Sr. Data Analyst - Finance 
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7822158003 | Engine | Sr. Manager, Sales Strategy and Operations - Omni + OBT 
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7776056003 | Engine | Staff Data Analyst, Engine X
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7695468003 | Engine | Staff Product Designer, FinTech
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4738802005 | Ensono | Expert Database Architect
+- [ ] https://job-boards.greenhouse.io/eqtcorporation/jobs/5390629008 | EQT Corporation | Application Analyst I/II/Sr/Lead
+- [ ] https://job-boards.greenhouse.io/eqtcorporation/jobs/5387838008 | EQT Corporation | Compliance Specialist - Operations & Risk
+- [ ] https://job-boards.greenhouse.io/eqtcorporation/jobs/5391757008 | EQT Corporation | Data Analyst III/Sr
+- [ ] https://job-boards.eu.greenhouse.io/eqvilentjobs/jobs/4656174101 | Eqvilent | IT Compliance Manager
+- [ ] https://job-boards.eu.greenhouse.io/eqvilentjobs/jobs/4564152101 | Eqvilent | Trading Operations Manager
+- [ ] https://job-boards.eu.greenhouse.io/eqvilentjobs/jobs/4708077101 | Eqvilent | Trading Operations Specialist (Americas)
+- [ ] https://job-boards.greenhouse.io/eve/jobs/4374695009 | Eve | Deal Desk Operations Analyst
+- [ ] https://job-boards.greenhouse.io/everagtester/jobs/5369000008 | Ever.Ag | Senior Revenue Operations Analyst
+- [ ] https://job-boards.greenhouse.io/evio/jobs/4692209005 | Evio | Customer Strategy & Success Lead, Digital Health
+- [ ] https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4406212009 | Fanatics Collectibles | IT Support Specialist
+- [ ] https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4378476009 | Fanatics Collectibles | Senior Manager, Business Operations 
+- [ ] https://job-boards.greenhouse.io/fanaticscommerce/jobs/4429399009 | Fanatics Commerce | Senior Operations Manager 
+- [ ] https://www.fastly.com/about/jobs/apply?gh_jid=8119888 | Fastly | Senior Product Marketing Manager – AI & Emerging Technologies
+- [ ] https://www.finanzcheck.de/jobs/?gh_jid=7581982003 | FFG FINANZCHECK Finanzportale GmbH | Sales Manager im Homeoffice deutschlandweit (w/m/d)
+- [ ] https://job-boards.greenhouse.io/figure/jobs/8783449002 | Figure Lending | Credit Risk Manager
+- [ ] https://job-boards.greenhouse.io/figure/jobs/8860479002 | Figure Lending | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/firstprinciples/jobs/5043853008 | FirstPrinciples | Physicist, Theo Collaborators Program, Quantum Information
+- [ ] https://job-boards.greenhouse.io/fleetio/jobs/5242159007 | Fleetio | Manager, Revenue Operations
+- [ ] https://job-boards.greenhouse.io/fleetio/jobs/5249570007 | Fleetio | Senior Revenue Operations Analyst
+- [ ] https://job-boards.greenhouse.io/flodesk/jobs/5417477008 | Flodesk | Founding Information Security Lead
+- [ ] https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5249410007 | Lantern | Operations Manager, Member Service Operations
+- [ ] https://livenation.wd503.myworkdayjobs.com/tmexternalsite/job/Austin-TX-USA/Field-Operations-Manager_JR-93392-3 | livenation | Field Operations Manager
+- [ ] https://logitech.wd5.myworkdayjobs.com/logitech/job/Offsite---USA---TX/Lead--Inbound-Destination-Operations--Dallas-_148450 | logitech | Lead, Inbound Destination Operations (Dallas)
+- [ ] https://logitech.wd5.myworkdayjobs.com/logitech/job/Offsite---USA---TX/Refurbishment-Operations-Lead_148439 | logitech | Refurbishment Operations Lead
+- [ ] https://marmon.wd501.myworkdayjobs.com/marmon_careers/job/USA_OH_Remote/IT-Manager_JR0000046145 | marmon | IT Manager
+- [ ] https://megger.wd3.myworkdayjobs.com/meggercareers/job/Remote---US/Regional-Business-Unit-Sales-Specialist_JR100495 | megger | Regional Business Unit Sales Specialist
+- [ ] https://merative.wd12.myworkdayjobs.com/external_career_site/job/Remote--United-States/Manager--Finance-Operations_JR01778 | merative | Manager, Finance Operations
+- [ ] https://merative.wd12.myworkdayjobs.com/external_career_site/job/Remote--United-States/Manager--Product-Operations---UX_JR01772 | merative | Manager, Product Operations & UX
+- [ ] https://mercy.wd1.myworkdayjobs.com/mercycareers/job/Remote/Lead-Applications-Developer_JR266677 | mercy | Lead Applications Developer
+- [ ] https://modsquad.wd5.myworkdayjobs.com/modsquad/job/JAM-Remote/Data-Analyst_JR101886 | modsquad | Data Analyst
+- [ ] https://ms.wd5.myworkdayjobs.com/external/job/Dallas-Texas-United-States-of-America/Business-Unit-Relationship-Sourcing-Manager_PT-JR041218 | ms | Business Unit Relationship Sourcing Manager
+- [ ] https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Texas---Irving/Assoc-Tech--Operations_R421878-1 | msd | Assoc. Tech, Operations
+- [ ] https://mtminc.wd1.myworkdayjobs.com/mtmtransit_external/job/TX---Austin/Manager--Operations_REQ15257 | mtminc | Manager, Operations
+- [ ] https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Business-Operations-Analyst-Revenue-Cycle_JR79845 | multicare | Business Operations Analyst-Revenue Cycle
+- [ ] https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Operations-Specialist_JR82812 | multicare | Operations Specialist
+- [ ] https://myhrabc.wd5.myworkdayjobs.com/global/job/USA--TX--Amarillo--Center-Port/MWI-Production-Tech-I_R2616536 | myhrabc | MWI Production Tech I
+- [ ] https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Merchant-Operations-Specialist_JR102074 | nabancard | Merchant Operations Specialist
+- [ ] https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Revenue-Operations-Manager_JR101785 | nabancard | Revenue Operations Manager
+- [ ] https://nant.wd5.myworkdayjobs.com/immunitybio/job/Remote/IB-Temporary---Medical-Information-Specialist_R3115 | nant | IB Temporary - Medical Information Specialist
+- [ ] https://ncr.wd1.myworkdayjobs.com/ext_us/job/TEXAS-VIRTUAL-USA/Territory-Sales-Manager---Restaurants-Tech--Dallas--TX-_R0157959-3 | ncr | Territory Sales Manager – Restaurants Tech (Dallas, TX)
+- [ ] https://ncr.wd1.myworkdayjobs.com/ext_us/job/TEXAS-VIRTUAL-USA/Territory-Sales-Manager---Restaurants-Tech--Houston--TX-_R0158104 | ncr | Territory Sales Manager – Restaurants Tech (Houston, TX)
+- [ ] https://neighborlybrands.wd1.myworkdayjobs.com/neighborly/job/Remote-USA/Senior-Manager--Marketing-Automations---Revenue-Operations_JR0004014 | neighborlybrands | Senior Manager, Marketing Automations & Revenue Operations
+- [ ] https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Remote/Digital-Sales-Specialist_REQ-10531 | neogen | Digital Sales Specialist
+- [ ] https://www.zipline.com/open-roles/8009667003?gh_jid=8009667003 | Zipline | Field Technician Operations Lead
+- [ ] https://www.zipline.com/open-roles/7778540003?gh_jid=7778540003 | Zipline | Maintenance Operations Engineering Technician
+- [ ] https://ensono.com/company/careers/jobs-board/?gh_jid=4740797005 | Ensono | Director, Mainframe Systems Programming
+- [ ] https://lummustechnology.wd501.myworkdayjobs.com/lummustechnology/job/Houston---Texas/Principal-Power-Consultant_JR100226 | lummustechnology | Principal Power Consultant (Technical Advisory/Lender’s Engineering)
+- [ ] https://eosits.com/company/careers/?gh_jid=8661362002 | EOS https://app2.greenhouse.io/job_boards/4008206002/settings | Principal Architect - Data Center (US)
+- [ ] https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8615987002 | EPIC Brokers | Benefit Consultant
+- [ ] https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4414184009 | Fanatics Collectibles | Director, Product Strategy and Operations
+- [ ] https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5256718007 | Lantern | Operations Automation Specialist
+- [ ] https://lkqcorp.wd5.myworkdayjobs.com/externalcareersite-lkq/job/Plano-TX/Sales-Operations-Manager_R73125 | lkqcorp | Sales Operations Manager
+- [ ] https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Houston-TX/IT-Solution-Architect_R76801 | lonza | IT Solution Architect
+- [ ] https://marmon.wd501.myworkdayjobs.com/marmon_careers/job/Addison-TX/Sales-Operations-Specialist--Sales--Experience_JR0000045762 | marmon | Sales Operations Specialist, Sales  Experience
+- [ ] https://medimpact.wd5.myworkdayjobs.com/medimpact/job/Remote/Principal--Digital-Product-Management_JR102519 | medimpact | Principal, Digital Product Management
+- [ ] https://memorialhermann.wd5.myworkdayjobs.com/external/job/Home-Office---TX/Sr-Data-Scientist_100182969-1 | memorialhermann | Lead Data Scientist
+- [ ] https://memorialhermann.wd5.myworkdayjobs.com/external/job/Home-Office---TX/Sr-Epic-Application-Analyst--Willow-Ambulatory-_100181804 | memorialhermann | Sr. Epic Application Analyst (Willow Ambulatory)
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Allen-TX-TX139/Principal-Engineer---Manager--Private-Cloud-Platforms_R65256 | motorolasolutions | Principal Engineer & Manager, Private Cloud Platforms
+- [ ] https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Irving-TX/Global-Financial-Crimes-Division-Operations-Business-Solutions_10079551-WD | mufgub | Global Financial Crimes Division Operations Business Solutions
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Associate-Manager--Operations-Communications_R26_5871 | my7elevenhr | Associate Manager, Operations Communications
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Dir--Product-Management_R26_5143 | my7elevenhr | Director, Product Management - Store Systems
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Group-Digital-Product-Management_R26_5237 | my7elevenhr | Group Digital Product Management
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/IAM-Analyst---Information-Security_R26_5292 | my7elevenhr | IAM Analyst - Information Security
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/IT-Infrastructure-Specialist_R26_5553-2 | my7elevenhr | IT Infrastructure Specialist
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Manager-Digital-Delivery-Partnerships_R26_4992 | my7elevenhr | Manager Digital Delivery Partnerships
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Manager--Data-Products_R26_5750 | my7elevenhr | Manager, Data Products
+- [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Senior-Manager--Data-Engineering_R26_5743 | my7elevenhr | Senior Manager, Data Engineering
+- [ ] https://myhrabc.wd5.myworkdayjobs.com/global/job/Sugar-Land-TX/Operations-Training-Specialist_R2616904 | myhrabc | Operations Training Specialist
+- [ ] https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/Ohio---Columbus-One-Nationwide-Plaza/Director---Data---AI-Solutions---Financial-Services--Actuarial---REMOTE_100627 | nationwide | Director - Data & AI Solutions - Financial Services, Actuarial - REMOTE
