@@ -38,3 +38,11 @@ jobs:
           cat data/selena-company-coverage.json
           echo "--- JD queue count ---"
           if [ -f data/selena-jd-candidates.jsonl ]; then wc -l data/selena-jd-candidates.jsonl; else echo 0; fi
+      - name: Full-JD reader smoke
+        timeout-minutes: 6
+        run: |
+          node selena-jd-read.mjs --limit 10
+          echo "--- JD read results ---"
+          if [ -f data/selena-jd-read-results.jsonl ]; then wc -l data/selena-jd-read-results.jsonl; else echo 0; fi
+          echo "--- coverage after JD smoke ---"
+          node -e "const x=require('./data/selena-company-coverage.json'); console.log(JSON.stringify(x.summary,null,2))"
