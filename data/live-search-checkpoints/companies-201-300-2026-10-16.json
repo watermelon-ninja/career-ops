@@ -1,0 +1,55 @@
+{
+  "batch": "companies-201-300",
+  "date": "2026-10-16",
+  "status": "partial_runtime_checkpoint",
+  "company_universe_mapping": "201=Accenture through 300=Goldman Sachs",
+  "discovery_searched_companies": [
+    "Accenture",
+    "Deloitte",
+    "Capgemini",
+    "KPMG",
+    "PwC",
+    "EY",
+    "Cognizant",
+    "Infosys",
+    "EPAM Systems",
+    "Slalom"
+  ],
+  "companies_fully_exhaustively_checked": 0,
+  "current_openings_discovered_relevant_or_adjacent": 4,
+  "full_jds_actually_read": 3,
+  "jd_unavailable_or_not_current": 1,
+  "duplicates_already_known": 0,
+  "scores": [
+    {
+      "company": "EPAM Systems",
+      "role": "Manager, Infor WMS - Business Consulting",
+      "score": 8.4,
+      "disposition": "8.0-8.9 / hard gap",
+      "reason": "Exceptionally strong Infor WMS, implementation, integration, go-live and warehouse-domain alignment, but requires 4+ years relevant Infor WMS implementation/configuration plus SME/thought-leadership and consulting-network/business-development depth not established."
+    },
+    {
+      "company": "Cognizant",
+      "role": "Implementation Conversion Analyst",
+      "score": 8.2,
+      "disposition": "8.0-8.9 / hard gap",
+      "reason": "Strong direct overlap in requirements, data mapping, testing, readiness, training, implementation and post-conversion support; however advanced working knowledge of FIS systems/target industries is explicit and not established."
+    },
+    {
+      "company": "Capgemini",
+      "role": "Senior AspenTech SCM Specialist",
+      "score": 6.4,
+      "disposition": "below 8 / hard cap",
+      "reason": "SCM systems, integration/UAT/deployment are relevant, but requires at least 5 years hands-on AspenOne SCM development and optimization expertise."
+    }
+  ],
+  "counts": {
+    "gte_9": 0,
+    "between_8_and_8_9": 2,
+    "below_8_or_hard_cap": 1
+  },
+  "next_cursor": {
+    "company_number": 201,
+    "note": "No company in 201-210 was exhaustively inventoried across all official ATS pagination; resume at 201 for exhaustive coverage. Discovery search has been attempted for 201-210."
+  }
+}
