@@ -1,0 +1,23 @@
+{
+  "reviewed_at": "2026-10-16T03:04:00-05:00",
+  "branch": "codex/recreate-phase-1-and-phase-2-files",
+  "scan_generated_at": "2026-10-15T22:17:17.661Z",
+  "starting_active_high_fit_inventory": 1,
+  "review_queue_count": 24,
+  "actually_reviewed_count": 24,
+  "final_ge_9_count": 1,
+  "duplicates_already_known_count": 0,
+  "added_after_dedupe_count": 1,
+  "ending_active_high_fit_inventory": 2,
+  "remaining_gap_to_30": 28,
+  "queue_to_9_plus_conversion_rate": 0.0417,
+  "added": [
+    {
+      "company": "Integer Holdings Corporation",
+      "role": "Symphony Project Manager PMO/IT",
+      "final_fit": 9.5,
+      "url": "https://integer.wd1.myworkdayjobs.com/external/job/Remote---United-States/Symphony-Project-Manager-PMO-IT_R36871-1"
+    }
+  ],
+  "notes": "30 is an inventory target, not a scoring quota. No other queued role met final >=9.0 after full-JD semantic review. Major reasons included core-domain mismatch, hard citizenship/experience requirements, non-target location/onsite constraints, or specialized platform/domain requirements."
+}
