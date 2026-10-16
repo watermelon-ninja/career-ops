@@ -26,3 +26,15 @@ jobs:
           node --check scan.mjs
       - name: Selena unit tests
         run: npm run test:selena
+      - name: Five-company runtime smoke
+        timeout-minutes: 12
+        run: |
+          node selena-scan.mjs --company "Google" --resolve
+          node selena-scan.mjs --company "Microsoft" --resolve
+          node selena-scan.mjs --company "Apple" --resolve
+          node selena-scan.mjs --company "Amazon" --resolve
+          node selena-scan.mjs --company "Tesla" --resolve
+          echo "--- coverage ledger ---"
+          cat data/selena-company-coverage.json
+          echo "--- JD queue count ---"
+          if [ -f data/selena-jd-candidates.jsonl ]; then wc -l data/selena-jd-candidates.jsonl; else echo 0; fi
