@@ -1,0 +1,69 @@
+# Selena semantic fit rubric
+# Applied AFTER a substantive JD has been read. Discovery terms never add score points.
+version: 1
+scale: 0-10
+high_fit_threshold: 9.0
+inventory_target: 30
+threshold_is_not_a_quota: true
+
+principles:
+  - Score the primary day-to-day work, not the title
+  - Require a substantive full JD before assigning a final score
+  - Company membership and keyword counts add zero points
+  - Supply-chain relevance is positive but not a hard requirement
+  - Prefer systems/product/implementation/integration delivery over frontline operations
+  - Do not inflate scores to fill the 30-role inventory
+
+score_bands:
+  "9.0-10.0": "Strong application recommendation: primary work directly maps to demonstrated experience; no fundamental gap"
+  "8.0-8.9": "Good fit with one meaningful gap or weaker direct mapping; review but do not enter high-fit inventory"
+  "7.0-7.9": "Plausible adjacent fit; multiple gaps or role center of gravity is not ideal"
+  "0.0-6.9": "Weak fit, fundamental mismatch, or hard constraint"
+
+primary_work_mode:
+  strong:
+    - enterprise systems ownership
+    - business systems analysis
+    - product ownership
+    - system implementation
+    - systems integration
+    - technical program delivery
+    - WMS / ERP / TMS / S&OP technology
+    - requirements and process design
+    - SIT / UAT / release readiness
+    - cross-functional delivery and vendor coordination
+    - SQL / analytics supporting business systems
+  weak_for_9_plus:
+    - primary frontline operations management
+    - primary warehouse labor management
+    - pure planning execution without systems transformation
+    - pure software engineering
+    - pure data science or ML research
+    - director / executive scope
+
+hard_caps:
+  full_jd_missing: "unscored"
+  location_ineligible: 8.9
+  sponsorship_required: 8.9
+  disclosed_max_base_below_110k: 8.9
+  materially_unmet_mandatory_years: 8.9
+  primary_people_management_without_direct_fit: 8.9
+  primary_frontline_operations: 8.9
+  already_applied_closed_excluded_or_paused: "exclude"
+
+nine_plus_contract:
+  require:
+    - substantive full JD read
+    - location eligible under Selena policy
+    - no sponsorship requirement
+    - primary work mode directly maps to demonstrated systems/product/program experience
+    - mandatory experience requirements are materially met
+    - no disclosed compensation blocker
+    - no fundamental skill or scope gap
+  evidence_focus:
+    - WMS / Infor implementation and inventory-control workflow ownership
+    - Kinaxis S&OP process / requirements / SIT-UAT / readiness
+    - Databricks / SQL / analytics and operational alerts
+    - integrations, APIs, interfaces, jobs and dependency mapping
+    - requirements, process design, defect triage and release readiness
+    - cross-functional business / engineering / vendor collaboration
