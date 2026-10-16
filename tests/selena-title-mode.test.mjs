@@ -1,5 +1,7 @@
 import assert from 'node:assert/strict';
 import { buildTitleFilterWithOverrides } from '../scan.mjs';
+import { parseTeslaSearch } from '../providers/tesla.mjs';
+import { parseAppleSearch } from '../providers/apple.mjs';
 
 const exhaustive = buildTitleFilterWithOverrides({
   mode: 'negative_only',
