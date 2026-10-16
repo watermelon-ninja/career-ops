@@ -297,9 +297,18 @@ async function main() {
     let relocationReceipt = null;
     let relocationScan = null;
     if (RELOCATION_COMPANIES.has(normalizeName(company.name))) {
+      const relocationEntry = normalizeName(company.name) === 'google'
+        ? {
+            ...entry,
+            google: {
+              ...(entry.google || {}),
+              location: 'United States',
+            },
+          }
+        : entry;
       const relocationOnePortal = {
         ...relocationPortalDoc,
-        tracked_companies: [entry],
+        tracked_companies: [relocationEntry],
         job_boards: [],
       };
       const relocationPath = path.join(TMP_DIR, `portal-relocation-${company._index}.yml`);
@@ -308,6 +317,36 @@ async function main() {
         CAREER_OPS_PORTALS: relocationPath,
       });
       relocationReceipt = lastJsonObject(relocationScan.stdout);
+    }
+
+    // Amazon's local Austin inventory and US work-from-home inventory are
+    // separate source scopes. The remote pass is intentionally provider-filtered
+    // before Selena's location gate, then full-JD verification decides whether
+    // Texas residence is actually eligible.
+    let amazonRemoteReceipt = null;
+    let amazonRemoteScan = null;
+    if (normalizeName(company.name) === 'amazon') {
+      const remoteEntry = {
+        ...entry,
+        amazon: {
+          category_type: 'Work from Home',
+          normalized_country_code: ['USA'],
+        },
+      };
+      const remotePortal = {
+        ...portalDoc,
+        location_filter: {
+          allow: ['Remote', 'Virtual'],
+        },
+        tracked_companies: [remoteEntry],
+        job_boards: [],
+      };
+      const remotePath = path.join(TMP_DIR, `portal-amazon-remote-${company._index}.yml`);
+      writeFileSync(remotePath, yaml.dump(remotePortal, { noRefs: true, lineWidth: 140 }), 'utf-8');
+      amazonRemoteScan = runNode('scan.mjs', ['--dry-run', '--json', '--quiet'], {
+        CAREER_OPS_PORTALS: remotePath,
+      });
+      amazonRemoteReceipt = lastJsonObject(amazonRemoteScan.stdout);
     }
 
     if (!receipt) {
@@ -325,8 +364,9 @@ async function main() {
 
     const localOffers = Array.isArray(receipt.offers) ? receipt.offers : [];
     const relocationOffers = Array.isArray(relocationReceipt?.offers) ? relocationReceipt.offers : [];
+    const amazonRemoteOffers = Array.isArray(amazonRemoteReceipt?.offers) ? amazonRemoteReceipt.offers : [];
     const offersByUrl = new Map();
-    for (const offer of [...localOffers, ...relocationOffers]) {
+    for (const offer of [...localOffers, ...relocationOffers, ...amazonRemoteOffers]) {
       if (offer?.url) offersByUrl.set(offer.url, offer);
     }
     const offers = [...offersByUrl.values()];
@@ -336,23 +376,40 @@ async function main() {
     const errors = [
       ...(Array.isArray(receipt.errors) ? receipt.errors : []),
       ...(Array.isArray(relocationReceipt?.errors) ? relocationReceipt.errors : []),
+      ...(Array.isArray(amazonRemoteReceipt?.errors) ? amazonRemoteReceipt.errors : []),
     ];
     const relocationFailed = RELOCATION_COMPANIES.has(normalizeName(company.name))
       && (!relocationReceipt || relocationScan?.status !== 0);
-    const status = errors.length || scan.status !== 0 || relocationFailed ? 'partial' : 'complete';
+    const amazonRemoteFailed = normalizeName(company.name) === 'amazon'
+      && (!amazonRemoteReceipt || amazonRemoteScan?.status !== 0);
+    // Upstream's Google provider is deliberately first-page-per-query because
+    // Google robots.txt disallows paginated result URLs. Treat that as PARTIAL,
+    // never as exhaustive COMPLETE, even when every configured query succeeds.
+    const boundedProvider = normalizeName(company.name) === 'google';
+    const status = errors.length || scan.status !== 0 || relocationFailed || amazonRemoteFailed || boundedProvider
+      ? 'partial'
+      : 'complete';
     updateCompany(ledger, company.name, {
       index: company._index,
       group: company.group || null,
       status,
       last_checked_at: now,
-      postings_discovered: Math.max(Number(receipt.found || 0), Number(relocationReceipt?.found || 0)),
+      postings_discovered: Math.max(Number(receipt.found || 0), Number(relocationReceipt?.found || 0))
+        + Number(amazonRemoteReceipt?.found || 0),
       filtered_title_negative: Number(receipt.filtered_by?.title || 0),
       filtered_location: Number(receipt.filtered_by?.location || 0),
       candidates_for_full_jd: offers.length,
       relocation_candidates: relocationOffers.length,
+      remote_candidates: amazonRemoteOffers.length,
       candidates_remaining_unread: offers.length,
       blocker: status === 'partial'
-        ? (errors.map(e => e.error || String(e)).join('; ') || scan.stderr.trim().slice(0, 1000) || `scanner_exit_${scan.status}`)
+        ? (
+            boundedProvider
+              ? 'google_provider_bounded_first_page_per_query'
+              : errors.map(e => e.error || String(e)).join('; ')
+                || scan.stderr.trim().slice(0, 1000)
+                || (amazonRemoteFailed ? 'amazon_remote_provider_failed' : `scanner_exit_${scan.status}`)
+          )
         : null,
     });
     writeLedger(ledger);
