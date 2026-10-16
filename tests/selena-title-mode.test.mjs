@@ -42,3 +42,19 @@ console.log('Selena Tesla provider parser');
 }
 
 console.log('  ✓ Tesla official search links normalize into scan jobs');
+
+
+console.log('Selena Apple provider parser');
+{
+  const html = `
+    <a href="/en-us/details/200679761-0157/data-analyst">See full role description</a>
+    <a href="/en-us/details/200667038-0157/manufacturing-quality-engineer-mqe-iphone">See full role description</a>
+  `;
+  const jobs = parseAppleSearch(html, { name: 'Apple', apple: { location: 'Austin, Texas' } });
+  assert.equal(jobs.length, 2);
+  assert.equal(jobs[0].externalId, '200679761-0157');
+  assert.equal(jobs[0].location, 'Austin, Texas');
+  assert.match(jobs[1].title, /Manufacturing Quality Engineer/i);
+}
+
+console.log('  ✓ Apple official search links normalize into scan jobs');
