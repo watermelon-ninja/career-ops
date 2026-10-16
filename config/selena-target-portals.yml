@@ -77,3 +77,4 @@ tracked_companies:
       loc_query: "Austin, Texas"
       normalized_country_code:
         - "USA"
+# Full-JD trigger: target discovery + complete candidate retrieval
