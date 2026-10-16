@@ -104,7 +104,7 @@ function selectCompanies(all, opts) {
 
 function initialLedger(all) {
   return {
-    schema_version: 2,
+    schema_version: 3,
     purpose: 'Authoritative Selena target-company exhaustive coverage ledger',
     generated_at: null,
     run_id: null,
@@ -113,7 +113,11 @@ function initialLedger(all) {
       index: i + 1,
       name: c.name,
       group: c.group || null,
-      status: 'pending',
+      status: 'pending', // backward-compatible alias of discovery_status
+      discovery_status: 'pending',
+      discovery_blocker: null,
+      jd_read_status: 'not_started',
+      scoring_status: 'not_started',
       last_checked_at: null,
       postings_discovered: 0,
       filtered_title_negative: 0,
@@ -149,10 +153,14 @@ function summarize(ledger) {
   const c = ledger.companies;
   const sum = (key) => c.reduce((n, row) => n + (Number(row[key]) || 0), 0);
   ledger.summary = {
-    complete: c.filter(x => x.status === 'complete').length,
-    partial: c.filter(x => x.status === 'partial').length,
-    pending: c.filter(x => x.status === 'pending').length,
-    blocked: c.filter(x => x.status === 'blocked').length,
+    complete: c.filter(x => (x.discovery_status || x.status) === 'complete').length,
+    partial: c.filter(x => (x.discovery_status || x.status) === 'partial').length,
+    pending: c.filter(x => (x.discovery_status || x.status) === 'pending').length,
+    blocked: c.filter(x => (x.discovery_status || x.status) === 'blocked').length,
+    jd_complete: c.filter(x => x.jd_read_status === 'complete').length,
+    jd_partial: c.filter(x => x.jd_read_status === 'partial').length,
+    jd_failed: c.filter(x => x.jd_read_status === 'failed').length,
+    jd_not_started: c.filter(x => !x.jd_read_status || x.jd_read_status === 'not_started').length,
     postings_discovered: sum('postings_discovered'),
     filtered_title_negative: sum('filtered_title_negative'),
     filtered_location: sum('filtered_location'),
@@ -271,6 +279,9 @@ async function main() {
         index: company._index,
         group: company.group || null,
         status: 'blocked',
+        discovery_status: 'blocked',
+        discovery_blocker: 'unmapped_ats_or_official_provider',
+        jd_read_status: 'not_started',
         last_checked_at: now,
         blocker: 'unmapped_ats_or_official_provider',
         candidates_remaining_unread: 0,
@@ -362,6 +373,9 @@ async function main() {
         index: company._index,
         group: company.group || null,
         status: 'partial',
+        discovery_status: 'partial',
+        discovery_blocker: scan.error || scan.stderr.trim().slice(0, 1000) || 'scanner_returned_no_json_receipt',
+        jd_read_status: 'not_started',
         last_checked_at: now,
         blocker: scan.error || scan.stderr.trim().slice(0, 1000) || 'scanner_returned_no_json_receipt',
       });
@@ -410,6 +424,8 @@ async function main() {
       index: company._index,
       group: company.group || null,
       status,
+      discovery_status: status,
+      jd_read_status: offers.length ? 'pending' : 'not_started',
       last_checked_at: now,
       postings_discovered: Math.max(Number(receipt.found || 0), Number(relocationReceipt?.found || 0))
         + Number(amazonRemoteReceipt?.found || 0),
@@ -419,6 +435,23 @@ async function main() {
       relocation_candidates: relocationOffers.length,
       remote_candidates: amazonRemoteOffers.length,
       candidates_remaining_unread: offers.length,
+      discovery_blocker: status === 'partial'
+        ? (
+            boundedProvider
+              ? (
+                  normalizeName(company.name) === 'google'
+                    ? 'google_provider_bounded_first_page_per_query'
+                    : 'apple_provider_bounded_pagination_requires_coverage_confirmation'
+                )
+              : amazonProviderCapped
+                ? 'amazon_provider_hit_2000_posting_safety_cap'
+                : sourceTruncated
+                  ? 'provider_reported_truncated_or_rate_limited_inventory'
+                  : errors.map(e => e.error || String(e)).join('; ')
+                  || scan.stderr.trim().slice(0, 1000)
+                  || (amazonRemoteFailed ? 'amazon_remote_provider_failed' : `scanner_exit_${scan.status}`)
+          )
+        : null,
       blocker: status === 'partial'
         ? (
             boundedProvider
