@@ -1,0 +1,48 @@
+# Nationwide relocation extension for Google / Apple / Microsoft only.
+# Austin/remote discovery remains exhaustive in selena-target-portals.yml.
+# This extension uses a broad positive role-family net so we do not full-read
+# thousands of unrelated nationwide postings just to evaluate the relocation exception.
+title_filter:
+  positive:
+    - "systems"
+    - "business systems"
+    - "business analyst"
+    - "product"
+    - "product owner"
+    - "program"
+    - "project"
+    - "implementation"
+    - "integration"
+    - "enterprise applications"
+    - "supply chain"
+    - "logistics"
+    - "warehouse"
+    - "WMS"
+    - "ERP"
+    - "TMS"
+    - "S&OP"
+    - "operations technology"
+    - "digital transformation"
+    - "process transformation"
+    - "business process"
+    - "technical"
+    - "platform"
+    - "solutions"
+  negative:
+    - "software engineer"
+    - "software developer"
+    - "nurse"
+    - "physician"
+    - "driver"
+    - "warehouse associate"
+    - "sales representative"
+    - "intern"
+
+location_filter:
+  allow:
+    - "United States"
+    - "USA"
+    - "U.S."
+    - "Remote"
+
+tracked_companies: []
