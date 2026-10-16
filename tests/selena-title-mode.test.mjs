@@ -26,3 +26,19 @@ assert.equal(general('Supply Chain Transformation Manager'), true);
 assert.equal(general('Software Engineer, Product'), false);
 
 console.log('Selena title-mode tests passed');
+
+
+console.log('Selena Tesla provider parser');
+{
+  const html = `
+    <a href="/careers/search/job/materials-program-manager-npi-material-planning-281315">Learn More</a>
+    <a href="/careers/search/job/sr-product-manager-warehouse-management-system-259913">Learn More</a>
+  `;
+  const jobs = parseTeslaSearch(html, { name: 'Tesla', tesla: { location: 'Austin, Texas' } });
+  assert.equal(jobs.length, 2);
+  assert.equal(jobs[0].externalId, '281315');
+  assert.equal(jobs[0].location, 'Austin, Texas');
+  assert.match(jobs[1].title, /Warehouse Management System/i);
+}
+
+console.log('  ✓ Tesla official search links normalize into scan jobs');
