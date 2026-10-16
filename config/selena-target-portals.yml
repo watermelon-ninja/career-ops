@@ -51,6 +51,15 @@ tracked_companies:
         - "operations"
 
 
+
+  - name: "Apple"
+    enabled: true
+    provider: apple
+    careers_url: "https://jobs.apple.com/en-us/search?location=austin-AST"
+    apple:
+      location: "Austin, Texas"
+      max_pages: 80
+
   - name: "Tesla"
     enabled: true
     provider: tesla
