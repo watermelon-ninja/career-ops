@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "batch": "A",
+  "range": {
+    "start": 1,
+    "end": 750
+  },
+  "source": {
+    "workflow_run_id": 38937359162,
+    "artifact_id": 12062019753,
+    "artifact_name": "selena-target-001-045",
+    "successful_read_dataset_total": 2196,
+    "ordering": "successful jd_status=read records in recovered artifact batch order",
+    "range_url_sha256": "997c58312adb00f820a9dff4d8db7335ca6151d7cd2bdd610e88d017066fcd4b"
+  },
+  "boundaries": {
+    "first": {
+      "record_id": 1,
+      "company": "ServiceNow",
+      "title": "Copy of Strategic Partner Manager – GSI –KPMG, DXC (Armis/Veza)",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000156042839-copy-of-strategic-partner-manager-gsi-kpmg-dxc-armis-veza"
+    },
+    "last": {
+      "record_id": 750,
+      "company": "GitLab",
+      "title": "Lead Pricing Strategist",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8756163002"
+    }
+  },
+  "status": "source_recovered_semantic_review_not_complete",
+  "reviewed_count": 0,
+  "note": "Do not mark complete or reconcile Sheet until all 750 substantive JDs receive model-level semantic dispositions under config/selena-score-rubric.yml. Automated title/keyword scoring is explicitly prohibited."
+}
