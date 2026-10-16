@@ -26,11 +26,6 @@ location_filter:
     - "Georgetown"
     - "Pflugerville"
     - "Leander"
-    - "Texas"
-    - "TX"
     - "Remote"
-    - "United States"
-    - "USA"
-    - "U.S."
 
 tracked_companies: []
