@@ -77,7 +77,8 @@
     "test:selena": "node tests/selena-title-mode.test.mjs && node tests/selena-score-contract.test.mjs",
     "scan:selena:general": "node selena-general-scan.mjs",
     "read:selena:jds": "node selena-jd-read.mjs",
-    "score:selena": "node selena-score-apply.mjs"
+    "score:selena": "node selena-score-apply.mjs",
+    "test:selena:score": "node tests/selena-score-contract.test.mjs"
   },
   "keywords": [
     "ai",
