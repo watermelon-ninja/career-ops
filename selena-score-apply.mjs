@@ -19,6 +19,7 @@ const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const QUEUE = process.env.SELENA_JD_QUEUE || path.join(ROOT, 'data/selena-jd-candidates.jsonl');
 const REVIEWS = process.env.SELENA_SEMANTIC_SCORES || path.join(ROOT, 'data/selena-semantic-scores.jsonl');
 const OUT = process.env.SELENA_SCORED_RESULTS || path.join(ROOT, 'data/selena-scored-results.jsonl');
+const LEDGER = process.env.SELENA_COVERAGE_LEDGER || path.join(ROOT, 'data/selena-company-coverage.json');
 
 function readJsonl(file) {
   if (!existsSync(file)) return [];
@@ -78,6 +79,30 @@ for (let i = 0; i < queue.length; i++) {
 
 writeJsonl(QUEUE, queue);
 writeJsonl(OUT, scored);
+
+if (existsSync(LEDGER)) {
+  try {
+    const ledger = JSON.parse(readFileSync(LEDGER, 'utf-8'));
+    for (const company of ledger.companies || []) {
+      const rows = queue.filter(q => String(q.company || '').trim().toLowerCase() === String(company.name || '').trim().toLowerCase());
+      const reviewed = rows.filter(q => ['high_fit', 'review', 'not_high_fit', 'exclude'].includes(q.semantic_review_status));
+      company.scored_count = reviewed.length;
+      company.final_fit_9_plus = reviewed.filter(q => q.high_fit_eligible === true).length;
+      if (!rows.length || !reviewed.length) company.scoring_status = 'not_started';
+      else if (reviewed.length < rows.filter(q => q.jd_status === 'read').length) company.scoring_status = 'partial';
+      else company.scoring_status = 'complete';
+    }
+    ledger.summary = {
+      ...(ledger.summary || {}),
+      scored_count: (ledger.companies || []).reduce((n, x) => n + (Number(x.scored_count) || 0), 0),
+      final_fit_9_plus: (ledger.companies || []).reduce((n, x) => n + (Number(x.final_fit_9_plus) || 0), 0),
+    };
+    writeFileSync(LEDGER, JSON.stringify(ledger, null, 2) + '\n', 'utf-8');
+  } catch (err) {
+    console.error(`Warning: could not update Selena coverage ledger scoring state: ${err.message}`);
+  }
+}
+
 console.log(JSON.stringify({
   semantic_reviews_supplied: reviews.length,
   matched_to_queue: scored.length,
