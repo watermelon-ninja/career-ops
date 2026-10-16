@@ -392,12 +392,15 @@ async function main() {
         Number(receipt?.found || 0) >= 2000
         || Number(amazonRemoteReceipt?.found || 0) >= 2000
       );
+    const sourceTruncated = /truncated|stopped early/i.test(
+      [scan.stderr, relocationScan?.stderr, amazonRemoteScan?.stderr].filter(Boolean).join('\n')
+    );
     // Upstream's Google provider is deliberately first-page-per-query because
     // Google robots.txt disallows paginated result URLs. Treat that as PARTIAL,
     // never as exhaustive COMPLETE, even when every configured query succeeds.
     const boundedProvider = normalizeName(company.name) === 'google'
       || normalizeName(company.name) === 'apple';
-    const status = errors.length || scan.status !== 0 || relocationFailed || amazonRemoteFailed || amazonProviderCapped || boundedProvider
+    const status = errors.length || scan.status !== 0 || relocationFailed || amazonRemoteFailed || amazonProviderCapped || sourceTruncated || boundedProvider
       ? 'partial'
       : 'complete';
     updateCompany(ledger, company.name, {
@@ -423,7 +426,9 @@ async function main() {
                 )
               : amazonProviderCapped
                 ? 'amazon_provider_hit_2000_posting_safety_cap'
-                : errors.map(e => e.error || String(e)).join('; ')
+                : sourceTruncated
+                  ? 'provider_reported_truncated_or_rate_limited_inventory'
+                  : errors.map(e => e.error || String(e)).join('; ')
                   || scan.stderr.trim().slice(0, 1000)
                   || (amazonRemoteFailed ? 'amazon_remote_provider_failed' : `scanner_exit_${scan.status}`)
           )
