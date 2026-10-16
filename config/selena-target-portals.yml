@@ -2,19 +2,11 @@
 # discover-ats.mjs appends resolved ATS mappings to tracked_companies.
 # This lane intentionally has NO positive title requirement.
 title_filter:
-  mode: negative_only
+  # Target-company lane is location-first: do not discard any posting by title
+  # before JD retrieval / semantic review.
+  mode: allow_all
   positive: []
-  negative:
-    - "software engineer"
-    - "software developer"
-    - "nurse"
-    - "physician"
-    - "driver"
-    - "warehouse associate"
-    - "sales representative"
-    - "account executive"
-    - "intern"
-    - "internship"
+  negative: []
 
 # Recall-first location net. Precise Texas-eligible remote validation happens
 # after the full JD is fetched; do not reject ambiguous provider metadata here.
