@@ -50,6 +50,14 @@ tracked_companies:
         - "integration"
         - "operations"
 
+
+  - name: "Tesla"
+    enabled: true
+    provider: tesla
+    careers_url: "https://www.tesla.com/careers/search/?location=Austin&site=US&state=TX"
+    tesla:
+      location: "Austin, Texas"
+
   - name: "Amazon"
     enabled: true
     provider: amazon
