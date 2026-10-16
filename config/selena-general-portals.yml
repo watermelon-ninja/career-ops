@@ -1,0 +1,55 @@
+# Selena general-market discovery lane.
+# Unlike the 354-company lane, this uses a broad positive title net to keep
+# internet-scale discovery tractable. These are discovery signals, not fit score.
+title_filter:
+  positive:
+    - "systems"
+    - "business systems"
+    - "business analyst"
+    - "product"
+    - "product owner"
+    - "program"
+    - "project"
+    - "implementation"
+    - "integration"
+    - "enterprise applications"
+    - "supply chain"
+    - "logistics"
+    - "warehouse"
+    - "WMS"
+    - "ERP"
+    - "TMS"
+    - "S&OP"
+    - "operations technology"
+    - "digital transformation"
+    - "process transformation"
+    - "business process"
+    - "technical"
+    - "platform"
+    - "solutions"
+  negative:
+    - "software engineer"
+    - "software developer"
+    - "nurse"
+    - "physician"
+    - "driver"
+    - "warehouse associate"
+    - "sales representative"
+    - "intern"
+
+location_filter:
+  allow:
+    - "Austin"
+    - "Cedar Park"
+    - "Round Rock"
+    - "Georgetown"
+    - "Pflugerville"
+    - "Leander"
+    - "Texas"
+    - "TX"
+    - "Remote"
+    - "United States"
+    - "USA"
+    - "U.S."
+
+tracked_companies: []
