@@ -1,0 +1,166 @@
+# Selena-specific filtering and scoring policy
+# Discovery engine stays upstream Career-Ops. These rules sit AFTER discovery.
+version: 1
+
+inventory:
+  active_high_fit_target: 30
+  final_high_fit_threshold: 9.0
+  threshold_is_not_a_quota: true
+
+location:
+  target_lane:
+    allow:
+      - Austin metro onsite
+      - Austin metro hybrid
+      - Texas-eligible US remote
+    relocation_exception:
+      companies: [Google, Apple, Microsoft]
+      minimum_final_fit: 9.0
+  general_lane:
+    allow:
+      - Austin metro onsite
+      - Austin metro hybrid
+      - Texas-eligible US remote
+
+discovery:
+  target_company_lane:
+    company_file: config/selena-target-companies.yml
+    exhaustive: true
+    positive_title_gate: false
+    order:
+      - discover all current postings from accessible official providers
+      - dedupe
+      - apply location gate
+      - apply only obvious occupation exclusions
+      - fetch complete JD for every remaining posting
+      - semantic fit scoring
+  general_market_lane:
+    exhaustive_company_list: false
+    title_terms_are_discovery_signals_only: true
+    broad_signals:
+      - systems
+      - business systems
+      - business analyst
+      - product
+      - product owner
+      - program
+      - project
+      - implementation
+      - integration
+      - enterprise applications
+      - supply chain
+      - logistics
+      - warehouse
+      - WMS
+      - ERP
+      - TMS
+      - S&OP
+      - operations technology
+      - digital transformation
+      - process transformation
+      - business process
+      - technical
+      - platform
+      - solutions
+
+pre_jd_hard_exclusions:
+  # Keep this intentionally narrow. Ambiguous roles must survive to full-JD review.
+  obvious_occupations:
+    - software engineer
+    - nurse
+    - physician
+    - driver
+    - warehouse associate
+    - sales representative
+    - intern
+  pure_functions:
+    - pure software engineering
+    - pure data science
+    - pure machine learning research
+
+semantic_fit:
+  strong_positive:
+    - enterprise systems ownership
+    - business systems analysis
+    - product ownership
+    - system implementation
+    - systems integration
+    - technical program delivery
+    - WMS
+    - ERP
+    - TMS
+    - S&OP technology
+    - supply chain systems
+    - requirements and process design
+    - SIT and UAT
+    - release readiness
+    - cross-functional delivery
+    - vendor coordination
+    - SQL and analytics
+    - API integration
+  positive_not_required:
+    - supply chain
+    - logistics
+    - warehouse
+    - Infor WMS
+    - Kinaxis
+    - SAP
+    - Databricks
+    - Power BI
+  strong_negative:
+    - primary frontline operations management
+    - primary people management
+    - shift scheduling ownership
+    - warehouse floor labor management
+    - pure planning execution without systems transformation
+    - director or executive scope
+    - materially unmet mandatory years of experience
+
+compensation:
+  target_total_comp_usd: 150000
+  disclosed_max_base_below_usd_blocks_9_plus: 110000
+  missing_salary_is_not_an_exclusion: true
+
+work_authorization:
+  sponsorship_required: false
+
+dedupe:
+  priority:
+    - official application URL
+    - requisition ID
+    - company plus normalized role
+  exclude_if_already:
+    - applied
+    - closed
+    - excluded
+    - paused
+
+scoring:
+  scale: 0-10
+  full_jd_required: true
+  company_membership_gives_points: false
+  title_keyword_count_gives_points: false
+  score_9_definition: genuinely strong application recommendation
+  do_not_raise_scores_to_fill_inventory: true
+
+completion_contract:
+  target_company_scan_complete_only_if:
+    - every target company has a ledger status
+    - no target company source remains pending without a persisted blocker or cursor
+    - candidates_remaining_unread equals 0
+  required_run_metrics:
+    - companies_total
+    - companies_complete
+    - companies_partial
+    - companies_pending
+    - companies_blocked
+    - postings_discovered
+    - postings_deduped
+    - location_eligible
+    - full_jds_attempted
+    - full_jds_read
+    - full_jds_failed
+    - candidates_remaining_unread
+    - final_fit_9_plus
+    - duplicates_removed
+    - added_to_active_inventory
