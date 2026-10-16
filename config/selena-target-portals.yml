@@ -1,6 +1,8 @@
 # Selena exhaustive target-company lane.
 # discover-ats.mjs appends resolved ATS mappings to tracked_companies.
 # This lane intentionally has NO positive title requirement.
+# Full 354 batch validation trigger
+# Target lane remains location-first; semantic scoring happens after JD retrieval.
 title_filter:
   # Target-company lane is location-first: do not discard any posting by title
   # before JD retrieval / semantic review.
