@@ -3996,3 +3996,311 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Senior-Manager--Data-Engineering_R26_5743 | my7elevenhr | Senior Manager, Data Engineering
 - [ ] https://myhrabc.wd5.myworkdayjobs.com/global/job/Sugar-Land-TX/Operations-Training-Specialist_R2616904 | myhrabc | Operations Training Specialist
 - [ ] https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/Ohio---Columbus-One-Nationwide-Plaza/Director---Data---AI-Solutions---Financial-Services--Actuarial---REMOTE_100627 | nationwide | Director - Data & AI Solutions - Financial Services, Actuarial - REMOTE
+
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/7984869 | FourKites | Product Manager, Inventory & Orders
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8845483002 | GitLab | Senior Product Manager, Billing Engine & Platforms Monetization
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8855883002 | GitLab | Senior Product Manager, CRM & GTM Systems
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager-II--Logistics-Operations----M2-_R2631087 | Applied Materials | Manager II, Logistics Operations - (M2)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8478405002 | GitLab | Engineering Manager, SSCS: Supply Chain
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Materials-Project-Manager-New-College-Grad--Bachelor-s--Austin--TX-_R2627788 | Applied Materials | Materials Project Manager New College Grad- Bachelor's (Austin, TX)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Technical-Project-Management---E3_R2627962 | Applied Materials | Principle Program Manager, New Product Transition - E4
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/7982637 | FourKites |  Implementation Manager 
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/8095407 | FourKites | Associate Product Manager 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8638232002 | GitLab | AI Transformation Owner, CRO
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8716179002 | GitLab | AI Transformation Owner, Product & Design
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8871820002 | GitLab | Staff Product Manager, Agentic Test Intelligence
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8875518002 | GitLab | Staff Product Manager, AI Software Factory PLG
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8822279002 | GitLab | Staff Program Manager, CCO Programs
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8693068002 | GitLab | Principal Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8861782002 | GitLab | People Technology Analyst - Workday
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8857335002 | GitLab | Professional Services Technical Architect - West 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8750842002 | GitLab | Senior Backend Engineer, Platform Enablement
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8644572002 | GitLab | Senior Backend Engineer, Platform Readiness
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8871406002 | GitLab | Senior CX Platform Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8845972002 | GitLab | Senior Manager, Technical Program Management
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8795736002 | GitLab | Senior Professional Services Technical Architect - Security 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8773546002 | GitLab | Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8828009002 | GitLab | Staff Enterprise Architect
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8658878002 | GitLab | Principal Product Manager, AI Software Factory
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8871798002 | GitLab | Principal Product Manager, Orbit
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/CW---Engineering-Technician-II--T2----Weekend-Shift_R2619208 | Applied Materials | CW - Engineering Technician II (T2) - Weekend Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Engineering-Technician-II---Weekend-shift----T2-_R2629006 | Applied Materials | Engineering Technician II - Weekend shift - (T2)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Engineer---ALD_R2627966 | Applied Materials | Manufacturing Engineer III - 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-I----T1--2nd-Shift_R2630180 | Applied Materials | Manufacturing Technician I - (T1) 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-I-----T1--2nd-Shift_R2630186-1 | Applied Materials | Manufacturing Technician I -- (T1) 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--2nd-Shift_R2629914 | Applied Materials | Manufacturing Technician II - (T2) 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--Weekend-Shift_R2630128 | Applied Materials | Manufacturing Technician II - (T2) Weekend Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/New-College-Grad-Manufacturing-Engineer--Bachelors-Masters---Austin--TX-_R2626241 | Applied Materials | New College Grad Manufacturing Engineer (Bachelors/Masters - Austin, TX)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Product-Qual---Rel-Eng_R2631252-1 | Applied Materials | Product Qual & Rel Eng
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/SERT-Supplier-Engineer_R2629895 | Applied Materials | SERT Supplier Engineer
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/8212401 | FourKites | Senior AI Engineer
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/8202204 | FourKites | Services Consulting Specialist
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/8278270 | FourKites | Sr. Manager, Customer Success
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8857185002 | GitLab | Associate Renewals Manager   
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8872433002 | GitLab | Business Development Representative 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8782471002 | GitLab | Candidate Experience Specialist, Contractor 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8790102002 | GitLab | Commercial Account Executive - Mid-Market, East
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8592555002 | GitLab | Commercial Account Executive, Named - West
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8877426002 | GitLab | Customer Success Architect
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8637426002 | GitLab | Customer Success Engineer, LATAM (Spanish, Portugese) 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8831350002 | GitLab | Distinguished Engineer, Core DevOps
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8845322002 | GitLab | Engineering Manager, Dedicated Infrastructure
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8698330002 | GitLab | Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8773006002 | GitLab | Intermediate Backend Engineer, AMER
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8821526002 | GitLab | Intermediate Security Analyst, Vulnerability Operations  (North America)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8842630002 | GitLab | Lead Legal Counsel, Corporate
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8756163002 | GitLab | Lead Pricing Strategist
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8633807002 | GitLab | Lead SEC Analyst
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8896290002 | GitLab | Manager, Customer Success 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8856724002 | GitLab | Manager, Customer Success Engineering
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8877510002 | GitLab | Manager, Support Engineering (AMER)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8710061002 | GitLab | Migration Engineer - GitLab Dedicated
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8864903002 | GitLab | Pipeline Programs Manager
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8814596002 | GitLab | Public Sector Enablement Lead
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8737840002 | GitLab | Public Sector Strategic Account Executive, DoW
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8737852002 | GitLab | Public Sector Strategic Account Executive, Federal Civilian
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8869149002 | GitLab | Recruiter,  GTM
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8869167002 | GitLab | Recruiter, R&D
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8709925002 | GitLab | Senior Assigned Support Engineer (AMER)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8646556002 | GitLab | Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8838202002 | GitLab | Senior Developer Advocate
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8863314002 | GitLab | Senior Partner Solutions Architect, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8882519002 | GitLab | Senior People Business Partner, Engineering
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8838331002 | GitLab | Senior Professional Services Engineer - PubSec - US Only
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8746461002 | GitLab | Senior Professional Services Engineer- PubSec - DC Metro
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8645879002 | GitLab | Senior Renewals Operations Manager
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8882059002 | GitLab | Senior Revenue Operations Manager
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8846304002 | GitLab | Senior Security Risk Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8738179002 | GitLab | Senior Software Engineer, Security Factory: Code Security
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8770661002 | GitLab | Senior Solutions Architect Operations Manager 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8742248002 | GitLab | Senior Strategic Account Executive - California 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8753656002 | GitLab | Senior Talent Brand Manager
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8871878002 | GitLab | SMB Account Executive, Growth
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8871274002 | GitLab | SMB New Business Account Executive   
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8846318002 | GitLab | Social Impact Manager
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8790680002 | GitLab | Solutions Architect, Public Sector - East
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8790317002 | GitLab | Solutions Architect, Public Sector - West 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8886648002 | GitLab | Sr. Manager, Solutions Architect SME
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8646544002 | GitLab | Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8689236002 | GitLab | Staff Backend Engineer, Core DevOps
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8770702002 | GitLab | Staff Backend Engineer, Database Automation (Go)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8763503002 | GitLab | Staff Commercial Pricing Strategist
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8734888002 | GitLab | Staff Corporate Security Engineer 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8739391002 | GitLab | Staff Fullstack Engineer (Ruby/Vue.js) Monetization Engineering: Purchase
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8845277002 | GitLab | Staff Fullstack Engineer, Data Products (Golang / Node)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8815140002 | GitLab | Staff Product Security Architect 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8691770002 | GitLab | Staff Professional Services Operations Manager
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8868652002 | GitLab | Staff Renewals Operations Manager
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8846277002 | GitLab | Staff Security Governance Engineer, Policies & Standards
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8782153002 | GitLab | Staff Security Researcher 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8693563002 | GitLab | Staff Software Engineer, Security Factory: Static Analysis
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8886426002 | GitLab | Staff Solutions Architect, AI Subject Matter Expert
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8691382002 | GitLab | Strategic Account Executive - San Francisco
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8706202002 | GitLab | Strategic Account Executive - Seattle 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8868220002 | GitLab | Strategic Account Executive, France
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8786425002 | GitLab | Strategic Account Executive, Northeast
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8675560002 | GitLab | Strategic Account Executive, Poland
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8654230002 | GitLab | Support Engineer (AMER)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8859063002 | GitLab | Support Engineer, U.S. Government Support 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8753664002 | GitLab | Talent Brand Manager
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8638246002 | GitLab | Tech Operations Specialist
+- [ ] https://nike.wd1.myworkdayjobs.com/nke/job/Houston-Texas/Senior-Regional-Sales-Rep_R-94534 | nike | Senior Regional Sales Rep
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8883003002 | GitLab | Director, Analytics Engineering 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8786095002 | GitLab | Principal Engineer, Duo Agent Platform
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8623592002 | GitLab | Principal Site Reliability Engineer, Platform Engineering: Dedicated
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8879798002 | GitLab | Regional Sales Director, Enterprise - Southeast
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8638295002 | GitLab | Staff Engineer, People Technology
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8700245002 | GitLab | Chief of Staff, CRO 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8853843002 | GitLab | Director of Engineering, Database Excellence
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8806017002 | GitLab | Director of Product Management, Agentic Software Delivery
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8827981002 | GitLab | Director, FP&A
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8872500002 | GitLab | Director, Global People Operations & Compliance
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8792475002 | GitLab | Director, Social Media
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8861745002 | GitLab | Global Sales Director of SMB, New Business 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8617777002 | GitLab | Lead Internal Events & Production Strategist
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8859224002 | GitLab | Principal Product Marketing Manager, Competitive
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8731718002 | GitLab | Principal Security Researcher
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8860219002 | GitLab | Regional Sales Director
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8853813002 | GitLab | Regional Sales Director, Financial Services 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8858174002 | GitLab | Regional Sales Director, National Security Group
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8862046002 | GitLab | Senior Director, Global SME Solutions Architecture
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Global-ERP-Solutions-Manager-2---Supply-Chain_R10256284 | ngc | Global ERP Solutions Manager 2 - Supply Chain
+- [ ] https://job-boards.greenhouse.io/getbuilt/jobs/4730368005 | Built Technologies | Staff Product Manager, Platform
+- [ ] https://job-boards.greenhouse.io/freenome/jobs/8838160002 | Freenome | Technical Product Manager III
+- [ ] https://job-boards.anz.greenhouse.io/futuresecureai/jobs/4004325201 | Future Secure AI | Platform Technical Program Manager
+- [ ] https://job-boards.anz.greenhouse.io/futuresecureai/jobs/4004717201 | Future Secure AI | Senior Product Manager- Platform Control and Observability
+- [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6018827004 | Galaxy | Technical Project Manager (Data Centers)
+- [ ] https://fiber.google.com/careers/job/?gh_jid=6186930004 | GFiber | Senior Technical Program Manager, Network Facilities
+- [ ] https://fiber.google.com/careers/job/?gh_jid=6193265004 | GFiber | Technical Operations Program Manager, OSP Construction
+- [ ] https://fiber.google.com/careers/job/?gh_jid=6217134004 | GFiber | Technical Program Manager, Colocation Service Delivery & Management
+- [ ] https://job-boards.greenhouse.io/gigaenergy/jobs/5278691008 | Giga Energy | Senior Technical Project Manager, Data Center Infrastructure
+- [ ] https://job-boards.greenhouse.io/gigaenergy/jobs/5408561008 | Giga Energy | Supply Chain Program Manager
+- [ ] https://job-boards.greenhouse.io/gigaenergy/jobs/5278652008 | Giga Energy | Technical Project Manager, Data Center Infrastructure
+- [ ] https://job-boards.greenhouse.io/gruns/jobs/5431686008 | Grüns | ERP Transformation Manager (D365 F&O)
+- [ ] https://job-boards.greenhouse.io/fourhands/jobs/4408512009 | Four Hands | Logistics Analyst, Outbound
+- [ ] https://job-boards.greenhouse.io/gruns/jobs/5416722008 | Grüns | BizOps Manager, Supply Chain 
+- [ ] https://job-boards.greenhouse.io/gruns/jobs/5451161008 | Grüns | Supply Chain Specialist
+- [ ] https://job-boards.greenhouse.io/happymoney/jobs/4360756009 | Happy Money | Senior Loan Fulfillment Specialist
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Associate-Supply-Chain-Procurement-Specialist_R10253506 | ngc | Associate Supply Chain Procurement Specialist
+- [ ] https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Remote/Manager-Advisory-Services_R0008461 | premierinc | Manager Advisory Services - Supply Chain Optimization
+- [ ] https://job-boards.greenhouse.io/getbuilt/jobs/4736106005 | Built Technologies | Implementation Consultant II, Construction
+- [ ] https://job-boards.greenhouse.io/getbuilt/jobs/4736057005 | Built Technologies | Senior Implementation Consultant
+- [ ] https://job-boards.greenhouse.io/getbuilt/jobs/4743176005 | Built Technologies | Senior Product Manager, Construction Financials
+- [ ] https://job-boards.greenhouse.io/getbuilt/jobs/4743651005 | Built Technologies | Staff Product Manager, Data
+- [ ] https://job-boards.greenhouse.io/formhealth/jobs/5408991008 | Form Health | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/formhealth/jobs/5433743008 | Form Health | Senior Program Manager, Product
+- [ ] https://job-boards.greenhouse.io/fourhands/jobs/4302170009 | Four Hands | Senior Product Manager, Digital Experience
+- [ ] https://job-boards.greenhouse.io/fueledcareers/jobs/5190253008 | Fueled | Senior Digital Project Manager - LATAM
+- [ ] https://job-boards.greenhouse.io/future/jobs/4683271005 | Future | Staff Product Manager
+- [ ] https://job-boards.anz.greenhouse.io/futuresecureai/jobs/4003159201 | Future Secure AI | Senior Product Manager- AI & Agentic 
+- [ ] https://job-boards.anz.greenhouse.io/futuresecureai/jobs/4006945201 | Future Secure AI | Senior Product Manager- AI Solutions
+- [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6195915004 | Galaxy | PMO Project Manager (Data Center Construction)
+- [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6208552004 | Galaxy | PMO Project Manager (Growth, Development, Power) 
+- [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5837236004 | Galaxy | Senior QA/QC-Construction Project Manager (Data Centers)
+- [ ] https://job-boards.greenhouse.io/gametimeunited/jobs/5418883008 | Gametime United | Product Manager, Payments & Checkout
+- [ ] https://job-boards.greenhouse.io/gametimeunited/jobs/5418890008 | Gametime United | Product Manager, Post-Order UX & AI Automation
+- [ ] https://job-boards.greenhouse.io/generallegalllp/jobs/4404724009 | General Legal | Founding Product Manager
+- [ ] https://fiber.google.com/careers/job/?gh_jid=6218265004 | GFiber | Network Program Manager, Preventative Maintenance
+- [ ] https://job-boards.greenhouse.io/gigaenergy/jobs/5406739008 | Giga Energy | Construction Project Manager
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6115634004 | Grafana Labs |  Demand Generation Program Manager | United States | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6161249004 | Grafana Labs | Staff Product Manager, OpenTelemetry | US | Remote
+- [ ] https://job-boards.greenhouse.io/gyde/jobs/4391864009 | Gyde | Lead Product Manager
+- [ ] https://job-boards.greenhouse.io/habitathealth/jobs/5386711008 | Habitat Health | Data Product Manager
+- [ ] https://job-boards.greenhouse.io/habitathealth/jobs/5453590008 | Habitat Health | Product Manager 
+- [ ] https://job-boards.greenhouse.io/habitathealth/jobs/5398719008 | Habitat Health | Senior Product Manager 
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5225001007 | Harbor | Business Analyst & Workflow Associate Consultant, Corporate Legal Solutions
+- [ ] https://www.harness.io/company/jobs/apply?gh_jid=5193999007&gh_jid=5193999007 | Harness | Project Manager, Professional Services
+- [ ] https://www.harness.io/company/jobs/apply?gh_jid=5249763007&gh_jid=5249763007 | Harness | Senior Outbound Product Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8147111?gh_jid=8147111 | HelloFresh | Director, WMS Product Design/Development [OPERATIONS TECHNOLOGY]
+- [ ] https://boards.greenhouse.io/hippo70/jobs/8766919002?gh_jid=8766919002 | Hippo Insurance | Associate Program Manager
+- [ ] https://boards.greenhouse.io/hippo70/jobs/8769878002?gh_jid=8769878002 | Hippo Insurance | Senior Product Manager, Underwriting
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8782064002 | Motive | Senior / Staff Product Manager - IoT Connected Devices
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8498798002 | Motive | Senior Implementation Consultant
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8523862002 | Motive | Sr Implementation Consultant 
+- [ ] https://nghs.wd1.myworkdayjobs.com/external/job/Remote/Analyst-Sr-Reporting-Business_R29537 | nghs | Epic Clinical Sr. Reporting Business Analyst
+- [ ] https://nghs.wd1.myworkdayjobs.com/external/job/Remote/Sr-Reporting-Business-Analyst_R27674-2 | nghs | EPIC Revenue Cycle Senior Reporting Business Analyst
+- [ ] https://nus.wd1.myworkdayjobs.com/careers/job/Remote-USA/Project-Manager--Nurse-Practitioner_R20263428 | nus | Project Manager, Nurse Practitioner
+- [ ] https://nutrabolt.wd108.myworkdayjobs.com/nutrabolt_careers/job/Nutrabolt-Austin-HQ/Commercialization-Project-Manager_R-100366 | nutrabolt | Commercialization Project Manager
+- [ ] https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Datacenter-MPU-Product-Manager_R-10066572 | nxp | Datacenter MPU Product Manager
+- [ ] https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Sr-Principal-Technical-Program-Manager---Digital-IP-Development_R-10066054 | nxp | Sr. Principal Technical Program Manager – Digital IP Development
+- [ ] https://job-boards.greenhouse.io/higherlogic/jobs/8033739003 |  Higher Logic | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/getbuilt/jobs/4722283005 | Built Technologies | Senior Engineering Manager, Data Platform
+- [ ] https://job-boards.greenhouse.io/fourhands/jobs/4435320009 | Four Hands | Azure Platform Architect
+- [ ] https://job-boards.anz.greenhouse.io/futuresecureai/jobs/4004719201 | Future Secure AI | Platform Engineering Manager
+- [ ] https://boards.greenhouse.io/embed/job_app?for=gemini&token=8159869&gh_jid=8159869 | Gemini | Lead, Technical Compliance
+- [ ] https://boards.greenhouse.io/embed/job_app?for=gemini&token=8074982&gh_jid=8074982 | Gemini | Senior Manager, Platform Security
+- [ ] https://job-boards.greenhouse.io/generalassembly/jobs/8268820 | General Assembly | Technical Lead Learning Experience Designer - U.K. (30 hours/week)
+- [ ] https://job-boards.greenhouse.io/generalassembly/jobs/8268476 | General Assembly | Technical Lead Learning Experience Designer - U.S. (30 hours/week)
+- [ ] https://fiber.google.com/careers/job/?gh_jid=4222008004 | GFiber | Future Opportunities with Technical Operations 
+- [ ] https://job-boards.greenhouse.io/globalli/jobs/5232866007 | Globalli | Proposal & Bid Manager - Enterprise & Government Contracts
+- [ ] https://job-boards.greenhouse.io/glydways/jobs/5170949007 | Glydways | Data Platform Engineering Lead
+- [ ] https://job-boards.greenhouse.io/gongio/jobs/4718601006 | Gong.io | Sr. Manager, Enterprise Revenue Architect
+- [ ] https://job-boards.greenhouse.io/gongio/jobs/4713258006 | Gong.io | Technical Account Specialist
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6192062004 | Grafana Labs | Technical Accounting & Financial Reporting Manager | United States | Remote
+- [ ] https://job-boards.greenhouse.io/graphcore/jobs/8890044002 | Graphcore | Technical Lead - System Tests & Diagnostics Engineer
+- [ ] https://job-boards.greenhouse.io/greenworkssunriseglobalmarketing/jobs/5971180004 | Greenworks  | Technical Sales Specialist - Southern California
+- [ ] https://job-boards.greenhouse.io/greenworkssunriseglobalmarketing/jobs/6222960004 | Greenworks  | Technical Sales Specialist- Central Florida
+- [ ] https://job-boards.eu.greenhouse.io/groupon/jobs/4933343101 | Groupon | Enterprise Account Manager  – Things To Do (TTD)
+- [ ] https://job-boards.eu.greenhouse.io/groupon/jobs/4977543101 | Groupon | Enterprise Business Development Manager Health, Beauty & Wellness
+- [ ] https://job-boards.greenhouse.io/growthloop/jobs/4682171005 | GrowthLoop | Customer Architect (Marketing Analytics & Experimentation) 
+- [ ] https://job-boards.greenhouse.io/gruns/jobs/5442312008 | Grüns | Quality Systems Manager
+- [ ] https://job-boards.greenhouse.io/happymoney/jobs/4356370009 | Happy Money | Senior Manager, Data Strategy & Analytics
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5167589007 | Harbor | Associate Consultant, Risk (Legal Technology)
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5214498007 | Harbor | Intapp Technical Team Lead
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5053860007 | Harbor | Manager, Sourcing (Technology)
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5259003007 | Harbor | Senior Manager, Research and Technology Enablement
+- [ ] https://job-boards.greenhouse.io/highwire/jobs/4392138009 | Highwire | Senior Manager, People Operations (Payroll, Benefits & Analytics)
+- [ ] https://boards.greenhouse.io/hippo70/jobs/8730174002?gh_jid=8730174002 | Hippo Insurance | Business System Analyst
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8721156002 | Motive | Customer Success Manager, Enterprise
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8872697002 | Motive | Manager, Technical Support Engineering
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8590413002 | Motive | Senior Analyst, Strategic Analytics
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8021088002 | Motive | Senior Manager, Technical Support Engineering
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8635231002 | Motive | Senior Solutions Engineer, Enterprise (Central/Eastern Regions)
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8822731002 | Motive | Senior Technical SEO Specialist
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8021079002 | Motive | Technical Account Manager - Enterprise 
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8021084002 | Motive | Technical Account Manager - Strategic
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8742388002 | Motive | Technical Lead 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Business-Capability-Architect---Enterprise-Focused_R10256516 | ngc | Business Capability Architect - Enterprise Focused
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Enterprise-Application-Architecture-Lead_R10256392 | ngc | Enterprise Application Architecture Lead
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Enterprise-Business-Architecture-Lead_R10256497 | ngc | Enterprise Business Architecture Lead
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Technology-Architecture-Lead_R10256500 | ngc | Technology Architecture Lead
+- [ ] https://ngs.wd1.myworkdayjobs.com/ngs_external_career_site/job/Remote/Sr-Manager--Finance-Systems-Operations_R2088 | ngs | Sr. Manager, Finance Systems Operations (DC Region)
+- [ ] https://nutrabolt.wd108.myworkdayjobs.com/nutrabolt_careers/job/Nutrabolt-Austin-HQ/Technical-Analyst---Quality_R-100298 | nutrabolt | Technical Analyst - Quality
+- [ ] https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Linux-Software-Engineer---System-Manager_R-10066672 | nxp | Linux Software Engineer - System Manager
+- [ ] https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Remote/Consultant---Data-Operations---Technology--Women-and-Infants-_R0008452 | premierinc | Consultant - Data Operations & Technology (Women and Infants)
+- [ ] https://job-boards.greenhouse.io/gigaenergy/jobs/5222935008 | Giga Energy | Customer Project Manager
+- [ ] https://job-boards.greenhouse.io/gigaenergy/jobs/5442736008 | Giga Energy | Project Manager GigaBase Delivery
+- [ ] https://job-boards.greenhouse.io/hanwhaenergyusa/jobs/4367614009 | Hanwha Energy USA | Senior Project Manager
+- [ ] https://job-boards.greenhouse.io/holderconstruction/jobs/4183231009 | Holder Construction | Project Manager
+- [ ] https://newrez.wd1.myworkdayjobs.com/nrz/job/TX-Coppell/Imaging-Business-Analyst--On-site-_R10540 | newrez | Imaging Business Analyst (On-site)
+- [ ] https://oneok.wd1.myworkdayjobs.com/oneok/job/Houston-TX/Senior-Project-Manager_R8589-2 | oneok | Senior Project Manager
+- [ ] https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Business-Analyst_R0015037 | plains | Business Analyst
+- [ ] https://plains.wd1.myworkdayjobs.com/plains/job/Midland-TX/Project-Manager--Development_R0015030-2 | plains | Project Manager, Development
+- [ ] https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Senior-Maximo-Business-Analyst_R0014856-1 | plains | Senior Maximo Business Analyst
+- [ ] https://pretiumenterpriseservices.wd1.myworkdayjobs.com/selene/job/Dallas-TX/Loss-Mitigation-Business-Analyst_JR116960 | pretiumenterpriseservices | Loss Mitigation Business Analyst
+- [ ] https://job-boards.greenhouse.io/hanwhaenergyusa/jobs/4429833009 | Hanwha Energy USA | HRIS Specialist – Data & Integrations - Contract
+- [ ] https://job-boards.greenhouse.io/hanwhaenergyusa/jobs/4305271009 | Hanwha Energy USA | Senior Analyst – Energy Analytics
+- [ ] https://job-boards.greenhouse.io/hanwhaenergyusa/jobs/4418940009 | Hanwha Energy USA | Sr. Energy Analytics Analyst
+- [ ] https://newperkinelmer.wd1.myworkdayjobs.com/external/job/Customer-Site---TX/Maintenance-Planning-Manager---Project-Farma_REQ-057058-1 | newperkinelmer | Maintenance Planning Manager - Project Farma
+- [ ] https://newrez.wd1.myworkdayjobs.com/nrz/job/TX-Coppell/Supervisor-Homeowner-Advocacy-Analytics---Servicing_R10433 | newrez | Supervisor Homeowner Advocacy Analytics - Servicing
+- [ ] https://northmark.wd108.myworkdayjobs.com/nms/job/Dallas-TX/Audit-Manager_R12771 | northmark | Technology (Platform) Risk Specialist
+- [ ] https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Corporate-Planning-Analyst_R0015036 | plains | Corporate Planning Analyst
+- [ ] https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Technical-Specialist-HSE-Air-Permitting-and-Compliance_R0014858-1 | plains | Technical Specialist HSE Air Permitting and Compliance
+- [ ] https://job-boards.greenhouse.io/forthea/jobs/4938518003 | Forthea | Digital Marketing Team Lead
+- [ ] https://job-boards.greenhouse.io/forthea/jobs/4938632003 | Forthea | Digital Media Specialist (SEO)
+- [ ] https://app.careerpuck.com/job-board/fortitudegroupholdingsllc/job/5248259007?gh_jid=5248259007 | Fortitude Re | Sr. Associate, Data Solutions Engineering
+- [ ] https://job-boards.greenhouse.io/found/jobs/4717603005 | Found | Sr. Pharmacy Operations Manager
+- [ ] https://job-boards.greenhouse.io/fourhands/jobs/4451933009 | Four Hands | Quality Technician Lead
+- [ ] https://freedomcare.com/jobs/7786962003?gh_jid=7786962003 | FreedomCare | Senior Data Analyst 
+- [ ] https://job-boards.greenhouse.io/further/jobs/8540294002 | Further | Data Architect 
+- [ ] https://job-boards.anz.greenhouse.io/futuresecureai/jobs/4004363201 | Future Secure AI | Head of Product Operations
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/7982131003 | G-P | Manager, Pricing & Operations Strategy
+- [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6208501004 | Galaxy | Project Controls Manager (Data Center Construction)
+- [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6224587004 | Galaxy | Senior Manager, Data Center Construction
+- [ ] https://job-boards.greenhouse.io/gametimeunited/jobs/5153648008 | Gametime United | Staff Mobile Engineer, Tech Lead
+- [ ] https://job-boards.greenhouse.io/garnerhealth/jobs/6219422004 | Garner Health | Senior Operations Analyst, Payments
+- [ ] https://fiber.google.com/careers/job/?gh_jid=6134350004 | GFiber | Global AP Operations & Process Manager
+- [ ] https://fiber.google.com/careers/job/?gh_jid=6121253004 | GFiber | Salesforce Application Engineering Manager
+- [ ] https://job-boards.greenhouse.io/gigaenergy/jobs/5443712008 | Giga Energy | Buyer, Construction Subcontracts, Data Center Projects
+- [ ] https://job-boards.greenhouse.io/gigaenergy/jobs/5443704008 | Giga Energy | Procurement Analyst, Data Center Projects
+- [ ] https://job-boards.greenhouse.io/givedirectly/jobs/4735375005 | GiveDirectly | Senior Manager, People Operations 
+- [ ] https://careers.gofasti.com/job-application/6227579004?gh_jid=6227579004 | GoFasti | 1171 - Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/gradientai/jobs/8034609003 | Gradient AI | Program Operations Specialist
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6221389004 | Grafana Labs | Sales Operations Manager | United States | Remote
+- [ ] https://job-boards.greenhouse.io/greenthumbindustries/jobs/8039888 | Green Thumb |  Operations Manager Opportunities
+- [ ] https://job-boards.greenhouse.io/greenthumbindustries/jobs/8227636 | Green Thumb | Associate IT Operations Engineer
+- [ ] https://job-boards.greenhouse.io/greenthumbindustries/jobs/8178485 | Green Thumb | Field IT Operations Engineer  
+- [ ] https://job-boards.greenhouse.io/greenthumbindustries/jobs/8257427 | Green Thumb | IT Field Operations Engineer  
+- [ ] https://job-boards.greenhouse.io/greenpointtechnologies/jobs/5423433008 | Greenpoint Technologies | Avionics Technician Lead
+- [ ] https://boards.greenhouse.io/guidepointsecurity/jobs/6191540004?gh_jid=6191540004 | GuidePoint Security | Application Security Consultant- Remote (Anywhere in the U.S.)
+- [ ] https://boards.greenhouse.io/guidepointsecurity/jobs/6141904004?gh_jid=6141904004 | GuidePoint Security | Security Architect - Network and Data Security (Presales) - Northeast region 
+- [ ] https://boards.greenhouse.io/guidepointsecurity/jobs/6099423004?gh_jid=6099423004 | GuidePoint Security | Senior Application Security Consultant, Strategic Services- Remote (Anywhere in the U.S.)
+- [ ] https://boards.greenhouse.io/guidepointsecurity/jobs/5837957004?gh_jid=5837957004 | GuidePoint Security | Team Lead, Data Security - Northeast region (Remote)
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/8180461 | Gusto, Inc. | Payment Operations Analyst 
+- [ ] https://careers.hellofresh.com/global/en/job/8078149?gh_jid=8078149 | HelloFresh | Asset Protection, Senior Tech Specialist
+- [ ] https://boards.greenhouse.io/hippo70/jobs/8861834002?gh_jid=8861834002 | Hippo Insurance | Data Privacy, Cybersecurity & AI Compliance Manager
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8672520002 | Motive | Business Operations Manager
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8782390002 | Motive | Business Strategy & Operations Manager
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8654290002 | Motive | Campaign Operations Manager (Individual Contributor) 
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8811671002 | Motive | GTM Strategy & Operations Manager- Special Projects
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8811673002 | Motive | Sales Operations Manager- SMB
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8672501002 | Motive | Senior Enablement Operations Manager
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8859354002 | Motive | Senior Manager, GTM Operations
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8756912002 | Motive | Senior Manager, IT Engineering
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8372647002 | Motive | Senior Manager, People Operations
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8811800002 | Motive | Senior Manager, Security Operations
+- [ ] https://newperkinelmer.wd1.myworkdayjobs.com/external/job/US-Remote---NJ/Manufacturing---Tech-Ops---Senior-Manager_REQ-058107-1 | newperkinelmer | Manufacturing & Tech Ops - Senior Manager
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Architecture-Operations-and-Enablement-Lead_R10256463 | ngc | Architecture Operations and Enablement Lead
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Business-Capability-Architect---IT-Management_R10256482 | ngc | Business Capability Architect - IT Management
+- [ ] https://nttlimited.wd3.myworkdayjobs.com/internal_employees_not_on_workday/job/Texas-United-States-of-America/Manager--Data-Centre-Operations_R-150796 | nttlimited | Manager, Data Centre Operations
+- [ ] https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Manufacturing/ATMC-Etch-Maintenance-Specialist--PM-Technician--Shift-Nights-1_R-10063686-1 | nxp | ATMC Etch Maintenance Specialist (PM Technician) Shift Nights 1
+- [ ] https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Experienced-Yield-Enhancement-Technician---Tool-Owner_R-10064414 | nxp | Experienced Yield Enhancement Technician / Tool Owner
+- [ ] https://pitneybowes.wd1.myworkdayjobs.com/pbcareers/job/US-NE-Remote/Manager--Control-Tower-Operations--Hybrid-Remote-_R22415 | pitneybowes | Manager, Control Tower Operations (Hybrid/Remote)
+- [ ] https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Remote/Sr-Healthcare-Data-Architect--EHR-Experience-Required-_R0008450-1 | premierinc | Sr Healthcare Data Architect (EHR Experience Required)
+- [ ] https://job-boards.eu.greenhouse.io/groupon/jobs/4981247101 | Groupon | Enterprise Business Development Manager / Director - Food & Drink
+- [ ] https://job-boards.greenhouse.io/gigaenergy/jobs/5400014008 | Giga Energy | Director of Data Center Operations
+- [ ] https://newrez.wd1.myworkdayjobs.com/nrz/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Data-Product-Engineering_R10364 | newrez | TRAIL Rising Leaders Program - Data Product Engineering
+- [ ] https://northmark.wd108.myworkdayjobs.com/nms/job/Dallas-TX/Procurement-Associate--Mechanical_R13315 | northmark | Procurement Associate- Data Center Gray Space
+- [ ] https://oneok.wd1.myworkdayjobs.com/oneok/job/Weatherford-TX/Automation-Tech-PLC-Programmer_R8636-2 | oneok | Automation Tech/PLC Programmer
+- [ ] https://oneok.wd1.myworkdayjobs.com/oneok/job/Mentone-TX/Instrumentation-Electric-Technician---Lead_R8159-2 | oneok | Instrumentation/Electric Technician - Lead
+- [ ] https://plastipak.wd1.myworkdayjobs.com/plastipak/job/Plastipak---Highlands-TX/Production-Technician_REQ24438 | plastipak | Production Technician
