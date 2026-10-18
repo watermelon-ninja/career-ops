@@ -4304,3 +4304,458 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://oneok.wd1.myworkdayjobs.com/oneok/job/Weatherford-TX/Automation-Tech-PLC-Programmer_R8636-2 | oneok | Automation Tech/PLC Programmer
 - [ ] https://oneok.wd1.myworkdayjobs.com/oneok/job/Mentone-TX/Instrumentation-Electric-Technician---Lead_R8159-2 | oneok | Instrumentation/Electric Technician - Lead
 - [ ] https://plastipak.wd1.myworkdayjobs.com/plastipak/job/Plastipak---Highlands-TX/Production-Technician_REQ24438 | plastipak | Production Technician
+
+- [ ] https://instacart.careers/job/?gh_jid=8266401 | instacart | Senior Product Manager, Retailer App Platform & Insights
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas/Staff-Business-Systems-Analyst---Workday-Security---ITGC-Lead_R0018490 | procore | Staff Business Systems Analyst – Workday Security & ITGC Lead
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Staff-Security-Engineer_R0018148 | procore | Staff Technical Program Manager, Security Engineering
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Haskell-TX-79521/Customer-Logistics-Associate_R186961 | ryder | Customer Logistics Associate
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/Austin/Customer-Logistics-Associate-II_R186283 | ryder | Customer Logistics Associate II
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Austin-TX-78724/Customer-Logistics-Manager_R185526 | ryder | Customer Logistics Manager
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Wilmer-TX-Mars-Rd/Inventory-Supervisor--Weekend-Schedule-_R185147 | ryder | Inventory Supervisor (Weekend Schedule)
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Hurst-TX-76053/Logistics-Manager---Dedicated-Transportation_R185720 | ryder | Logistics Manager - Dedicated Transportation
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Nationwide-Remote-USA/Manager-Industrial-Engineering--remote-_R185468 | ryder | Manager Industrial Engineering - Warehouse Start-ups (remote)
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Houston-TX-77092/Parts-Coordinator---Parts-Inventory---Truck-Parts_R186021 | ryder | Parts Coordinator - Parts Inventory - Truck Parts
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Arlington-TX-76010/Supply-Chain-Ops-Associate----Receiving_R185564 | ryder | Supply Chain Ops Associate - Receiving
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Arlington-TX-76010/Supply-Chain-Ops-Manager_R182174 | ryder | Supply Chain Ops Manager
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Lancaster-TX-Danieldale-Rd/Warehouse-Automation-Maintenance-Manager_R186442 | ryder | Warehouse Automation Maintenance Manager
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Dallas-TX-75236/Warehouse-Supervisor_R186522 | ryder | Warehouse Supervisor
+- [ ] https://instacart.careers/job/?gh_jid=8203107 | instacart |  Senior Product Manager, Order Quality
+- [ ] https://instacart.careers/job/?gh_jid=8249751 | instacart | Senior Design Program Manager II
+- [ ] https://instacart.careers/job/?gh_jid=8281405 | instacart | Senior Product Manager, Ad Formats
+- [ ] https://instacart.careers/job/?gh_jid=8120469 | instacart | Senior Product Manager, Advertiser Experience
+- [ ] https://instacart.careers/job/?gh_jid=8198159 | instacart | Senior Product Manager, AI Control Studio
+- [ ] https://instacart.careers/job/?gh_jid=8143270 | instacart | Senior Product Manager, Catalog
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Global-Partner-Program-Manager_R0018610 | procore | Global Partner Program Manager
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Group-Product-Manager---Labor-and-Equipment_R0018458-1 | procore | Group Product Manager - Labor and Equipment
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Product-Manager_R0018659-1 | procore | Senior Product Manager
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Product-Manager--Owner-Asset-Lifecycle_R0018360 | procore | Senior Product Manager, Owners
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Product-Manager--Scheduling_R0018858-1 | procore | Senior Product Manager, Scheduling
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Strategic-Software-Project-Manager--Professional-Services--Remote-_R0018733 | procore | Strategic Software Project Manager, Professional Services (Remote)
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-FL/Senior-Product-Owner_R185305 | ryder | Senior Product Owner
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Principal-Product-Manager--Developer-Platform_R0018762 | procore | Principal Product Manager, Developer Platform
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Principal-Product-Manager--Enterprise-AI-Enablement_R0018614 | procore | Principal Product Manager, Enterprise AI
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Principal-Technical-Program-Manager--Procore-for-Government_R0018663 | procore | Principal Technical Program Manager, Procore for Government
+- [ ] https://instacart.careers/job/?gh_jid=7960958 | instacart | Engineering Manager, Service Platform
+- [ ] https://instacart.careers/job/?gh_jid=8157831 | instacart | Oracle Fusion ERP Technical Analyst
+- [ ] https://instacart.careers/job/?gh_jid=8077677 | instacart | Senior Manager, Technical Account Management (Enterprise)
+- [ ] https://instacart.careers/job/?gh_jid=8141533 | instacart | Senior Software Engineer II, Marketing Enablement & Technology
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Architect--Enterprise-Data_R0018815 | procore | Architect, Enterprise Data
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Manager--Secrets-Management-Platform_R0018211 | procore | Engineering Manager – Workload Identity & Secrets Platform
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Manager--Global-Revenue-Planning-and-Strategy_R0018722 | procore | Manager, Global Revenue Planning and Strategy (Remote)
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Counsel--M-A-Integration_R0018180 | procore | Senior Counsel, M&A Integration
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Finance-Analyst---M-A-Integration_R0018651 | procore | Senior Finance Analyst - M&A Integration
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Customer-Support-Representative_R0016707 | procore | Technical Customer Support Representative
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Austin-Texas-United-States/Advanced-Analytics-Research-Scientist---Industrial-Edge-Intelligence_R26-4515 | rockwellautomation | Advanced Analytics Research Scientist - Industrial Edge Intelligence
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Nationwide-Remote-USA/Manager-Pricing---Retail--Technology--Healthcare_R187018 | ryder | Manager Pricing - Retail, Technology, Healthcare
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Illinois-USA/Advisory-Solution-Engineer---Enterprise_R013944 | sailpoint | Advisory Solution Consultant - Enterprise
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Headquarters-Austin-Texas-USA/Advisory-Solutions-Consultant---Enterprise_R013943 | sailpoint | Advisory Solutions Consultant - Enterprise
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Los-Angeles-California-USA/Enterprise-Account-Executive-Southern-California_R013664 | sailpoint | Enterprise Account Executive-Southern California
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Headquarters-Austin-Texas-USA/Manager--Data-Engineering---Analytics_R014273 | sailpoint | Manager, Data Engineering & Analytics
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Texas---Austin/Digital-Success-Analytics-Engineer_JR362928-1 | salesforce | Digital Success Analytics Engineer
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Ohio---Remote/Technical-Architect_JR354316 | salesforce | Technical Architect
+- [ ] https://instacart.careers/job/?gh_jid=8198282 | instacart | Director of Product, Logistics
+- [ ] https://instacart.careers/job/?gh_jid=8165155 | instacart | Principal Supply Chain Partner Manager
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Principal-Product-Manager--Civil---Infrastructure_R0018846 | procore | Principal Product Manager, Civil & Infrastructure
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Principal-Product-Manager--Compliance-and-Payments--New-Markets-_R0018597 | procore | Principal Product Manager, Compliance and Payments (New Markets)
+- [ ] https://pwc.wd3.myworkdayjobs.com/us_experienced_careers/job/TX-Houston/US-Technology---Senior-Technologist--Houston-_767393WD | pwc | US Technology - Senior Technologist (Houston)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--2nd-Shift_R2629913 | Applied Materials | Manufacturing Technician II - (T2) 2nd Shift
+- [ ] https://instacart.careers/job/?gh_jid=8250324 | instacart | Account Manager
+- [ ] https://instacart.careers/job/?gh_jid=7144697 | instacart | Activation Sales Development Representative I
+- [ ] https://instacart.careers/job/?gh_jid=8145998 | instacart | AI Solutions Lead, Marketing
+- [ ] https://instacart.careers/job/?gh_jid=8212434 | instacart | B2B Event Marketing Manager (6-Month Contract)
+- [ ] https://instacart.careers/job/?gh_jid=8157774 | instacart | Bilingual Customer Experience Specialist (Spanish)
+- [ ] https://instacart.careers/job/?gh_jid=8257641 | instacart | Bilingual CX Specialist (French)
+- [ ] https://instacart.careers/job/?gh_jid=8232310 | instacart | Billing Operations Lead
+- [ ] https://instacart.careers/job/?gh_jid=8250361 | instacart | Commercial Counsel
+- [ ] https://instacart.careers/job/?gh_jid=8292840 | instacart | CX Vendor Manager
+- [ ] https://instacart.careers/job/?gh_jid=8246075 | instacart | Engineering Manager, Site Reliability
+- [ ] https://instacart.careers/job/?gh_jid=8244707 | instacart | Government Affairs Manager II, Midwest and Central Region
+- [ ] https://instacart.careers/job/?gh_jid=8190576 | instacart | Government Affairs Manager II, Northwest
+- [ ] https://instacart.careers/job/?gh_jid=8214732 | instacart | HR Business Partner
+- [ ] https://instacart.careers/job/?gh_jid=8115834 | instacart | Insights Lead, Instacart Business
+- [ ] https://instacart.careers/job/?gh_jid=8234578 | instacart | Legislative Counsel
+- [ ] https://instacart.careers/job/?gh_jid=8234595 | instacart | Privacy Counsel
+- [ ] https://instacart.careers/job/?gh_jid=8292764 | instacart | Public Engagement Manager 
+- [ ] https://instacart.careers/job/?gh_jid=8122997 | instacart | Retail Lead, Sales Development
+- [ ] https://instacart.careers/job/?gh_jid=6819435 | instacart | Retail Partner Manager
+- [ ] https://instacart.careers/job/?gh_jid=7712406 | instacart | Retention Sales Development Representative II
+- [ ] https://instacart.careers/job/?gh_jid=7572155 | instacart | Sales Associate
+- [ ] https://instacart.careers/job/?gh_jid=7558978 | instacart | Sales Associate - New York
+- [ ] https://instacart.careers/job/?gh_jid=7560993 | instacart | Sales Associate - San Francisco/Los Angeles
+- [ ] https://instacart.careers/job/?gh_jid=8029661 | instacart | Sales Development Representative II, Local Independent Grocery - New York
+- [ ] https://instacart.careers/job/?gh_jid=8263161 | instacart | Sales Executive, Mid Market
+- [ ] https://instacart.careers/job/?gh_jid=8214941 | instacart | Senior Account Manager, Retail Media
+- [ ] https://instacart.careers/job/?gh_jid=8241548 | instacart | Senior AI Solution Sales Executive
+- [ ] https://instacart.careers/job/?gh_jid=7793391 | instacart | Senior Applied Scientist II, Ads Optimization
+- [ ] https://instacart.careers/job/?gh_jid=8275263 | instacart | Senior Contracts Procurement Manager
+- [ ] https://instacart.careers/job/?gh_jid=8236905 | instacart | Senior Data Scientist I - Meals
+- [ ] https://instacart.careers/job/?gh_jid=8237075 | instacart | Senior Data Scientist II - Ads Optimization
+- [ ] https://instacart.careers/job/?gh_jid=8154300 | instacart | Senior Detection Engineer II
+- [ ] https://instacart.careers/job/?gh_jid=8084349 | instacart | Senior Engineering Manager, Core Picking
+- [ ] https://instacart.careers/job/?gh_jid=8282526 | instacart | Senior Financial Insights Analyst
+- [ ] https://instacart.careers/job/?gh_jid=7963838 | instacart | Senior Machine Learning Engineer II, Ads Response Prediction
+- [ ] https://instacart.careers/job/?gh_jid=8157736 | instacart | Senior Machine Learning Engineer, Economist
+- [ ] https://instacart.careers/job/?gh_jid=7793089 | instacart | Senior Machine Learning Engineer, Operations Research
+- [ ] https://instacart.careers/job/?gh_jid=8275403 | instacart | Senior Manager, CPG Customer Success
+- [ ] https://instacart.careers/job/?gh_jid=8237126 | instacart | Senior Manager, Marketing Decision Science
+- [ ] https://instacart.careers/job/?gh_jid=8191763 | instacart | Senior Product Designer II - Lifecycle & Growth
+- [ ] https://instacart.careers/job/?gh_jid=8214827 | instacart | Senior Product Marketing Manager, Instacart+
+- [ ] https://instacart.careers/job/?gh_jid=7931358 | instacart | Senior Sales Associate
+- [ ] https://instacart.careers/job/?gh_jid=8292786 | instacart | Senior Sales Engineer
+- [ ] https://instacart.careers/job/?gh_jid=8240737 | instacart | Senior Sales Executive, Strategic
+- [ ] https://instacart.careers/job/?gh_jid=8234282 | instacart | Senior Software Engineer II - Ads Quality 
+- [ ] https://instacart.careers/job/?gh_jid=8246054 | instacart | Senior Software Engineer II, Ads Data Solutions Engineering
+- [ ] https://instacart.careers/job/?gh_jid=8053797 | instacart | Senior Software Engineer II, AI Labs & Foundations
+- [ ] https://instacart.careers/job/?gh_jid=8197990 | instacart | Senior SOX Manager - Business Processes
+- [ ] https://instacart.careers/job/?gh_jid=8237985 | instacart | Staff Android Engineer, Pick & Deliver
+- [ ] https://instacart.careers/job/?gh_jid=8084089 | instacart | Staff Experience Designer
+- [ ] https://instacart.careers/job/?gh_jid=7778693 | instacart | Staff Software Engineer,  Data Governance & Foundations
+- [ ] https://instacart.careers/job/?gh_jid=7361224 | instacart | Staff Software Engineer, FoodStorm
+- [ ] https://instacart.careers/job/?gh_jid=8141481 | instacart | Staff User Researcher - Consumer
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/AI-Application-Architect_R0018331-1 | procore | AI Application Architect
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/AI-Deployment-Specialist--Remote-_R0018727-1 | procore | AI Deployment Specialist (Remote)
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Revenue-Ops-Analyst_R0018633-1 | procore | Channel & Partner Operations Manager (Remote)
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Customer-Success-Manager-3---DroneDeploy_R0018649 | procore | Customer Success Manager 3 - DroneDeploy
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Facility-Operations-Specialist_R0018787 | procore | Facility Operations Specialist
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Group-Product-Marketing-Manager_R0018739 | procore | Group Product Marketing Manager
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/IT-Support--Executive-Services_R0018784-1 | procore | IT Support, Executive Services
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/QA-Engineer-2---DroneDeploy_R0018644 | procore | QA Engineer 2 - DroneDeploy
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Manager-of-Software-Engineering_R0018701 | procore | Senior Manager of Software Engineering
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Manager--Investor-Relations_R0018810 | procore | Senior Manager, Investor Relations
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Partner-Development-Manager_R0018609 | procore | Senior Partner Development Manager
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Product-Marketing-Manager_R0018789-1 | procore | Senior Product Marketing Manager
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas/Senior-QA-Engineer---DroneDeploy_R0018636 | procore | Senior QA Engineer - DroneDeploy
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Software-Engineer---Frontend_R0018550-1 | procore | Senior Software Engineer - Frontend
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Software-Engineer--Backend--Java-_R0018386 | procore | Senior Software Engineer, Backend (Java)
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas/Senior-Solutions-Architect--Field-Deployments---DroneDeploy_R0018647 | procore | Senior Solutions Architect, Field Deployments - DroneDeploy
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Staff-GRC-Analyst_R0018760 | procore | Senior Staff GRC Analyst
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Software-Engineer_R0018104-1 | procore | Software Engineer 2
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Analyst--GRC_R0018520-1 | procore | Staff Analyst, GRC
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-iOS-Engineer_R0018624 | procore | Staff iOS Engineer
+- [ ] https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-IL/Account-Solution-Architect_R-058387-2 | redhat | Account Solution Architect
+- [ ] https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-DC/Architect--OpenShift----Active-Top-Secret-Clearance_R-058261-1 | redhat | Architect, OpenShift -  Active Top Secret Clearance
+- [ ] https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-FL/Consultant--Ansible---Top-Secret-Clearance-Required_R-059636-1 | redhat | Consultant, Ansible - Top Secret Clearance Required
+- [ ] https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-NC/Consultant--Openshift---Top-Secret-Clearance-Required_R-060115 | redhat | Consultant, Openshift - Top Secret Clearance Required
+- [ ] https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-TX/Consulting-Services-Account-Specialist_R-058740-1 | redhat | Consulting Services Account Specialist
+- [ ] https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-MD/OpenShift-Senior-Consultant---TS-SCI---Poly-Required_R-056609-2 | redhat | OpenShift Senior Consultant - TS/SCI + Poly Required
+- [ ] https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-MD/Senior-Consultant--TS-SCI---Polygraph-Clearance-Requir_R-056272 | redhat | Senior Consultant- TS/SCI + Polygraph Clearance Requir
+- [ ] https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-NY/Solution-Architect_R-059757-1 | redhat | Solution Architect
+- [ ] https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-TX/Strategic-Accounts-Manager-5_R-059822 | redhat | Strategic Accounts Manager 5
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Houston-Texas-United-States/Executive-Assistant_R26-7275 | rockwellautomation | Executive Assistant
+- [ ] https://rxo.wd501.myworkdayjobs.com/rxojobs/job/Plano-Texas/Specialist--Carrier-Sales_JR104019 | rxo | Carrier Sales Represenative
+- [ ] https://rxo.wd501.myworkdayjobs.com/rxojobs/job/Austin-Texas/Last-Mile-Operations-Lead_JR105489 | rxo | Lead Last Mile Operations
+- [ ] https://rxo.wd501.myworkdayjobs.com/rxojobs/job/Houston-Texas/Lead--LM-Operations_JR105639-1 | rxo | Lead, LM Operations
+- [ ] https://rxo.wd501.myworkdayjobs.com/rxojobs/job/Houston-Texas/Manager--Last-Mile-Operations_JR105456 | rxo | Manager, Last Mile Operations
+- [ ] https://rxo.wd501.myworkdayjobs.com/rxojobs/job/Plano-Texas/Senior-Account-Executive_JR102399 | rxo | Senior Account Executive
+- [ ] https://rxo.wd501.myworkdayjobs.com/rxojobs/job/Buda-Texas/Supervisor--Last-Mile-Operations_JR105624-1 | rxo | Supervisor, Last Mile Operations
+- [ ] https://rxo.wd501.myworkdayjobs.com/rxojobs/job/Katy-Texas/Transportation-Supervisor_JR105819 | rxo | Transportation Supervisor
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-FL/Application-Development-Lead_R178493 | ryder | Application Development Lead
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Grand-Prairie-TX-W-E-Roberts-St/Business-Development-Manager_R184396 | ryder | Business Development Manager
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Austin-TX-78728/Business-Engagement-Manager_R182058 | ryder | Business Engagement Manager
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Roanoke-TX-76262/Continuous-Improvement-Engineer_R186664 | ryder | Continuous Improvement Engineer
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Fort-Worth-TX-76177/Fleet-Maintenance-Corporate-Fellowship---Hiring-Our-Heroes_R185914 | ryder | Fleet Maintenance Corporate Fellowship - Hiring Our Heroes
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Fort-Worth-TX-76177/Freight-Brokerage-Carrier-Sales-Representative_R186720-1 | ryder | Freight Brokerage Carrier Sales Representative
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Fort-Worth-TX-76177/Freight-Brokerage-Strategic-Account-Manager_R182060 | ryder | Freight Brokerage Strategic Account Manager
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Huntsville-TX-State-Hwy-75/Lead-Transportation-Coordinator---2nd-Shift_R184975 | ryder | Lead Transportation Coordinator - 2nd Shift
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-KY/Manager-Engineering_R185480 | ryder | Manager Engineering
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Dallas-TX-75247/Mobile-Service-Coordinator_R183684 | ryder | Mobile Service Coordinator
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Nationwide-Remote-USA/National-Rental-Customer-Development-Manager_R186428 | ryder | National Rental Customer Development Manager
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Schertz-TX-78154/Outside-Sales---Customer-Development-Manager_R184789 | ryder | Outside Sales - Customer Development Manager
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Northlake-TX-76247/Quality-Supervisor_R180343 | ryder | Quality Supervisor
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-FL/Recruiter-I-1_R184250-1 | ryder | Recruiter I-1
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-NC/Recruiting-Sourcer_R186778 | ryder | Recruiting Sourcer
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Grapevine-TX-76051/Rental-Sales-Management-Traine_R185313 | ryder | Rental Sales Management Traine
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Dallas-TX-75247/Routing-Specialist_R179543 | ryder | Routing Specialist
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Northlake-TX-76247/Scheduler_R186539 | ryder | Scheduler
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Fort-Worth-TX-76177/Senior-Manager-of-Transportation-Processes_R184613 | ryder | Senior Manager of Transportation Processes
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Dallas-TX-75211/Senior-Operations-Manager_R186020 | ryder | Senior Operations Manager
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Midland-TX-79706/Shift-Supervisor---Fleet-Services_R182353 | ryder | Shift Supervisor - Fleet Services
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Fort-Worth-TX-76177/Shipment-Management-Associate_R186903 | ryder | Shipment Management Associate
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Fort-Worth-TX-76177/Transportation-Corporate-Fellowship---Hiring-Our-Heroes_R185915 | ryder | Transportation Corporate Fellowship - Hiring Our Heroes
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Fort-Worth-TX-76177/Transportation-Driver-Manager_R184473 | ryder | Transportation Driver Manager
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Nationwide-Remote-USA/Transportation-Senior-Continuous-Improvement-Engineer--remote-_R183813 | ryder | Transportation Senior Continuous Improvement Engineer (remote)
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Converse-TX-78109/Vehicle-Sales-Manager---Used-Truck-Center_R187035 | ryder | Vehicle Sales Manager - Used Truck Center
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-North-Carolina-USA/Advisory-Solutions-Consultant_R013948 | sailpoint | Advisory Solutions Consultant
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-California-USA/Advisory-Solutions-Consultant---Strategic-West_R013941 | sailpoint | Advisory Solutions Consultant - Strategic West
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-New-York-USA/Corporate-Account-Executive_R014277 | sailpoint | Commercial Account Executive
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Headquarters-Austin-Texas-USA/Digital-Sales-Representative_R014335 | sailpoint | Digital Sales Representative
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Georgia-USA/Sales-Executive_R014370 | sailpoint | Sales Executive
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Headquarters-Austin-Texas-USA/Senior-QA-Engineer--Austin-TX_R014020 | sailpoint | Senior QA Engineer, Austin TX
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Los-Angeles-California-USA/Software-Sales-Executive_R013529 | sailpoint | Software Sales Executive
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Illinois-USA/Solution-Engineer_R013658 | sailpoint | Solution Engineer
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Arizona-USA/Strategic-Account-Executive-Southern-California_R014223 | sailpoint | Strategic Account Executive-Arizona
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Georgia---Atlanta-Metro---Remote/Communications-Designer_JR364291 | salesforce | Communications Designer
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/New-Jersey---New-York-City-Metro---Remote/Senior-Solution-Architect--Informatica_JR360428 | salesforce | Senior Solution Architect- Informatica
+- [ ] https://instacart.careers/job/?gh_jid=8265981 | instacart | Director, AI Solutions Strategy & Planning
+- [ ] https://instacart.careers/job/?gh_jid=7991597 | instacart | Director, Enterprise Product Marketing
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Principal-Enterprise-Applications-Architect_R0018103 | procore | Principal Enterprise Applications Architect
+- [ ] https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-North-Carolina-USA/RVP--Enterprise-Sales_R012764 | sailpoint | RVP of Enterprise Sales
+- [ ] https://pwc.wd3.myworkdayjobs.com/us_experienced_careers/job/TX-Houston/US-Tech-Workplace-Support-Engineer-Manager_767414WD | pwc | US Tech Workplace Support Engineer-Manager
+- [ ] https://instacart.careers/job/?gh_jid=8112136 | instacart | Chief of Staff, Online Grocery
+- [ ] https://instacart.careers/job/?gh_jid=7871823 | instacart | Director of Customer Success
+- [ ] https://instacart.careers/job/?gh_jid=8282600 | instacart | Director, Ads Product Marketing 
+- [ ] https://instacart.careers/job/?gh_jid=8215004 | instacart | Director, Product Partnerships
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Director--Global-Benefits_R0018521-1 | procore | Director, Global Benefits
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Director--MarTech---AI-Ops_R0018767 | procore | Director, MarTech & AI Ops
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Principal-Site-Reliability-Engineer--AI-Automation-and-Orchestration_R0018525 | procore | Principal Site Reliability Engineer, AI Automation and Orchestration
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Senior-Principal-Engineer_R0018565 | procore | Senior Principal Software Engineer, Ruby
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Staff-Software-Engineer---Government-Engineering--FedRAMP---Traffic-_R0018086 | procore | Staff Engineer, AI Automation and Orchestration
+- [ ] https://procore.wd12.myworkdayjobs.com/procore_external_careers/job/US---Texas---Austin/Vice-President--Partnerships_R0018652 | procore | Vice President, Partnerships
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-GA/Director-Business-Development_R185102 | ryder | Director Business Development
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Seattle-Metro---Remote/Chief-of-Staff--CRO_JR363112 | salesforce | Chief of Staff, CRO
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Virginia---Remote/Services-Sales-Solutions-Architect-Senior-Director_JR353707 | salesforce | Services Sales Solutions Architect Senior Director
+- [ ] https://sci.wd5.myworkdayjobs.com/sci/job/TX---Houston/Systems-Analyst---Supply-Chain_Req167579 | sci | Systems Analyst - Supply Chain
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Manager--Supply-Chain-of-PSI-Planning-and-Fulfillment--Dishwasher---Dacor-_R119492 | sec | Manager, Supply Chain of PSI Planning and Fulfillment (Dishwasher & Dacor)
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Manager--Supply-Chain-of-PSI-Planning-and-Fulfillment--Laundry-_R119494 | sec | Manager, Supply Chain of PSI Planning and Fulfillment (Laundry)
+- [ ] https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5450237008 | Horizon Industries | Technical Project Manager
+- [ ] https://job-boards.greenhouse.io/humaninterest/jobs/8147547 | Human Interest | Commissions Systems Analyst
+- [ ] https://job-boards.greenhouse.io/humaninterest/jobs/8237089 | Human Interest | Senior Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/kardfinancialinc/jobs/4729365005 | kardfinancialinc | Staff Product Manager, Data & Platform
+- [ ] https://job-boards.greenhouse.io/kasisto/jobs/8462035002 | Kasisto | Technical Project Manager, Agentic AI Delivery
+- [ ] https://job-boards.greenhouse.io/keyfactorinc/jobs/6223509004 | Keyfactor, Inc. | Senior Technical Product Manager 
+- [ ] https://job-boards.greenhouse.io/keyfactorinc/jobs/6179909004 | Keyfactor, Inc. | Technical Product Manager
+- [ ] https://boards.greenhouse.io/koalafi/jobs/6150213004?gh_jid=6150213004 | Koalafi | Senior Business Analyst (Consumer and Merchant Analytics)
+- [ ] https://job-boards.greenhouse.io/koboldmetals/jobs/4708591005 | KoBold Metals | Senior People Systems Analyst
+- [ ] https://job-boards.greenhouse.io/koddi/jobs/8348143002 | Koddi | Technical Program Manager
+- [ ] https://publicpartnerships.wd1.myworkdayjobs.com/ppl/job/US-Remote/Sr-Project-Manager--Enterprise-Transformation_JR26-1071 | publicpartnerships | Sr. Project Manager, Enterprise Transformation
+- [ ] https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---Texas/Digital-Product-Manager--Servicing-Platforms_R-084619 | quickenloans | Digital Product Manager, Servicing Platforms
+- [ ] https://republic.wd5.myworkdayjobs.com/republic/job/USA---Remote/HR-Systems-Analyst-III_R-185796 | republic | HR Systems Analyst III-Workday, Time & Payroll Config
+- [ ] https://selinc.wd1.myworkdayjobs.com/sel/job/Texas---Houston/Power-Systems-Project-Manager_2026-23914 | selinc | Power Systems Project Manager
+- [ ] https://servicetitan.wd1.myworkdayjobs.com/servicetitan/job/US-Remote/Staff-Product-Manager--Australia_JR114061-1 | servicetitan | Senior Product Manager -  Data and AI Platform
+- [ ] https://servicetitan.wd1.myworkdayjobs.com/servicetitan/job/US-Remote/Group-Product-Manager_JR114921 | servicetitan | Staff Product Manager, Marketing Platform
+- [ ] https://situsamc.wd1.myworkdayjobs.com/situsamc/job/Remote/Business-Analyst---Mortgage-Technology---Remote-US_JR03215 | situsamc | Business Analyst - Mortgage Technology - Remote US
+- [ ] https://job-boards.greenhouse.io/iconcareers/jobs/6134023004 | ICON | Logistics Analyst II, Mobility
+- [ ] https://job-boards.greenhouse.io/iconcareers/jobs/6223231004 | ICON | Manager, Inventory Management
+- [ ] https://regalrexnord.wd1.myworkdayjobs.com/careers/job/El-Paso-Texas-United-States/Logistics-Specialist_R26_05097 | regalrexnord | Logistics Specialist
+- [ ] https://republic.wd5.myworkdayjobs.com/republic/job/Ft-Worth-TX-USA/Dispatcher---Logistics-Analyst_R-186544 | republic | Dispatcher - Logistics Analyst
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Manager--Ecommerce-Fulfillment_R120161 | sec | Manager, Ecommerce Fulfillment
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/1530-FM-973-Taylor-TX-USA/Procurement-and-Logistics-Specialist_R120948 | sec | Procurement and Logistics Specialist
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Sr-Manager--Fulfillment-Performance-and-Optimization_R120170 | sec | Sr. Manager, Fulfillment Performance and Optimization
+- [ ] https://sizemoreco.wd5.myworkdayjobs.com/sizemorecareers/job/Austin-TX/Warehouse-techs-needed-Austin-TX_REQ000426 | sizemoreco | Warehouse techs needed Austin TX
+- [ ] https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5422419008 | Horizon Industries | Business Analyst (DISA)
+- [ ] https://job-boards.greenhouse.io/iconcareers/jobs/5689700004 | ICON | Print Operations Program Manager II
+- [ ] https://job-boards.greenhouse.io/iconcareers/jobs/6004811004 | ICON | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/iconcareers/jobs/6187643004 | ICON | Senior Product Owner I, Phoenix
+- [ ] https://job-boards.greenhouse.io/iconcareers/jobs/6188556004 | ICON | Senior Product Owner, Building Products
+- [ ] https://job-boards.greenhouse.io/iconcareers/jobs/6113077004 | ICON | Senior Project Manager
+- [ ] https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4411150009 | Industrial Electric Manufacturing | Senior Learning Program Manager
+- [ ] https://job-boards.greenhouse.io/inkind/jobs/5453190008 | inKind | Lead Product Manager 
+- [ ] https://job-boards.greenhouse.io/ispottv/jobs/4727645005 | iSpot | Sr. Product Manager 
+- [ ] https://www.jamf.com/about/careers/jobs/?gh_jid=6224141004&gh_jid=6224141004 | jamf | Project Manager II
+- [ ] https://job-boards.greenhouse.io/juvare/jobs/4740004005 | Juvare | Federal Project Manager
+- [ ] https://www.kaseya.com/careers/jobs/id/6191451004/?gh_jid=6191451004 | kaseya | Product Manager, Order-to-Cash 
+- [ ] https://www.kaseya.com/careers/jobs/id/6207144004/?gh_jid=6207144004 | kaseya | Product Manager, Salesforce
+- [ ] https://job-boards.greenhouse.io/kettle/jobs/8868834002 | Kettle | Senior Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/khaerospace/jobs/4744518005 | KH Aerospace | Senior Program Manager
+- [ ] https://job-boards.greenhouse.io/known/jobs/8728825002 | Known | Project Manager, Media Operations
+- [ ] https://job-boards.greenhouse.io/known/jobs/8643490002 | Known | Sr. Project Manager (Temp-to-Perm)
+- [ ] https://boards.greenhouse.io/koalafi/jobs/6143343004?gh_jid=6143343004 | Koalafi | Business Analyst - Strategic Finance 
+- [ ] https://job-boards.greenhouse.io/koddi/jobs/8894538002 | Koddi | Senior Product Manager
+- [ ] https://progleasing.wd5.myworkdayjobs.com/progleasingcareers/job/Remote/Senior-Product-Manager--Agentic-Commerce--Remote-_JR102050 | progleasing | Senior Product Manager- Agentic Commerce (Remote)
+- [ ] https://ptc.wd1.myworkdayjobs.com/ptc/job/Remote-USA/Product-Manager---Service-Engineering_JR112814-1 | ptc | Product Manager – Service Engineering
+- [ ] https://ptc.wd1.myworkdayjobs.com/ptc/job/Remote-USA/Senior-Implementation-Program-Manager_JR112650 | ptc | Senior Implementation Program Manager
+- [ ] https://ptc.wd1.myworkdayjobs.com/ptc/job/Remote-USA/Solution-Center-Consultant--Associate_JR112839-1 | ptc | Senior Solutions Implementation Consultant
+- [ ] https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-TX/Product-Manager_REQ-11908 | q2ebanking | Product Manager
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/West-Texas-TX/Development-Project-Manager--Data-Center-Construction-MEPR-_R2026-2041 | qtsdatacenters | Development Project Manager (Data Center Construction MEPR)
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/West-Texas-TX/Development-Project-Manager--Data-Center-Construction-OFCI-_R2026-2122 | qtsdatacenters | Development Project Manager (Data Center Construction OFCI)
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/West-Texas-TX/Senior-Development-Project-Manager--Data-Center-Construction-OFCI-_R2026-2123 | qtsdatacenters | Senior Development Project Manager (Data Center Construction OFCI)
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/West-Texas-TX/Senior-Development-Project-Manager--WTX-_R2026-1872-1 | qtsdatacenters | Senior Development Project Manager (WTX)
+- [ ] https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---US/Senior-Product-Manager--Conversion_R-084258 | quickenloans | Senior Product Manager, Growth & Conversion
+- [ ] https://rrhs.wd5.myworkdayjobs.com/acm/job/ACM---Remote/Clinical-Trials-Associate-Project-Manager_REQ_244316 | rrhs | Clinical Trials Associate Project Manager
+- [ ] https://rrhs.wd5.myworkdayjobs.com/acm/job/ACM---Remote/Clinical-Trials-Sr-Project-Manager_REQ_244318 | rrhs | Clinical Trials Sr. Project Manager
+- [ ] https://sbdinc.wd1.myworkdayjobs.com/stanley_black_decker_career_site/job/Connecticut-USA---Remote/Sr-Product-Manager--Circular-Saw-Blades---Bonded-Abrasives---DEWALT----Remote-Connecticut-Massachusetts_REQ-1000052827 | sbdinc | Sr. Product Manager (Circular Saw Blades & Bonded Abrasives – DEWALT) – Remote Connecticut/Massachusetts
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Project-Manager--WTR_R120833 | sec | Experienced Project Manager, WTR
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/1530-FM-973-Taylor-TX-USA/Project-Manager-Lead--Tool-Hookup-Electrical_R120869-1 | sec | Project Manager Lead, Tool Hookup Electrical
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/12100-Samsung-Blvd-Austin-TX-USA/Senior-Project-Manager-Lead_R120006 | sec | Senior Project Manager Lead
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/12100-Samsung-Blvd-Austin-TX-USA/Senior-Project-Manager--HVAC_R119829 | sec | Senior Project Manager, HVAC
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/12100-Samsung-Blvd-Austin-TX-USA/Water-Project-Manager_R120622 | sec | Water Project Manager
+- [ ] https://sehinc.wd12.myworkdayjobs.com/seh/job/Austin-TX/Civil-Airports-Engineer---Project-Manager_JR100664 | sehinc | Civil Airports Engineer / Project Manager
+- [ ] https://sehinc.wd12.myworkdayjobs.com/seh/job/Austin-TX/Senior-Architect---Project-Manager_JR100767 | sehinc | Senior Architect / Project Manager
+- [ ] https://silabs.wd1.myworkdayjobs.com/experiencedjobs/job/Austin/Senior-Hardware-Product-Manager_20756 | silabs | Senior Hardware Product Manager - IoT Wireless
+- [ ] https://job-boards.greenhouse.io/hopskipdrive/jobs/6209004004 | HopSkipDrive | Engineering Manager, Platform & DevOps
+- [ ] https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5808936004 | Horace Mann  | Business System Analyst - Experienced
+- [ ] https://job-boards.greenhouse.io/humaninterest/jobs/8190494 | Human Interest | Financial Systems Manager
+- [ ] https://job-boards.greenhouse.io/hungryroot/jobs/6200767004 | Hungryroot | Senior Analyst, Pricing and Business Analytics
+- [ ] https://job-boards.greenhouse.io/hungryroot/jobs/6223549004 | Hungryroot | Systems Operations Analyst
+- [ ] https://job-boards.greenhouse.io/iconcareers/jobs/6195139004 | ICON | Technical Account Manager
+- [ ] https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4330533009 | Industrial Electric Manufacturing | Platform Manager
+- [ ] https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4248993009 | Industrial Electric Manufacturing | Supply Planning Manager
+- [ ] https://job-boards.greenhouse.io/inkind/jobs/5443857008 | inKind | Finance Systems & Automation Analyst
+- [ ] https://job-boards.greenhouse.io/innodatainc/jobs/4376555009 | Innodata Inc. | Lead Analytics Engineer 
+- [ ] https://job-boards.greenhouse.io/innodatainc/jobs/4404002009 | Innodata Inc. | Technical Delivery Manager
+- [ ] https://job-boards.greenhouse.io/innodatainc/jobs/4404731009 | Innodata Inc. | Technical Training & Quality Manager
+- [ ] https://job-boards.greenhouse.io/insomniac/jobs/6009620004 | Insomniac Games | Lead Systems Designer
+- [ ] http://invoicecloud.net/careers/open-positions?gh_jid=8005539003 | invoicecloud | Manager, Technical Operations
+- [ ] https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5455802008 | Iovance Biotherapeutics | Computer Systems Validation Analyst II
+- [ ] https://job-boards.greenhouse.io/itslogisticsllc/jobs/4068677008 | ITS Logistics, LLC | Team Lead - Warehouse 
+- [ ] https://www.jamf.com/about/careers/jobs/?gh_jid=6224173004&gh_jid=6224173004 | jamf | Senior Manager, IT Enterprise Applications, Digital Workplace
+- [ ] https://job-boards.eu.greenhouse.io/kano/jobs/4779579101 | kano | Product Analytics Engineer (AI-First)
+- [ ] https://job-boards.greenhouse.io/kettle/jobs/8639414002 | Kettle | Senior Product Designer, Design Systems
+- [ ] https://job-boards.greenhouse.io/koboldmetals/jobs/4678567005 | KoBold Metals | Engineering Manager, Data Systems
+- [ ] https://job-boards.greenhouse.io/koboldmetals/jobs/4717888005 | KoBold Metals | HSE Lead, Global Programs and Systems
+- [ ] https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-TX/Machine-Learning-Engineer_REQ-12289 | q2ebanking | Emerging Technology Architect
+- [ ] https://qualifacts.wd5.myworkdayjobs.com/qualifacts_external_careers/job/US---Remote/Enterprise-Account-Manager_R-101334 | qualifacts | Enterprise Account Manager
+- [ ] https://qualys.wd5.myworkdayjobs.com/careers/job/Texas/Technical-Account-Manager_R0004774 | qualys | Technical Account Manager
+- [ ] https://quantiphi.wd1.myworkdayjobs.com/careers_at_quantiphi/job/USA---Remote/Architect---Platform-Engineering---USA_JR10342 | quantiphi | Architect - Platform Engineering - USA
+- [ ] https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Revenue-Cycle-Analyst--Underpayments-_R260000007002 | r1rcm | Revenue Cycle Analyst Underpayments
+- [ ] https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Sr-Analytics-Analyst_R260000006576 | r1rcm | Senior Analytics Analyst – Epic Revenue Cycle Reporting
+- [ ] https://rackspace.wd1.myworkdayjobs.com/external/job/IND-Work-from-Home-Remote/Application-Integration-Consultant-V_R-23867 | rackspace | Application Integration Consultant V
+- [ ] https://raymondjames.wd1.myworkdayjobs.com/raymondjamescareers/job/Georgetown-Texas---United-States/Financial-Planning-Consultant--Georgetown--TX-_R-0013052 | raymondjames | Financial Planning Consultant (Georgetown, TX)
+- [ ] https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Remote-USA/Technical-Success-Manager_R078507 | ringcentral | Technical Success Manager
+- [ ] https://risepoint.wd503.myworkdayjobs.com/risepoint/job/US---Remote/Senior-Analytics-Solutions-Analyst_JR101339-1 | risepoint | Analytics Solutions Manager
+- [ ] https://risepoint.wd503.myworkdayjobs.com/risepoint/job/US---Remote/Strategy---Analytics-Manager_JR101313 | risepoint | Marketing & Operations Analytics Manager
+- [ ] https://risepoint.wd503.myworkdayjobs.com/risepoint/job/US---Remote/Senior-Organic-Analytics-Manager_JR101340 | risepoint | Senior Organic Analytics Manager
+- [ ] https://sbdinc.wd1.myworkdayjobs.com/stanley_black_decker_career_site/job/Colombia---Remote/Data-Analytics-Lead_REQ-1000052632 | sbdinc | Data Analytics Lead
+- [ ] https://sbdinc.wd1.myworkdayjobs.com/stanley_black_decker_career_site/job/Dallas-TX-United-States/Technical-Operations-Manager_REQ-1000052056 | sbdinc | Technical Operations Manager
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Digital-Marketing-Analytics-Manager_R120063 | sec | Digital Marketing Analytics Manager
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Infra-Technology-Project-Controls-Engineer_R120535 | sec | Experienced Infra Technology Project Controls Engineer
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/1530-FM-973-Taylor-TX-USA/Gas-Systems-Manager--Gas---Chemical-Systems--GCS-_R120678-1 | sec | Gas Systems Manager, Gas & Chemical Systems (GCS)
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/NERP-Ops-Manager_R119477 | sec | NERP Ops Manager
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Senior-Manager--Financial-Business-Planning-Operation_R121259 | sec | Senior Manager, Financial Business Planning Operation
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Senior-Manager--HE-Operations-and-Analytics-Lead_R119410 | sec | Senior Manager, HE Operations and Analytics Lead
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6555-Excellence-Way-Plano-TX-USA/Senior-Manager--Social-Platforms-and-Community_R120481 | sec | Senior Manager, Social Platforms and Community
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Sr-Manager-of-Business-Intelligence--Onsite---Plano--TX-_R121173 | sec | Sr. Manager of Business Intelligence (Onsite - Plano, TX)
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Sr-Manager--GTM-Cycle-Planning-and-Governance_R121386 | sec | Sr. Manager, GTM Cycle Planning and Governance
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/1530-FM-973-Taylor-TX-USA/Ultra-Pure-Water--UPW--Engineering-Technical-Lead_R120748 | sec | Ultra Pure Water (UPW) Engineering Technical Lead
+- [ ] https://servicetitan.wd1.myworkdayjobs.com/servicetitan/job/US-Remote/Customer-Success-Manager--Enterprise_JR115662 | servicetitan | Customer Success Manager, Enterprise
+- [ ] https://servicetitan.wd1.myworkdayjobs.com/servicetitan/job/US-Remote/Sr-Pro-Product-Specialist--Convex_JR115525 | servicetitan | Enterprise Pro Product Specialist, Convex
+- [ ] https://servicetitan.wd1.myworkdayjobs.com/servicetitan/job/US-Remote/Sr-Lead-Engineer--Integration---Automation_JR115776 | servicetitan | Sr. Lead Engineer, Integration & Automation
+- [ ] https://shell.wd3.myworkdayjobs.com/shellcareers/job/Texas---Houston---Shell-Technology-Center/Lab-Technical-Excellence-Specialist_R210888 | shell | Lab Technical Excellence Specialist
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Presales-Solutions-Architect---Platforms_JR2779-1 | shi | Presales Solutions Architect - Platforms
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/Houston-TX-USA/Solutions-Engineer---Enterprise_JR2785 | shi | Solutions Engineer - Enterprise
+- [ ] https://simmonsbank.wd5.myworkdayjobs.com/simmonscareers/job/Dallas-TX/Mortgage-Warehouse-Credit-Analyst_R115411 | simmonsbank | Mortgage Warehouse Credit Analyst
+- [ ] https://job-boards.greenhouse.io/kodiak/jobs/4305446009 | Kodiak | Sr Product Manager, Command and Field Operations
+- [ ] https://pyebarkerfire.wd1.myworkdayjobs.com/pb_v2/job/Pflugerville-TX/Fire-Alarm-Project-Manager_JR115066 | pyebarkerfire | Fire Alarm Project Manager
+- [ ] https://pyebarkerfire.wd1.myworkdayjobs.com/pb_v2/job/Pflugerville-TX/Fire-Sprinkler-Project-Manager_JR115065 | pyebarkerfire | Fire Sprinkler Project Manager
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-TX-Turkey-1-DC1/Development-Project-Manager_R2026-2054-1 | qtsdatacenters | Development Project Manager (DC Construction Turkey, TX)
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-TX-Turkey-1-DC1/Quality-Assurance-Senior-Project-Manager--Data-Center-Construction-_R2026-1083 | qtsdatacenters | Quality Assurance Senior Project Manager (Data Center Construction)
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Senior-Project-Manager--TFO-Construction-_R2026-2239-1 | qtsdatacenters | Senior Project Manager (TFO Construction)
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Senior-Project-Manager--Interior-Design_R2026-1922-1 | qtsdatacenters | Senior Project Manager, Interior Design
+- [ ] https://rosendin.wd1.myworkdayjobs.com/mps/job/Office-MPS-TX-McKinney-2/Project-Manager-III_JR106913 | rosendin | Project Manager III
+- [ ] https://rosendin.wd1.myworkdayjobs.com/mps/job/Office-MPS-TX-McKinney-2/Senior-Project-Manager_JR106912 | rosendin | Senior Project Manager
+- [ ] https://sci.wd5.myworkdayjobs.com/sci/job/TX---Houston/PMO-Senior-Project-Manager_Req168057 | sci | PMO Senior Project Manager
+- [ ] https://job-boards.greenhouse.io/iterativehealth/jobs/4711872006 | Iterative Health | Clinical Research Systems Specialist
+- [ ] https://job-boards.greenhouse.io/karat/jobs/8842934002 | Karat | Principal Product Manager - Interview Innovation (United States)
+- [ ] https://boards.greenhouse.io/kivaorg/jobs/8227767?gh_jid=8227767 | kivaorg | Principal Product Manager
+- [ ] https://ptc.wd1.myworkdayjobs.com/ptc/job/Remote-USA/Principal-Project-Manager_JR112859 | ptc | Principal Project Manager
+- [ ] https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Dallas-TX/Technical-Underwriting-Manager---Inland-Marine_R1781 | rlicorp | Technical Underwriting Manager - Inland Marine
+- [ ] https://rosendin.wd1.myworkdayjobs.com/mps/job/Office-MPS-TX-McKinney-3/Business-Systems-Lead_JR105986-1 | rosendin | Business Systems Lead
+- [ ] https://rpcinc.wd1.myworkdayjobs.com/wellcontrol/job/Houston-TX/WCS-Material-Specialist-Technical-Support_R0009056 | rpcinc | WCS Material Specialist/Technical Support
+- [ ] https://ryan.wd1.myworkdayjobs.com/experienced-professionals/job/Plano/Manager--Financial-Reporting-and-Data-Analytics_R0020624 | ryan | Manager, Financial Reporting and Data Analytics
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Presales-Solutions-Architect---Enterprise-Networking_JR3833 | shi | Presales Solutions Architect - Enterprise Networking
+- [ ] https://job-boards.greenhouse.io/honehealth/jobs/5316502008 | Hone Health | Data Architect
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5449331008 | Honeycomb.io | Staff AI Operations Lead
+- [ ] https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5451439008 | Horizon Industries | BUSINESS DATA ANALYST III (DAAS API GW)
+- [ ] https://job-boards.greenhouse.io/humaninterest/jobs/8231614 | Human Interest | Sales Strategy & Operations, Senior Analyst
+- [ ] https://job-boards.greenhouse.io/humaninterest/jobs/8275207 | Human Interest | Senior Manager, Customer Operations
+- [ ] https://job-boards.greenhouse.io/hypori/jobs/6221163004 | Hypori | IT Support Specialist (On-Site)
+- [ ] https://job-boards.greenhouse.io/iconcareers/jobs/6193560004 | ICON | Construction Procurement Manager
+- [ ] http://www.ifit.com/careers?gh_jid=4443106009 | iFIT | 3PL Operations Manager - Bilingual (English/Spanish)
+- [ ] http://www.ifit.com/careers?gh_jid=4376878009 | iFIT | SAP SCM Architect
+- [ ] https://job-boards.greenhouse.io/imaginepediatrics/jobs/4741966005 | Imagine Pediatrics | Manager, Revenue Cycle Operations
+- [ ] https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4327741009 | Industrial Electric Manufacturing | AI Operations Analyst
+- [ ] https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4450114009 | Industrial Electric Manufacturing | Data Analyst
+- [ ] https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4438957009 | Industrial Electric Manufacturing | IT Manager
+- [ ] https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4227090009 | Industrial Electric Manufacturing | Lead Field Service Technician - DFW
+- [ ] https://job-boards.greenhouse.io/integra/jobs/5083082008 | IntegraFEC | Data Analyst / Associate Data Scientist
+- [ ] https://job-boards.greenhouse.io/integra/jobs/5083091008 | IntegraFEC | Data Scientist / Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/interdependence/jobs/5162014008 | Interdependence | Cold Email Operations Manager
+- [ ] https://job-boards.greenhouse.io/ispottv/jobs/4742654005 | iSpot | Associate Data Analyst
+- [ ] https://job-boards.greenhouse.io/itd/jobs/4438624009 | itd | Sales Operations Analyst I-6342
+- [ ] https://job-boards.greenhouse.io/iterativehealth/jobs/4715414006 | Iterative Health | Data Manager
+- [ ] https://job-boards.greenhouse.io/itslogisticsllc/jobs/4939376008 | ITS Logistics, LLC | Trailer Operations Manager - Fort Worth 
+- [ ] https://www.janestreet.com/join-jane-street/apply/8786447002?gh_jid=8786447002 | Jane Street | Data Center Operations Engineer
+- [ ] https://job-boards.greenhouse.io/jukeboxhealth/jobs/4449940009 | Jukebox Health | Construction Project Operations Coordinator
+- [ ] https://job-boards.greenhouse.io/kalepa/jobs/6207788004 | Kalepa | Senior Manager, Revenue Operations
+- [ ] https://job-boards.greenhouse.io/kalshi/jobs/7530697003 | Kalshi | Operations Risk Analyst
+- [ ] https://job-boards.greenhouse.io/kalshi/jobs/7530675003 | Kalshi | Operations Risk Lead
+- [ ] https://job-boards.greenhouse.io/karbon/jobs/6208899004 | Karbon | AI Operations Lead
+- [ ] https://job-boards.greenhouse.io/kardfinancialinc/jobs/4730995005 | kardfinancialinc | Software Engineering Manager, Data
+- [ ] https://job-boards.greenhouse.io/kargo/jobs/5727086004 | Kargo | Field Operations Technician
+- [ ] https://job-boards.greenhouse.io/kasa/jobs/7793147003 | kasa | Property Operations Lead
+- [ ] https://www.kaseya.com/careers/jobs/id/6200413004/?gh_jid=6200413004 | kaseya | Business Process Lead, Digital & Service Experience
+- [ ] https://job-boards.greenhouse.io/knock/jobs/6222273004 | Knock | Lending Operations Specialist - Remote 
+- [ ] https://job-boards.greenhouse.io/known/jobs/8728830002 | Known | Senior Specialist, Ad Operations & Measurement
+- [ ] https://job-boards.greenhouse.io/koboldmetals/jobs/4735150005 | KoBold Metals | Field Operations Lead
+- [ ] https://job-boards.greenhouse.io/koboldmetals/jobs/4720165005 | KoBold Metals | Field Operations Lead, Sweden
+- [ ] https://job-boards.greenhouse.io/koboldmetals/jobs/4731301005 | KoBold Metals | Senior Operations Data Analyst
+- [ ] https://job-boards.greenhouse.io/koddi/jobs/8859152002 | Koddi | Digital Marketing Analyst 
+- [ ] https://job-boards.greenhouse.io/koddi/jobs/8227347002 | Koddi | Program Operations Coordinator
+- [ ] https://job-boards.greenhouse.io/kodiak/jobs/4420830009 | Kodiak | Operations Lead, Command Center
+- [ ] https://progleasing.wd5.myworkdayjobs.com/progleasingcareers/job/Texas/Manager--Audit-Services--Remote-_JR101972 | progleasing | Manager, Audit Services (Remote)
+- [ ] https://prologis.wd5.myworkdayjobs.com/prologis_external_careers/job/Houston-Texas/Operations-Construction-Manager_R6839 | prologis | Operations Construction Manager
+- [ ] https://publicpartnerships.wd1.myworkdayjobs.com/ppl/job/US-Remote/Fraud-Audit---Investigations-Analyst_JR26-1068 | publicpartnerships | Fraud Audit & Investigations Analyst
+- [ ] https://publicpartnerships.wd1.myworkdayjobs.com/ppl/job/US-Remote/Fraud-Audit---Investigations-Specialist_JR26-1072 | publicpartnerships | Fraud Audit & Investigations Specialist
+- [ ] https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-TX/Application-Support-Analyst_REQ-12848 | q2ebanking | Application Support Analyst
+- [ ] https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-TX/Manager--Database-Engineering_REQ-12825 | q2ebanking | Manager, Database Engineering
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/West-Texas-TX/Manager--Facilities-Operations-Commissioning_R2026-1982-1 | qtsdatacenters | Manager, Facilities Operations Commissioning
+- [ ] https://quantiphi.wd1.myworkdayjobs.com/careers_at_quantiphi/job/USA---Remote/Architect---Data-Engineer_JR11504 | quantiphi | Architect - Data Engineer
+- [ ] https://quantiphi.wd1.myworkdayjobs.com/careers_at_quantiphi/job/USA---Remote/Senior-Tech-Architect---PE_JR11505 | quantiphi | Senior Tech Architect - PE
+- [ ] https://raymondjames.wd1.myworkdayjobs.com/raymondjamescareers/job/Frisco-Texas---United-States/Branch-Operations-Specialist--Frisco--TX-_R-0012917 | raymondjames | Branch Operations Specialist (Frisco, TX)
+- [ ] https://regeneron.wd1.myworkdayjobs.com/careers/job/Remote---United-States/Associate-Manager-Digital-Health-Technologies_R51575 | regeneron | Associate Manager Digital Health Technologies
+- [ ] https://regeneron.wd1.myworkdayjobs.com/careers/job/Remote---United-States/Manager--Clinical-Data-Manager-Study-Lead_R49901 | regeneron | Manager, Clinical Data Manager Study Lead
+- [ ] https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/Home-based-Texas/Legal-Tech-Client-Manager_R118179 | relx | Legal Tech Client Manager- Texas
+- [ ] https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/Remote---USA---Nationwide/Manager-Data-Engineering_R105926 | relx | Manager Content Data Engineering
+- [ ] https://relx.wd3.myworkdayjobs.com/risksolutions/job/Remote---USA---Nationwide/Senior-Manager--Data-Acquisition_R116682-2 | relx | Senior Manager, Data Acquisition
+- [ ] https://republic.wd5.myworkdayjobs.com/republic/job/Lewisville-TX-USA/Maintenance-Shop-Lead-Tech_R-186717 | republic | Maintenance Shop Lead Tech
+- [ ] https://revvity.wd103.myworkdayjobs.com/external/job/US-Remote---NJ/Territory-Account-Manager--Informatics-Solutions--NA-East-Region_JR-044662 | revvity | Territory Account Manager- Informatics Solutions, NA-East Region
+- [ ] https://rgare.wd1.myworkdayjobs.com/careers/job/Remote-Missouri-United-States-of-America/Senior-Software-Engineering-Architect---Investment-Technologies_J28518 | rgare | Senior Software Engineering Architect — Investment Technologies
+- [ ] https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Remote-USA/Sales-Operations-Manager_R078553 | ringcentral | Sales Operations Manager
+- [ ] https://ryansg.wd5.myworkdayjobs.com/ryan_specialty_career_site/job/Remote---United-States/Underwriting-Operations-Technician-Inspection-Department_JR26-5328 | ryansg | Underwriting Operations Technician-Inspection Department
+- [ ] https://ryzesuperfoods.wd108.myworkdayjobs.com/ryze_external_career_site/job/Remote---USA/Lifecycle-Operations-Manager_R-100432 | ryzesuperfoods | Lifecycle Operations Manager
+- [ ] https://ryzesuperfoods.wd108.myworkdayjobs.com/ryze_external_career_site/job/Remote---USA/People-Operations-Manager_R-100465 | ryzesuperfoods | People Operations Manager
+- [ ] https://sands.wd1.myworkdayjobs.com/sands_careers/job/Dallas-Texas/Senior-Application-Architect_R26_0153 | sands | Senior Application Architect
+- [ ] https://savista.wd1.myworkdayjobs.com/savista/job/Remote---USA/Lead-HIM-Technician_R6044 | savista | Lead HIM Technician
+- [ ] https://savista.wd1.myworkdayjobs.com/ods-c/job/Remote---USA/Regisitry-Abstractor_R5230 | savista | Oncology Data Specialist - Abstractor
+- [ ] https://sbdinc.wd1.myworkdayjobs.com/stanley_black_decker_career_site/job/Hawaii-USA---Remote/Service-Operations-Manager_REQ-1000052516 | sbdinc | Service Operations Manager
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations-Cost-Manager_R121395 | sec | Business Operations Cost Manager
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/1530-FM-973-Taylor-TX-USA/Infra-Electrical-Operations---Maintenance-Manager_R120970 | sec | Infra Electrical Operations & Maintenance Manager
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Order-Management-Senior-Specialist_R119308 | sec | Order Management Senior Specialist
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Sales-Operations-Manager---Home-Entertainment_R119414 | sec | Sales Operations Manager - Home Entertainment
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/SCM-Strategy---Operations-Manager--D2C-MX-_R121350 | sec | SCM Strategy & Operations Manager (D2C MX)
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/12100-Samsung-Blvd-Austin-TX-USA/Senior-HVAC-Operations-Technician_R121075-1 | sec | Senior Facilities Operations Technician
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Senior-Manager---Digital-Appliance-Order-Management---Sales-Enablement-Team_R121007 | sec | Senior Manager - Digital Appliance Order Management - Sales Enablement Team
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6555-Excellence-Way-Plano-TX-USA/Manager--Customs-Compliance-Operations_R120897 | sec | Senior Manager, Customs Compliance Operations
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Senior-Manager--eCommerce-Sales---Marketing-Operations---Plano--TX-_R121447 | sec | Senior Manager, eCommerce Sales & Marketing Operations  (Plano, TX)
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Sr-Manager-Digital-Marketing---Dacor-Builder_R119306-1 | sec | Sr. Manager, Digital Marketing (Dacor Luxury Appliances & Builder)
+- [ ] https://servicetitan.wd1.myworkdayjobs.com/servicetitan/job/US-Remote/Data-Quality-Analyst_JR116144 | servicetitan | Data Quality Analyst
+- [ ] https://sharecare.wd1.myworkdayjobs.com/sharecare_careers/job/Remote/Manager--Global-Central-Operations--Remote_R-102104 | sharecare | Manager, Central Operations Quality Support - Remote
+- [ ] https://sharecare.wd1.myworkdayjobs.com/sharecare_careers/job/Remote/Manager--Provider-Global-Operations---Remote_R-102069 | sharecare | Manager, FMLA/Disability Forms Operations - Remote
+- [ ] https://sharecare.wd1.myworkdayjobs.com/sharecare_careers/job/Remote/Manager--Global-Central-Operations----Remote_R-102098 | sharecare | Manager, Global Central Operations  - Remote
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/Business-Development-Manager---Dell-Technologies_JR3748 | shi | Business Development Manager - Dell Technologies
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Manager---Datacenter-Services-Sales_JR3828 | shi | Manager - Datacenter Services Sales
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/Manager---IT-Communications---Digital-Operations_JR3639 | shi | Manager - IT Communications & Digital Operations
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Presales-Solutions-Engineer---Data-Protection_JR2478-1 | shi | Presales Solutions Engineer - Data Security
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Solutions-Architect---Data-Governance_JR3582 | shi | Solutions Architect - Data Governance
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Sr-Manager---Procurement-Services_JR3814 | shi | Sr. Manager - Procurement Services
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Sr-Solutions-Architect---Services-Presales---Datacenter_JR3831 | shi | Sr. Solutions Architect - Services Presales - Datacenter
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Sr-Solutions-Architect---Services-Presales---Microsoft-Fabric---Data-Engineering_JR3758 | shi | Sr. Solutions Architect - Services Presales - Microsoft Fabric & Data Engineering
+- [ ] https://shusa.wd5.myworkdayjobs.com/external/job/Austin-TX/Senior-Laboratory-Operations-Specialist_REQ-037924 | shusa | Senior Laboratory Operations Specialist
+- [ ] https://silvercross.wd5.myworkdayjobs.com/silvercrosscareers/job/Home-Remote/Application-Analyst---HIM_R-0012329 | silvercross | Application Analyst - HIM
+- [ ] https://job-boards.greenhouse.io/jumio/jobs/4738722005 | Jumio | Principal Enterprise Architect
+- [ ] https://publicpartnerships.wd1.myworkdayjobs.com/ppl/job/US-Remote/Principal-Analytics-Engagement-Consultant_JR26-1061 | publicpartnerships | Principal Analytics Engagement Consultant
+- [ ] https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Plano/Director--Product-Owner--Salesforce_R0020249-1 | ryan | Director, Product Owner, Salesforce
+- [ ] https://imacorp.com/careers/openings/5247617007?gh_jid=5247617007 | IMA Financial Group | Director IT Technical Operations
+- [ ] https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5413281008 | Iovance Biotherapeutics | Associate Director, Digital Experience & AI Production
+- [ ] https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Remote---USA/North-America-Digital-Solutions-Key-Account-Director_R-36607-1 | prysmiangroup | North America Digital Solutions Key Account Director
+- [ ] https://pyebarkerfire.wd1.myworkdayjobs.com/pb_v2/job/1010-Arbor-Park-Drive-Belton-TX-76513---1334/Fire-alarm-Construction-Lead-Technician_JR115604 | pyebarkerfire | Fire alarm Construction Lead Technician
+- [ ] https://pyebarkerfire.wd1.myworkdayjobs.com/pb_v2/job/Lubbock-TX/Operations-Manager_JR115262 | pyebarkerfire | Fire Protection Operations Manager
+- [ ] https://pyebarkerfire.wd1.myworkdayjobs.com/pb_v2/job/6102-Imperial-Loop-Drive-College-Station-TX-77845--1310-01/Fire-Sprinkler-Install-Lead-Technician_JR115611 | pyebarkerfire | Fire Sprinkler Install Lead Technician
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Capital-Equipment-Procurement-Manager---Electrical_R2026-1185-1 | qtsdatacenters | Capital Equipment Procurement Manager - Electrical
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Capital-Equipment-Procurement-Manager---High-Voltage_R2026-1060-1 | qtsdatacenters | Capital Equipment Procurement Manager - Power Generation
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-TX-Turkey-1-DC1/Critical-Operations-Manager_R2026-2001-1 | qtsdatacenters | Critical Operations Manager
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Critical-Operations-Technician-I_R2026-2242-1 | qtsdatacenters | Critical Operations Technician I
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Manager--Facilities-Operations-Commissioning_R2026-1981-1 | qtsdatacenters | Manager, Facilities Operations Commissioning (Travel Team)
+- [ ] https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-TX-Turkey-1-DC1/Security-Operations-Manager-I_R2026-1522-1 | qtsdatacenters | Security Operations Manager I
+- [ ] https://rackspace.wd1.myworkdayjobs.com/external/job/US-TX-Richardson-DFW3/Data-Center-Operations-Technician_R-23752 | rackspace | Data Center Operations Technician
+- [ ] https://rb.wd5.myworkdayjobs.com/frs/job/Dallas-TX/Audit-Manager_R-0000033662-1 | rb | Audit Manager
+- [ ] https://rockdentalbrands.wd5.myworkdayjobs.com/axpm-dental-management-llc/job/Dallas-TX/Regional-Operations-Manager--Orthodontic---Dental-_JR102195 | rockdentalbrands | Regional Operations Manager (Orthodontic / Dental)
+- [ ] https://ryan.wd1.myworkdayjobs.com/experienced-professionals/job/Plano/Manager--Security-Operations-and-Office-Support_R0020117 | ryan | Manager, Security Operations and Office Support
+- [ ] https://ryan.wd1.myworkdayjobs.com/experienced-professionals/job/Plano/Senior-Manager--Customer-Success-Operations_R0020907-1 | ryan | Senior Manager, Customer Success Operations
+- [ ] https://schumacher.wd1.myworkdayjobs.com/corporate-careers/job/Tyler-TX/Anesthesia-Operations-Manager_JR7112-1 | schumacher | Anesthesia Operations Manager
+- [ ] https://sci.wd5.myworkdayjobs.com/sci/job/TX---Houston/Document-Operations-Specialist_Req167811 | sci | Document Operations Specialist
+- [ ] https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-TX/Data-Analyst_R79126 | sedgwick | Data Analyst
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Presales-Solutions-Engineer---Security_JR3086 | shi | Presales Solutions Engineer - Data Protection
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Principal-Architect---Data---AI_JR3553 | shi | Principal Architect - Data & AI
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Principal-Architect---Databricks_JR3672 | shi | Principal Architect - Databricks
+- [ ] https://shusa.wd5.myworkdayjobs.com/external/job/Dallas-TX/Lead-Clinical-Laboratory-Technologist--Molecular-Oncology_REQ-037534 | shusa | Lead Clinical Laboratory Technologist- Molecular Oncology
