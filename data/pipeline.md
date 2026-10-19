@@ -4759,3 +4759,537 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Principal-Architect---Data---AI_JR3553 | shi | Principal Architect - Data & AI
 - [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Principal-Architect---Databricks_JR3672 | shi | Principal Architect - Databricks
 - [ ] https://shusa.wd5.myworkdayjobs.com/external/job/Dallas-TX/Lead-Clinical-Laboratory-Technologist--Molecular-Oncology_REQ-037534 | shusa | Lead Clinical Laboratory Technologist- Molecular Oncology
+
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Analyst--Inventory-Planning_10337654 | toyota | Senior Analyst, Inventory Planning
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/Staff-Technical-Program-Manager_JR102498 | stord | Staff Technical Program Manager - Vision AI
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7975695 | mongodb | Senior Product Manager, Post Sales
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8213746 | mongodb | Senior Project Manager - Professional Services
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/Compliance-Program-Manager_JR103130 | stord | Compliance Program Manager
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/Project-Manager-I--SPN_JR103326-2 | stord | Project Manager I, SPN
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/VP--Fulfillment-Planning-and-Optimization_JR103184-1 | stord | VP, Fulfillment Planning and Optimization
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Product-Manager_10332602 | toyota | Product Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8044218 | mongodb | Associate Technical Services Engineer II
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7027846 | mongodb | Enterprise Account Executive, Growth
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7311204 | mongodb | Enterprise Sales Development Representative
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8072504 | mongodb | Senior Manager, Financial Planning & Analysis
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7736164 | mongodb | Senior Manager, Technical Revenue
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Flower-Mound-Texas/Marketing-Manager--Downstream-Integration_R575058-1 | stryker | Marketing Manager, Downstream Integration
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Houston-Texas/ProAssure-Technical-Services-Specialist_R574217 | stryker | ProAssure Technical Services Specialist
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Flower-Mound-Texas/Staff-Software-Quality-Engineer--Post-Market-Integration_R569655 | stryker | Staff Software Quality Engineer, Post Market Integration
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/4333-Power-Way-MidlothianTX-76065-8800/Logistics-Yard-Operations-Manager---Regional-Distribution-Center---Midlothian--TX_R0000476099 | target | Logistics Yard Operations Manager - Regional Distribution Center - Midlothian, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/4333-Power-Way-MidlothianTX-76065-8800/Maintenance-Technician-2--Regional-Distribution-Center---Midlothian--TX_R0000477555 | target | Maintenance Technician 2 -Regional Distribution Center - Midlothian, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/4333-Power-Way-MidlothianTX-76065-8800/Operations-Manager---Fulfillment-Regional-Distribution-Center---Midlothian--TX_R0000446556-1 | target | Operations Manager - Fulfillment/Regional Distribution Center - Midlothian, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/4333-Power-Way-MidlothianTX-76065-8800/Seasonal-Full-Time-Hourly-Warehouse-Operations-Openings--T3801-_R0000447602 | target | Seasonal Full Time Hourly Warehouse Operations Openings (T3801)
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Analyst--Analytics_10323356 | toyota | Analyst, Analytics
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Analyst--Treasury-Systems_10332292 | toyota | Analyst, Treasury Systems
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Sr-Analyst---Accounting-and-Finance_10333611 | toyota | BPC/SAC Planning Functional Senior Analyst
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Engineer--Technical-Training_10331815 | toyota | Engineer- Technical Training
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Site-Reliability-Engineer---Platforms_10325078 | toyota | Site Reliability Engineer - Platforms
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/SrOracle-EPM-Cloud-Planning-Engineer_10332391 | toyota | Sr.Oracle EPM Cloud Planning Engineer
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/SrSoftware-Engineer-Salesforce-Platform-_10332852 | toyota | Sr.Software Engineer(Salesforce Platform)
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Technical-Lead--Learning-Systems_10337412 | toyota | Technical Lead, Learning Systems
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Technical-Manager---Salesforce-Marketing-Cloud_10299149 | toyota | Technical Manager - Salesforce Marketing Cloud
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Technical-Manager-Salesforce-Platform-_10322780 | toyota | Technical Manager (Salesforce Platform)
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Technical-Manager-Full-Stack_10325032 | toyota | Technical Manager-Full Stack
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/VP--Quality_JR103232-1 | stord | VP, Inventory Control & Quality Assurance
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7908293 | mongodb | Product Manager, Internal Financial Data
+- [ ] https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Frisco-TX/Technology-Underwriter---Dallas--TX_R2626691 | thehartford | Technology Underwriter - Dallas, TX
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---Richardson/General-Liability-Technical-Specialist_R-53159 | travelers | General Liability Technical Specialist
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---Houston/Technical-Specialist--Strategic-Resolution-Group_R-53263 | travelers | Technical Specialist, Strategic Resolution Group
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Field-Service-Engineer-III---Process--Diagnostics--and-Control-Metrology_R2631464 | Applied Materials | Field Service Engineer III - Process, Diagnostics, and Control/Metrology
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-II----T2--2nd-Shift_R2629908 | Applied Materials | Manufacturing Technician II - (T2) 2nd Shift
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7615794 | mongodb | Associate Commercial Growth Account Executive
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8201245 | mongodb | Compensation Manager, Customer
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8013287 | mongodb | Enablement Delivery Specialist
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8229636 | mongodb | Legal Counsel, Procurement 
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8229892 | mongodb | Manager, Solutions Architecture (Pre-Sales)
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8083437 | mongodb | Manager, Travel
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8208271 | mongodb | Senior Compensation Manager, Sales
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8146372 | mongodb | Senior Consulting Engineer
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8160195 | mongodb | Senior Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8237572 | mongodb | Senior Financial Analyst
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8169006 | mongodb | Senior HR Business Partner
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8200824 | mongodb | Senior Leadership Development Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7782383 | mongodb | Senior Manager, Recruiting Operations
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8130589 | mongodb | Senior Partner Marketing Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7991447 | mongodb | Senior Salesforce Engineer
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7727873 | mongodb | Senior Site Reliability Engineer,  Fleet Management
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7727920 | mongodb | Senior Site Reliability Engineer, Fabric
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7668289 | mongodb | Senior Site Reliability Engineer, Infrastructure Security
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8274765 | mongodb | Senior Software Engineer (SRE), Infrastructure Security
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8140620 | mongodb | Senior Software Engineer, Identity & Access Management (FedRamp)
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7870876 | mongodb | Senior Software Engineer, Query Optimization
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8152813 | mongodb | Senior Solutions Architect (Pre-Sales)
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7727964 | mongodb | Site Reliability Engineer (Senior or Staff), Atlas
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8211464 | mongodb | Sr. Manager, Corporate Development & Ventures
+- [ ] https://spscommerce.wd108.myworkdayjobs.com/sps/job/United-States-Remote/Retail-Insights-Manager--Sales-Engineer-_R-001214 | spscommerce | Retail Insights Manager (Sales Engineer)
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/Corporate-Counsel_JR103255 | stord | Corporate Counsel
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/Customer-Experience-Manager---Standalone-Parcel_JR102823 | stord | Customer Experience Manager - Standalone Parcel
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote---TX/Regional-Safety--Compliance--and-Loss-Prevention-Manager_JR102841-1 | stord | Regional Safety, Compliance, and Loss Prevention Manager
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/Data-Engineer_JR101967 | stord | Senior Data Engineer (GCP)
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/Senior-Marketing-Operations-Manager_JR103217 | stord | Senior Marketing Operations Manager
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/Staff-Data-Scientist_JR102278 | stord | Staff Data Scientist
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Houston-Texas/Associate-Sales-Representative---South-Texas---Acute-Care_R574976 | stryker | Associate Sales Representative - South Texas - Acute Care
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Dallas-Texas/Associate-Sales-Representative--Joint-Replacement---West-Dallas_R575585 | stryker | Associate Sales Representative, Joint Replacement - West Dallas
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Houston-Texas/Clinical-Specialist---Houston---Neurovascular_R575780 | stryker | Clinical Specialist - Houston - Neurovascular
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/McAllen-Texas/Joint-Replacement-Sales-Associate---Rio-Grande-Valley--Texas_R572964-1 | stryker | Joint Replacement Sales Associate - Rio Grande Valley, Texas
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Austin-Texas/OnSite-Specialist---Austin--TX_R575267-1 | stryker | OnSite Specialist - Austin, TX
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Houston-Texas/ProAssure-Clinical-Services-Specialist--Hybrid-_R574223 | stryker | ProAssure Clinical Services Specialist (Hybrid)
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Houston-Texas/Sales-Representative---Houston---Interventional-Spine--Pain-Specialist-_R575701 | stryker | Sales Representative - Houston - Interventional Spine (Pain Specialist)
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Flower-Mound-Texas/Senior-Manager--Complex-Accounting--hybrid-_R575036 | stryker | Senior Manager, Complex Accounting (hybrid)
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Flower-Mound-Texas/Senior-Quality-Control-Inspector_R574908 | stryker | Senior Quality Control Inspector
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Flower-Mound-Texas/Manager--NPD-Sourcing--Hybrid-_R574503 | stryker | Sourcing Manager- NPI  (Hybrid)
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Flower-Mound-Texas/Sr-Product-Quality-Engineering-Technician---1st-Shift---Starting-at--3512-hr_R570892 | stryker | Sr Product Quality Engineering Technician - 1st Shift - Starting at $35.12/hr
+- [ ] https://stryker.wd1.myworkdayjobs.com/strykercareers/job/El-Paso-Texas/Trauma-Sales-Representative---El-Paso--TX_R575726 | stryker | Trauma Sales Representative - El Paso, TX
+- [ ] https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-North-Texas/CDL-A-Local-Delivery-Truck-Driver_R263929 | sysco | CDL A Local Delivery Truck Driver
+- [ ] https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Central-Texas-Edinburg/CDL-A-Local-Delivery-Truck-Driver--Food-Bev-_R263830 | sysco | CDL A Local Delivery Truck Driver (Food/Bev)
+- [ ] https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Central-Texas-Austin/CDL-A-Shuttle-Truck-Driver_R271792 | sysco | CDL A Shuttle Truck Driver
+- [ ] https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-North-Texas/Material-Handling-Equipment-Technician-I_R269421 | sysco | Material Handling Equipment Technician I
+- [ ] https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-North-Texas/Sales-Consultant---USBL---US_R270057 | sysco | Sales Consultant - DFW/Irving/Grapevine/Southlake
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/9500-S-IH-35-STE-GAustin-TX-78748-1753/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising-and-Service----Austin--TX_R0000477485 | target | Executive Team Leader Specialty Sales (Assistant Manager Merchandising and Service) - Austin, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-AUSTIN-ST-FOREST-HILLSNY-11375-1022/Human-Resources-Expert_R0000477215 | target | Human Resources Expert
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/9400-Tuscany-Way-Bldg-2-AustinTX-78754/Maintenance-Technician-1---Sortation-Center---Austin--TX_R0000477546 | target | Maintenance Technician 1 - Sortation Center - Austin, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/10107-Research-Blvd-Austin-TX-78759-5803/Service---Engagement-Team-Leader---Austin--TX_R0000477328 | target | Service & Engagement Team Leader - Austin, TX
+- [ ] https://thehartford.wd5.myworkdayjobs.com/careers_external/job/United-States---Remote/Client-Relationship-Manager--Employee-Benefits_R2626715 | thehartford | Client Relationship Manager, Employee Benefits
+- [ ] https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Maryland-Remote/Workers--Compensation-Claim-Representative-Senior-Claim-Representative_R2627085 | thehartford | Workers' Compensation Claim Representative/Senior Claim Representative
+- [ ] https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Washington-Remote/Workers--Compensation-Senior-Claim-Representative_R2627116 | thehartford | Workers' Compensation Senior Claim Representative
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/IT-Accounting-Analyst_10336274 | toyota | Accounting Analyst
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/AI-Governance-Manager_10330960 | toyota | AI Governance Manager
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Artificial-Intelligence-Senior-Analyst_10337258 | toyota | Artificial Intelligence Senior Analyst
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Asset-Management-Sr-Analyst--Accounting-and-Finance_10335354 | toyota | Asset Management Sr. Analyst, Accounting and Finance
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Business-Continuity-Senior-Analyst_10333839 | toyota | Business Continuity Senior Analyst
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Incident-Response-Lead_10327584 | toyota | Cyber Incident Response Lead
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Cyber-Product-Security-Engineer--Lead_10329384 | toyota | Cyber Product Security Engineer, Lead
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Cyber-Threat-Emulation-Operator--Lead_10313770 | toyota | Cyber Threat Emulation Operator, Lead
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Data-Scientist_10334425 | toyota | Data Scientist
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Domain-Risk-Lead---Banking---Commercial-Lending_10336910 | toyota | Domain Risk Lead - Banking & Commercial Lending
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Identity---Access-Management--IAM--Operations-Engineer--Senior_10296993 | toyota | Identity & Access Management (IAM) Operations Engineer, Senior
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Lead-ML-AI-Engineer_10332594-1 | toyota | Lead ML/AI Engineer
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Lead--DevOps-Engineer_10330905 | toyota | Lead, DevOps Engineer
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Learning-Delivery-Manager_10327601 | toyota | Learning Delivery Manager
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Learning-Experience-Senior-Analyst_10336482 | toyota | Learning Experience Senior Analyst
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Learning-Strategy-Consultant_10330206 | toyota | Learning Strategy Consultant
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Manager---AI-Value-Realization_10337465 | toyota | Manager - AI Value Realization
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Manager--Engineering_10337045 | toyota | Manager, Engineering
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Manager--Engineering---Originations_10332612 | toyota | Manager, Engineering - Originations
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Manager--HR-Communications-and-Change_10329746 | toyota | Manager, HR Communications and Change
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Manager--IT-Risk-Governance---Assessment_10320076 | toyota | Manager, IT Risk Governance & Assessment
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Productivity-Security--Senior_10336496 | toyota | Productivity Security, Senior
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/SAP-Techno-Functional-Vertex-Sr-Analyst_10334891 | toyota | SAP Techno-Functional Vertex Sr. Analyst
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Security-AI---ML-Engineer--Lead_10336494 | toyota | Security AI / ML Engineer, Lead
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Security-Engineer--Lead_10335913 | toyota | Security Engineer, Lead
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Security-ML---AI-Engineer--Senior_10321453 | toyota | Security ML / AI Engineer, Senior
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Analyst--Cyber-Risk-Assurance_10338216 | toyota | Senior Analyst, Cyber Risk Assurance
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Analyst--Sponsorships_10337487 | toyota | Senior Analyst, Sponsorships
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Analyst--Threat---Exposure_10335912 | toyota | Senior Analyst, Threat & Exposure
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Engineer---Data-Science_10338143 | toyota | Senior Engineer - Data Science
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Financial-Analyst--NA-P-L-Consolidation_10336999 | toyota | Senior Financial Analyst, NA P&L Consolidation
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Lead-Software-Engineer---Backend_10322363-1 | toyota | Senior Lead Software Engineer - Backend
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Software-Engineer_10331376-1 | toyota | Senior Software Engineer
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Software-Engineer---Frontend_10333648-1 | toyota | Senior Software Engineer - Frontend
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Third-Party-Cyber-Security-Risk-Analyst_10329377 | toyota | Senior Third-Party Cyber Security Risk Analyst
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Site-Reliability-Engineer---Backup-Infrastructure_10336561-1 | toyota | Site Reliability Engineer - Backup Infrastructure
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-IVR-Architect_10330701-1 | toyota | Software Engineer - IVR Lead
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Lead_10332616-1 | toyota | Software Engineer, Lead
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Lead_10320236 | toyota | Software Engineering, Lead
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Sr-Financial-Analyst---Treasury-ABS-Operations_10336696 | toyota | Sr. Financial Analyst – Treasury ABS Operations
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Sr-Manager--Connected-Data-Strategy---Business-Development_10336742 | toyota | Sr. Manager, Connected Data Strategy & Business Development
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Treasury-Operations-Manager_10334636 | toyota | Treasury Operations Manager
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/VP-of-Internal-Systems---IT_JR103207 | stord | VP of Internal Systems & IT
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/DFW2---Dallas-TX/Customer-Experience-Associate_JR103359 | stord | Customer Experience Associate
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/DFW2---Dallas-TX/Manager-of-Health--Safety----Loss-Prevention_JR103134 | stord | Manager of Health, Safety, & Loss Prevention
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/DFW2---Dallas-TX/Operations-Lead--A2-_JR102782 | stord | Operations Lead (A2)
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/DFW2---Dallas-TX/Operations-Lead--B2-_JR103236 | stord | Operations Lead (B2)
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/DFW2---Dallas-TX/Operations-Manager_JR102593 | stord | Operations Manager
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/DFW2---Dallas-TX/Overnight-Area-Manager-I_JR101857 | stord | Overnight Area Manager I
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/DFW2---Dallas-TX/People-Operations-Administrator---Central_JR103123-1 | stord | People Operations Administrator - Central
+- [ ] https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Edward-Don--Company---The-Colony---TX/Sales-Representative---DFW-Territory_R263212 | sysco | Sales Representative - DFW Territory
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/135-Creekside-Way-New-Braunfels-TX-78130-6248/Executive-Team-Leader-GM---Grocery--Assistant-Manager-General-Merchandise-and-Grocery----New-Braunfels--TX_R0000454236-1 | target | Executive Team Leader GM & Grocery (Assistant Manager General Merchandise and Grocery)
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/16300-Southwest-Fwy-Sugar-LandTX-77479-2371/Executive-Team-Leader-Service---Engagement--Assistant-Manager-Front-End--South-West-Houston--TX_R0000453129 | target | Executive Team Leader Service & Engagement (Assistant Manager Front End) South West Houston, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/22832-US-Highway-281-N-San-AntonioTX-78258-7430/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising-and-Service----San-Antonio--TX_R0000477338 | target | Executive Team Leader Specialty Sales (Assistant Manager Merchandising and Service) - San Antonio, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/1600-W-Arbrook-Blvd-ArlingtonTX-76015-4107/Food---Beverage-Team-Leader---Arlington--TX_R0000477146 | target | Food & Beverage Team Leader - Arlington, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/14302-FM-2920-Rd-TomballTX-77377-5504/General-Merchandise-Team-Leader---Tomball--TX_R0000476051 | target | General Merchandise Team Leader - Tomball, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/8201-I-40-W-AmarilloTX-79121-1104/General-Merchandise-Team-Leader--Amarillo--TX_R0000477602 | target | General Merchandise Team Leader- Amarillo, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/5270-S-State-Highway-360-Grand-Prairie-TX-75052-8307/General-Merchandise-Team-Leader--Arlington--TX_R0000477145 | target | General Merchandise Team Leader- Arlington, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/746-NW-Loop-410-San-Antonio-TX-78216-5609/General-Merchandise-Team-Leader--San-Antonio-TX_R0000477136 | target | General Merchandise Team Leader, San Antonio TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/14302-FM-2920-Rd-TomballTX-77377-5504/General-Merchandise-Team-Leader--Tomball--TX_R0000449773 | target | General Merchandise Team Leader, Tomball, TX
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/7845-N-Macarthur-Blvd-IrvingTX-75063-7516/Starbucks-Barista--T1032-_R0000478051 | target | Starbucks Barista (T1032)
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/17502-La-Cantera-Pkwy-San-Antonio-TX-78257-8202/Target-Security-Specialist_R0000477963 | target | Target Security Specialist
+- [ ] https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Houston-TX/Energy-Risk-Engineering-Consultant_R2625820-1 | thehartford | Energy Risk Engineering Consultant
+- [ ] https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Frisco-TX/Field-Risk-Engineering-Consultant-DFW_R2627021-1 | thehartford | Field Risk Engineering Consultant-DFW
+- [ ] https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Frisco-TX/Sr-Personal-Insurance-Sales-Representative---Dallas-Fort-Worth--TX_R2627174 | thehartford | Sr Personal Insurance Sales Representative - Dallas/Fort Worth, TX
+- [ ] https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Frisco-TX/Staff-Software-Engineer---Duck-Creek_R2624891 | thehartford | Staff Software Engineer - Duck Creek
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---Richardson/Account-Executive-Officer--Senior-Underwriter--Commercial-Accounts_R-52202 | travelers | Account Executive Officer, Senior Underwriter, Commercial Accounts
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---Houston/Account-Executive-Officer--Senior-Underwriter--Oil---Gas_R-52191 | travelers | Account Executive Officer, Senior Underwriter, Oil & Gas
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---San-Antonio/Account-Executive--Underwriter--Public-Sector-Services_R-52472 | travelers | Account Executive, Underwriter, Public Sector Services
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---San-Antonio/Associate-Senior-Counsel_R-52957 | travelers | Associate Senior Counsel
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---Richardson/Construction-Surety-Underwriter--Account-Executive----Credit-Analyst_R-52408 | travelers | Construction Surety Underwriter (Account Executive) - Credit Analyst
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---Houston/Associate-Senior-Counsel_R-52681 | travelers | Litigation Associate Senior Counsel
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---Richardson/Managing-Account-Executive--Construction_R-52599 | travelers | Managing Account Executive, Construction
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---Corpus-Christi/Senior-Counsel--Fully-Remote-Corpus-Christi--Texas-_R-51674 | travelers | Senior Counsel (Fully Remote Corpus Christi, Texas)
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---San-Antonio/Sr-Sales-Executive---Select-Outside-Sales_R-52976 | travelers | Sr. Sales Executive - Select Outside Sales
+- [ ] https://travelers.wd5.myworkdayjobs.com/external/job/TX---Richardson/Workers-Compensation-Claim-Representative_R-53014 | travelers | Workers Compensation Claim Representative
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/Director-of-Business-Development_JR103112 | stord | Director of Business Development
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/Director--GTM-Enablement_JR103361-1 | stord | Director, GTM Enablement
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/VP--GTM-Strategy---Operations_JR103362-1 | stord | VP, GTM Strategy & Operations
+- [ ] https://stord.wd503.myworkdayjobs.com/stord_external_career/job/Remote-United-States/VP--Security_JR103151 | stord | VP, Security
+- [ ] https://target.wd5.myworkdayjobs.com/targetcareers/job/9500-S-IH-35-STE-GAustin-TX-78748-1753/Store-Director--Store-Manager----S-Austin--TX_R0000476468 | target | Store Director (Store Manager)-  S. Austin, TX
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Principal-AI-Governance---Security-Engineer_10336560 | toyota | Principal AI Governance & Security Engineer
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Principal-Architect_10332591 | toyota | Principal Architect
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Lead--Principal-Engineer-_10334524 | toyota | Software Engineer, Lead (Principal Engineer)
+- [ ] https://sphera.wd1.myworkdayjobs.com/careers/job/PL-Remote/Senior-Implementation-Consultant--Supply-Chain-Risk-Management-_R106027 | sphera | Senior Implementation Consultant (Supply Chain Risk Management)
+- [ ] https://job-boards.greenhouse.io/kunai/jobs/5241422007 | Kunai | Technical Product Manager
+- [ ] https://job-boards.greenhouse.io/kunai/jobs/5247549007 | Kunai | Technical Product Manager: Payments Reporting
+- [ ] https://job-boards.greenhouse.io/kunai/jobs/5197129007 | Kunai | Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/kunai/jobs/5255481007 | Kunai | Technical Project Manager: Core Bank Modernization
+- [ ] https://job-boards.greenhouse.io/lightningai/jobs/7988627003 | Lightning AI | Technical Program Manager, Infrastructure Delivery
+- [ ] https://www.liquibase.com/company/careers?gh_jid=8011001 | liquibase | Senior Product Manager – Database Change Governance, Security & Ecosystem Integrations (Remote, US-Based)
+- [ ] https://www.logicmonitor.com/career/?gh_jid=8279383 | logicmonitor | Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/maymobility/jobs/8795020002 | May Mobility | Senior Autonomy Technical Project Manager - Integrations
+- [ ] https://job-boards.greenhouse.io/mcghealth/jobs/8530849002 | MCG Health | Senior Product Manager, Data Platform
+- [ ] https://job-boards.greenhouse.io/medicalinformaticsengineering/jobs/4372093009 | Medical Informatics Engineering/Enterprise Health | Product Manager – Enterprise Health
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6190280004 | Mercury |  Senior Technical Program Manager - Credit & Lending
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4861528101 | michelscorporation | Project Manager - Transmission & Distribution- Michels Power, Inc.
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4979657101 | michelscorporation | Senior Project Manager - Transmission & Distribution - Michels Power, Inc.
+- [ ] https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Greenville-TX/Military-Fellowship-Program--Supply-Chain-Program-Manager_R0028633 | snc | Military Fellowship Program: Supply Chain Program Manager
+- [ ] https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Remote---USA/Product-Manager--Partner-Integrations_R53612 | talentmanagementsolution | Product Manager, Partner Integrations
+- [ ] https://talentmanagementsolution.wd3.myworkdayjobs.com/jonassoftwareusa/job/Remote---USA/Technical-Project-Manager_R47776 | talentmanagementsolution | Technical Project Manager, Strategic Technology Initiatives
+- [ ] https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Senior-Technical-Project-Manager---IT-Infrastructure---Network_R26-01945 | tel | Senior Technical Project Manager - IT Infrastructure & Network
+- [ ] https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Senior-Technical-Program-Manager_JR21170 | teladoc | Senior Technical Program Manager
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Frisco-Texas/Senior-Technical-Implementation-Consultant-ERP_JREQ202309 | thomsonreuters | Senior Tax Technical Implementation Consultant ERP
+- [ ] https://job-boards.greenhouse.io/map/jobs/8781320002 | VML MAP | Lead Technical Project Manager
+- [ ] https://job-boards.greenhouse.io/map/jobs/8580504002 | VML MAP | Senior Technical Project Manager - Martech
+- [ ] https://job-boards.greenhouse.io/li-thermal-works/jobs/4343538009 | li-thermal-works | Heavy Haul Logistics Lead
+- [ ] https://job-boards.greenhouse.io/meriton/jobs/5255590008 | Meriton | Business Systems Analyst – Project Management Platforms
+- [ ] https://job-boards.greenhouse.io/meriton/jobs/5255710008 | Meriton | Senior Financial Systems Analyst
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4988698101 | michelscorporation | Regional Manager - Transmission & Distribution - Michels Power, Inc.
+- [ ] https://job-boards.greenhouse.io/monsterenergy/jobs/4430141009 | monsterenergy | Warehouse Manager 
+- [ ] https://src.wd1.myworkdayjobs.com/scottishriteforchildren/job/Dallas-TX/EHR-Systems-Analyst--HIM_JR6099-1 | src | EHR Systems Analyst, HIM
+- [ ] https://src.wd1.myworkdayjobs.com/scottishriteforchildren/job/Dallas-TX/EHR-Systems-Analyst--Patient-Financial-Systems_JR6100 | src | EHR Systems Analyst, Patient Financial Systems
+- [ ] https://src.wd1.myworkdayjobs.com/scottishriteforchildren/job/Dallas-TX/Project-Manager--Facilities-Dept-_JR6108 | src | PDC Project Manager (Planning, Design & Construction)
+- [ ] https://swbc.wd1.myworkdayjobs.com/informationtechnology/job/San-Antonio-TX/Business-Systems-Analyst-II_R0015538 | swbc | Business Systems Analyst II
+- [ ] https://talenenergy.wd1.myworkdayjobs.com/talencareers/job/Houston-TX/Senior-Systems-Analyst---Commercial-Risk_R0004257 | talenenergy | Senior Systems Analyst - Commercial Risk
+- [ ] https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/Inventory-Control-Specialist---Third-Shift_R-01370834 | thermofisher | Inventory Control Specialist - Third Shift
+- [ ] https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/College-Station-Texas-USA/Sr-Inventory-Management-Specialist_R-01370554 | thermofisher | Sr. Inventory Management Specialist
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Flower-Mound-Texas/Sr-Supply-Chain-Operations-Manager_REQ374442-2 | tmobile | Sr Supply Chain Operations Manager
+- [ ] https://job-boards.greenhouse.io/lastpass/jobs/4741445005 | LastPass | Senior Product Manager, Web Growth
+- [ ] https://lattice.com/job?gh_jid=8855945002 | lattice | Lead Product Manager
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/8035031003 | LaunchDarkly | Senior Program Manager, Revenue Operations
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7866054003 | LaunchDarkly | Staff Product Manager - Data Products
+- [ ] https://job-boards.greenhouse.io/leaflink/jobs/8606836002 | leaflink | Product Manager
+- [ ] https://job-boards.greenhouse.io/leaflink/jobs/8790244002 | leaflink | Senior Product Manager, Fintech
+- [ ] https://job-boards.greenhouse.io/levelaccess/jobs/8859581002 | Level Access | Data Product Manager
+- [ ] https://job-boards.greenhouse.io/li-thermal-works/jobs/4403014009 | li-thermal-works | Program Manager - Released Products
+- [ ] https://job-boards.greenhouse.io/li-thermal-works/jobs/4431916009 | li-thermal-works | Project Manager (Austin, TX)
+- [ ] https://liftoff.io/job/8171488?gh_jid=8171488 | liftoff | Senior Staff Product Manager, eCommerce 
+- [ ] https://job-boards.greenhouse.io/lightspeeddms/jobs/5250773008 | Lightspeed DMS | Project Manager
+- [ ] https://job-boards.greenhouse.io/lightspeedsystems/jobs/7761332003 | Lightspeed Systems | Senior Product Manager (Student Safety)
+- [ ] https://job-boards.greenhouse.io/lirio/jobs/7990581003 | Lirio | Client Project Manager
+- [ ] https://job-boards.greenhouse.io/lirio/jobs/8002347003 | Lirio | Senior Product Manager
+- [ ] https://www.bold.com/job-description/8196038?gh_jid=8196038 | livecareer | Senior Product Manager I, Expert Apply
+- [ ] https://www.bold.com/job-description/7926159?gh_jid=7926159 | livecareer | Senior Product Manager I, Subscription Growth
+- [ ] https://job-boards.greenhouse.io/livefront/jobs/4261329009 | livefront | Product Manager 
+- [ ] https://job-boards.greenhouse.io/loenbro/jobs/4340756009 | loenbro | Assistant Project Manager
+- [ ] https://job-boards.greenhouse.io/lts/jobs/4335910009 | lts | Functional Business Analyst
+- [ ] https://job-boards.greenhouse.io/lts/jobs/4335899009 | lts | Lead Functional Business Analyst
+- [ ] https://job-boards.greenhouse.io/lush/jobs/8244811 | Lush Handmade Cosmetics | Retail Construction Project Manager (14-Month Contract)
+- [ ] https://job-boards.greenhouse.io/marksman/jobs/4453707009 | marksman | Advanced Field Technician / Project Manager 
+- [ ] https://job-boards.greenhouse.io/mcadams/jobs/5192658007 | McAdams | Assistant Project Manager - Land Development
+- [ ] https://job-boards.greenhouse.io/mcadams/jobs/5192677007 | McAdams | Project Manager - Land Development
+- [ ] https://job-boards.greenhouse.io/mcadams/jobs/5108032007 | McAdams | Senior Project Manager
+- [ ] https://job-boards.greenhouse.io/medicalinformaticsengineering/jobs/4394362009 | Medical Informatics Engineering/Enterprise Health | Project Manager
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6227550004 | Mercury | Senior Customer Support Service Delivery Program Manager
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6098827004 | Mercury | Senior Product Manager - Business Lending
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6218705004 | Mercury | Senior Product Manager - Consumer Credit Card
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6223264004 | Mercury | Senior Product Manager - Invoicing
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6181121004 | Mercury | Senior Product Manager - Reconciliation
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6148371004 | Mercury | Senior Product Manager - Users
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6221555004 | Mercury | Senior Risk Program Manager - Fraud & Disputes Enablement
+- [ ] https://job-boards.greenhouse.io/mergeapiintegrationsandbox/jobs/5537215003 | mergeapiintegrationsandbox | Product Manager
+- [ ] https://job-boards.greenhouse.io/mesh/jobs/5159418008 | Mesh | Senior Product Manager, Onchain
+- [ ] https://job-boards.greenhouse.io/method/jobs/6257441003 | Method, a GlobalLogic company | Product Manager — Future Contract Opportunities
+- [ ] https://job-boards.greenhouse.io/metropolis/jobs/8019436003 | Metropolis | Senior Deployment Project Manager
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4913671101 | michelscorporation |  Project Manager - Mission Critical/ Data Center - Michels Underground Cable, Inc
+- [ ] https://job-boards.greenhouse.io/missionlane/jobs/8618184002 | Mission Lane | Senior Manager, Operations Transformation
+- [ ] https://job-boards.greenhouse.io/mitratech/jobs/8243329 | Mitratech | Senior Product Manager
+- [ ] https://solera.wd5.myworkdayjobs.com/global_career_site/job/Virtual-Texas/Comprehensive-Project-Manager_JR-019882 | solera | Comprehensive Project Manager
+- [ ] https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Salesforce-Marketing-Cloud-Product-Owner_R-06235 | southstatebank | Salesforce Marketing Cloud Product Owner
+- [ ] https://sphera.wd1.myworkdayjobs.com/careers/job/PL-Remote/Associate-Business-Analyst---Supplier-Programs_R106124 | sphera | Associate Business Analyst - Supplier Programs
+- [ ] https://sphera.wd1.myworkdayjobs.com/careers/job/PL-Remote/Product-Owner_R106130 | sphera | Product Owner
+- [ ] https://stvinc.wd5.myworkdayjobs.com/stv/job/San-Antonio-Texas/Assistant-Project-Manager---Aviation_JR4520 | stvinc | Assistant Project Manager - Aviation
+- [ ] https://stvinc.wd5.myworkdayjobs.com/stv/job/Dallas-Texas/Civil-Roadway-Project-Manager_JR5296 | stvinc | Civil/Roadway Project Manager
+- [ ] https://stvinc.wd5.myworkdayjobs.com/stv/job/Dallas-Texas/Senior-Project-Manager-Education_JR5646 | stvinc | Senior Project Manager
+- [ ] https://stvinc.wd5.myworkdayjobs.com/stv/job/Austin-Texas/Senior-Project-Manager-Education_JR5653 | stvinc | Senior Project Manager-Education
+- [ ] https://stvinc.wd5.myworkdayjobs.com/stv/job/Austin-Texas/Senior-Traffic-Engineering-and-Design-Project-Manager_JR6262 | stvinc | Senior Traffic Engineering and Design Project Manager
+- [ ] https://stvinc.wd5.myworkdayjobs.com/stv/job/Austin-Texas/Water-Wastewater-Pipeline-Engineer-Project-Manager-_JR6285 | stvinc | Water/Wastewater Pipeline Engineer/Project Manager 
+- [ ] https://stvinc.wd5.myworkdayjobs.com/stv/job/Dallas-Texas/Water-Wastewater-Project-Manager_JR5497 | stvinc | Water/Wastewater Project Manager
+- [ ] https://stvinc.wd5.myworkdayjobs.com/stv/job/Austin-Texas/Water-Wastewater-Senior-Project-Manager_JR6210 | stvinc | Water/Wastewater Senior Project Manager
+- [ ] https://stvinc.wd5.myworkdayjobs.com/stv/job/Waco-Texas/WW-Engineering-Specialist-Assistant-Project-Manager_JR5950 | stvinc | WW Engineering Specialist/Assistant Project Manager
+- [ ] https://suddath.wd5.myworkdayjobs.com/suddath/job/AustinTexas-United-States-of-America/Project-Manager_R12169 | suddath | Project Manager
+- [ ] https://swinerton.wd1.myworkdayjobs.com/swinerton_external_career/job/Austin-TX/Assistant-Project-Manager--Millwork_J18108 | swinerton | Assistant Project Manager- Millwork
+- [ ] https://swinerton.wd1.myworkdayjobs.com/swinerton_external_career/job/Austin-TX/Assistant-Project-Manager--Fire-Life-Safety-Construction_J17957 | swinerton | Assistant Project Manager- Public Safety Specialty
+- [ ] https://swinerton.wd1.myworkdayjobs.com/swinerton_external_career/job/Austin-TX/Drywall-Project-Manager_J17233 | swinerton | Drywall Project Manager
+- [ ] https://swinerton.wd1.myworkdayjobs.com/swinerton_external_career/job/Austin-TX/Project-Manager--Healthcare_J17077 | swinerton | Project Manager- Healthcare
+- [ ] https://swinerton.wd1.myworkdayjobs.com/swinerton_external_career/job/Austin-TX/Self-Perform-Concrete-Project-Manager_J18085 | swinerton | Self-Perform Concrete Project Manager
+- [ ] https://swinerton.wd1.myworkdayjobs.com/swinerton_external_career/job/Austin-TX/Senior-Project-Manager_J17831 | swinerton | Senior Project Manager
+- [ ] https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-Remote/Job-Posting-Title-Project-Manager-II-Patient-Insights-Ops-Manager_25112555 | syneoshealth | Job Posting Title Project Manager II/Patient Insights Ops Manager
+- [ ] https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-NC-Remote/Project-Manager---Sponsor-Dedicated--Inflammation-_25111827 | syneoshealth | Project Manager - Sponsor Dedicated (Inflammation)
+- [ ] https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-Remote/Project-Manager-I---Sponsor-Dedicated---Patient-Engagement-and-Co-Design_25112968 | syneoshealth | Project Manager I - Sponsor Dedicated - Patient Engagement and Co-Design
+- [ ] https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/MEX-Remote/Project-Manager-II_25112574 | syneoshealth | Project Manager II - Mexico, Argentina, Brazil, Chile or Colombia - Remote
+- [ ] https://tealium.wd1.myworkdayjobs.com/careers/job/Remote-USA/Sr-Product-Manager--US-_ | tealium | Sr. Product Manager (US)
+- [ ] https://theaccessgroup.wd103.myworkdayjobs.com/access_group_external_careers/job/United-States-Remote/Implementation-Consultant----Finance_JR004073 | theaccessgroup | Implementation Consultant -- Finance
+- [ ] https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/FSP---Sr-Regulatory-Program-Manager---client-dedicated_R-01370051 | thermofisher | FSP - Sr Regulatory Program Manager - client dedicated
+- [ ] https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/Project-Manager---Pregnancy-Registries-Team_R-01368382 | thermofisher | Project Manager - Pregnancy Registries Team
+- [ ] https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Remote---USA/Junior-Product-Manager_JR100993 | thinkbrg | Junior Product Manager
+- [ ] https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Remote---USA/Product-Manager_JR101174 | thinkbrg | Product Manager
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Frisco-Texas/Implementation-Consultant---Global-Trade_JREQ200621 | thomsonreuters | Implementation Consultant - Global Trade
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Frisco-Texas/Product-Manager_JREQ204009 | thomsonreuters | Product Manager
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Frisco-Texas/Senior-Product-Manager_JREQ204205 | thomsonreuters | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/map/jobs/8855692002 | VML MAP | Senior Project Manager 
+- [ ] https://lattice.com/job?gh_jid=8784127002 | lattice | Ecosystem Marketing Lead
+- [ ] https://job-boards.greenhouse.io/launch2/jobs/6220170004 | Launch Potato | Business Intelligence Lead, Performance Marketing
+- [ ] https://job-boards.greenhouse.io/launch2/jobs/6220179004 | Launch Potato | Lead Analytics Manager
+- [ ] https://job-boards.greenhouse.io/lifted/jobs/7665440003 | Lifted | Enterprise Account Manager
+- [ ] https://liftoff.io/job/8260216?gh_jid=8260216 | liftoff | Manager, Technical Accounting
+- [ ] https://job-boards.greenhouse.io/lightspeedsystems/jobs/7986520003 | Lightspeed Systems | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/lithic/jobs/6181839004 | Lithic | Senior Software Engineer, Product Platform
+- [ ] https://www.logicmonitor.com/career/?gh_jid=8259632 | logicmonitor | Customer Technical Architect
+- [ ] https://www.logicmonitor.com/career/?gh_jid=8223499 | logicmonitor | Enterprise Customer Success Manager
+- [ ] https://www.logicmonitor.com/career/?gh_jid=8211208 | logicmonitor | Sr. Customer Technical Architect
+- [ ] https://job-boards.greenhouse.io/lumimeds/jobs/4287457009 | Lumimeds | Engineering Manager — AI-First Platform & Agent Teams
+- [ ] https://job-boards.greenhouse.io/magnolia/jobs/5442380008 | Magnolia | Warehouse - Assistant Operations Manager 
+- [ ] https://job-boards.greenhouse.io/magnolia/jobs/5423872008 | Magnolia | Warehouse Team Lead
+- [ ] https://job-boards.greenhouse.io/mavenclinic/jobs/8864313002 | Maven Clinic | Technical Recruiting Lead
+- [ ] https://job-boards.greenhouse.io/mcadams/jobs/5216533007 | McAdams | Water Resources Technical Manager
+- [ ] https://job-boards.eu.greenhouse.io/menaconsultant/jobs/4989806101 | MENA Consultant | Cybersecurity Compliance & Technical Controls Consultant - 2-Year Engagement
+- [ ] https://job-boards.greenhouse.io/merceradvisors/jobs/5325646008 | Mercer Advisors | Community Analytics Manager
+- [ ] https://job-boards.greenhouse.io/merceradvisors/jobs/5196493008 | Mercer Advisors | Legal Assistant (Estate Planning Service Specialist) - (Pacific Time Zone)
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6113876004 | Mercury | Senior Strategic Partnerships Manager - Enterprise
+- [ ] https://job-boards.greenhouse.io/meriton/jobs/5423729008 | Meriton | Enterprise Account Manager, National Accounts
+- [ ] https://job-boards.greenhouse.io/metroveincenters/jobs/4444338009 | metroveincenters | EMR Platform Owner
+- [ ] https://job-boards.greenhouse.io/metroveincenters/jobs/4402601009 | metroveincenters | Solutions Lead, Clinical Systems
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4873029101 | michelscorporation | Alternative Delivery Manager, Power Transmission, Substation, Distribution - Michels Preconstruction Services, Inc.
+- [ ] https://job-boards.greenhouse.io/minio/jobs/5372985008 | MinIO | Field Architect - Global System Integrators
+- [ ] https://job-boards.greenhouse.io/miris/jobs/4376303009 | miris | Product & Technical Communications Lead
+- [ ] https://www.mks2.com/job/6192590004?gh_jid=6192590004 | mks2technologies | EOG Enterprise Policy Analyst -ESOM
+- [ ] https://www.mks2.com/job/6188124004?gh_jid=6188124004 | mks2technologies | Lead Systems Architect 
+- [ ] https://job-boards.greenhouse.io/monsterenergy/jobs/4433702009 | monsterenergy | Senior Manager, Digital Commerce Marketing Technology
+- [ ] https://job-boards.greenhouse.io/mhi/jobs/7820177003 | Myers-Holum | MHI Talent Solutions | Business Systems Manager
+- [ ] https://solera.wd5.myworkdayjobs.com/global_career_site/job/Westlake-Texas/Senior-Engineer--Enterprise-Applications_JR-019833 | solera | Lead Engineer, Enterprise Applications
+- [ ] https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Enterprise-Risk-Analytics---Reporting-Sr-Analyst_R-06207 | southstatebank | Enterprise Risk Analytics & Reporting Sr Analyst
+- [ ] https://southtexascollege.wd12.myworkdayjobs.com/stc/job/Pecan-Campus-McAllen-Texas/Adjunct---Computer-Information-Technology-Program_JR101452 | southtexascollege | Adjunct - Computer Information Technology Program
+- [ ] https://southtexascollege.wd12.myworkdayjobs.com/stc/job/Technology-Campus-McAllen-Texas/Instructional-Initiatives-Manager---Business--Public-Safety-and-Technology--BPST-_JR101254-1 | southtexascollege | Instructional Initiatives Manager - Business, Public Safety and Technology (BPST)
+- [ ] https://srsdistribution.wd1.myworkdayjobs.com/srs/job/McKinney-Texas/Enterprise-Architect_REQ55827 | srsdistribution | Enterprise Application Architect
+- [ ] https://srsdistribution.wd1.myworkdayjobs.com/srs/job/McKinney-Texas/Software-Engineering-Manager---Heritage-Integrations_REQ54155-3 | srsdistribution | Software Engineering Manager - Heritage Integrations
+- [ ] https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/REMOTE/Technical-Engineering-Lead_R71830 | sunrun | Technical Engineering Lead
+- [ ] https://talentmanagementsolution.wd3.myworkdayjobs.com/ezfacilityusa-careers/job/Remote---USA/Customer-Onboarding-and-Learning-Systems-Specialist_R54662 | talentmanagementsolution | Customer Onboarding and Learning Systems Specialist
+- [ ] https://tamus.wd1.myworkdayjobs.com/tdem_external/job/Bryan-TX/Logistics-Specialist_R-097693 | tamus | Logistics Specialist
+- [ ] https://taskus.wd1.myworkdayjobs.com/careers/job/San-Antonio-Texas-USA---Remote/Learning-Management-System-Architect_R_2609_12586 | taskus | Learning Management System Architect
+- [ ] https://thegroove.wd12.myworkdayjobs.com/thegroovecareers/job/Remote/Consultant--Technical-Services---Eightfold-and-Workday_JR100173 | thegroove | Consultant, Technical Services - Eightfold and Workday
+- [ ] https://thegroove.wd12.myworkdayjobs.com/thegroovecareers/job/Remote/Senior-Technical-Services-Consultant---Workday_JR100189 | thegroove | Senior Technical Services Consultant - Workday
+- [ ] https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/FSP-Associate-Manager--Safety-Data-and-Systems---Pharmacovigilance_R-01368041 | thermofisher | FSP Associate Manager, Safety Data and Systems - Pharmacovigilance
+- [ ] https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/Manager--Platform-Integrations---Engineering_R-01368939 | thermofisher | Manager, Platform Integrations & Engineering
+- [ ] https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Virginia-USA/Sr-Systems-Specialist_R-01367773 | thermofisher | Sr Systems Specialist
+- [ ] https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/Sr-Manager---Platform-and-Architecture-Validation-and-Compliance_R-01368938 | thermofisher | Sr. Manager - Platform and Architecture Validation and Compliance
+- [ ] https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Remote---USA/Manager--Strategic-Analytics_JR101043 | thinkbrg | Manager, Strategic Analytics
+- [ ] https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Remote---USA/Managing-Consultant---Revenue-Cycle-Analytics---Healthcare_JR101054 | thinkbrg | Managing Consultant – Revenue Cycle Analytics – Healthcare
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Lead-AI-Platform-Owner_JREQ202399 | thomsonreuters | Lead AI Platform Owner
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Lead-Platform-Engineer_JREQ202795 | thomsonreuters | Lead Platform Engineer
+- [ ] https://transunion.wd5.myworkdayjobs.com/transunion/job/Remote---US/Consultants--Data-Science---Analytics_19042576 | transunion | Consultants, Data Science & Analytics
+- [ ] https://job-boards.greenhouse.io/kymberconsultinggroup/jobs/5391769008 | kymberconsultinggroup | Project Manager
+- [ ] https://job-boards.greenhouse.io/li-thermal-works/jobs/4425050009 | li-thermal-works | Project Manager (Dallas, TX)
+- [ ] https://job-boards.greenhouse.io/loenbro/jobs/4328863009 | loenbro | Assistant Project Manager - Mechanical
+- [ ] https://job-boards.greenhouse.io/loenbro/jobs/4361499009 | loenbro | Project Manager
+- [ ] https://job-boards.greenhouse.io/loenbro/jobs/4433752009 | loenbro | Project Manager - Mechanical
+- [ ] https://job-boards.greenhouse.io/loenbro/jobs/4430170009 | loenbro | Project Manager (Electrical)
+- [ ] https://job-boards.greenhouse.io/loenbro/jobs/4328410009 | loenbro | Senior Mechanical Project Manager
+- [ ] https://job-boards.greenhouse.io/lpc/jobs/5208705007 | lpc | Project Manager
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4858706101 | michelscorporation | Associate Construction Project Manager - Data Center Substation - Michels Power, Inc.
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4710047101 | michelscorporation | Associate Construction Project Manager – Transmission Line  - Michels Power, Inc.
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4962449101 | michelscorporation | Electrical Project Manager - Michels Power, Inc.
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4796127101 | michelscorporation | Project Manager - Michels Energy Solutions Inc
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4949025101 | michelscorporation | Project Manager - Michels Underground Cable, Inc
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4853292101 | michelscorporation | Project Manager - Mission Critical - Michels Power, Inc.
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4726427101 | michelscorporation | Project Manager - Substations - Michels Power, Inc.
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4857720101 | michelscorporation | Project Manager, Engineering - Michels Energy Solutions, Inc
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4958445101 | michelscorporation | Senior Project Manager - Michels Energy Solutions, Inc
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4949041101 | michelscorporation | Senior Project Manager - Mission Critical/ Data Center - Michels Underground Cable, Inc
+- [ ] https://src.wd1.myworkdayjobs.com/scottishriteforchildren/job/Dallas-TX/IT-Project-Management-Office-Program-Manager_JR6104 | src | IT Project Management Office Program Manager
+- [ ] https://src.wd1.myworkdayjobs.com/scottishriteforchildren/job/Dallas-TX/Clinical-Operational-Project-Manager--Ambulatory-Care-_JR6058 | src | Operational Project Manager (Ambulatory Care)
+- [ ] https://starfish.wd501.myworkdayjobs.com/careers/job/Randolph-AFB-TX/Program-Manager--Senior_R1902 | starfish | Program Manager, Senior
+- [ ] https://strongtie.wd1.myworkdayjobs.com/external/job/Plano-TX/Program-Manager--Learning---Development_R7931 | strongtie | Program Manager, Learning & Development
+- [ ] https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Operations-Implementation-Analyst--Onsite-_R0015529-2 | swbc | Operations Implementation Analyst (Onsite)
+- [ ] https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Product-Manager---Innovation_R0015344 | swbc | Product Manager - Innovation
+- [ ] https://swinerton.wd1.myworkdayjobs.com/swinerton_external_career/job/Dallas-TX/Drywall-Assistant-Project-Manager_J18088 | swinerton | Drywall Assistant Project Manager
+- [ ] https://swinerton.wd1.myworkdayjobs.com/swinerton_external_career/job/Dallas-TX/Project-Manager--Facility-Solutions_J16775 | swinerton | Project Manager- Small Projects
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamus_external/job/Dallas-TX/Animal-Welfare--Project-Manager_R-095459-1 | tamus | Animal Welfare, Project Manager
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamu_external/job/McAllen-TX/Diabetes-Education-Program-Manager_R-097650-1 | tamus | Diabetes Education Program Manager
+- [ ] https://tamus.wd1.myworkdayjobs.com/etamu_external/job/Commerce-TX/Emergency-Management-Program-Specialist-or-Emergency-Management-Program-Manager_R-096433-1 | tamus | Emergency Management Program Specialist or Emergency Management Program Manager
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamu_external/job/College-Station-TX/Program-Manager-Community-Service_R-098059-1 | tamus | Program Manager Community Service
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamus_external/job/College-Station-TX/Project-Manager_R-097092-1 | tamus | Project Manager
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamucc_external/job/Corpus-Christi-TX/Project-Manager-III--CAAT_R-097330-1 | tamus | Project Manager III, CAAT
+- [ ] https://tamus.wd1.myworkdayjobs.com/tees_external/job/College-Station-TX/Semiconductor-Project-Manager_R-090945-1 | tamus | Semiconductor Project Manager
+- [ ] https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Richardson-TX/Retail-Banking-Program-Manager_JR106100 | texascapitalbank | Retail Banking Program Manager
+- [ ] https://tindall.wd1.myworkdayjobs.com/tindall/job/San-Antonio-TX/Project-Manager_R3483 | tindall | Project Manager
+- [ ] https://job-boards.greenhouse.io/lanternstudiosinc/jobs/5099915008 | Lantern | GitHub Platform Consultant
+- [ ] https://job-boards.greenhouse.io/legion/jobs/8014976003 | Legion | Principal Product Manager, Agentic AI 
+- [ ] https://job-boards.greenhouse.io/lgelectronics/jobs/5422441008 | LG Electronics | HVAC Tier II Technical Support Specialist 
+- [ ] https://job-boards.greenhouse.io/lgelectronics/jobs/5375439008 | LG Electronics | Sr Field Technical Specialist
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8895619002 | Life360 | Principal Product Manager, Identity & Trust
+- [ ] https://job-boards.greenhouse.io/magnolia/jobs/5408891008 | Magnolia | Accounting & Finance - Financial Planning & Analyst Manager
+- [ ] https://job-boards.greenhouse.io/meriton/jobs/5423615008 | Meriton | Manager, Finance Analytics
+- [ ] https://job-boards.greenhouse.io/missionlane/jobs/8682680002 | Mission Lane | Principal Business Analyst, Portfolio Management
+- [ ] https://spectris.wd3.myworkdayjobs.com/servomex_careers/job/Sugar-Land-TX/Systems-Project-Engineer_18844 | spectris | Systems Project Engineer - Gas Analysis Systems
+- [ ] https://spectris.wd3.myworkdayjobs.com/servomex_careers/job/Sugar-Land-TX/Technical-Applications-Specialist---Spectroscopic-Gas-Analysis_19126-1 | spectris | Technical Applications Specialist – TDL/IR Spectroscopy
+- [ ] https://src.wd1.myworkdayjobs.com/scottishriteforchildren/job/Dallas-TX/Enterprise-Applications-Technical-Specialist_JR6103 | src | Enterprise Applications Technical Specialist
+- [ ] https://src.wd1.myworkdayjobs.com/scottishriteforchildren/job/Dallas-TX/Technology-Sourcing-Specialist_JR6153 | src | Technology Sourcing Specialist
+- [ ] https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Senior-Manager-CARE-Performance---Analytics_R-2026-73313-1 | swa | Senior Manager CARE Performance & Analytics
+- [ ] https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Technical-Data-Analyst---DMX_R-2026-72184-1 | swa | Technical Data Analyst - DMX
+- [ ] https://swbc.wd1.myworkdayjobs.com/informationtechnology/job/San-Antonio-TX/Data-Analytics-Manager_R0015346 | swbc | Data Analytics Manager
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamuk_external/job/Kingsville-TX/Academic-Technology-Operations-Coordinator_R-096922-1 | tamus | Academic Technology Operations Coordinator
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamus_external/job/College-Station-TX/Assessment---Portfolio-Analytics-Lead_R-096523-1 | tamus | Assessment & Portfolio Analytics Lead
+- [ ] https://tamus.wd1.myworkdayjobs.com/tarleton_external/job/Stephenville-TX/Business-Technology-Specialist_R-097756-1 | tamus | Business Technology Specialist
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamu_external/job/College-Station-TX/Hazard-Mitigation-Planning-Specialist_R-097738-1 | tamus | Hazard Mitigation Planning Specialist
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamus_external/job/Bryan-TX/Information-Technology-Network-Architect_R-091425-1 | tamus | Information Technology Network Architect
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamiu_external/job/Laredo-TX/IT-Manager-IV--Enterprise-Infrastructure-Lead-_R-095614-1 | tamus | IT Manager IV (Enterprise Infrastructure Lead)
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamuct_external/job/Killeen-TX/Manager-of-Strategic-Initiatives-and-Planning_R-097673-1 | tamus | Manager of Strategic Initiatives and Planning
+- [ ] https://tamus.wd1.myworkdayjobs.com/wtamu_external/job/Canyon-TX/Philanthropy-System-Analyst_R-095410-1 | tamus | Philanthropy System Analyst
+- [ ] https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Principal-Product-Manager--Member-Experience_JR21171 | teladoc | Principal Product Manager, Member Experience
+- [ ] https://terminix.wd1.myworkdayjobs.com/rentokilnorthamerica/job/RTX-Memphis-Headquarters/Sr-Manager--Data-Scientist--Marketing-Analytics_R-062044 | terminix | Sr. Manager, Data Scientist, Marketing Analytics
+- [ ] https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Dallas-TX/Financial-Systems-Senior-Analyst_JR106005 | texascapitalbank | Financial Systems Senior Analyst
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Frisco-Texas/Senior-Principal-Implementation-Consultant_JREQ204270 | thomsonreuters | Senior Principal Implementation Consultant
+- [ ] https://job-boards.greenhouse.io/kuraoncology/jobs/6222910004 | kuraoncology | Manager, Biosample Operations
+- [ ] https://job-boards.greenhouse.io/lakefieldveterinarygroup/jobs/4244303009 | lakefieldveterinarygroup | Licensed Veterinary Technician (LVT) - Anesthesia -  Sugar Land Veterinary Specialists & 24 HR Emergency Care
+- [ ] https://job-boards.greenhouse.io/lakefieldveterinarygroup/jobs/4384475009 | lakefieldveterinarygroup | Veterinary Technician - Neurology - Sugar Land Veterinary Specialists
+- [ ] https://job-boards.greenhouse.io/launch2/jobs/6220185004 | Launch Potato | Lead BI Developer
+- [ ] https://job-boards.greenhouse.io/launch2/jobs/6220199004 | Launch Potato | Lead Data Analyst, Marketing
+- [ ] https://job-boards.greenhouse.io/layerhealth/jobs/5108411008 | Layer Health | Clinical Quality Data Abstraction Specialist - CathPCI (Contractor)
+- [ ] https://job-boards.greenhouse.io/layerhealth/jobs/5108394008 | Layer Health | Clinical Quality Data Abstraction Specialist - GWTG (Contractor)
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8875585002 | Life360 | Lead Data Scientist
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8894899002 | Life360 | Senior Manager of Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/lightningai/jobs/7854710003 | Lightning AI | Data Center Site Operations Manager
+- [ ] https://job-boards.greenhouse.io/lightningai/jobs/8028098003 | Lightning AI | Network Operations Center (NOC) Analyst
+- [ ] https://job-boards.greenhouse.io/lightspeedsystems/jobs/7989188003 | Lightspeed Systems | HR Operations Specialist
+- [ ] https://www.liquibase.com/company/careers?gh_jid=8119467 | liquibase | Revenue Operations Manager (Remote, US-Based)
+- [ ] https://www.logicmonitor.com/career/?gh_jid=8249571 | logicmonitor | CX Strategy & Operations Manager
+- [ ] https://job-boards.greenhouse.io/lumimeds/jobs/4337848009 | Lumimeds | Payment Operations Specialist - US
+- [ ] https://job-boards.greenhouse.io/lumosfiber/jobs/5424355008 | Lumos | Operations Service Technician I
+- [ ] https://boards.greenhouse.io/materialbank/jobs/7918889003?gh_jid=7918889003 | materialbank | Lead MarTech Engineer
+- [ ] https://job-boards.greenhouse.io/maymobility/jobs/8692360002 | May Mobility | Manager, Simulation Operations
+- [ ] https://job-boards.greenhouse.io/maymobility/jobs/8392808002 | May Mobility | Tech Lead, Performance Evaluation
+- [ ] https://job-boards.greenhouse.io/medicalinformaticsengineering/jobs/4300809009 | Medical Informatics Engineering/Enterprise Health | Application Support Specialist- EMR 
+- [ ] https://job-boards.greenhouse.io/merceradvisors/jobs/5400253008 | Mercer Advisors | Content Operations Specialist
+- [ ] https://job-boards.greenhouse.io/merceradvisors/jobs/5409865008 | Mercer Advisors | Portfolio Operations Specialist
+- [ ] https://job-boards.greenhouse.io/merceradvisors/jobs/5436462008 | Mercer Advisors | Senior Manager, Program Operations (High Net Worth)
+- [ ] https://www.merchantsfleet.com/about/careers/job-board/?gh_jid=7980278003 | merchantsfleetmanagement | FleetShare Operations Specialist (Rockford, IL)
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6194248004 | Mercury | MarTech Lead
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6199653004 | Mercury | Payroll Operations Specialist
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6218808004 | Mercury | Research Operations Lead
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6186428004 | Mercury | Senior Data Analyst - Reconciliation
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6201177004 | Mercury | Senior Engineering Manager - Credit Cards
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6142625004 | Mercury | Senior Manager - Data & AI Governance
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6223723004 | Mercury | Tech Communications Lead
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6192352004 | Mercury | Trading Operations Lead
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6221673004 | Mercury | Treasury Operations Analyst
+- [ ] https://job-boards.greenhouse.io/mineralystherapeutics/jobs/5431229008 | Mineralys Therapeutics | Sr. Manager, Compliance Operations
+- [ ] https://job-boards.greenhouse.io/minio/jobs/5400301008 | MinIO | Sr. Digital Experience Manager
+- [ ] https://job-boards.greenhouse.io/missionlane/jobs/8867341002 | Mission Lane | Business Manager, Credit Line Increase Program
+- [ ] https://job-boards.greenhouse.io/missionlane/jobs/8848599002 | Mission Lane | Senior Operations Lead, Fraud
+- [ ] https://job-boards.greenhouse.io/mixpanel/jobs/8260692 | Mixpanel | Digital Adoption & Lifecycle Manager
+- [ ] https://job-boards.greenhouse.io/modernhealth/jobs/8779774002 | Modern Health | Revenue Operations Lead
+- [ ] https://www.monks.com/careers/6194270004/job?gh_jid=6194270004 | monks | Paid Search Delivery Lead, Media Operations
+- [ ] https://smucker.wd5.myworkdayjobs.com/us_external_careers/job/Working-Remote-USA/Senior-Manager--Retail-Operations_115877-1 | smucker | Senior Manager, Retail Operations
+- [ ] https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/CRA-Credit---Investment-Business-Strategy-Manager_R-05985 | southstatebank | CRA Credit & Investment Business Strategy Manager
+- [ ] https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/FIU-Fraud-Data-Analyst_R-05832 | southstatebank | FIU Fraud Data Analyst (Remote)
+- [ ] https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/IT-Configuration-Manager_R-05878 | southstatebank | IT Configuration Manager
+- [ ] https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Marketing-Operations-Specialist_R-05877 | southstatebank | Marketing Operations Specialist
+- [ ] https://southtexascollege.wd12.myworkdayjobs.com/stc/job/Pecan-Campus-McAllen-Texas/Adjunct-Faculty-Pool--Division-of-Math--Science--IT---Bachelor-Programs---2026---2027-_JR101174 | southtexascollege | Adjunct Faculty Pool (Division of Math, Science, IT & Bachelor Programs) (2026 - 2027)
+- [ ] https://southtexascollege.wd12.myworkdayjobs.com/stc/job/Pecan-Campus-McAllen-Texas/Full-Time-Lecturer-Positions--Division-of-Math--Science--IT---Bachelor-Programs---2026---2027-_JR101156 | southtexascollege | Full-Time Lecturer Positions (Division of Math, Science, IT & Bachelor Programs) (2026 - 2027)
+- [ ] https://srsdistribution.wd1.myworkdayjobs.com/srs/job/Houston-Texas/Area-Credit-Manager_REQ55972 | srsdistribution | Area Credit Manager
+- [ ] https://srsdistribution.wd1.myworkdayjobs.com/srs/job/McKinney-Texas/Systems-Engineer-Manager_REQ54592-2 | srsdistribution | Manager, IT Support Services
+- [ ] https://srsdistribution.wd1.myworkdayjobs.com/heritage-pool/job/Frisco-Texas/Operations-Manager_REQ55472 | srsdistribution | Operations Manager
+- [ ] https://srsdistribution.wd1.myworkdayjobs.com/gms/job/Austin-TX-ATC/Retail-Operations-Manager_REQ54694 | srsdistribution | Retail Operations Manager
+- [ ] https://stcharles.wd1.myworkdayjobs.com/external/job/Remote/IT-Portfolio-and-Demand-Management-Specialist_R1023353 | stcharles | IT Portfolio and Demand Management Specialist
+- [ ] https://strayer.wd1.myworkdayjobs.com/sei/job/Remote/Sr-Manager--Information-Security_R31241 | strayer | Sr. Manager, Information Security
+- [ ] https://suddath.wd5.myworkdayjobs.com/nxtpoint/job/HoustonTexas-United-States-of-America/Assistant-Operations-Manager---Final-Mile_R12126 | suddath | Assistant Operations Manager - Final Mile
+- [ ] https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/REMOTE/Project-Operations-Analyst_R75444 | sunrun | Project Operations Analyst
+- [ ] https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/ARG-Remote/Project-Data-Manager_25111486 | syneoshealth | Project Data Manager
+- [ ] https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Remote/Senior-Project-Data-Manager_25113040 | syneoshealth | Senior Project Data Manager (ClinSpark)
+- [ ] https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/JPN-Tokyo-Remote/Sr-Data-Analyst-I--RWE_25112440 | syneoshealth | Sr Data Analyst I, RWE
+- [ ] https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers1/job/Remote---USA/Application-Support-Specialist-III_R54108 | talentmanagementsolution | Application Support Specialist III
+- [ ] https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California-Remote/Senior-Digital-Marketing-Manager--Omnichannel-Paid-Media-_JR101543 | tandemdiabetes | Senior Digital Marketing Manager (Omnichannel/Paid Media)
+- [ ] https://taskus.wd1.myworkdayjobs.com/careers/job/Detroit-Michigan-USA---Remote/Sr-Operations-Manager-AV_R_2610_12780 | taskus | Sr Operations Manager AV
+- [ ] https://taskus.wd1.myworkdayjobs.com/careers/job/Detroit-Michigan-USA---Remote/Sr-Operations-Manager---RAD_R_2606_8324 | taskus | Sr. Operations Manager - RAD
+- [ ] https://teamapellis.wd108.myworkdayjobs.com/apelliscareers/job/US---Remote/Sr-Manager--Commercial-Learning---Development---Operations_JR101180 | teamapellis | Sr. Manager, Commercial Learning & Development – Operations
+- [ ] https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-MET-15/Facility-Operations-Manager_R26-01599 | tel | Facility Operations Manager
+- [ ] https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Austin-TX/FP-A-Lead---Consumer---Digital-Banking_JR105443 | texascapitalbank | FP&A Lead – Consumer & Digital Banking
+- [ ] https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Austin-Texas-USA/Digital-Account-Manager--Life-Sciences_R-01371177 | thermofisher | Digital Account Manager, Life Sciences
+- [ ] https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Florida-USA/Manager--Clinical-Operations_R-01371283 | thermofisher | Manager, Clinical Operations
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Frisco-Texas/Senior-Solutions-Manager--Tax---Audit-AI-FDE_JREQ203444 | thomsonreuters | Senior Solutions Manager, Tax & Audit AI FDE
+- [ ] https://topgolf.wd501.myworkdayjobs.com/topgolfcareers/job/Grand-Prairie-Texas/Front-of-House-Operations-Manager_JR2023-23310-1 | topgolf | Front of House Operations Manager
+- [ ] https://toppan.wd108.myworkdayjobs.com/toppan-packaging/job/USA---NC---Remote-North-Carolina---REMNC/Application-Development-Manager---Flexibles_JR-200528 | toppan | Application Development Manager - Flexibles
+- [ ] https://townepark.wd5.myworkdayjobs.com/ext/job/Remote-Office---Dallas-TX/Account-Manager-of-Valet-Operations---Dallas-Hospitality_REQ26-71195-1 | townepark | Account Manager of Valet Operations - Dallas Hospitality
+- [ ] https://townepark.wd5.myworkdayjobs.com/ext/job/Austin-TX/Associate-Manager-of-Valet-Operations---Moxy-University-Austin_REQ26-71158 | townepark | Associate Manager of Valet Operations - Moxy University Austin
+- [ ] https://trellix.wd1.myworkdayjobs.com/enterprisecareers/job/Enterprise---US-Texas-Frisco/Revenue-Operations-Analyst_JR0037759 | trellix | Revenue Operations Analyst
+- [ ] https://job-boards.greenhouse.io/map/jobs/8816115002 | VML MAP | Associate Data Insights Consultant 
+- [ ] https://job-boards.greenhouse.io/map/jobs/8580320002 | VML MAP | Martech Solutions Architect - AEP
+- [ ] https://job-boards.greenhouse.io/merceradvisors/jobs/5324174008 | Mercer Advisors | Director, Strategy and Analytics - Wealth Solutions
+- [ ] https://sumitomopharma.wd5.myworkdayjobs.com/smpa/job/US-Remote/New-Product-Planning-Associate-Director---Biopharma_R01520 | sumitomopharma | New Product Planning Associate Director - Biopharma
+- [ ] https://thegroove.wd12.myworkdayjobs.com/thegroovecareers/job/Remote/Principal-Consultant--Integrations_JR100145 | thegroove | Principal Consultant, Integrations
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Principal-Software-Engineer---AI-Platform---Architecture_JREQ201853-5 | thomsonreuters | Principal Software Engineer – AI Platform & Architecture
+- [ ] https://job-boards.greenhouse.io/lanternstudiosinc/jobs/5405289008 | Lantern | Data Architect
+- [ ] https://job-boards.greenhouse.io/lanternstudiosinc/jobs/5423315008 | Lantern | Senior Data & AI Consultant 
+- [ ] https://job-boards.greenhouse.io/lanternstudiosinc/jobs/5433266008 | Lantern | Service Line Leader, Data & AI 
+- [ ] https://job-boards.greenhouse.io/lanternstudiosinc/jobs/5443904008 | Lantern | Specialist Sales Lead – Databricks 
+- [ ] https://job-boards.greenhouse.io/lpc/jobs/5189089007 | lpc | Learning Operations Analyst
+- [ ] https://job-boards.greenhouse.io/lpc/jobs/5218991007 | lpc | Manager, IT PMO
+- [ ] https://job-boards.greenhouse.io/margaux/jobs/5442807008 | Margaux | Director of E-Commerce & Digital Product
+- [ ] https://job-boards.greenhouse.io/marksman/jobs/4453268009 | marksman | Security Operations Manager
+- [ ] https://job-boards.greenhouse.io/maymobility/jobs/8756557002 | May Mobility | Senior Autonomous Vehicle Operations Specialist
+- [ ] https://job-boards.greenhouse.io/medallionakafirstlayerai/jobs/4435192009 | medallionakafirstlayerai | Senior Manager / Director, Payer Enrollment Operations
+- [ ] https://job-boards.greenhouse.io/meriton/jobs/5445670008 | Meriton | Credit Analyst
+- [ ] https://job-boards.greenhouse.io/meriton/jobs/5425602008 | Meriton | IT Specialist II
+- [ ] https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5440377008 | MetOx International, Inc. | Production Technician I (Night Shift)
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4818761101 | michelscorporation |  Project Controls Specialist - Mission Critical/Data Center - Michels Underground Cable, Inc
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4968028101 | michelscorporation | Digital Learning & Development Manager 
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4973306101 | michelscorporation | General Manager - Mission Critical/Data Center - Michels Underground Cable, Inc
+- [ ] https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4975992101 | michelscorporation | Operations Financial Manager 
+- [ ] https://src.wd1.myworkdayjobs.com/scottishriteforchildren/job/Dallas-TX/Investment-Operations-Analyst-Sr_JR5999 | src | Investment Operations Analyst Sr.
+- [ ] https://src.wd1.myworkdayjobs.com/scottishriteforchildren/job/Dallas-TX/Radiology-Operational-Lead_JR6030 | src | MRI Operational Lead Technologist
+- [ ] https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Dallas-TX/Associate-Manager--Loan-Operations_R46760 | ssctech | Associate Manager, Loan Operations - Cash
+- [ ] https://standoutforgood.wd12.myworkdayjobs.com/standoutforgood/job/Woodlands-TX/Assistant-Store-Leader--Operations--The-Woodlands-_SOSJ12778 | standoutforgood | Assistant Store Leader- Operations (The Woodlands)
+- [ ] https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Grapevine-TX-76051/Earth-Moving-Solutions-Technician---Level-1_2026-14435 | sunbeltrentals | Earth Moving Solutions Technician - Level 1
+- [ ] https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/San-Antonio-TX-78218/Flooring-Solutions-Field-Technician----Level-2_2026-16115 | sunbeltrentals | Flooring Solutions Technician  - Level 2
+- [ ] https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Houston-TX-77032/Flooring-Solutions-Technician---Level-2_2026-16223 | sunbeltrentals | Flooring Solutions Technician - Level 2
+- [ ] https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Abeline-TX-79601/Onsite-Operations-Manager_2026-16348 | sunbeltrentals | Onsite Operations Manager
+- [ ] https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Airport-Screening-Operations-Consultant---DAL_R-2026-73878 | swa | Airport Screening Operations Consultant - DAL
+- [ ] https://swbc.wd1.myworkdayjobs.com/accounting/job/San-Antonio-TX/Financial-Operational-Data-Analyst_R0015628 | swbc | Financial Operational Data Analyst
+- [ ] https://swbc.wd1.myworkdayjobs.com/informationtechnology/job/San-Antonio-TX/Security-Operations-Lead--GSOC-_R0015244 | swbc | Security Operations Lead (GSOC)
+- [ ] https://talenenergy.wd1.myworkdayjobs.com/talencareers/job/Houston-TX/Credit-Risk-Manager_R0004220 | talenenergy | Credit Risk Manager
+- [ ] https://talenenergy.wd1.myworkdayjobs.com/talencareers/job/Houston-TX/Senior-Credit-Analyst_R0004246 | talenenergy | Senior Credit Analyst
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamu_external/job/Dallas-TX/Clinical-Informatics-Specialist_R-089601-1 | tamus | Clinical Informatics Specialist
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamu_external/job/College-Station-TX/Comparative-Medicine-Program-Research-Animal-Technicians-I--II--III_R-067575 | tamus | Comparative Medicine Program Research Animal Technicians I, II, III
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamu_external/job/College-Station-TX/Director--MS-Sport-Business-Analytics-Program_R-097420-1 | tamus | Director, MS Sport Business Analytics Program
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamu_external/job/College-Station-TX/GCOOS-Applications-Specialist_R-098122-1 | tamus | GCOOS Applications Specialist
+- [ ] https://tamus.wd1.myworkdayjobs.com/agrilife_extension_external/job/Dallas-TX/Lead-Data-Analyst_R-093407-2 | tamus | Lead Data Analyst
+- [ ] https://tamus.wd1.myworkdayjobs.com/tarleton_external/job/Fort-Worth-TX/Manager-of-Facility-Operations_R-097689 | tamus | Manager of Facility Operations
+- [ ] https://tamus.wd1.myworkdayjobs.com/tees_external/job/Houston-TX/Operations-Manager--Space-Institute_R-097162-1 | tamus | Operations Manager, Space Institute
+- [ ] https://tamus.wd1.myworkdayjobs.com/tamu_external/job/College-Station-TX/Project--Operations--Coordinator_R-097370-1 | tamus | Project (Operations) Coordinator
+- [ ] https://tamus.wd1.myworkdayjobs.com/tarleton_external/job/Stephenville-TX/Ticket-Office-Operations-Specialist_R-095530-2 | tamus | Ticket Office Operations Specialist
+- [ ] https://terminix.wd1.myworkdayjobs.com/terminix/job/RTX-Appleton-4504/Operations-Manager_R-072574 | terminix | Operations Manager
+- [ ] https://terminix.wd1.myworkdayjobs.com/terminix/job/RTX-Middleburg-Heights-4541/Operations-Manager--US-Pest_R-071770 | terminix | Operations Manager, US Pest
+- [ ] https://terminix.wd1.myworkdayjobs.com/copesan/job/Houston-TX/Pest-Control-Technician--Holders-Pest-Solutions---Commercial-and-Residential_R-068724 | terminix | Pest Control Technician- Holders Pest Solutions / Commercial and Residential
+- [ ] https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Richardson-TX/Cybersecurity-Director---Data-Protection--Security-Architecture---Third-Party-Risk_JR106220 | texascapitalbank | Cybersecurity Director – Data Protection, Security Architecture & Third-Party Risk
+- [ ] https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Dallas-TX/Financial-Center-Operations-Manager_JR106105 | texascapitalbank | Financial Center Operations Manager
+- [ ] https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Richardson-TX/IT-Control-Testing-Senior-Analyst_JR106077 | texascapitalbank | IT Control Testing Senior Analyst
+- [ ] https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Richardson-TX/Loan-Operations---Funding---Flood-Compliance-Analyst_JR105952 | texascapitalbank | Loan Operations – Funding & Flood Compliance Analyst
+- [ ] https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Richardson-TX/Loan-Operations-Manager---Originations_JR105953 | texascapitalbank | Loan Operations Manager – Originations
+- [ ] https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Austin-TX/Marketing-Technologies-Product-Manager_JR105434 | texascapitalbank | Marketing Technologies Product Director
+- [ ] https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Richardson-TX/Retail-Operations-Specialist_JR106101 | texascapitalbank | Retail Operations Specialist
+- [ ] https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Richardson-TX/Sr-Banking-Operations-Analyst_JR106139 | texascapitalbank | Sr Banking Operations Analyst
+- [ ] https://theclaremontcolleges.wd1.myworkdayjobs.com/pom_careers/job/Claremont/Administrative-Coordinator-for-CDO-Operations---Data_REQ-8471 | theclaremontcolleges | Administrative Coordinator for CDO Operations & Data
+- [ ] https://theclaremontcolleges.wd1.myworkdayjobs.com/tccs_careers/job/Claremont/Digital-Production-Associate_REQ-8495 | theclaremontcolleges | Digital Production Associate
+- [ ] https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Manager--Database-Administration_REQ-4678-5 | theocc | Manager, Database Administration
+- [ ] https://townepark.wd5.myworkdayjobs.com/ext/job/San-Antonio-TX/Account-Manager-of-Valet-Operations---Canopy-Riverwalk-San-Antonio_REQ26-71288 | townepark | Account Manager of Valet Operations - Canopy Riverwalk San Antonio
+- [ ] https://townepark.wd5.myworkdayjobs.com/ext/job/Houston-TX/Account-Manager-of-Valet-Operations---JW-Marriot-Houston_REQ26-71264-1 | townepark | Account Manager of Valet Operations - JW Marriot Houston
+- [ ] https://tricon.wd3.myworkdayjobs.com/tricon/job/Houston-TX/Operations-Manager---Resident-Support_JR103984 | tricon | Operations Manager - Resident Support

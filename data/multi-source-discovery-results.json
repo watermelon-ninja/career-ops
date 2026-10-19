@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T09:17:43.821Z",
+  "generated_at": "2026-10-19T10:27:07.172Z",
   "priority_company_count": 354,
   "discovery_model": "parallel_union",
   "note": "This run records operational source evidence only; pending sources have not yet been queried by dedicated connectors.",
@@ -309,8 +309,8 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 6
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -699,8 +699,8 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 32
         },
         "official_careers": {
           "status": "pending",
@@ -789,8 +789,8 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 9
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -849,7 +849,7 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "attempted_no_new_candidates",
+          "status": "pending",
           "jobs_discovered": 0
         },
         "official_careers": {
@@ -1449,8 +1449,8 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 46
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -1719,7 +1719,7 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "attempted_no_new_candidates",
+          "status": "pending",
           "jobs_discovered": 0
         },
         "official_careers": {
@@ -1749,7 +1749,7 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "pending",
+          "status": "attempted_no_new_candidates",
           "jobs_discovered": 0
         },
         "official_careers": {
@@ -2080,7 +2080,7 @@
       "sources": {
         "official_ats": {
           "status": "discovered",
-          "jobs_discovered": 1
+          "jobs_discovered": 2
         },
         "official_careers": {
           "status": "pending",
@@ -2259,7 +2259,7 @@
       "group": "industrial",
       "sources": {
         "official_ats": {
-          "status": "attempted_no_new_candidates",
+          "status": "pending",
           "jobs_discovered": 0
         },
         "official_careers": {
@@ -3489,8 +3489,8 @@
       "group": "industrial",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 2
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -4359,8 +4359,8 @@
       "group": "industrial",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 58
         },
         "official_careers": {
           "status": "pending",
@@ -4899,8 +4899,8 @@
       "group": "supply_chain",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 40
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -4959,8 +4959,8 @@
       "group": "supply_chain",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 7
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -5499,8 +5499,8 @@
       "group": "supply_chain",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 23
         },
         "official_careers": {
           "status": "pending",
@@ -5529,7 +5529,7 @@
       "group": "supply_chain",
       "sources": {
         "official_ats": {
-          "status": "pending",
+          "status": "attempted_no_new_candidates",
           "jobs_discovered": 0
         },
         "official_careers": {
@@ -5799,8 +5799,8 @@
       "group": "supply_chain",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 1
         },
         "official_careers": {
           "status": "pending",
@@ -6159,8 +6159,8 @@
       "group": "consulting",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 2
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -7089,8 +7089,8 @@
       "group": "retail",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 20
         },
         "official_careers": {
           "status": "pending",
@@ -8139,8 +8139,8 @@
       "group": "retail",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 72
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -8499,8 +8499,8 @@
       "group": "retail",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 6
         },
         "official_careers": {
           "status": "pending",
@@ -9159,8 +9159,8 @@
       "group": "finance_health_local",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 12
         },
         "official_careers": {
           "status": "pending",
@@ -9219,8 +9219,8 @@
       "group": "finance_health_local",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 8
         },
         "official_careers": {
           "status": "pending",
@@ -9699,8 +9699,8 @@
       "group": "finance_health_local",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 15
         },
         "official_careers": {
           "status": "pending",
@@ -10239,8 +10239,8 @@
       "group": "finance_health_local",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 14
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
