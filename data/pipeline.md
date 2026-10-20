@@ -5293,3 +5293,371 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://townepark.wd5.myworkdayjobs.com/ext/job/San-Antonio-TX/Account-Manager-of-Valet-Operations---Canopy-Riverwalk-San-Antonio_REQ26-71288 | townepark | Account Manager of Valet Operations - Canopy Riverwalk San Antonio
 - [ ] https://townepark.wd5.myworkdayjobs.com/ext/job/Houston-TX/Account-Manager-of-Valet-Operations---JW-Marriot-Houston_REQ26-71264-1 | townepark | Account Manager of Valet Operations - JW Marriot Houston
 - [ ] https://tricon.wd3.myworkdayjobs.com/tricon/job/Houston-TX/Operations-Manager---Resident-Support_JR103984 | tricon | Operations Manager - Resident Support
+
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Lead-Technical-Program-Manager_REF089119W | visa | Lead Technical Program Manager
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Product-Manager--Embedded-Experience-Platform_REF089328W | visa | Product Manager, Embedded Experience Platform
+- [ ] https://www.okta.com/company/careers/opportunity/8142155?gh_jid=8142155 | okta | Partner Alliance Manager- PubSec Ecosystem
+- [ ] https://www.okta.com/company/careers/opportunity/7425892?gh_jid=7425892 | okta | Solutions Engineer, Auth0 (Central - Enterprise Accounts)
+- [ ] https://www.okta.com/company/careers/opportunity/8281837?gh_jid=8281837 | okta | Technical Content Lead
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Staff-SW-Engineer_REF088495W | visa | Staff Software Engineer Java/Backend/AI/Dispute Platform
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Staff-Systems-Engineer--Middleware-Engineering_REF089084W | visa | Staff Systems Engineer, Middleware Engineering
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Director--Customer-Journey-Activation-Product-Manager_REF083405W | visa | Director, Customer Journey Activation Product Manager
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/FP-A-Financial-Analyst-III---B3-_R2630161 | Applied Materials | FP&A Financial Analyst III- (B3)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2630045-1 | Applied Materials | Global Software Support Engineer I
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager--M4-_R2629512 | Applied Materials | Manager (M4)
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Engineer---ALD---Weekend_R2627963-1 | Applied Materials | Manufacturing Engineer II - ALD - Weekend 2nd Shift
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Materials-Handler-ll_R2630715-1 | Applied Materials | Materials Handler ll
+- [ ] https://www.okta.com/company/careers/opportunity/8189383?gh_jid=8189383 | okta | Regional Sales Manager, SLED
+- [ ] https://www.okta.com/company/careers/opportunity/8281740?gh_jid=8281740 | okta | Senior SMB New Business Account Executive 
+- [ ] https://www.okta.com/company/careers/opportunity/8240584?gh_jid=8240584 | okta | Sr. Customer Success Manager
+- [ ] https://www.okta.com/company/careers/opportunity/8289604?gh_jid=8289604 | okta | Strategic Account Executive
+- [ ] https://www.okta.com/company/careers/opportunity/8054427?gh_jid=8054427 | okta | Strategic Account Executive 
+- [ ] https://www.okta.com/company/careers/opportunity/8289910?gh_jid=8289910 | okta | Strategic Account Executive, Auth0
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Seguin-Plant---Seguin-Texas/XMLNAME-2nd-Shift-Maintenance-Supervisor-Seguin--TX_R0484234 | tysonfoods | 2nd Shift-Maintenance Supervisor-Seguin, TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn/job/Amarillo-Plant---Amarillo-Texas/Accountant---A-Shift---Amarillo--TX_R0486323-1 | tysonfoods | Accountant - A Shift - Amarillo, TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Amarillo-Hides---Amarillo-Texas/B-Shift-Drum-Operator-5--Amarillo-Plant_R0491894 | tysonfoods | B-Shift Drum Operator 5- Amarillo Plant
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Center-Hatchery---Nacogdoches-Texas/Center-Hatchery-Operator-HY01--1st-Shift_R0489773 | tysonfoods | Center Hatchery Operator HY01- 1st Shift
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Gonzales-Feed-Mill---Gonzales-Texas/Feed-Batching-Operator-3rd-Shift---Gonzales--TX-Feedmill_R0491698 | tysonfoods | Feed Batching Operator 3rd Shift - Gonzales, TX. Feedmill
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Center-Feed-Mill---Center-Texas/Feed-Mill-Support-Operator-FM01--2nd-Shift--Center-Feed-Mill--TX-_R0491037 | tysonfoods | Feed Mill Support Operator FM01, 2nd Shift (Center Feed Mill, TX)
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Vernon-Plant---Vernon-Texas/General-Labor---All-Shifts---Vernon--TX_R0489682 | tysonfoods | General Labor - All Shifts - Vernon, TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Seguin-Plant---Seguin-Texas/General-Labor---EVIS--2nd-Shift---Seguin--TX_R0490495 | tysonfoods | General Labor - EVIS -2nd Shift - Seguin, TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Seguin-Plant---Seguin-Texas/General-Labor---EVIS-PR01-1st-Shift---Seguin--TX_R0489718 | tysonfoods | General Labor - EVIS PR01-1st Shift - Seguin, TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Seguin-Plant---Seguin-Texas/General-Labor-1st-Shift---Seguin--TX_R0491313 | tysonfoods | General Labor 1st Shift - Seguin, TX.
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Seguin-Plant---Seguin-Texas/Harvest-Room-Labor-PR04-1st-Shift---Seguin--Tx_R0492062 | tysonfoods | Harvest Room Labor PR04 1st Shift - Seguin, Tx
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Center-Processing-Plant---Center-Texas/Harvest-Room-Labor-PR08U-2nd-Shift---Center-Tx---FT-_R0489438 | tysonfoods | Harvest Room Labor PR08U 2nd Shift - Center Tx ( FT)
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Center-Hatchery-Carthage---Center-Texas/Hatchery-Worker-Labor-HY01--1st-Shift-F-T-Center-Hatchery--Carthage---TX_R0489883 | tysonfoods | Hatchery Worker Labor HY01- 1st Shift F/T. Center Hatchery (Carthage), TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Haltom-City-Plant---Haltom-City-Texas/Industrial-Maintenance-Generalist-3rd-Shift-Haltom-City-TX_R0491068 | tysonfoods | Industrial Maintenance Generalist 3rd Shift Haltom City TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/North-Richland-Hills-Plant---N-Richland-Hills-Texas/Industrial-Maintenance-Mechanic---3rd-Shift--North-Richland-Hills--TX--Located-in-the-Greater-Dallas-Fort-Worth-Area_R0488275 | tysonfoods | Industrial Maintenance Mechanic - 3rd Shift (North Richland Hills, TX) Located in the Greater Dallas/Fort Worth Area
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Dallas-Plant---Dallas-Texas/Industrial-Maintenance-Mechanic---B-Shift---Dallas--TX_R0486775 | tysonfoods | Industrial Maintenance Mechanic - B Shift - Dallas, TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Haltom-City-Plant---Haltom-City-Texas/Industrial-Refrigeration-Maintenance-2nd-Shift-Haltom-City-TX_R0491143 | tysonfoods | Industrial Refrigeration Maintenance 2nd Shift Haltom City TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn/job/Center-Processing-Plant---Center-Texas/Labeling--Lead-PR07U---2nd-Shift--Center-TX--FT-_R0491264 | tysonfoods | Labeling -Lead PR07U - 2nd Shift -Center TX (FT)
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Center-Processing-Plant---Center-Texas/Lead-PR07U--1st-Shift-Shipping--C-Crew---Full-Time-Center-Tx_R0486127 | tysonfoods | Lead PR07U -1st Shift Shipping (C Crew)- Full Time Center Tx
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Center-Processing-Plant---Center-Texas/Lead-PR07U-2nd-shift-Evis--Center-Tx--FT-_R0487964 | tysonfoods | Lead PR07U 2nd shift Evis -Center Tx (FT)
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Gonzales-Feed-Mill---Gonzales-Texas/Live-Haul-Supervisor-Gonzalez--TX_R0482866-1 | tysonfoods | Live Haul Supervisor-Gonzalez, TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Haltom-City-Plant---Haltom-City-Texas/Machine-OPR-PR04-Raw-Meat-2nd-Shift-Haltom-City-TX_R0491478 | tysonfoods | Machine OPR PR04 Raw Meat 2nd Shift Haltom City TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Vernon-Plant---Vernon-Texas/Maintenance-Generalist---2nd-Shift---Vernon--TX--August-_R0477067-3 | tysonfoods | Maintenance Generalist - 2nd Shift - Vernon, TX (August)
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Seguin-Plant---Seguin-Texas/Maintenance-Generalist-A-Shift--1st---4-Day-Work-Week--NEW-HIRE-Sign-On-Bonus----Seguin--TX_R0489298 | tysonfoods | Maintenance Generalist A Shift (1st) (4 Day Work Week, NEW HIRE Sign On Bonus) - Seguin, TX.
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Sherman-Case-Rdy-Plant---Sherman-Texas/Maintenance-Generalist-All-Shifts-Sherman-Case-Ready-Plant--Oct-_R0488615 | tysonfoods | Maintenance Generalist All Shifts Sherman Case Ready Plant (Oct)
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Seguin-Plant---Seguin-Texas/Maintenance-Generalist-B-Shift--2nd---4-Day-Work-Week--NEW-HIRE-Sign-On-Bonus----Seguin--TX_R0489323 | tysonfoods | Maintenance Generalist B Shift (2nd) (4 Day Work Week, NEW HIRE Sign On Bonus) - Seguin, TX.
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Amarillo-Plant---Amarillo-Texas/Maintenance-Mechanic---HARVEST-PROCESSING_R0489348 | tysonfoods | Maintenance Mechanic - HARVEST/PROCESSING
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Vernon-Plant---Vernon-Texas/Maintenance-Supervisor--3rd-Shift----Vernon-Prepared-Plant_R0487201-2 | tysonfoods | Maintenance Supervisor (3rd Shift) – Vernon Prepared Plant
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Sherman-Case-Rdy-Plant---Sherman-Texas/Production-Supervisor-Pork-2nd-Shift_R0489421 | tysonfoods | Production Supervisor Pork 2nd Shift
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Carthage-Plant---Carthage-Texas/Production-Supervisor--Carthage--TX--2nd-shift_R0481599 | tysonfoods | Production Supervisor- Carthage, TX -2nd shift
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Center-Processing-Plant---Center-Texas/Production-Supervisor--Center--TX--1st-shift_R0486479 | tysonfoods | Production Supervisor- Center, TX- 1st shift
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Center-Processing-Plant---Center-Texas/Production-Supervisor--Center--TX--2nd-shift_R0487178 | tysonfoods | Production Supervisor- Center, TX- 2nd shift
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Carthage-Plant---Carthage-Texas/Refrigeration-Maintenance---1st-Shift---Carthage--TX_R0491723 | tysonfoods | Refrigeration Maintenance - 1st Shift - Carthage, TX
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Amarillo-Plant---Amarillo-Texas/Refrigeration-Maintenance---Harvest-Processing_R0491919 | tysonfoods | Refrigeration Maintenance - Harvest/Processing
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Seguin-Plant---Seguin-Texas/Refrigeration-Maintenance-1st-Shift--Seguin-TX_R0488205 | tysonfoods | Refrigeration Maintenance 1st Shift- Seguin TX.
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Seguin-Plant---Seguin-Texas/Refrigeration-Maintenance-2nd-Shift--2-positions---Seguin-TX_R0491432 | tysonfoods | Refrigeration Maintenance 2nd Shift (2 positions)- Seguin TX.
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Center-Processing-Plant---Center-Texas/Safety-Complex--Manager--Center--TX--1st-shift_R0481116 | tysonfoods | Safety Complex  Manager- Center, TX- 1st shift
+- [ ] https://tysonfoods.wd5.myworkdayjobs.com/tsn5/job/Vernon-Plant---Vernon-Texas/Vernon--TX-Job-Fair_R0490290 | tysonfoods | Vernon, TX Job Fair
+- [ ] https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Remote---USA/Associate-Customer-Business-Manager---ADUSA-Foods_R-1183939 | unilever | Associate Customer Business Manager - ADUSA Foods
+- [ ] https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Remote---USA/Head-of-Sales--Core-Grocery---Club_R-1188343 | unilever | Head of Sales, Core Grocery & Club Foods
+- [ ] https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Remote---USA/Head-of-Sales--Foods-Mass-Channel---Walmart-and-Target_R-1188879 | unilever | Head of Sales, Foods Mass Channel - Walmart and Target
+- [ ] https://unilever.wd3.myworkdayjobs.com/unilever_experienced_professionals/job/Remote---USA/Head-of-Sales--US-Strategic-Grocery_R-1188385 | unilever | Head of Sales, US Strategic Grocery Foods
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Cybersecurity-Engineer---Product-Development_REF088499W | visa | Cybersecurity Engineer - Product Development
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Data---Insights-Analyst_REF089001W | visa | Data & Insights Analyst
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Event-and-AV-Operations-Analyst_REF087593W | visa | Event and AV Operations Analyst
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Lead-SW-Engineer_REF089196W | visa | Lead SW Engineer
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Marketing-Analyst--Demand-Generation-and-Nurture_REF089161W | visa | Marketing Analyst, Demand Generation and Nurture
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/People-Solutions-Analyst_REF089505W | visa | People Solutions Analyst
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Senior-Associate--Solutions-Designer_REF081369W | visa | Senior Associate Solutions Designer, Automation
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Senior-Data-Scientist--AI-Solutions-Engineering---Client-Services_REF088746W | visa | Senior Data Scientist, AI Solutions Engineering - Client Services
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Sr-SW-Engineer--Software-Engineering---Analyst---Team-Lead_REF088770W | visa | Senior Software Engineer - SDET
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Senior-Software-Engineer--Product-Reliability-Engineering_REF089234W-1 | visa | Senior Software Engineer- Product Reliability Engineering
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Software-Engineer_REF088720W | visa | Software Engineer - SDET
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Software-Engineer--Android---iOS-_REF088446W | visa | Software Engineer (Android / iOS)
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W | visa | Software Engineer- Operations and Infrastructure
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Sr-Manager--Software-Engineering_REF089195W-1 | visa | Sr. Manager, Software Engineering
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Sr-Manager--Sourcing_REF088713W | visa | Sr. Manager, Sourcing
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Sr-SW-AI-Engineer_REF085174W-2 | visa | Sr. SW AI Engineer
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Sr-SW-Engineer--Software-Engineering---Analyst---Team-Lead_REF088944W | visa | Sr. SW Engineer - SDET
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Staff-Data-Engineer_REF074767W | visa | Staff Data Engineer
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Staff-SW-Engineer--Software-Engineering--Consultant---Manager_REF088719W | visa | Staff Software Engineer - SDET
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Staff-Software-Engineer--Android---iOS-_REF088445W | visa | Staff Software Engineer (Android / iOS)
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Staff-SW-Engineer_REF084658W | visa | Staff SW Engineer
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/SW-Engineer_REF088588W | visa | SW Engineer
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/Dallas-RichardsonTX/Process-Support-Engineer-II_R2631570 | Applied Materials | Process Support Engineer II
+- [ ] https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Director--HR-Partner_R2631629 | Applied Materials | Director, HR Partner
+- [ ] https://www.okta.com/company/careers/opportunity/8094752?gh_jid=8094752 | okta | Principal Customer Success Manager - Dedicated
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/XMLNAME--Director--Account-Executive_REF089484W | visa |  Director, Account Executive
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Chief-SW-Engineer_REF087202W | visa | Chief Software Engineer (Hands-On AI Engineering Leader)
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Chief-SW-Engineer_REF089194W | visa | Chief SW Engineer
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Director--Mac---Mobile-Engineering_REF088340W | visa | Director, MacOS Engineering
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Sr-Director--Director-Software-Engineering_REF083479W | visa | Sr. Director, Software Engineering
+- [ ] https://motional.com/open-positions/?gh_jid=7764077003#/7764077003 | Motional | Senior Technical Program Manager 
+- [ ] https://job-boards.greenhouse.io/neuehealth/jobs/6219463004 | NeueHealth | eCW Business Systems Analyst
+- [ ] https://job-boards.greenhouse.io/nortal/jobs/5201047007 | nortal | (1527) Technical Project Manager
+- [ ] https://job-boards.greenhouse.io/northbeam/jobs/4652701006 | Northbeam | Technical Implementation Specialist
+- [ ] https://job-boards.greenhouse.io/oklo/jobs/6199641004 | Oklo | Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5412590008 | olsson | Power System Studies Project Manager - Data Center
+- [ ] https://job-boards.greenhouse.io/omadahealth/jobs/8174091 | Omada Health | Senior Product Manager, Enterprise Solutions
+- [ ] https://job-boards.greenhouse.io/openteams/jobs/4731443005 | OpenTeams | Technical Project Manager - Project Success
+- [ ] https://job-boards.greenhouse.io/oportun/jobs/4739783005 | Oportun | Staff Technical Program Manager (R14286)
+- [ ] https://job-boards.greenhouse.io/oriongroup/jobs/4718371006 | Orion Group | Senior ERP Product Owner and Customer Support - Orion (Remote)
+- [ ] https://www.outsideinc.com/openings?gh_jid=5425061008 | outside | Technical Product Manager, CRM & Communications Platform
+- [ ] https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Remote---US/Business-Analyst--Budget-Planning---Financial-Operations--Global_R24325 | vantagedc | Business Analyst, Budget Planning & Financial Operations, Global
+- [ ] https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Shackelford-County-Texas/Senior-Technical-Project-Manager--Automation--NA-_R20727 | vantagedc | Senior Technical Project Manager, Automation, NA 
+- [ ] https://veralto.wd1.myworkdayjobs.com/hachjobs/job/USA---Remote/Sr-Project-Manager---Enterprise-Applications_R10267263-1 | veralto | Sr. Project Manager - Enterprise Applications
+- [ ] https://virtua.wd1.myworkdayjobs.com/virtua_health_external_career_site/job/100-Remote/HR-Systems-Analyst---Workday-Payroll_R1063449 | virtua | HR Systems Analyst - Workday Payroll
+- [ ] https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4451877009 | oldcastlebuildingenvelope | SAP Planning Manager, Distribution
+- [ ] https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4435532009 | National Life Insurance Company | Actuarial Systems Analyst
+- [ ] https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4305154009 | National Life Insurance Company | Associate Illustration Systems Analyst / Analyst
+- [ ] https://careers.nebius.com/?gh_jid=4538435101 | Nebius | Senior Supply Chain Manager - Hardware
+- [ ] https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4418360009 | oldcastlebuildingenvelope | Build your career as a Sr. Technical Estimator and Project Manager 
+- [ ] https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4418867009 | oldcastlebuildingenvelope | Build your career as a Technical Estimator and Project Manager
+- [ ] https://job-boards.greenhouse.io/olly/jobs/4714436005 | OLLY | Senior Manager, Digital Supply Chain
+- [ ] https://job-boards.greenhouse.io/onenergy/jobs/4402108009 | ON.energy | Inventory Accounting Manager
+- [ ] https://job-boards.greenhouse.io/mrbeastyoutube/jobs/5812833004 | MrBeast | Localization Program Manager, CreatorGlobal
+- [ ] https://job-boards.greenhouse.io/muonspace/jobs/5234764007 | Muon Space | Senior Program Manager, Microwave
+- [ ] https://boards.greenhouse.io/myriad360/jobs/8638293002?gh_jid=8638293002 | Myriad360 | Senior Project Manager (Remote)
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6222472004 | Natera | Senior Product Manager, Sales, Marketing & Business Solutions
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6123519004 | Natera | Senior Product Manager, Salesforce
+- [ ] https://job-boards.greenhouse.io/navapbc/jobs/4450583009 | navapbc | Product Manager (Accounting SME)
+- [ ] https://job-boards.greenhouse.io/navapbc/jobs/4395330009 | navapbc | Senior Program Manager 
+- [ ] https://careers.nebius.com/?gh_jid=4879946101 | Nebius | Senior Data Center Construction Project Manager
+- [ ] https://job-boards.greenhouse.io/neuehealth/jobs/6190730004 | NeueHealth | Senior AI Product Manager
+- [ ] https://job-boards.greenhouse.io/neuraflash/jobs/6220770004 | NeuraFlash, Part of Accenture | AWS Project Manager
+- [ ] https://job-boards.greenhouse.io/neuraflash/jobs/6220751004 | NeuraFlash, Part of Accenture | Salesforce Project Manager
+- [ ] https://boards.greenhouse.io/neuralink/jobs/7784040003?gh_jid=7784040003 | Neuralink | Project Manager, Construction Management
+- [ ] https://job-boards.greenhouse.io/neweratech/jobs/8764917002 | New Era Technology | Senior Business Analyst
+- [ ] https://about.nextdoor.com/careers-list/?gh_jid=8142001 | nextdoor | Staff Product Manager, Search
+- [ ] https://boards.eu.greenhouse.io/nice/jobs/4817745101?gh_jid=4817745101 | NICE | AI Project Manager, CX
+- [ ] https://noxgroup.us/careers/?gh_jid=5214866008 | noxgroup | PROJECT MANAGER
+- [ ] https://noxgroup.us/careers/?gh_jid=5301962008 | noxgroup | PROJECT MANAGER - MISSION CRITICAL 
+- [ ] https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4737360005 | NPR | Senior Product Manager, Audience Lifecycle Tools
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/8017273003 | Oddball | Program Manager
+- [ ] https://job-boards.greenhouse.io/officespacesoftware/jobs/5439959008 | OfficeSpace Software | Revenue Enablement Program Manager
+- [ ] https://job-boards.greenhouse.io/officespacesoftware/jobs/5414366008 | OfficeSpace Software | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/oklo/jobs/6174288004 | Oklo | Deployment Project Manager
+- [ ] https://job-boards.greenhouse.io/oklo/jobs/6179642004 | Oklo | Engineering Program Manager
+- [ ] https://job-boards.greenhouse.io/oklo/jobs/6178855004 | Oklo | Product Manager - Reactors
+- [ ] https://job-boards.greenhouse.io/olipop/jobs/8013184003 | OLIPOP | Associate Project Manager, Innovation
+- [ ] https://job-boards.greenhouse.io/olly/jobs/4645878005 | OLLY | Temporary Project Manager 
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5442609008 | olsson |  Project Manager I-Federal 
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5412333008 | olsson | Construction Administration Project Manager - Data Center
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5384541008 | olsson | Construction Project Manager - Data Center
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5409854008 | olsson | Lead Project Manager - Engineering Design - Data Center
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5409805008 | olsson | Project Manager - Engineering Design - Data Center
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5371722008 | olsson | Project Manager - Industrial Market
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5444224008 | olsson | Project Manager - Site Design
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5267467008 | olsson | Project Manager II
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5152340008 | olsson | Substation Engineering Project Manager
+- [ ] https://job-boards.greenhouse.io/omadahealth/jobs/8232149 | Omada Health | Senior Program Manager, Health Coaching
+- [ ] https://job-boards.greenhouse.io/onenergy/jobs/4230779009 | ON.energy | Senior Project Manager, Energy Storage
+- [ ] https://job-boards.greenhouse.io/onenergy/jobs/4221446009 | ON.energy | Site Project Manager, Energy Storage
+- [ ] https://job-boards.greenhouse.io/onbe/jobs/4708548006 | Onbe | Product Manager
+- [ ] https://boards.greenhouse.io/opensesame/jobs/8130792?gh_jid=8130792 | OpenSesame | Product Manager, Strategy & Growth
+- [ ] https://openzeppelin.com/careers/opening/?gh_jid=7992608003 | openzeppelin | Program Manager (Customer Success)
+- [ ] https://job-boards.greenhouse.io/ora/jobs/4674208006 | ora | Senior Clinical Project Manager/ Clinical Project Manager
+- [ ] https://job-boards.greenhouse.io/orderly/jobs/5393706008 | Orderly | Product Manager
+- [ ] https://job-boards.greenhouse.io/orderly/jobs/4570564008 | Orderly | Product Manager-Orderly
+- [ ] https://job-boards.greenhouse.io/ownwell/jobs/4555493006 | Ownwell | Product Manager
+- [ ] https://job-boards.greenhouse.io/onepath/jobs/5142411007 | RedHelm | Project Manager (Remote)
+- [ ] https://tstc.wd1.myworkdayjobs.com/tstc_jobs/job/Texas-State-Technical-College/External-Relations-Project-Manager_R-005902-1 | tstc | External Relations Project Manager
+- [ ] https://unisys.wd5.myworkdayjobs.com/external/job/Remote-PA-United-States-of-America/Client-Project-Manager_REQ576226 | unisys | Client Project Manager
+- [ ] https://uofl.wd1.myworkdayjobs.com/uoflcareersite/job/Remote/Program-Manager-III---KY-MEP-Client-Services_R109506 | uofl | Program Manager III - KY-MEP Client Services
+- [ ] https://velera.wd5.myworkdayjobs.com/veleracareers/job/Remote-USA/Risk-Intelligence-Program-Manager_9561 | velera | Risk Intelligence Program Manager
+- [ ] https://ventas.wd503.myworkdayjobs.com/ventas_careers/job/Remote/Project-Manager--Senior-Living--CapEx-_R0001598-1 | ventas | Project Manager, Senior Living (CapEx)
+- [ ] https://veralto.wd1.myworkdayjobs.com/eskojobs/job/Remote-United-States-of-America/Product-Manager--Software-for-Life-Sciences_R10268106 | veralto | Product Manager, Software for Life Sciences
+- [ ] https://veralto.wd1.myworkdayjobs.com/chemtreatjobs/job/California---Remote-United-States-of-America/Project-Manager---West-Coast_R10268284 | veralto | Project Manager, Wastewater equipment - West Coast
+- [ ] https://verily.wd1.myworkdayjobs.com/verily_careers/job/Dallas-Texas/Senior-Benefits-Program-Manager_REQ-971 | verily | Senior Benefits Program Manager
+- [ ] https://vst.wd5.myworkdayjobs.com/equest/job/Glen-Rose-Texas/Nuclear-Project-Manager-II_40016399-4 | vst | Nuclear Project Manager II
+- [ ] https://vst.wd5.myworkdayjobs.com/equest/job/Glen-Rose-Texas/Turbine-Generator-Project-Manager---Comanche-Peak_40016097-4 | vst | Turbine/Generator Project Manager - Comanche Peak
+- [ ] https://job-boards.greenhouse.io/oriongroup/jobs/4708195006 | Orion Group | Director of ERP Implementation and Business Enablement
+- [ ] https://motional.com/open-positions/?gh_jid=7759318003#/7759318003 | Motional | Software Engineering Manager -Data Platform
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/7921523 | Mozilla | Senior Solutions Engineer (DACH), Firefox Enterprise
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/8174313 | Mozilla | Staff Product Engineer, Enterprise AI 
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/8177715 | Mozilla | Staff Technical Support Manager, Enterprise
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/8142161 | Mozilla | Strategic Account Manager, Firefox Enterprise
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/8198114 | Mozilla | Strategic Account Manager, Firefox Enterprise (DACH)
+- [ ] https://job-boards.greenhouse.io/muonspace/jobs/5261643007 | Muon Space | Satellite Operations Platform Manager 
+- [ ] https://job-boards.greenhouse.io/muonspace/jobs/5156351007 | Muon Space | Senior Mission Lead Systems Engineer
+- [ ] https://job-boards.greenhouse.io/muonspace/jobs/5232401007 | Muon Space | Technical Solutions Manager
+- [ ] https://job-boards.greenhouse.io/myfitnesspal/jobs/8215899 | MyFitnessPal | Staff Data Systems Architect
+- [ ] https://boards.greenhouse.io/myriad360/jobs/8721250002?gh_jid=8721250002 | Myriad360 | Managed Services Networking & Security Enterprise Services Architect (Remote)
+- [ ] https://boards.greenhouse.io/myriad360/jobs/8696808002?gh_jid=8696808002 | Myriad360 | Platform Architect (Remote)
+- [ ] https://boards.greenhouse.io/myriad360/jobs/8831182002?gh_jid=8831182002 | Myriad360 | Storage and Backup Enterprise Services Architect (Remote)
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5798665004 | Natera | Senior Engineering Manager — Lab Execution Platform: Women’s Health
+- [ ] https://job-boards.greenhouse.io/navapbc/jobs/4377031009 | navapbc | 1099 Workday Administrator | Integrations, Studio & Projects
+- [ ] https://careers.nebius.com/?gh_jid=4841418101 | Nebius | Lead Software Systems Engineer - GPU  Performance
+- [ ] https://careers.nebius.com/?gh_jid=4979798101 | Nebius | Solutions Architect, Enterprise
+- [ ] https://job-boards.greenhouse.io/netbrain/jobs/5240913007 | netbrain | Senior Manager, Salesforce Platform Strategy & Delivery
+- [ ] https://job-boards.greenhouse.io/neuehealth/jobs/6203043004 | NeueHealth | Manager, People Technology
+- [ ] https://job-boards.greenhouse.io/neuraflash/jobs/5979316004 | NeuraFlash, Part of Accenture | AWS Technical Architect
+- [ ] https://job-boards.greenhouse.io/neuraflash/jobs/6129997004 | NeuraFlash, Part of Accenture | Enterprise Architect, AWS Practice
+- [ ] https://job-boards.greenhouse.io/neuraflash/jobs/6218544004 | NeuraFlash, Part of Accenture | Salesforce Agentforce Architect (Technical Architect)
+- [ ] https://job-boards.greenhouse.io/neuraflash/jobs/6128966004 | NeuraFlash, Part of Accenture | Salesforce Technical Architect
+- [ ] https://job-boards.greenhouse.io/neuraflash/jobs/6003043004 | NeuraFlash, Part of Accenture | Salesforce Technical Architect, Data & AI
+- [ ] https://job-boards.greenhouse.io/neweratech/jobs/8742642002 | New Era Technology | Technical Solution Executive, Managed Services
+- [ ] https://job-boards.greenhouse.io/newrelic/jobs/5441027008 | New Relic | Senior Technical Success Manager
+- [ ] https://about.nextdoor.com/careers-list/?gh_jid=7572109 | nextdoor | Senior Manager - Analytics Engineering 
+- [ ] https://job-boards.greenhouse.io/nexus/jobs/5442516008 | nexus | Technical Support Specialist – Photo Finishing Equipment
+- [ ] https://boards.eu.greenhouse.io/nice/jobs/4973796101?gh_jid=4973796101 | NICE | Lead Technical Account Manager
+- [ ] https://boards.eu.greenhouse.io/nice/jobs/4989946101?gh_jid=4989946101 | NICE | Senior Technical Account Manager
+- [ ] https://boards.eu.greenhouse.io/nice/jobs/4793534101?gh_jid=4793534101 | NICE | Technical Customer Success Manager - Conversational AI Or Agentic AI
+- [ ] https://boards.eu.greenhouse.io/nice/jobs/4856311101?gh_jid=4856311101 | NICE | Technical Enablement Manager
+- [ ] https://job-boards.greenhouse.io/nmi/jobs/5384419008 | NMI | Technical Integration Support Analyst (Bilingual Spanish/English)
+- [ ] https://job-boards.greenhouse.io/northbeam/jobs/4712105006 | Northbeam | Technical Account Manager
+- [ ] https://job-boards.greenhouse.io/obsidiansecurity/jobs/5189660008 | Obsidian Security | Sr Technical Marketing Manager - Alliances & Competitive Strategy
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/8017303003 | Oddball | System Architect
+- [ ] https://job-boards.greenhouse.io/officespacesoftware/jobs/5372002008 | OfficeSpace Software | Client Success Manager, Enterprise
+- [ ] https://job-boards.greenhouse.io/officespacesoftware/jobs/5409864008 | OfficeSpace Software | Client Success Manager, Enterprise Accounts
+- [ ] https://job-boards.greenhouse.io/officespacesoftware/jobs/5416006008 | OfficeSpace Software | Enterprise Solutions Consultant
+- [ ] https://job-boards.greenhouse.io/oklo/jobs/5979482004 | Oklo | Technical Product Engineer
+- [ ] https://job-boards.greenhouse.io/olipop/jobs/8003939003 | OLIPOP | Collaborative Planning, Forecasting, & Replenishment Analyst
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5284703008 | olsson | Lead Engineer (Technical Lead) – Power Generation Design
+- [ ] https://job-boards.greenhouse.io/onenergy/jobs/4442956009 | ON.energy | Facility Systems Technician - Houston Operations
+- [ ] https://boards.greenhouse.io/opensesame/jobs/7271087?gh_jid=7271087 | OpenSesame | Associate Business Systems Administrator - (Remote - Argentina or Mexico)
+- [ ] https://openzeppelin.com/careers/opening/?gh_jid=7826440003 | openzeppelin | Technical Sales Lead, Ecosystems
+- [ ] https://job-boards.greenhouse.io/opploans/jobs/7561298003 | OppFi | Manager, Enterprise Application Engineering
+- [ ] https://job-boards.greenhouse.io/origisenergy/jobs/5641152004 | origisenergy | Energy Market Analytics Manager
+- [ ] https://job-boards.greenhouse.io/origisenergy/jobs/4416645004 | origisenergy | Operational Technology Senior Specialist
+- [ ] https://job-boards.greenhouse.io/oriongroup/jobs/4693284006 | Orion Group | M&A Integrations Manager
+- [ ] https://job-boards.greenhouse.io/oscar/jobs/8193718 | oscar | Senior Analyst, Data Analytics, SIU
+- [ ] https://job-boards.greenhouse.io/oscar/jobs/8202920 | oscar | Senior Manager, Employer Subsidized and New Growth Platforms
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4455258009 | Oura | Senior Business Systems Engineer
+- [ ] https://trustage.wd1.myworkdayjobs.com/trustage/job/Remote---USA/HRIS-Technology-Consultant--WorkDay---Hybrid-_R-011785 | trustage | Lead HRIS Technology Consultant, Workday  (Remote)
+- [ ] https://umgc.wd1.myworkdayjobs.com/umgc_careers/job/North-America-Remote/Artificial-Intelligence--BS-Program---Department-of-Information-Technology---Adjunct-Faculty_10026545 | umgc | Artificial Intelligence (BS Program), Department of Information Technology - Adjunct Faculty
+- [ ] https://umgc.wd1.myworkdayjobs.com/umgc_careers/job/North-America-Remote/Artificial-Intelligence--MS-Program---Department-of-Information-Technology---Adjunct-Faculty_10026546 | umgc | Artificial Intelligence (MS Program), Department of Information Technology - Adjunct Faculty
+- [ ] https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Warehouse-Specialist_JR115401 | varsitybrands | Warehouse Specialist
+- [ ] https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Grand-Prairie/Warehouse-Specialist---1st-Shift_JR115020 | varsitybrands | Warehouse Specialist - 1st Shift
+- [ ] https://veralto.wd1.myworkdayjobs.com/hachjobs/job/IND---Remote/Business-Systems-Developer_R10268188 | veralto | Business Systems Developer
+- [ ] https://veralto.wd1.myworkdayjobs.com/chemtreatjobs/job/Remote-United-States-of-America/Technical-Consultant_R10268104 | veralto | Technical Consultant
+- [ ] https://viatris.wd5.myworkdayjobs.com/external/job/United-States-Remote-Office/R-D-and-Regulatory-Systems-Lead_R5674171 | viatris | R&D and Regulatory Systems Lead
+- [ ] https://viatris.wd5.myworkdayjobs.com/external/job/United-States-Remote-Office/Senior-Manager--MarTech-Ecosystem-Lead_R5674460 | viatris | Senior Manager, MarTech Ecosystem Lead
+- [ ] https://vst.wd5.myworkdayjobs.com/equest/job/Irving-Texas/BI--Analytics---AI-Specialist_40016682-3 | vst | BI, Analytics & AI Specialist
+- [ ] https://vst.wd5.myworkdayjobs.com/equest/job/Irving-Texas/Lead-Developer--Technology-Services_40016160-3 | vst | Lead Developer, Technology Services
+- [ ] https://vst.wd5.myworkdayjobs.com/equest/job/Irving-Texas/Sr-Analyst--Offer-Strategy---Campaign-Analytics_40015266-3 | vst | Sr. Analyst, Offer Strategy & Campaign Analytics
+- [ ] https://vst.wd5.myworkdayjobs.com/equest/job/Irving-Texas/Sr-Manager-Financial-Planning---Analysis-System--Technology_40016667-3 | vst | Sr. Manager Financial Planning & Analysis System, Technology
+- [ ] https://vst.wd5.myworkdayjobs.com/equest/job/Irving-Texas/Strategic-Planning-Specialist-I_40015817-3 | vst | Strategic Planning Specialist I
+- [ ] https://wasatchproperty.wd1.myworkdayjobs.com/marketstarcareers/job/MarketStar---US-Remote/Quality-and-Enablement-Specialist---Financial-Technology_R22247-2 | wasatchproperty | Quality and Enablement Specialist - Financial Technology
+- [ ] https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4409636009 | National Life Insurance Company | Project Manager
+- [ ] https://job-boards.greenhouse.io/neweratech/jobs/8843229002 | New Era Technology | Project Manager
+- [ ] https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4418011009 | oldcastlebuildingenvelope | National Accounts Project Manager
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5252479008 | olsson | Project Manager - Building Design
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/4637626008 | olsson | Senior Project Manager (Airports)
+- [ ] https://ufpi.wd503.myworkdayjobs.com/ufpi/job/Kyle-TX/Field-Project-Manager_R22423 | ufpi | Field Project Manager
+- [ ] https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Product-Owner_JR114520 | varsitybrands | Product Owner
+- [ ] https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/TX_Dallas_DFW/Assistant-Project-Manager-I_JR15918 | walshgroup | Assistant Project Manager I
+- [ ] https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/TX_Dallas_224018/Low-Voltage-Project-Manager_JR15561 | walshgroup | Low Voltage Project Manager
+- [ ] https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/TX_Galveston_224174/Project-Manager_JR16555 | walshgroup | Project Manager
+- [ ] https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/TX_Dallas_DFW/Project-Manager-I_JR15693 | walshgroup | Project Manager I
+- [ ] https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4426325009 | National Life Insurance Company | Analyst, Application Development – Product & Inforce Systems
+- [ ] https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4453465009 | National Life Insurance Company | Analyst, Data & Analytics
+- [ ] https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4370434009 | National Life Insurance Company | Manager, Operational Analytics
+- [ ] https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4426477009 | National Life Insurance Company | Sr Cloud Platform & Site Reliability Engineering Lead
+- [ ] https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4426661009 | National Life Insurance Company | Tech Lead, Application Development – Product & Inforce Systems
+- [ ] https://about.nextdoor.com/careers-list/?gh_jid=8259381 | nextdoor | Principal Product Manager, Ads Delivery & Optimization
+- [ ] https://www.nextiva.com/company/careers-listing?gh_jid=8557402002 | nextiva | Principal Product Manager, Omnichannel CX
+- [ ] https://job-boards.greenhouse.io/oportun/jobs/4690516005 | Oportun | Principal Product Manager, Savings (R13997)
+- [ ] https://trwd.wd1.myworkdayjobs.com/trwdcareers/job/Fort-Worth-TX/Systems-Architect-Supervisor--P109-_JR100208 | trwd | Systems Architect Supervisor (P109)
+- [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Technology-Leadership-Program---Application-Development--TX-_181647 | vanguard | Technology Leadership Program - Application Development (TX)
+- [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Technology-Leadership-Program--Risk-and-Security-Analyst--TX-_181669 | vanguard | Technology Leadership Program, Risk and Security Analyst (TX)
+- [ ] https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Technology-Leadership-Program--Risk-and-Security-Engineer--TX-_181643 | vanguard | Technology Leadership Program, Risk and Security Engineer (TX)
+- [ ] https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Finance-Analytics-Manager_34164R | vizient | Financial Business Intelligence Manager
+- [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4745064005 | GHX | Data Analyst III - Consulting
+- [ ] https://job-boards.greenhouse.io/mrbeastyoutube/jobs/5987933004 | MrBeast | Senior Manager, Procurement 
+- [ ] https://job-boards.greenhouse.io/myfitnesspal/jobs/8215936 | MyFitnessPal | CRM Operations Manager
+- [ ] https://job-boards.greenhouse.io/myfitnesspal/jobs/8105628 | MyFitnessPal | Sr. Ad Operations Manager
+- [ ] https://boards.greenhouse.io/myriad360/jobs/8682576002?gh_jid=8682576002 | Myriad360 | Field Marketing Manager - Detroit (Remote)
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6224697004 | Natera | Data Privacy Manager
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6198753004 | Natera | Manager of Data Analysis for Lab Production Support, Extended-Hours Support (ExHS)
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6137669004 | Natera | Manager of Data Engineering & Delivery (Data Science Production Engineering)
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6007679004 | Natera | Senior Manager, Network Operations
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6220887004 | Natera | Senior/Lead Bioinformatics Scientist (Multi-Cancer Early Detection)
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5830803004 | Natera | Sr. Software Engineer/Tech Lead, Data & AI Engineering
+- [ ] https://careers.nebius.com/?gh_jid=4774875101 | Nebius | Data Center Design Lead
+- [ ] https://careers.nebius.com/?gh_jid=4941897101 | Nebius | IT Risks & Control Manager
+- [ ] https://job-boards.greenhouse.io/netlify/jobs/8823312002 | Netlify | Senior Marketing Operations Manager
+- [ ] https://job-boards.greenhouse.io/neuehealth/jobs/6219461004 | NeueHealth | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/neurahealth/jobs/5215390007 | Neura Health | GTM Engineer / Senior Manager of Revenue Operations
+- [ ] https://job-boards.greenhouse.io/neuraflash/jobs/6214097004 | NeuraFlash, Part of Accenture | Salesforce Data Architect, Revenue Solutions
+- [ ] https://job-boards.greenhouse.io/neweratech/jobs/8648679002 | New Era Technology | Solution Executive - Digital
+- [ ] https://job-boards.greenhouse.io/newsela/jobs/8211995 | Newsela | Educational Data Analyst 
+- [ ] https://job-boards.greenhouse.io/newsela/jobs/8211355 | Newsela | Senior Marketing Operations Analyst
+- [ ] https://job-boards.greenhouse.io/newsweek/jobs/4700289006 | Newsweek | Digital Account Manager 
+- [ ] https://job-boards.greenhouse.io/nex/jobs/5346058008 | Nex | IT Operations Specialist
+- [ ] https://job-boards.greenhouse.io/nimblegravity/jobs/4631216005 | Nimble Gravity | Sr Data Architect
+- [ ] https://job-boards.greenhouse.io/nmi/jobs/5323410008 | NMI | Data Analyst, Revenue Operations 
+- [ ] https://job-boards.greenhouse.io/nortal/jobs/5195977007 | nortal | (1509) Senior Data Privacy Specialist (OneTrust / DSAR)
+- [ ] https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4742632005 | NPR | Senior Data Insights Analyst, Mobile App
+- [ ] https://ntdmechanical.com/careers/?gh_jid=5442121008 | ntd | Lead HVAC Service Technician @ NTD Mechanical
+- [ ] https://job-boards.greenhouse.io/nve/jobs/8186427 | NVE Experience Agency | Growth Operations Manager
+- [ ] https://job-boards.greenhouse.io/obsidiansecurity/jobs/5449057008 | Obsidian Security | Customer Success Operations Analyst
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/7835835003 | Oddball | Cloud Data Architect
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/7866264003 | Oddball | Digital Solutions Architect
+- [ ] https://job-boards.greenhouse.io/oklo/jobs/6194317004 | Oklo | Facility Operations Specialist
+- [ ] https://job-boards.greenhouse.io/oklo/jobs/6183300004 | Oklo | Recycling Operations Engineer Lead
+- [ ] https://job-boards.greenhouse.io/olipop/jobs/8008182003 | OLIPOP | CX Operations Analyst 
+- [ ] https://job-boards.greenhouse.io/olipop/jobs/8002694003 | OLIPOP | IT Manager 
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5391652008 | olsson | BIM Manager - Data Centers
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5181811008 | olsson | Commissioning Client Manager - Data Center
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5066707008 | olsson | Instrumentation and Controls Project Engineer - Data Center (Remote) 
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5378503008 | olsson | Lead Electrical Engineer - Data Centers
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5183054008 | olsson | Project Civil Engineer - Data Center
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5377939008 | olsson | Project Electrical Engineer - Data Centers (Remote)
+- [ ] https://job-boards.greenhouse.io/omadahealth/jobs/8114215 | Omada Health | Senior Manager, Revenue Operations
+- [ ] https://job-boards.greenhouse.io/onbe/jobs/4707695006 | Onbe | Financial Operations AR Specialist
+- [ ] https://job-boards.greenhouse.io/oneimaging/jobs/4457431009 | OneImaging | Clinical Operations Manager- Radiology
+- [ ] https://job-boards.greenhouse.io/oneimaging/jobs/4424329009 | OneImaging | Marketing Operations Manager
+- [ ] https://job-boards.greenhouse.io/oneimaging/jobs/4451509009 | OneImaging | Operations Manager, Member Services (Knowledge Management)
+- [ ] https://job-boards.greenhouse.io/oneimaging/jobs/4388442009 | OneImaging | Support Operations Specialist II
+- [ ] https://boards.greenhouse.io/opensesame/jobs/8152723?gh_jid=8152723 | OpenSesame | Data Engineering Manager
+- [ ] https://boards.greenhouse.io/opensesame/jobs/8163544?gh_jid=8163544 | OpenSesame | Sales Operations Manager, Channel & Partnerships
+- [ ] https://boards.greenhouse.io/opensesame/jobs/8161867?gh_jid=8161867 | OpenSesame | Sales Operations Manager, Direct Sales
+- [ ] https://job-boards.eu.greenhouse.io/orcristtechnologies/jobs/4963523101 | orcristtechnologies | Group Information Security Manager
+- [ ] https://job-boards.eu.greenhouse.io/orcristtechnologies/jobs/4982751101 | orcristtechnologies | Lead Public Affairs Manager – Defence, Security & Digital Sovereignty
+- [ ] https://job-boards.greenhouse.io/origisenergy/jobs/6208405004 | origisenergy | Procurement Specialist/Manager 
+- [ ] https://job-boards.greenhouse.io/oruka/jobs/5445884008 | oruka | Manager, Clinical Data Management
+- [ ] https://job-boards.greenhouse.io/oscar/jobs/8168192 | oscar | Associate Manager, Credentialing Operations
+- [ ] https://job-boards.greenhouse.io/oscar/jobs/8168179 | oscar | Associate Manager, Provider Operations
+- [ ] https://job-boards.greenhouse.io/oscar/jobs/8168038 | oscar | Manager, Data Mining - Payment Integrity 
+- [ ] https://job-boards.greenhouse.io/oscar/jobs/8201964 | oscar | Manager, Insurance Product and Benefit Design
+- [ ] https://job-boards.greenhouse.io/oscar/jobs/8168110 | oscar | Senior Analyst, Credentialing Quality & Data Operations
+- [ ] https://job-boards.greenhouse.io/oscar/jobs/7974623 | oscar | Senior Manager, Insurance Product and Benefit Design
+- [ ] https://job-boards.greenhouse.io/oscar/jobs/8240627 | oscar | Senior Manager, Revenue Cycle Management, Provider Operations
+- [ ] https://job-boards.greenhouse.io/outrider/jobs/5200848008 | outrider | Manager, Cloud and Data
+- [ ] https://www.outsideinc.com/openings?gh_jid=5397638008 | outside | Creative Operations Specialist
+- [ ] https://www.outsideinc.com/openings?gh_jid=5424603008 | outside | Digital Production Manager
+- [ ] https://job-boards.greenhouse.io/ownwell/jobs/4569892006 | Ownwell | Support Operations Specialist
+- [ ] https://tstc.wd1.myworkdayjobs.com/tstc_jobs/job/Texas-State-Technical-College/Manager--IT-Project-Management_R-006181-1 | tstc | Manager, IT Project Management
+- [ ] https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Remote/Lead-AI-Research-Scientist-II---Digital-Safety-Research-Institute_JR1606-1 | ulse | Lead AI Research Scientist II - Digital Safety Research Institute
+- [ ] https://umgc.wd1.myworkdayjobs.com/umgc_careers/job/North-America-Remote/Accounting-and-CyberAccounting--Department-of-Accounting-and-Finance---Adjunct-Faculty_10026293 | umgc | Accounting and CyberAccounting, Department of Operations, Innovation, and Leadership - Adjunct Faculty
+- [ ] https://unisys.wd5.myworkdayjobs.com/external/job/Remote-PA-United-States-of-America/Manager--Emerging-Technologies---Digital-Marketing_REQ572883 | unisys | AI & Emerging Technologies Manager – Digital Marketing
+- [ ] https://unisys.wd5.myworkdayjobs.com/external/job/Remote-PA-United-States-of-America/Digital-Intelligence-Analyst_REQ574346 | unisys | Digital Intelligence Analyst
+- [ ] https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/US---Texas/Senior-SAP-FICO-Analyst_JR114287 | varsitybrands | Senior SAP FICO Analyst
+- [ ] https://velera.wd5.myworkdayjobs.com/veleracareers/job/Iowa---Remote/Consulting-Operations-Analyst_9719 | velera | Consulting Operations Analyst
+- [ ] https://verily.wd1.myworkdayjobs.com/verily_careers/job/Remote-United-States/Clinical-Data-Architect_REQ-842 | verily | Clinical Data Architect
+- [ ] https://verily.wd1.myworkdayjobs.com/verily_careers/job/Remote-United-States/Data-Solutions-Sales-Specialist--Healthcare-Providers_REQ-616 | verily | Solution Sales Specialist, Healthcare Data and AI
+- [ ] https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/ASIA--BGD--Chittagong--Remote/Manager--Sourcing-Operations--App-Eq-Pack_R-20260827-0001-1 | vfc | Manager, Sourcing Operations, App/Eq./Pack
+- [ ] https://viatris.wd5.myworkdayjobs.com/external/job/United-States-Remote-Office/Senior-Analyst--Sales-Operations_R5669394 | viatris | Senior Analyst, Sales Operations
+- [ ] https://viatris.wd5.myworkdayjobs.com/external/job/San-Antonio-Texas-USA/Senior-Manager--CDMO-Operations_R5674789 | viatris | Senior Manager, CDMO Operations
+- [ ] https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Associate-Data-Analyst-Retail_40015958-2 | vst | Associate Data Analyst-Retail
+- [ ] https://vst.wd5.myworkdayjobs.com/equest/job/Tatum-Texas/I-C-Tech-II_40016273-4 | vst | I&C Tech II through I&C Tech Specialist
+- [ ] https://vst.wd5.myworkdayjobs.com/equest/job/Monahans-Texas/Operations-Technician_40016733-3 | vst | Operations Technician
+- [ ] https://vst.wd5.myworkdayjobs.com/equest/job/Irving-Texas/Senior-Data---BI-Specialist_40015692 | vst | Senior Data & BI Specialist
+- [ ] https://wattswater.wd5.myworkdayjobs.com/external/job/Remote---United-States/Business-Development-Manager--Applications---North-Central-US---Mega-Projects_10016459 | wattswater | Business Development Manager, Applications - North Central US,  Mega Projects
+- [ ] https://waystar.wd1.myworkdayjobs.com/waystar/job/United-States-Remote/Inpatient-Coding-Clinical-Data-Specialist_R3269 | waystar | Inpatient Coding/Clinical Data Specialist
+- [ ] https://motional.com/open-positions/?gh_jid=8037130003#/8037130003 | Motional | Principal Software Engineer, Team Lead - Perception Platforms
+- [ ] https://motional.com/open-positions/?gh_jid=7798007003#/7798007003 | Motional | Principal Technical Lead Manager - AI Data Applications
+- [ ] https://job-boards.greenhouse.io/myfitnesspal/jobs/8146189 | MyFitnessPal | Director, Product Analytics
+- [ ] https://boards.eu.greenhouse.io/nice/jobs/4981924101?gh_jid=4981924101 | NICE | Principal Technical Account Manager
+- [ ] https://job-boards.greenhouse.io/niraenergy/jobs/5235896008 | Nira Energy | Chief Product & Technology Officer
+- [ ] https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Remote---US/Director--Procurement-Intelligence---Predictive-Analytics--Global_R24187 | vantagedc | Director, Procurement Intelligence & Predictive Analytics, Global
+- [ ] https://wattswater.wd5.myworkdayjobs.com/external/job/Remote---United-States/Director--Digital-Marketing--Operations---Analytics_10017375 | wattswater | Director, Digital Marketing, Operations & Analytics
+- [ ] https://job-boards.greenhouse.io/msautomotive/jobs/5419456008 | msautomotive | Galveston Automotive Lead Technician - No Weekends!
+- [ ] https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4431021009 | National Life Insurance Company | Associate Director, Life & Annuity Product Systems
+- [ ] https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4330987009 | National Life Insurance Company | Life & Annuity Compliance Analyst - Special Investigative Unit 
+- [ ] https://job-boards.greenhouse.io/navapbc/jobs/4401442009 | navapbc | Principal Manager, People Operations Business Partner
+- [ ] https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4282003009 | oldcastlebuildingenvelope | SAP EWM Lead Architect 
+- [ ] https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4282009009 | oldcastlebuildingenvelope | SAP SD & IBP Lead Architect
+- [ ] https://job-boards.greenhouse.io/olsson/jobs/5188390008 | olsson | BIM Specialist - Data Center
+- [ ] https://job-boards.greenhouse.io/olympusproperty/jobs/7984319003 | Olympus Property | Lead Maintenance Technician - Olympus Hudson Oaks
+- [ ] https://job-boards.greenhouse.io/origisenergy/jobs/5830607004 | origisenergy | Director Project Development, Data Centers
+- [ ] https://trustage.wd1.myworkdayjobs.com/trustage/job/Remote---USA/Digital-Product-Strategy---Delivery-Director_R-012239 | trustage | Digital Product Strategy & Delivery Director
+- [ ] https://umgc.wd1.myworkdayjobs.com/umgc_careers/job/North-America-San-Antonio-TX-/Operations-Management--Department-of-Accounting-and-Finance---Adjunct-Faculty_10026406 | umgc | Operations Management, Department of Operations, Innovation, and Leadership - Adjunct Faculty
+- [ ] https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Houston-TX/Bilingual-Operations-Manager_R29210 | valmont | Bilingual Operations Manager
+- [ ] https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Brenham-TX/Developmental-Operations-Manager_R28539 | valmont | Operations Manager
+- [ ] https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Senior-Financial-Analyst---Varsity-Spirit-Products_JR115114 | varsitybrands | Senior Financial Analyst - Varsity Spirit Products
+- [ ] https://waterbridge.wd5.myworkdayjobs.com/waterbridgecareers/job/Midland-TX/Commercial-Operations-Analyst_R1235 | waterbridge | Commercial Operations Analyst
