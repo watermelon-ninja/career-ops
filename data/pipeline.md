@@ -5661,3 +5661,244 @@ Add job URLs or local JD references below, one per line or as markdown bullets. 
 - [ ] https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Brenham-TX/Developmental-Operations-Manager_R28539 | valmont | Operations Manager
 - [ ] https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Senior-Financial-Analyst---Varsity-Spirit-Products_JR115114 | varsitybrands | Senior Financial Analyst - Varsity Spirit Products
 - [ ] https://waterbridge.wd5.myworkdayjobs.com/waterbridgecareers/job/Midland-TX/Commercial-Operations-Analyst_R1235 | waterbridge | Commercial Operations Analyst
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8075185 | Reddit | Group Product Manager, Finance Technology
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8023563 | Reddit | Senior Business Analyst, Revenue Analytics
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7954001 | Reddit | Staff Technical Product Manager, Ads ML Platform 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8049762 | Reddit | Staff Technical Program Manager
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7995207 | Reddit | Staff Technical Program Manager, Infrastructure 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8120503 | Reddit | Senior Product Manager, Ads -  Shopping Catalogs
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8237639 | Reddit | Senior Product Manager, Notifications
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8167412 | Reddit | Staff Product Manager, Ads Formats
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7996994 | Reddit | Staff Product Manager, Community Builders
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8088710 | Reddit | Staff Product Manager, Moderation
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8238227 | Reddit | Staff Product Manager, Youth
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5266808007?gh_jid=5266808007 | Anduril | Senior Technical Recruiter
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5270345007?gh_jid=5270345007 | Anduril | Supplier Industrialization Engineering, Electronics, Intelligence Systems
+- [ ] https://job-boards.greenhouse.io/project44/jobs/8128718 | project44 | Enterprise Account Executive
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8282760 | Reddit | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8256326 | Reddit | Engineering Manager, Knowledge Graph Platform 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8095476 | Reddit | Engineering Manager, Notifications Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8095009 | Reddit | Machine Learning Manager, Feed Ecosystems
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7731772 | Reddit | Senior Machine Learning Systems Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8283770 | Reddit | Senior Machine Learning Systems Engineer, ML Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8022441 | Reddit | Senior Software Engineer, Core Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8303798 | Reddit | Senior Software Engineer, Web Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7772274 | Reddit | Senior Staff Machine Learning Engineer, GenAI Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8157275 | Reddit | Senior Staff Machine Learning Systems Engineer, Ads ML Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8139781 | Reddit | Software Engineer, Content Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8214910 | Reddit | Software Engineer, Ingestion Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8275143 | Reddit | Staff Android Engineer, Android Platform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7731788 | Reddit | Staff Machine Learning Systems Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8205402 | Reddit | Staff Software Engineer - Ingestion Platform 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8237636 | Reddit | Staff Software Engineer, Android Design System
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8180636 | Reddit | Staff Software Engineer, Developer Ecosystem
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7792848 | Reddit | Ads Conversion Modeling, Machine Learning Engineering Manager
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8147559 | Reddit | Front End Software Engineer, Consumer Engineering
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8198102 | Reddit | Front End Software Engineer, Media Player
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8194576 | Reddit | Frontend Engineer, Ads
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8240716 | Reddit | Frontend Engineer, Ads Campaign Manager
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8186566 | Reddit | Global Indirect Tax Manager 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8301736 | Reddit | Lead Forward Deployed Engineer (AI Enablement)
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7131932 | Reddit | Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8299781 | Reddit | Machine Learning Engineer, Answers Relevance
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8094985 | Reddit | Machine Learning Manager, Feed Relevance (Retrieval)
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8282563 | Reddit | Senior Ads Business Development & Partnership Manager
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8263407 | Reddit | Senior Android Software Engineer, Consumer Engineering
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8128860 | Reddit | Senior Backend Engineer, Compliance Engineering
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8044767 | Reddit | Senior Backend Engineer, IAM
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7954598 | Reddit | Senior Business Engineer - Ads
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8168390 | Reddit | Senior Community Lifecycle Manager
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8104403 | Reddit | Senior Data Scientist, Ads
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8157580 | Reddit | Senior Data Scientist, Ads Integrity
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8301784 | Reddit | Senior Forward Deployed Engineer (AI Enablement)
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8175520 | Reddit | Senior Frontend Engineer, Ads Creative
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8147617 | Reddit | Senior Frontend Software Engineer, Consumer Engineering
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6960831 | Reddit | Senior Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8304463 | Reddit | Senior Machine Learning Engineer, Ads ML Efficiency
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8125507 | Reddit | Senior Machine Learning Manager, Video Ranking 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8180811 | Reddit | Senior Manager, Community Growth & Intelligence
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7950520 | Reddit | Senior Software Engineer - DevX
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8106246 | Reddit | Senior Software Engineer - Messaging
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6909091 | Reddit | Senior Software Engineer, Ads
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7980795 | Reddit | Senior Software Engineer, Agentic Ads Experience
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8187247 | Reddit | Senior Software Engineer, Consumer Engineering
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8100220 | Reddit | Senior Software Engineer, Media Creation
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7511679 | Reddit | Senior Software Engineer, Storage
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7974605 | Reddit | Senior Staff Data Scientist, Consumer Relevance
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8122606 | Reddit | Senior Staff Machine Learning Engineer, Feed Relevance
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8243010 | Reddit | Senior Staff Machine Learning Engineer, ML Understanding
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8060775 | Reddit | Senior Staff Software Engineer, Client Architecture
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6469397 | Reddit | Software Engineer, Ads
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8275745 | Reddit | Software Engineer, Agent Optimization & Evaluation
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8172457 | Reddit | Software Engineer, Consumer Engineering
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8127002 | Reddit | Staff Android Engineer, Brand Ad Formats
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8302227 | Reddit | Staff Community Product Marketing Manager, Trust & Safety
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8072076 | Reddit | Staff Data Scientist - Ads Measurement, Signals, Privacy
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7721787 | Reddit | Staff Data Scientist, Ads
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7445240 | Reddit | Staff Data Scientist, Marketing
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7895156 | Reddit | Staff iOS Engineer, Media Foundation
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8250389 | Reddit | Staff Machine Learning Engineer, Ads Creative Effectiveness
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8247280 | Reddit | Staff Machine Learning Engineer, Ads ML Efficiency
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8203478 | Reddit | Staff Machine Learning Engineer, AI Security
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8187652 | Reddit | Staff Machine Learning Engineer, App Ads Modeling
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7747244 | Reddit | Staff Machine Learning Engineer, Consumer 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8178085 | Reddit | Staff Machine Learning Engineer, Retrieval
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7701558 | Reddit | Staff Product Designer, Growth
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8120566 | Reddit | Staff Product Designer, Presence
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7868511 | Reddit | Staff Product Security Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8175131 | Reddit | Staff Software Engineer - Site Defense
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8131228 | Reddit | Staff Software Engineer , Observability
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8205702 | Reddit | Staff Software Engineer, Consumer Engineering
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8031491 | Reddit | Staff Software Engineer, Identity & Access Management
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8048988 | Reddit | Staff Software Engineer, Media Experience
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8029641 | Reddit | Staff Software Engineer, Media Foundations
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7961154 | Reddit | Staff Software Engineer, Onboarding
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8189395 | Reddit | Staff Threat Analyst, Ads Fraud
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8244067 | Reddit | Strategic Finance Senior Manager 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8049901 | Reddit | Staff Software Engineer, DevPlatform
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8142128 | Reddit | Director, Intellectual Property
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8192369 | Reddit | International Payroll Analyst
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7330347 | Reddit | Principal Data Scientist, Ads
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8122887 | Reddit | Principal UX Engineer, Ads
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8226397 | Reddit | Senior Director, Data Science
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4877821101 | Parloa | Sr Technical Program Manager
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4877824101 | Parloa | Technical Program Manager
+- [ ] https://www.pathai.com/careers/8885389002?gh_jid=8885389002 | pathai | Staff Product Manager, BioPharma Platforms
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6221882004 | Pathward, N.A. | Risk Analyst Program Manager (Partner Risk & Analytics)
+- [ ] https://job-boards.greenhouse.io/perfectserve/jobs/6219663004 | PerfectServe | Enterprise Implementation Consultant - US Remote
+- [ ] https://job-boards.greenhouse.io/pipe17/jobs/4640907005 | pipe17 | LATAM/Americas ERP (Netsuite) Solution Consultant - Implementation
+- [ ] https://job-boards.eu.greenhouse.io/primexbt/jobs/4846320101 | primexbt | Product Owner - Revenue Systems
+- [ ] https://job-boards.greenhouse.io/prospectus/jobs/4455089009 | prospectus | Technical Product Owner – Salesforce Health Cloud & AI-Enabled Agile Delivery
+- [ ] https://job-boards.greenhouse.io/qualia/jobs/8028648 | Qualia | Senior Product Manager, Platform
+- [ ] https://job-boards.greenhouse.io/quince/jobs/5439892008 | Quince | Program Manager, Materials Planning
+- [ ] https://job-boards.greenhouse.io/quince/jobs/4780117008 | Quince | Project Manager, Enterprise Merchandise
+- [ ] https://www.qventus.com/company/working-qventus/job?gh_jid=4259848009 | qventus | Lead Product Manager, Application Platform
+- [ ] https://www.qventus.com/company/working-qventus/job?gh_jid=4398541009 | qventus | Senior Technical Implementation Partner
+- [ ] https://job-boards.greenhouse.io/realchemistry/jobs/5423531008 | Real Chemistry | Technical Project Manager
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/8214864 | Everpure | Inventory Analyst
+- [ ] https://job-boards.greenhouse.io/pathwardcareerfair/jobs/6186967004 | Pathward, Career Fairs | Capital Markets Analyst – Warehouse Finance
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6181520004 | Pathward, N.A. | Capital Markets Analyst – Warehouse Finance
+- [ ] https://job-boards.greenhouse.io/prospectus/jobs/4433904009 | prospectus | Pharmacy Technician - Fulfillment & Triage - Texas CPht Required 
+- [ ] https://job-boards.greenhouse.io/parachutehealth/jobs/5206072007 | Parachute Health | Senior Product Manager, Catalog
+- [ ] https://job-boards.greenhouse.io/parachutehealth/jobs/5266865007 | Parachute Health | Senior Product Manager, Provider Experience
+- [ ] https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4693384006 | paretocaptiveservicesllc | Product Manager, Customer Experience
+- [ ] https://www.pathai.com/careers/8860672002?gh_jid=8860672002 | pathai | Implementation Engineer, Digital Diagnostics (DDx)
+- [ ] https://www.pathai.com/careers/8807814002?gh_jid=8807814002 | pathai | Senior Program Manager
+- [ ] https://www.pathai.com/careers/8807767002?gh_jid=8807767002 | pathai | Staff Product Manager, AI Product
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6221167004 | Pathward, N.A. | Business Analyst Advisor
+- [ ] https://job-boards.greenhouse.io/pelago/jobs/5261728007 | Pelago | Clinical Quality Program Manager
+- [ ] https://job-boards.greenhouse.io/pfm/jobs/6205518004 | pfm | Senior Project Manager, Oncology 
+- [ ] https://job-boards.greenhouse.io/phizenix/jobs/5386581008 | Phizenix | Product Manager- Workflows
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7490266 | Planet | D&I Program Manager, Professional Services
+- [ ] https://job-boards.greenhouse.io/powerx/jobs/4423351009 | powerx | Assistant Project Manager 
+- [ ] https://job-boards.greenhouse.io/precisionaq/jobs/6117969004 | Precision AQ | Project Manager, Evidence Synthesis
+- [ ] https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6117954004 | Precision Medicine Group | Project Manager, Evidence Synthesis 
+- [ ] https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6205516004 | Precision Medicine Group | Senior Project Manager, Oncology 
+- [ ] https://app.careerpuck.com/job-board/prenuvo/job/4738964005?gh_jid=4738964005 | prenuvo | Senior Business Analyst
+- [ ] https://app.careerpuck.com/job-board/prenuvo/job/4742421005?gh_jid=4742421005 | prenuvo | Staff Product Manager, Growth & E-commerce Experimentation
+- [ ] https://job-boards.greenhouse.io/privacy/jobs/6190665004 | privacy | Staff Product Manager
+- [ ] https://job-boards.greenhouse.io/qualia/jobs/8167489 | Qualia | Senior Product Manager, Clear
+- [ ] https://job-boards.greenhouse.io/qualia/jobs/7913986 | Qualia | Senior Product Manager, Payments
+- [ ] https://www.qualtrics.com/careers/us/en/job/8283601?gh_jid=8283601 | qualtrics | GTM Enablement Program Manager - Solutions & Product
+- [ ] https://job-boards.greenhouse.io/quisitivejobs/jobs/8301797 | Quisitive | Senior Project Manager
+- [ ] https://job-boards.greenhouse.io/raft/jobs/6205057004 | Raft Company Website | Product Manager
+- [ ] https://job-boards.greenhouse.io/realchemistry/jobs/5410629008 | Real Chemistry | 21GRAMS- Senior Project Manager
+- [ ] https://job-boards.greenhouse.io/realchemistry/jobs/5423529008 | Real Chemistry | Product Manager
+- [ ] https://job-boards.greenhouse.io/realchemistry/jobs/5431534008 | Real Chemistry | Project Manager, Medical Affairs
+- [ ] https://job-boards.greenhouse.io/realchemistry/jobs/5440144008 | Real Chemistry | Senior Project Manager, Promotional Medical Education
+- [ ] https://job-boards.greenhouse.io/recordedfuture/jobs/8730160002 | Recorded Future | Senior Product Manager, Digital Risk Protection Takedowns
+- [ ] https://job-boards.greenhouse.io/reliant/jobs/5413116008 | Reliant | Product Owner - Medical Cost Containment & JIRA Expertise 
+- [ ] https://job-boards.greenhouse.io/res/jobs/5422946008 | Resource Environmental Solutions LLC | Project Manager II - Ecological Restoration
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/8265486 | Everpure | Consulting National Partner Technical Manager
+- [ ] https://pantheon.io/about/careers/detail?gh_jid=8268177 | pantheon | Senior Manager, Technical Support Engineering
+- [ ] https://job-boards.greenhouse.io/parsleyhealth/jobs/8009795003 | Parsley Health | Senior Manager, Revenue Operations & Analytics
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6221712004 | Pathward, N.A. | Risk Analyst Senior - Financial Risk & Analytics
+- [ ] https://job-boards.greenhouse.io/pfm/jobs/6217586004 | pfm | Quality & Compliance Manager, Computer System Validation
+- [ ] https://job-boards.greenhouse.io/pingidentity/jobs/8770571002 | Ping Identity | Senior Technical Account Manager
+- [ ] https://job-boards.greenhouse.io/pingidentity/jobs/8635540002 | Ping Identity | Senior Technology Alliances Manager, - Frontier AI
+- [ ] https://job-boards.greenhouse.io/pingidentity/jobs/8435648002 | Ping Identity | Technical Account Manager
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7555019 | Planet | Software Engineer, Platform Operations
+- [ ] https://job-boards.greenhouse.io/pmg/jobs/8587053002 | PMG | Graduate Leadership Program - Data Analytics (January Start)
+- [ ] https://job-boards.greenhouse.io/pmg/jobs/8587036002 | PMG | Graduate Leadership Program - Data Analytics (June Start)
+- [ ] https://job-boards.greenhouse.io/praxisprecisionmedicines/jobs/5421238008 | Praxis Precision Medicines, Inc. | Enterprise Applications Development Lead
+- [ ] https://job-boards.greenhouse.io/praxisprecisionmedicines/jobs/5422865008 | Praxis Precision Medicines, Inc. | Marketing Technology & Platform Lead 
+- [ ] https://job-boards.greenhouse.io/praxisprecisionmedicines/jobs/5442939008 | Praxis Precision Medicines, Inc. | Senior Manager, Global Meeting Planning
+- [ ] https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6217581004 | Precision Medicine Group | Quality & Compliance Manager, Computer System Validation
+- [ ] https://job-boards.greenhouse.io/primerai/jobs/7722185003 | primer.ai | Senior Technical Delivery Manager
+- [ ] https://www.proofserve.com/careers/4737013005?gh_jid=4737013005 | Proof | Enterprise Account Manager, Creditors Rights & Collections
+- [ ] https://job-boards.greenhouse.io/prospectus/jobs/4458547009 | prospectus | Technical Delivery Manager – Healthcare, Release Management & AI
+- [ ] https://job-boards.greenhouse.io/qualia/jobs/8256867 | Qualia | Technical Accounting and Special Projects Manager
+- [ ] https://www.qualtrics.com/careers/us/en/job/8175227?gh_jid=8175227 | qualtrics | Enterprise Sales Leader - Financial Services
+- [ ] https://www.qualtrics.com/careers/us/en/job/8163149?gh_jid=8163149 | qualtrics | Enterprise Sales Leader - Technology and Telecommunications 
+- [ ] https://www.qualtrics.com/careers/us/en/job/7990814?gh_jid=7990814 | qualtrics | Higher Education Enterprise Sales Manager
+- [ ] https://job-boards.greenhouse.io/quisitivejobs/jobs/8247549 | Quisitive | Dynamics 365 Customer Engagement (CE) Technical Architect
+- [ ] https://www.qventus.com/company/working-qventus/job?gh_jid=4339859009 | qventus | Analytics Program Lead
+- [ ] https://www.qventus.com/company/working-qventus/job?gh_jid=4456584009 | qventus | Technical Product Architect
+- [ ] https://job-boards.greenhouse.io/radiclehealth/jobs/5261645007 | Radicle Health | Technical Support Specialist 
+- [ ] https://job-boards.greenhouse.io/realchemistry/jobs/5226704008 | Real Chemistry | 21GRAMS- Senior Technology Lead
+- [ ] https://job-boards.greenhouse.io/recast/jobs/5454091008 | Recast | Enterprise Demand Gen Lead
+- [ ] https://job-boards.greenhouse.io/redcellpartners/jobs/5200943007 | Red Cell Partners | Financial Planning and Analysis Manager
+- [ ] https://job-boards.greenhouse.io/pushpay/jobs/7977008 | pushpay | Product Manager 2, Resi
+- [ ] https://job-boards.greenhouse.io/pmg/jobs/8815046002 | PMG | Analytics & Measurement Sr. Lead
+- [ ] https://www.qventus.com/company/working-qventus/job?gh_jid=4418264009 | qventus | Principal Product Manager 
+- [ ] https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4717125006 | paretocaptiveservicesllc | Data Manager
+- [ ] https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4708963006 | paretocaptiveservicesllc | Lead Data Scientist
+- [ ] https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4717202006 | paretocaptiveservicesllc | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/particle41llc/jobs/4968003008 | Particle41 | Data Consultant
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8527131002?gh_jid=8527131002 | pathrobotics | Senior Machine Learning Engineer (Tech Lead), Robot Learning, Loco- Manipulation
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6182599004 | Pathward, N.A. | Analyst – Case Operations
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6186507004 | Pathward, N.A. | Credit Portfolio Analyst II (Structured Finance)
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6185752004 | Pathward, N.A. | Fraud Risk Management & Operations (FRMO) Analyst I
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6193631004 | Pathward, N.A. | Fraud Risk Management and Operations Manager
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6173518004 | Pathward, N.A. | Manager, BSA/AML Operations – Alerts (Alert Operations)
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6173734004 | Pathward, N.A. | Manager, BSA/AML Operations – Cases (Case Operations)
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6196263004 | Pathward, N.A. | Manager, Complex Investigations Unit, BSA/AML & Sanctions Operations
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6167208004 | Pathward, N.A. | Manager, Sanctions Operations — BSA/AML & Sanctions Operations
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6173719004 | Pathward, N.A. | Manager, SAR Filing — BSA/AML & Sanctions Operations
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6167361004 | Pathward, N.A. | Senior Analyst, Quality Control — BSA/AML & Sanctions Operations
+- [ ] https://job-boards.greenhouse.io/paxlabs/jobs/8214347 | PAX Labs | IT Solution Delivery Manager
+- [ ] https://job-boards.greenhouse.io/pearceservices/jobs/5393427008 | pearceservices | Lead BESS Technician
+- [ ] https://job-boards.greenhouse.io/pearceservices/jobs/5455972008 | pearceservices | Solar O&M BESS Technician (Operations and Maintenance)
+- [ ] https://job-boards.greenhouse.io/pipe17/jobs/4607651005 | pipe17 | LATAM E-Commerce Operations Analyst
+- [ ] https://job-boards.greenhouse.io/pliancy/jobs/4707668005 | pliancy | IT Consultant (Austin)
+- [ ] https://job-boards.eu.greenhouse.io/plos/jobs/4986729101 | plos | Peer Review Operations Specialist -2 Year FTC
+- [ ] https://job-boards.greenhouse.io/pluckershomeoffice/jobs/5247054007 | Pluckers Wing Bar - Corporate | IT Manager
+- [ ] https://job-boards.greenhouse.io/pmg/jobs/8594719002 | PMG | Graduate Leadership Program - Creative Technologist
+- [ ] https://job-boards.greenhouse.io/podium81/jobs/8279048 | Podium | Tech Lead, Site Reliability
+- [ ] https://job-boards.greenhouse.io/postpartumsupportinternational/jobs/4434774009 | postpartumsupportinternational | Manager, Workforce Operations and Service Delivery
+- [ ] https://pqshield.com/careers/apply/4998291101?gh_jid=4998291101 | pqshield | Revenue Operations Manager
+- [ ] https://app.careerpuck.com/job-board/prenuvo/job/4731966005?gh_jid=4731966005 | prenuvo | Senior MarTech Manager
+- [ ] https://www.proofserve.com/careers/4730999005?gh_jid=4730999005 | Proof | Operations Service Specialist (Remote)
+- [ ] https://job-boards.greenhouse.io/prospectus/jobs/4387620009 | prospectus | Access Manager Pharmacy Technician: CPhT License Req'd, VOB, PAs
+- [ ] https://job-boards.greenhouse.io/prosperhealth/jobs/5130786007 | Prosper Health | Strategy & Operations Lead, People 
+- [ ] https://job-boards.greenhouse.io/pushpay/jobs/8287666 | pushpay | Data Migration Specialist, Catholic
+- [ ] https://job-boards.greenhouse.io/qualia/jobs/7902013 | Qualia | Engineering Manager, Application Security
+- [ ] https://job-boards.greenhouse.io/qualia/jobs/8092181 | Qualia | Engineering Manager, Information Security
+- [ ] https://www.qualtrics.com/careers/us/en/job/8156899?gh_jid=8156899 | qualtrics | New Logo Sales Leader - Non Profit Vertical
+- [ ] https://www.qualtrics.com/careers/us/en/job/8278548?gh_jid=8278548 | qualtrics | Senior Analyst, Digital Marketing - Email Marketing
+- [ ] https://job-boards.greenhouse.io/quince/jobs/5416497008 | Quince | Senior Manager, Global Procurement (Bags and Accessories)
+- [ ] https://job-boards.greenhouse.io/quince/jobs/5416498008 | Quince | Senior Manager, Global Procurement (Hard Home)
+- [ ] https://job-boards.greenhouse.io/quince/jobs/5443522008 | Quince | Senior Manager, Global Procurement (Materials)
+- [ ] https://job-boards.greenhouse.io/quince/jobs/5416499008 | Quince | Senior Manager, Global Procurement (Soft Home - Bedding)
+- [ ] https://www.qventus.com/company/working-qventus/job?gh_jid=4340266009 | qventus | Product Operations Lead
+- [ ] https://job-boards.greenhouse.io/radiclehealth/jobs/5261553007 | Radicle Health | Manager, Customer Success (Scaled & Digital)
+- [ ] https://job-boards.greenhouse.io/rcxsports/jobs/5434944008 | RCX Sports | Senior Revenue Operations Specialist
+- [ ] https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4644938005 | Re:Build Manufacturing | IT / OT  Infrastructure Manager 
+- [ ] https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4684278005 | Re:Build Manufacturing | IT Security Analyst 
+- [ ] https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4739637005 | Re:Build Manufacturing | Talent Operations Manager
+- [ ] https://job-boards.greenhouse.io/realchemistry/jobs/5415849008 | Real Chemistry | Procurement, Growth & Strategic Relationships Lead
+- [ ] https://job-boards.greenhouse.io/redwoodsoftware/jobs/4388510009 | Redwood Software | Sales Operations Manager
+- [ ] https://job-boards.greenhouse.io/reflex/jobs/5384841008 | reflex | Operations Support Specialist
+- [ ] https://job-boards.greenhouse.io/penninteractive/jobs/6194226004 | Penn Interactive | Director, Product Management, Growth Platforms
+- [ ] https://app.careerpuck.com/job-board/prenuvo/job/4725308005?gh_jid=4725308005 | prenuvo | Director of Product Management, Clinical Data & Integrations
+- [ ] https://job-boards.greenhouse.io/realchemistry/jobs/5424639008 | Real Chemistry | Director, Technical Products and Operations
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6190086004 | Pathward, N.A. | Business Risk Program Director (Commercial Credit Advisor)
+- [ ] https://job-boards.greenhouse.io/pathward/jobs/6185746004 | Pathward, N.A. | Program Director, Fraud Operations, Investigations & Intelligence
+- [ ] https://job-boards.greenhouse.io/pingidentity/jobs/8652254002 | Ping Identity | Director, Partner Programs, Enablement, and Operations
+- [ ] https://job-boards.greenhouse.io/pmg/jobs/8853188002 | PMG | Creative Technologist Lead
+- [ ] https://job-boards.greenhouse.io/pmg/jobs/8815057002 | PMG | Customer Operations Lead, Media Execution Project Management
+- [ ] https://job-boards.greenhouse.io/pmg/jobs/8747977002 | PMG | Digital Project Management Lead
+- [ ] https://app.careerpuck.com/job-board/prenuvo/job/4740988005?gh_jid=4740988005 | prenuvo | Operations Director, Biomarker Programs
+- [ ] https://www.qualtrics.com/careers/us/en/job/8268446?gh_jid=8268446 | qualtrics | Principal Analyst, Revenue Operations Strategy
+- [ ] https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4742926005 | Re:Build Manufacturing | Chief of Staff, Digital & Product
