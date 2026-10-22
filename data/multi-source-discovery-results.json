@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T09:45:41.346Z",
+  "generated_at": "2026-10-22T09:45:09.297Z",
   "priority_company_count": 354,
   "discovery_model": "parallel_union",
   "note": "This run records operational source evidence only; pending sources have not yet been queried by dedicated connectors.",
@@ -639,8 +639,8 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 3
         },
         "official_careers": {
           "status": "pending",
@@ -1389,8 +1389,8 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 116
         },
         "official_careers": {
           "status": "pending",
@@ -1959,8 +1959,8 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 10
         },
         "official_careers": {
           "status": "pending",
@@ -2019,8 +2019,8 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 97
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -2049,7 +2049,7 @@
       "group": "tech",
       "sources": {
         "official_ats": {
-          "status": "attempted_no_new_candidates",
+          "status": "pending",
           "jobs_discovered": 0
         },
         "official_careers": {
@@ -3790,7 +3790,7 @@
       "sources": {
         "official_ats": {
           "status": "discovered",
-          "jobs_discovered": 2
+          "jobs_discovered": 3
         },
         "official_careers": {
           "status": "pending",
@@ -3849,8 +3849,8 @@
       "group": "industrial",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 1023
         },
         "official_careers": {
           "status": "pending",
@@ -4719,8 +4719,8 @@
       "group": "supply_chain",
       "sources": {
         "official_ats": {
-          "status": "discovered",
-          "jobs_discovered": 1
+          "status": "pending",
+          "jobs_discovered": 0
         },
         "official_careers": {
           "status": "pending",
@@ -10209,8 +10209,8 @@
       "group": "finance_health_local",
       "sources": {
         "official_ats": {
-          "status": "pending",
-          "jobs_discovered": 0
+          "status": "discovered",
+          "jobs_discovered": 29
         },
         "official_careers": {
           "status": "pending",

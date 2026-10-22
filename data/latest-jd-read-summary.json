@@ -1,13 +1,15 @@
 {
-  "generated_at": "2026-10-21T09:45:45.541Z",
-  "attempted": 40,
+  "generated_at": "2026-10-22T09:45:36.734Z",
+  "attempted": 13,
   "status_counts": {
-    "failed": 40
+    "failed": 12,
+    "full": 1
   },
-  "full_jd_verified": 0,
+  "full_jd_verified": 1,
   "relevance_counts": {
-    "unscored": 40
+    "unscored": 12,
+    "medium": 1
   },
   "level_hard_negative": 0,
-  "fit_scoring_eligible": 0
+  "fit_scoring_eligible": 1
 }
